@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -667331979, guid: 67dfb1fdfb2b407222eda8e23ac8b724, type: 3}
+  m_Name: Itim_35_outlineF
+  m_EditorClassIdentifier:
+  hashCode: 685145081
+  material: {fileID: 2100000, guid: bae1f2460a8cd5c40a2dd5dd0b6bbc53, type: 2}
+  materialHashCode: 42230201
+  m_Version: 1.1.0
+  m_SourceFontFileGUID: bf694be0ecf87944ebecac4d20eef55f
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 0
+  m_FaceInfo:
+    m_FaceIndex: 0
+    m_FamilyName: Itim
+    m_StyleName: Regular
+    m_PointSize: 35
+    m_Scale: 1
+    m_LineHeight: 42
+    m_AscentLine: 33.25
+    m_CapLine: 22
+    m_MeanLine: 15
+    m_Baseline: 0
+    m_DescentLine: -8.75
+    m_SuperscriptOffset: 33.25
+    m_SuperscriptSize: 0.5
+    m_SubscriptOffset: -8.75
+    m_SubscriptSize: 0.5
+    m_UnderlineOffset: -3.5
+    m_UnderlineThickness: 1.75
+    m_StrikethroughOffset: 6
+    m_StrikethroughThickness: 1.75
+    m_TabWidth: 8
+  m_GlyphTable:
+  - m_Index: 90
+    m_Metrics:
+      m_Width: 11
+      m_Height: 29
+      m_HorizontalBearingX: 1
+      m_HorizontalBearingY: 29
+      m_HorizontalAdvance: 13
+    m_GlyphRect:
+      m_X: 50
+      m_Y: 3
+      m_Width: 11
+      m_Height: 29
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 170
+    m_Metrics:
+      m_Width: 18
+      m_Height: 30
+      m_HorizontalBearingX: 1
+      m_HorizontalBearingY: 22
+      m_HorizontalAdvance: 20
+    m_GlyphRect:
+      m_X: 3
+      m_Y: 3
+      m_Width: 18
+      m_Height: 30
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 365
+    m_Metrics:
+      m_Width: 17
+      m_Height: 29
+      m_HorizontalBearingX: 1
+      m_HorizontalBearingY: 21
+      m_HorizontalAdvance: 18
+    m_GlyphRect:
+      m_X: 27
+      m_Y: 3
+      m_Width: 17
+      m_Height: 29
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 377
+    m_Metrics:
+      m_Width: 5
+      m_Height: 15
+      m_HorizontalBearingX: 2
+      m_HorizontalBearingY: 15
+      m_HorizontalAdvance: 9
+    m_GlyphRect:
+      m_X: 3
+      m_Y: 39
+      m_Width: 5
+      m_Height: 15
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 465
+    m_Metrics:
+      m_Width: 14
+      m_Height: 23
+      m_HorizontalBearingX: 1
+      m_HorizontalBearingY: 15
+      m_HorizontalAdvance: 16
+    m_GlyphRect:
+      m_X: 27
+      m_Y: 38
+      m_Width: 14
+      m_Height: 23
+    m_Scale: 1
+    m_AtlasIndex: 0
+  m_CharacterTable:
+  - m_ElementType: 1
+    m_Unicode: 287
+    m_GlyphIndex: 365
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 304
+    m_GlyphIndex: 90
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 305
+    m_GlyphIndex: 377
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 350
+    m_GlyphIndex: 170
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 351
+    m_GlyphIndex: 465
+    m_Scale: 1
+  m_AtlasTextures:
+  - {fileID: 2800000, guid: c6fb864034d38c64a8e099b1007f455b, type: 3}
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
+  m_ClearDynamicDataOnBuild: 0
+  m_UsedGlyphRects:
+  - m_X: 0
+    m_Y: 0
+    m_Width: 24
+    m_Height: 36
+  - m_X: 24
+    m_Y: 0
+    m_Width: 23
+    m_Height: 35
+  - m_X: 47
+    m_Y: 0
+    m_Width: 17
+    m_Height: 35
+  - m_X: 24
+    m_Y: 35
+    m_Width: 20
+    m_Height: 29
+  - m_X: 0
+    m_Y: 36
+    m_Width: 11
+    m_Height: 21
+  m_FreeGlyphRects:
+  - m_X: 44
+    m_Y: 35
+    m_Width: 20
+    m_Height: 29
+  - m_X: 0
+    m_Y: 57
+    m_Width: 24
+    m_Height: 7
+  - m_X: 11
+    m_Y: 36
+    m_Width: 13
+    m_Height: 28
+  m_fontInfo:
+    Name:
+    PointSize: 0
+    Scale: 0
+    CharacterCount: 0
+    LineHeight: 0
+    Baseline: 0
+    Ascender: 0
+    CapHeight: 0
+    Descender: 0
+    CenterLine: 0
+    SuperscriptOffset: 0
+    SubscriptOffset: 0
+    SubSize: 0
+    Underline: 0
+    UnderlineThickness: 0
+    strikethrough: 0
+    strikethroughThickness: 0
+    TabWidth: 0
+    Padding: 0
+    AtlasWidth: 0
+    AtlasHeight: 0
+  atlas: {fileID: 0}
+  m_AtlasWidth: 64
+  m_AtlasHeight: 64
+  m_AtlasPadding: 3
+  m_AtlasRenderMode: 4121
+  m_glyphInfoList: []
+  m_KerningTable:
+    kerningPairs: []
+  m_FontFeatureTable:
+    m_GlyphPairAdjustmentRecords: []
+  fallbackFontAssets: []
+  m_FallbackFontAssetTable: []
+  m_CreationSettings:
+    sourceFontFileName:
+    sourceFontFileGUID: bf694be0ecf87944ebecac4d20eef55f
+    pointSizeSamplingMode: 1
+    pointSize: 35
+    padding: 3
+    packingMode: 4
+    atlasWidth: 64
+    atlasHeight: 64
+    characterSetSelectionMode: 7
+    characterSequence: İşığŞ
+    referencedFontAssetGUID: 565b9c6d45fc0074aa20794f6f0b439b
+    referencedTextAssetGUID:
+    fontStyle: 0
+    fontStyleModifier: 0
+    renderMode: 4121
+    includeFontFeatures: 0
+  m_FontWeightTable:
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  fontWeights: []
+  normalStyle: 0
+  normalSpacingOffset: 0
+  boldStyle: 0.75
+  boldSpacing: 7
+  italicStyle: 35
+  tabSize: 10

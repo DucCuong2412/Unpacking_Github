@@ -1,0 +1,4835 @@
+fileFormatVersion: 2
+guid: c38b185e9a03cfa438a139feb8dcab6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BoxMidPartner_Foldup1
+  - first:
+      213: 21300002
+    second: BoxMid_Opening6
+  - first:
+      213: 21300004
+    second: BoxBig_Foldup1
+  - first:
+      213: 21300006
+    second: BoxMid_Foldup_Flipped3
+  - first:
+      213: 21300008
+    second: BoxMid_Foldup4
+  - first:
+      213: 21300010
+    second: BoxMidPartner_Opening_Flipped3
+  - first:
+      213: 21300012
+    second: BoxBig_Opening_Flipped2
+  - first:
+      213: 21300014
+    second: BoxBig_Opening8
+  - first:
+      213: 21300016
+    second: BoxBig_Open_Flipped
+  - first:
+      213: 21300018
+    second: BoxMidPartner_Foldup6
+  - first:
+      213: 21300020
+    second: BoxMidPartner_Foldup_Flipped4
+  - first:
+      213: 21300022
+    second: BoxMid_Opening_Flipped7
+  - first:
+      213: 21300024
+    second: BoxBig_Foldup_Flipped6
+  - first:
+      213: 21300026
+    second: BoxBig_Opening_Flipped8
+  - first:
+      213: 21300028
+    second: BodyTowelPurple_Bar
+  - first:
+      213: 21300030
+    second: BoxBig_Opening_Flipped6
+  - first:
+      213: 21300032
+    second: BoxComputer_FoldUp5
+  - first:
+      213: 21300034
+    second: FramedDrawingHorse_Shadow
+  - first:
+      213: 21300036
+    second: BoxMid_Opening_Flipped6
+  - first:
+      213: 21300038
+    second: BoxMid_Opening_Flipped3
+  - first:
+      213: 21300040
+    second: BoxMidPartner_Opening3
+  - first:
+      213: 21300042
+    second: BoxBig_Foldup_Flipped7
+  - first:
+      213: 21300044
+    second: BoxMid_Foldup2
+  - first:
+      213: 21300046
+    second: BoxMidPartner_Opening_Flipped4
+  - first:
+      213: 21300048
+    second: CassettePlayer
+  - first:
+      213: 21300050
+    second: BoxMidPartner_Foldup5
+  - first:
+      213: 21300052
+    second: BoxBig_Foldup4
+  - first:
+      213: 21300054
+    second: BoxBig_Foldup3
+  - first:
+      213: 21300056
+    second: BoxBig_Opening7
+  - first:
+      213: 21300058
+    second: BoxBig_Opening2
+  - first:
+      213: 21300060
+    second: BoxMid_Opening4
+  - first:
+      213: 21300062
+    second: BoxBig_Foldup_Flipped8
+  - first:
+      213: 21300064
+    second: BoxMid_Foldup_Flipped2
+  - first:
+      213: 21300066
+    second: BoxBig_Opening4
+  - first:
+      213: 21300068
+    second: BoxMidPartner_Opening6
+  - first:
+      213: 21300070
+    second: BoxMid_Opening3
+  - first:
+      213: 21300072
+    second: BoxMidPartner_Foldup2
+  - first:
+      213: 21300074
+    second: BoxMid_Opening5
+  - first:
+      213: 21300076
+    second: BoxBig_Foldup_Flipped2
+  - first:
+      213: 21300078
+    second: BoxBig_Open
+  - first:
+      213: 21300080
+    second: BoxMid_Opening_Flipped4
+  - first:
+      213: 21300082
+    second: BookBagDenim_Flipped
+  - first:
+      213: 21300084
+    second: BoxMidPartner_Foldup_Flipped3
+  - first:
+      213: 21300086
+    second: CassettePlayer_Flipped_On
+  - first:
+      213: 21300088
+    second: BoxBig_Closed
+  - first:
+      213: 21300090
+    second: BoxMidPartner_Foldup3
+  - first:
+      213: 21300092
+    second: BoxMidPartner_Foldup8
+  - first:
+      213: 21300094
+    second: BoxMidPartner_Opening7
+  - first:
+      213: 21300096
+    second: KeyboardOld
+  - first:
+      213: 21300098
+    second: BoxMidPartner_Foldup4
+  - first:
+      213: 21300100
+    second: BoxBig_Foldup_Flipped4
+  - first:
+      213: 21300102
+    second: BoxComputer_FoldUp3
+  - first:
+      213: 21300104
+    second: BoxBig_Foldup6
+  - first:
+      213: 21300106
+    second: BoxComputer_FoldUp4
+  - first:
+      213: 21300108
+    second: BoxBig_Opening_Flipped7
+  - first:
+      213: 21300110
+    second: BoxBig_Foldup_Flipped5
+  - first:
+      213: 21300112
+    second: BoxMid_Foldup5
+  - first:
+      213: 21300114
+    second: BoxMidPartner_Foldup_Flipped6
+  - first:
+      213: 21300116
+    second: PlushDragon
+  - first:
+      213: 21300118
+    second: BoxBig_Opening3
+  - first:
+      213: 21300120
+    second: BoxMidPartner_Foldup_Flipped1
+  - first:
+      213: 21300122
+    second: BoxBig_Opening_Flipped4
+  - first:
+      213: 21300124
+    second: BoxBig_Opening5
+  - first:
+      213: 21300126
+    second: BoxMid_Foldup6
+  - first:
+      213: 21300128
+    second: BoxComputer_FoldUp6
+  - first:
+      213: 21300130
+    second: BoxMid_Foldup_Flipped6
+  - first:
+      213: 21300132
+    second: BoxBig_Foldup_Flipped3
+  - first:
+      213: 21300134
+    second: BoxMidPartner_Opening_Flipped6
+  - first:
+      213: 21300136
+    second: BoxMid_Foldup1
+  - first:
+      213: 21300138
+    second: BoxMid_Foldup_Flipped1
+  - first:
+      213: 21300140
+    second: BoxMidPartner_Opening5
+  - first:
+      213: 21300142
+    second: BoxBig_Opening_Flipped3
+  - first:
+      213: 21300144
+    second: BoxComputer_FoldUp2
+  - first:
+      213: 21300146
+    second: BoxBig_Foldup5
+  - first:
+      213: 21300148
+    second: BoxMid_Foldup3
+  - first:
+      213: 21300150
+    second: BoxBig_Opening1
+  - first:
+      213: 21300152
+    second: FramedDrawingHorse
+  - first:
+      213: 21300154
+    second: BoxMidPartner_Foldup_Flipped5
+  - first:
+      213: 21300156
+    second: BoxMid_Foldup_Flipped4
+  - first:
+      213: 21300158
+    second: BoxMid_Opening7
+  - first:
+      213: 21300160
+    second: BoxBig_Foldup2
+  - first:
+      213: 21300162
+    second: BoxMid_Foldup_Flipped5
+  - first:
+      213: 21300164
+    second: BoxBig_Opening6
+  - first:
+      213: 21300166
+    second: BoxMidPartner_Opening4
+  - first:
+      213: 21300168
+    second: BoxMidPartner_Opening_Flipped7
+  - first:
+      213: 21300170
+    second: BoxMid_Foldup8
+  - first:
+      213: 21300172
+    second: BoxMid_Opening_Flipped5
+  - first:
+      213: 21300174
+    second: BoxComputer_Opening4
+  - first:
+      213: 21300176
+    second: BoxBig_Closed_Flipped
+  - first:
+      213: 21300178
+    second: BoxMidPartner_Foldup_Flipped2
+  - first:
+      213: 21300180
+    second: CassettePlayer_Flipped
+  - first:
+      213: 21300182
+    second: BoxBig_Opening_Flipped5
+  - first:
+      213: 21300184
+    second: BoxBig_Foldup_Flipped1
+  - first:
+      213: 21300186
+    second: BoxMidPartner_Opening_Flipped5
+  - first:
+      213: 21300188
+    second: BoxBig_Foldup7
+  - first:
+      213: 21300190
+    second: FramedDrawingFoxGirl_Shadow
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup1
+      rect:
+        serializedVersion: 2
+        x: 1556.0762
+        y: 1700.0762
+        width: 182.84775
+        height: 156.89713
+      alignment: 9
+      pivot: {x: 0.3109022, y: -0.24635401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.576126, y: -127.60081}
+        - {x: -123.576126, y: -70.60081}
+        - {x: -123.576126, y: -15.600815}
+        - {x: -111.576126, y: -9.600807}
+        - {x: -39.576122, y: 29.3992}
+        - {x: -4.576124, y: 29.3992}
+        - {x: 59.423878, y: -11.600807}
+        - {x: 59.423878, y: -92.60081}
+        - {x: -9.576122, y: -127.60081}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80abcd192184c6f924e3765b1294c1b
+      internalID: 21300000
+      vertices:
+      - {x: 121.42386, y: 224.94856}
+      - {x: 185.42386, y: 102.948555}
+      - {x: 185.42386, y: 183.94855}
+      - {x: 116.42386, y: 67.948555}
+      - {x: 86.42386, y: 224.94856}
+      - {x: 34.42386, y: 67.948555}
+      - {x: 14.423859, y: 185.94855}
+      - {x: 2.4238586, y: 179.94855}
+      - {x: 2.4238586, y: 124.948555}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening6
+      rect:
+        serializedVersion: 2
+        x: 425.0761
+        y: 969.02673
+        width: 185.84775
+        height: 182.94577
+      alignment: 9
+      pivot: {x: 0.33816803, y: -0.24353394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.07611, y: -124.5264}
+        - {x: -122.07611, y: -93.5264}
+        - {x: -122.07611, y: -16.52639}
+        - {x: -11.076107, y: 39.473602}
+        - {x: -0.07610512, y: 39.473602}
+        - {x: 63.923893, y: 9.473602}
+        - {x: 63.923893, y: -78.5264}
+        - {x: 53.923893, y: -102.5264}
+        - {x: -27.076107, y: -143.5264}
+        - {x: -40.076107, y: -143.5264}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb06b400ed942a680e13fc8ed1c933d
+      internalID: 21300002
+      vertices:
+      - {x: 186.92387, y: 236.97289}
+      - {x: 176.92387, y: 124.972885}
+      - {x: 186.92387, y: 148.97289}
+      - {x: 122.923874, y: 266.9729}
+      - {x: 111.923874, y: 266.9729}
+      - {x: 95.923874, y: 83.972885}
+      - {x: 82.923874, y: 83.972885}
+      - {x: 7.923874, y: 102.972885}
+      - {x: 0.9238739, y: 210.9729}
+      - {x: 0.9238739, y: 133.97289}
+      indices: 090000000800000007000000040000000700000008000000060000000700000004000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup1
+      rect:
+        serializedVersion: 2
+        x: 1322.0762
+        y: 977.0762
+        width: 182.84775
+        height: 189.89713
+      alignment: 9
+      pivot: {x: 0.31090212, y: -0.37205532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.576126, y: -176.1008}
+        - {x: -123.576126, y: -157.1008}
+        - {x: -123.576126, y: -31.1008}
+        - {x: -119.576126, y: -16.1008}
+        - {x: -29.576122, y: 13.8992}
+        - {x: -14.576122, y: 13.8992}
+        - {x: 55.423878, y: -23.1008}
+        - {x: 59.423878, y: -43.1008}
+        - {x: 59.423878, y: -78.1008}
+        - {x: 48.423878, y: -132.1008}
+        - {x: -3.5761223, y: -176.1008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bca650df0d435f9ea2bb9cfabed092
+      internalID: 21300004
+      vertices:
+      - {x: 181.42387, y: 237.44856}
+      - {x: 185.42387, y: 182.44856}
+      - {x: 185.42387, y: 217.44856}
+      - {x: 174.42387, y: 128.44856}
+      - {x: 122.423874, y: 84.44856}
+      - {x: 111.423874, y: 274.44855}
+      - {x: 96.423874, y: 274.44855}
+      - {x: 45.423874, y: 84.44856}
+      - {x: 6.423874, y: 244.44856}
+      - {x: 2.423874, y: 229.44856}
+      - {x: 2.423874, y: 103.44856}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000040000000700000006000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup_Flipped3
+      rect:
+        serializedVersion: 2
+        x: 392.0761
+        y: 0.026750565
+        width: 201.84775
+        height: 222.9465
+      alignment: 9
+      pivot: {x: 0.36090454, y: 0.105166525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.07612, y: 22.473251}
+        - {x: -132.07613, y: 45.47326}
+        - {x: -132.07613, y: 53.47326}
+        - {x: -82.07612, y: 93.47326}
+        - {x: -10.076118, y: 93.47326}
+        - {x: 45.92388, y: 52.47326}
+        - {x: 67.92388, y: 9.473251}
+        - {x: 69.92388, y: 5.4732513}
+        - {x: 69.92388, y: -1.5267487}
+        - {x: 39.92388, y: -99.52675}
+        - {x: -7.0761185, y: -129.52675}
+        - {x: -28.076118, y: -129.52675}
+        - {x: -115.07612, y: -93.52675}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547d3039e0d465e9decb9fe426b1bc5
+      internalID: 21300006
+      vertices:
+      - {x: 196.92386, y: 208.97324}
+      - {x: 198.92386, y: 197.97324}
+      - {x: 198.92386, y: 204.97324}
+      - {x: 174.92386, y: 251.97325}
+      - {x: 168.92386, y: 99.97324}
+      - {x: 121.92386, y: 69.97324}
+      - {x: 118.92386, y: 292.97327}
+      - {x: 100.92386, y: 69.97324}
+      - {x: 46.92386, y: 292.97327}
+      - {x: 13.923859, y: 105.97324}
+      - {x: 12.923859, y: 221.97324}
+      - {x: -3.076149, y: 252.97325}
+      - {x: -3.076149, y: 244.97325}
+      indices: 0c0000000b0000000a000000080000000a0000000b000000090000000a00000008000000070000000900000008000000060000000700000008000000050000000700000006000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup4
+      rect:
+        serializedVersion: 2
+        x: 1698.0762
+        y: 574.0429
+        width: 173.84775
+        height: 218.91418
+      alignment: 9
+      pivot: {x: 0.22345847, y: 0.1435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.076122, y: -123.54291}
+        - {x: -128.07613, y: -97.54291}
+        - {x: -128.07613, y: 60.457092}
+        - {x: -125.076126, y: 61.457092}
+        - {x: -44.076122, y: 95.45709}
+        - {x: -38.076122, y: 95.45709}
+        - {x: -31.076122, y: 91.45709}
+        - {x: -28.076122, y: 94.45709}
+        - {x: -22.076122, y: 94.45709}
+        - {x: 45.923878, y: 70.45709}
+        - {x: 45.923878, y: -93.54291}
+        - {x: -28.076122, y: -123.54291}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1068791d45594dada242858cf5bf6b58
+      internalID: 21300008
+      vertices:
+      - {x: 112.923874, y: 281.9571}
+      - {x: 180.92387, y: 93.95709}
+      - {x: 180.92387, y: 257.9571}
+      - {x: 106.923874, y: 281.9571}
+      - {x: 106.923874, y: 63.957092}
+      - {x: 103.923874, y: 278.9571}
+      - {x: 96.923874, y: 282.9571}
+      - {x: 90.923874, y: 282.9571}
+      - {x: 76.923874, y: 63.957092}
+      - {x: 9.923874, y: 248.95709}
+      - {x: 6.923874, y: 247.95709}
+      - {x: 6.923874, y: 89.95709}
+      indices: 0b0000000a0000000800000009000000080000000a000000070000000800000009000000040000000800000007000000060000000400000007000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening_Flipped3
+      rect:
+        serializedVersion: 2
+        x: 1506.0762
+        y: 1026.0267
+        width: 180.89713
+        height: 172.9465
+      alignment: 9
+      pivot: {x: 0.48009485, y: -0.2576143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.6008, y: -97.52676}
+        - {x: -114.6008, y: -46.526756}
+        - {x: -114.6008, y: 13.473251}
+        - {x: -82.6008, y: 34.47325}
+        - {x: 19.3992, y: 34.47325}
+        - {x: 66.3992, y: -9.526756}
+        - {x: 66.3992, y: -94.52676}
+        - {x: 65.3992, y: -104.52676}
+        - {x: -2.6007996, y: -138.52676}
+        - {x: -6.6007996, y: -138.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43868b76087441aea6e42243bd5e49f4
+      internalID: 21300010
+      vertices:
+      - {x: 160.44855, y: 207.97324}
+      - {x: 159.44855, y: 112.97324}
+      - {x: 160.44855, y: 122.97324}
+      - {x: 113.44855, y: 251.97325}
+      - {x: 91.44855, y: 78.97324}
+      - {x: 87.44855, y: 78.97324}
+      - {x: 11.448547, y: 251.97325}
+      - {x: 6.4485474, y: 119.97324}
+      - {x: -20.551453, y: 230.97325}
+      - {x: -20.551453, y: 170.97324}
+      indices: 090000000800000007000000060000000700000008000000050000000700000006000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening_Flipped2
+      rect:
+        serializedVersion: 2
+        x: 1751.0267
+        y: 1525.0267
+        width: 153.89713
+        height: 190.89714
+      alignment: 9
+      pivot: {x: 0.22707711, y: -0.4010196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125.00206, y: -137.50208}
+        - {x: -127.00206, y: -109.502075}
+        - {x: -127.00206, y: -9.502075}
+        - {x: -110.00206, y: 11.497925}
+        - {x: -46.002064, y: 11.497925}
+        - {x: 20.99794, y: -28.502075}
+        - {x: 26.997936, y: -35.502075}
+        - {x: 26.997936, y: -145.50208}
+        - {x: -38.002064, y: -179.50208}
+        - {x: -43.002064, y: -179.50208}
+        - {x: -124.00206, y: -140.50208}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68da542e7464a489658598524f1db01
+      internalID: 21300012
+      vertices:
+      - {x: 139.94855, y: 238.94858}
+      - {x: 145.94855, y: 121.94857}
+      - {x: 145.94855, y: 231.94858}
+      - {x: 80.94855, y: 87.94857}
+      - {x: 75.94855, y: 87.94857}
+      - {x: 72.94855, y: 278.94858}
+      - {x: 8.948547, y: 278.94858}
+      - {x: -5.0514526, y: 126.94857}
+      - {x: -6.0514526, y: 129.94858}
+      - {x: -8.051453, y: 257.94858}
+      - {x: -8.051453, y: 157.94858}
+      indices: 0a0000000900000008000000060000000800000009000000070000000800000006000000040000000700000006000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening8
+      rect:
+        serializedVersion: 2
+        x: 1001.0762
+        y: 1169.0267
+        width: 166.84775
+        height: 185.94649
+      alignment: 9
+      pivot: {x: 0.16091168, y: -0.41169637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.576126, y: -143.02673}
+        - {x: -130.57613, y: -101.02673}
+        - {x: -130.57613, y: -30.026733}
+        - {x: -45.576122, y: 8.973267}
+        - {x: -39.576122, y: 8.973267}
+        - {x: 28.423878, y: -26.026733}
+        - {x: 36.423878, y: -44.026733}
+        - {x: 36.423878, y: -69.02673}
+        - {x: 27.423878, y: -136.02673}
+        - {x: -53.576122, y: -177.02673}
+        - {x: -62.576122, y: -177.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71855177d344e7aa8b1d6397607e012
+      internalID: 21300014
+      vertices:
+      - {x: 168.42387, y: 236.47324}
+      - {x: 176.42387, y: 193.47324}
+      - {x: 176.42387, y: 218.47324}
+      - {x: 167.42387, y: 126.47324}
+      - {x: 100.423874, y: 271.47324}
+      - {x: 94.423874, y: 271.47324}
+      - {x: 86.423874, y: 85.47324}
+      - {x: 77.423874, y: 85.47324}
+      - {x: 13.423874, y: 119.47324}
+      - {x: 9.423874, y: 232.47324}
+      - {x: 9.423874, y: 161.47324}
+      indices: 0a0000000900000008000000050000000800000009000000070000000800000005000000060000000700000005000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Open_Flipped
+      rect:
+        serializedVersion: 2
+        x: 1174.0762
+        y: 1218.0267
+        width: 162.84775
+        height: 185.94649
+      alignment: 9
+      pivot: {x: 0.26311547, y: -0.41169637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.57611, y: -137.02673}
+        - {x: -127.57611, y: -103.02673}
+        - {x: -127.57611, y: -33.026733}
+        - {x: -126.57611, y: -24.026733}
+        - {x: -60.576115, y: 8.973267}
+        - {x: -48.576115, y: 8.973267}
+        - {x: 33.423885, y: -31.026733}
+        - {x: 35.423885, y: -48.026733}
+        - {x: 35.423885, y: -90.02673}
+        - {x: 30.423885, y: -143.02673}
+        - {x: -31.576115, y: -177.02673}
+        - {x: -41.576115, y: -177.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f7107209494f47b9576de4e69f5aec
+      internalID: 21300016
+      vertices:
+      - {x: 153.42387, y: 231.47324}
+      - {x: 155.42387, y: 172.47324}
+      - {x: 155.42387, y: 214.47324}
+      - {x: 150.42387, y: 119.47324}
+      - {x: 88.423874, y: 85.47324}
+      - {x: 78.423874, y: 85.47324}
+      - {x: 71.423874, y: 271.47324}
+      - {x: 59.423874, y: 271.47324}
+      - {x: -4.576126, y: 125.47324}
+      - {x: -6.576126, y: 238.47324}
+      - {x: -7.576126, y: 229.47324}
+      - {x: -7.576126, y: 159.47324}
+      indices: 0b0000000a0000000800000009000000080000000a000000070000000800000009000000050000000800000007000000060000000500000007000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup6
+      rect:
+        serializedVersion: 2
+        x: 1569.0762
+        y: 754.0429
+        width: 173.84775
+        height: 218.91418
+      alignment: 9
+      pivot: {x: 0.22345856, y: 0.08868403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.076126, y: -129.54291}
+        - {x: -128.07613, y: -110.54291}
+        - {x: -128.07613, y: 54.4571}
+        - {x: -46.076122, y: 89.4571}
+        - {x: -32.076122, y: 89.4571}
+        - {x: -28.076122, y: 88.4571}
+        - {x: -22.076122, y: 88.4571}
+        - {x: 45.923878, y: 59.4571}
+        - {x: 45.923878, y: -102.54291}
+        - {x: -37.076122, y: -128.54291}
+        - {x: -38.076122, y: -129.54291}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e369d0f6f86411c8b70e98e9485b751
+      internalID: 21300018
+      vertices:
+      - {x: 112.92386, y: 287.9571}
+      - {x: 180.92386, y: 96.957085}
+      - {x: 180.92386, y: 258.9571}
+      - {x: 106.92386, y: 287.9571}
+      - {x: 102.92386, y: 288.9571}
+      - {x: 97.92386, y: 70.957085}
+      - {x: 96.92386, y: 69.957085}
+      - {x: 88.92386, y: 288.9571}
+      - {x: 63.92386, y: 69.957085}
+      - {x: 6.9238586, y: 253.95709}
+      - {x: 6.9238586, y: 88.957085}
+      indices: 0a0000000900000008000000070000000800000009000000060000000800000007000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup_Flipped4
+      rect:
+        serializedVersion: 2
+        x: 1522.0762
+        y: 537.02673
+        width: 173.84775
+        height: 218.93034
+      alignment: 9
+      pivot: {x: 0.30398878, y: 0.14363705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.076122, y: -123.51867}
+        - {x: -128.07613, y: -87.51867}
+        - {x: -128.07613, y: 68.48134}
+        - {x: -58.076122, y: 95.48134}
+        - {x: -38.076122, y: 95.48134}
+        - {x: 45.923878, y: 60.48134}
+        - {x: 45.923878, y: -96.51867}
+        - {x: -12.076122, y: -85.51867}
+        - {x: -33.076122, y: -122.51867}
+        - {x: -36.076122, y: -123.51867}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f07e9fc5704c8897077a61f7ca95f2
+      internalID: 21300020
+      vertices:
+      - {x: 166.92386, y: 247.96518}
+      - {x: 108.92386, y: 101.965164}
+      - {x: 166.92386, y: 90.965164}
+      - {x: 87.92386, y: 64.965164}
+      - {x: 84.92386, y: 63.965164}
+      - {x: 82.92386, y: 282.96518}
+      - {x: 77.92386, y: 63.965164}
+      - {x: 62.92386, y: 282.96518}
+      - {x: -7.0761414, y: 255.96518}
+      - {x: -7.0761414, y: 99.965164}
+      indices: 090000000800000006000000070000000600000008000000050000000600000007000000040000000600000005000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening_Flipped7
+      rect:
+        serializedVersion: 2
+        x: 953.0761
+        y: 1555.0267
+        width: 187.84775
+        height: 158.94577
+      alignment: 9
+      pivot: {x: 0.44103688, y: -0.28030628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.07611, y: -12.52639}
+        - {x: -120.0761, y: -9.526382}
+        - {x: -120.0761, y: -4.52639}
+        - {x: -56.076103, y: 27.473618}
+        - {x: -48.076103, y: 27.473618}
+        - {x: -22.076103, y: 22.473618}
+        - {x: 58.923897, y: -12.52639}
+        - {x: 67.9239, y: -20.526382}
+        - {x: 67.9239, y: -87.52639}
+        - {x: 20.923897, y: -131.5264}
+        - {x: -44.076103, y: -131.5264}
+        - {x: -94.0761, y: -92.52639}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba83c3156094235bdb88e6b2c1d885a
+      internalID: 21300022
+      vertices:
+      - {x: 163.92386, y: 190.97287}
+      - {x: 172.92386, y: 115.97288}
+      - {x: 172.92386, y: 182.97289}
+      - {x: 125.92386, y: 71.97288}
+      - {x: 82.92386, y: 225.97289}
+      - {x: 60.92386, y: 71.97288}
+      - {x: 56.92386, y: 230.97289}
+      - {x: 48.92386, y: 230.97289}
+      - {x: 10.923859, y: 110.97288}
+      - {x: -10.076149, y: 190.97287}
+      - {x: -15.076141, y: 198.97287}
+      - {x: -15.076141, y: 193.97289}
+      indices: 0b0000000a0000000900000007000000090000000a000000080000000900000007000000050000000800000007000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup_Flipped6
+      rect:
+        serializedVersion: 2
+        x: 702.0761
+        y: 337.02676
+        width: 173.84775
+        height: 251.93034
+      alignment: 9
+      pivot: {x: 0.30398878, y: -0.04982927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.923878, y: -147.01868}
+        - {x: -22.076122, y: -177.01868}
+        - {x: -28.076122, y: -178.01868}
+        - {x: -43.076122, y: -178.01868}
+        - {x: -126.076126, y: -143.01868}
+        - {x: -128.07613, y: -140.01868}
+        - {x: -128.07613, y: -116.01868}
+        - {x: -125.076126, y: 13.981323}
+        - {x: -128.07613, y: 24.981323}
+        - {x: -128.07613, y: 45.981323}
+        - {x: -64.076126, y: 73.98132}
+        - {x: -38.076122, y: 73.98132}
+        - {x: 45.923878, y: 38.981323}
+        - {x: 45.923878, y: 16.981323}
+        - {x: 44.923878, y: 3.9813232}
+        - {x: 42.923878, y: -115.01868}
+        - {x: 45.923878, y: -128.01868}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d3ec91fcaf4d5897b46ec9ce841541
+      internalID: 21300024
+      vertices:
+      - {x: -7.0761414, y: 310.46518}
+      - {x: -4.0761414, y: 278.46518}
+      - {x: 56.92386, y: 338.46518}
+      - {x: -7.0761414, y: 289.46518}
+      - {x: 166.92386, y: 303.46518}
+      - {x: 165.92386, y: 268.46518}
+      - {x: 166.92386, y: 281.46518}
+      - {x: 98.92386, y: 87.46517}
+      - {x: 163.92386, y: 149.46518}
+      - {x: 92.92386, y: 86.46517}
+      - {x: 82.92386, y: 338.46518}
+      - {x: 77.92386, y: 86.46517}
+      - {x: -5.0761414, y: 121.46517}
+      - {x: -7.0761414, y: 148.46518}
+      - {x: -7.0761414, y: 124.46517}
+      - {x: 166.92386, y: 117.46517}
+      - {x: 166.92386, y: 136.46518}
+      indices: 07000000080000000f000000100000000f000000080000000e0000000d0000000c000000010000000c0000000d0000000b0000000c00000001000000020000000b000000010000000a0000000b00000002000000090000000b0000000a00000004000000090000000a000000070000000900000004000000050000000700000004000000080000000700000005000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening_Flipped8
+      rect:
+        serializedVersion: 2
+        x: 1020.0762
+        y: 1349.0267
+        width: 166.84775
+        height: 185.94649
+      alignment: 9
+      pivot: {x: 0.30475548, y: -0.41169637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118.576126, y: -137.02673}
+        - {x: -125.576126, y: -89.02673}
+        - {x: -125.576126, y: -40.026733}
+        - {x: -121.576126, y: -22.026733}
+        - {x: -47.576122, y: 8.973267}
+        - {x: -38.576122, y: 8.973267}
+        - {x: 38.423878, y: -32.026733}
+        - {x: 41.423878, y: -53.026733}
+        - {x: 41.423878, y: -90.02673}
+        - {x: 36.423878, y: -143.02673}
+        - {x: -25.576122, y: -177.02673}
+        - {x: -35.576122, y: -177.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6615ca1a3a52451f86225abadf2191ea
+      internalID: 21300026
+      vertices:
+      - {x: 154.42386, y: 230.47324}
+      - {x: 157.42386, y: 172.47324}
+      - {x: 157.42386, y: 209.47324}
+      - {x: 152.42386, y: 119.47324}
+      - {x: 90.42386, y: 85.47324}
+      - {x: 80.42386, y: 85.47324}
+      - {x: 77.42386, y: 271.47324}
+      - {x: 68.42386, y: 271.47324}
+      - {x: -2.5761414, y: 125.47324}
+      - {x: -5.5761414, y: 240.47324}
+      - {x: -9.576141, y: 222.47324}
+      - {x: -9.576141, y: 173.47324}
+      indices: 0b0000000a0000000800000009000000080000000a000000070000000800000009000000050000000800000007000000060000000500000007000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodyTowelPurple_Bar
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 445
+        width: 57
+        height: 105
+      alignment: 9
+      pivot: {x: 0.71929824, y: 0.7380952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -52.5}
+        - {x: -28.5, y: -39.5}
+        - {x: -28.5, y: 49.5}
+        - {x: -26.5, y: 52.5}
+        - {x: -2.500001, y: 52.5}
+        - {x: 28.5, y: 39.5}
+        - {x: 28.5, y: -14.5}
+        - {x: 21.5, y: -52.5}
+      physicsShape:
+      - - {x: -16.5, y: 52.5}
+        - {x: -24.5, y: 48.5}
+        - {x: -28.5, y: 44.5}
+        - {x: -28.5, y: -32.5}
+        - {x: 11.5, y: -52.5}
+        - {x: 15.5, y: -52.5}
+        - {x: 28.5, y: -46.5}
+        - {x: 28.5, y: 31.5}
+        - {x: -13.5, y: 52.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5dbaf40a840ce92c3d84ef1991d59
+      internalID: 21300028
+      vertices:
+      - {x: 44.5, y: 67}
+      - {x: 37.5, y: -25}
+      - {x: 44.5, y: 13}
+      - {x: 19.5, y: -25}
+      - {x: 13.499999, y: 80}
+      - {x: -10.5, y: 80}
+      - {x: -12.5, y: 77}
+      - {x: -12.5, y: -12}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening_Flipped6
+      rect:
+        serializedVersion: 2
+        x: 1322.0762
+        y: 0.026748657
+        width: 185.84775
+        height: 215.94576
+      alignment: 9
+      pivot: {x: 0.2843605, y: -0.35450336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.076126, y: -151.02637}
+        - {x: -134.07613, y: -101.02637}
+        - {x: -134.07613, y: -6.026367}
+        - {x: -72.076126, y: 23.973633}
+        - {x: -66.076126, y: 23.973633}
+        - {x: -62.07613, y: 21.973633}
+        - {x: 51.92387, y: -54.026367}
+        - {x: 51.92387, y: -95.02637}
+        - {x: 28.92387, y: -158.02637}
+        - {x: -39.07613, y: -192.02637}
+        - {x: -44.07613, y: -192.02637}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7125366434945418c0d0c2992874bff
+      internalID: 21300030
+      vertices:
+      - {x: 184.92386, y: 238.47287}
+      - {x: 161.92386, y: 134.47287}
+      - {x: 184.92386, y: 197.47287}
+      - {x: 93.92386, y: 100.47288}
+      - {x: 88.92386, y: 100.47288}
+      - {x: 70.92386, y: 314.47287}
+      - {x: 66.92386, y: 316.47287}
+      - {x: 60.92386, y: 316.47287}
+      - {x: 8.923859, y: 141.47287}
+      - {x: -1.0761414, y: 286.47287}
+      - {x: -1.0761414, y: 191.47287}
+      indices: 0a0000000900000008000000070000000800000009000000040000000800000007000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxComputer_FoldUp5
+      rect:
+        serializedVersion: 2
+        x: 816.0761
+        y: 1680.0762
+        width: 159.84775
+        height: 190.84775
+      alignment: 9
+      pivot: {x: 0.055351213, y: -0.06629492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.076126, y: -128.57611}
+        - {x: -138.07613, y: -124.57612}
+        - {x: -138.07613, y: -1.5761185}
+        - {x: -137.07613, y: 6.423889}
+        - {x: -138.07613, y: 9.423882}
+        - {x: -138.07613, y: 28.42389}
+        - {x: -51.076126, y: 58.42389}
+        - {x: -19.076126, y: 58.42389}
+        - {x: 21.923874, y: 46.42389}
+        - {x: 21.923874, y: -103.57612}
+        - {x: -70.076126, y: -132.57611}
+        - {x: -80.076126, y: -132.57611}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6259cedf83004b9a833e716d7cc21ab0
+      internalID: 21300032
+      vertices:
+      - {x: 131.92386, y: 261.9239}
+      - {x: 172.92386, y: 99.92387}
+      - {x: 172.92386, y: 249.92387}
+      - {x: 99.92386, y: 261.9239}
+      - {x: 80.92386, y: 70.92387}
+      - {x: 70.92386, y: 70.92387}
+      - {x: 66.92386, y: 74.92387}
+      - {x: 13.923859, y: 209.92387}
+      - {x: 12.923859, y: 231.92387}
+      - {x: 12.923859, y: 212.92386}
+      - {x: 12.923859, y: 201.92386}
+      - {x: 12.923859, y: 78.92387}
+      indices: 0b0000000a0000000600000007000000060000000a000000090000000800000007000000030000000700000008000000060000000700000003000000050000000600000003000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FramedDrawingHorse_Shadow
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 442
+        width: 102
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6372549, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.000001, y: -25.5}
+        - {x: -51, y: 2.5}
+        - {x: -51, y: 7.5}
+        - {x: -21, y: 25.5}
+        - {x: -4, y: 25.5}
+        - {x: 51, y: 0.5}
+        - {x: 51, y: -10.5}
+        - {x: 15, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657388724c8641e080f819aadd4cb807
+      internalID: 21300034
+      vertices:
+      - {x: 88, y: 47}
+      - {x: 52, y: 21}
+      - {x: 88, y: 36}
+      - {x: 36, y: 21}
+      - {x: 33, y: 72}
+      - {x: 16, y: 72}
+      - {x: -14, y: 54}
+      - {x: -14, y: 49}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening_Flipped6
+      rect:
+        serializedVersion: 2
+        x: 1694.0762
+        y: 935.02673
+        width: 185.84775
+        height: 182.94577
+      alignment: 9
+      pivot: {x: 0.2843605, y: -0.24353391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.07613, y: -143.5264}
+        - {x: -134.07613, y: -111.52639}
+        - {x: -134.07613, y: 20.473618}
+        - {x: -85.076126, y: 39.473618}
+        - {x: -59.07613, y: 39.473618}
+        - {x: 36.92387, y: -28.52639}
+        - {x: 51.92387, y: -48.52639}
+        - {x: 51.92387, y: -72.52639}
+        - {x: 28.92387, y: -109.52639}
+        - {x: -39.07613, y: -143.5264}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb699ad6fabb40dd86924834cd08b1f3
+      internalID: 21300036
+      vertices:
+      - {x: 169.92386, y: 198.97287}
+      - {x: 184.92386, y: 154.97287}
+      - {x: 184.92386, y: 178.97287}
+      - {x: 161.92386, y: 117.97288}
+      - {x: 93.92386, y: 83.97288}
+      - {x: 87.92386, y: 83.97288}
+      - {x: 73.92386, y: 266.9729}
+      - {x: 47.92386, y: 266.9729}
+      - {x: -1.0761414, y: 247.97289}
+      - {x: -1.0761414, y: 115.97288}
+      indices: 090000000800000005000000070000000500000008000000060000000500000007000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening_Flipped3
+      rect:
+        serializedVersion: 2
+        x: 364.0761
+        y: 1578.0267
+        width: 180.89713
+        height: 172.9465
+      alignment: 9
+      pivot: {x: 0.48009485, y: -0.2576143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.6008, y: -97.52676}
+        - {x: -114.6008, y: -46.526756}
+        - {x: -114.6008, y: 13.473251}
+        - {x: -82.6008, y: 34.47325}
+        - {x: 19.3992, y: 34.47325}
+        - {x: 66.3992, y: -9.526756}
+        - {x: 66.3992, y: -94.52676}
+        - {x: 65.3992, y: -104.52676}
+        - {x: -2.6007996, y: -138.52676}
+        - {x: -6.6007996, y: -138.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eedb2c222e4580a27f19fd8c989d51
+      internalID: 21300038
+      vertices:
+      - {x: 160.44855, y: 207.97324}
+      - {x: 159.44855, y: 112.97324}
+      - {x: 160.44855, y: 122.97324}
+      - {x: 113.44855, y: 251.97325}
+      - {x: 91.44855, y: 78.97324}
+      - {x: 87.44855, y: 78.97324}
+      - {x: 11.448547, y: 251.97325}
+      - {x: 6.4485474, y: 119.97324}
+      - {x: -20.551453, y: 230.97325}
+      - {x: -20.551453, y: 170.97324}
+      indices: 090000000800000007000000060000000700000008000000050000000700000006000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening3
+      rect:
+        serializedVersion: 2
+        x: 633.02673
+        y: 1601.0267
+        width: 180.89713
+        height: 172.9465
+      alignment: 9
+      pivot: {x: 0.1047364, y: -0.2576143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140.50206, y: -106.52676}
+        - {x: -141.50206, y: -86.52676}
+        - {x: -141.50206, y: -7.5267563}
+        - {x: -62.50206, y: 34.47325}
+        - {x: -21.50206, y: 34.47325}
+        - {x: 39.497948, y: -1.5267487}
+        - {x: 39.497948, y: -32.526756}
+        - {x: 11.49794, y: -97.52676}
+        - {x: -70.50206, y: -138.52676}
+        - {x: -72.50206, y: -138.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bd8e8cb069408babb97058ea1b1f7d
+      internalID: 21300040
+      vertices:
+      - {x: 201.44855, y: 215.97325}
+      - {x: 173.44855, y: 119.97324}
+      - {x: 201.44855, y: 184.97324}
+      - {x: 140.44855, y: 251.97325}
+      - {x: 99.44855, y: 251.97325}
+      - {x: 91.44855, y: 78.97324}
+      - {x: 89.44855, y: 78.97324}
+      - {x: 21.448547, y: 110.97324}
+      - {x: 20.448547, y: 209.97324}
+      - {x: 20.448547, y: 130.97324}
+      indices: 090000000800000007000000040000000700000008000000060000000700000004000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup_Flipped7
+      rect:
+        serializedVersion: 2
+        x: 884.0761
+        y: 1094.0363
+        width: 114.86416
+        height: 272.92743
+      alignment: 9
+      pivot: {x: -0.062266782, y: 0.0491978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.58432, y: -175.53629}
+        - {x: -128.58432, y: -131.53629}
+        - {x: -128.58432, y: -53.536285}
+        - {x: -124.58432, y: 23.463715}
+        - {x: -128.58432, y: 39.463715}
+        - {x: -128.58432, y: 65.463715}
+        - {x: -82.58432, y: 97.463715}
+        - {x: -57.58432, y: 97.463715}
+        - {x: -13.584316, y: 55.463715}
+        - {x: -13.584316, y: -7.5362854}
+        - {x: -15.58432, y: -137.53629}
+        - {x: -54.58432, y: -175.53629}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dd3ea404934c309ab89822d099c618
+      internalID: 21300042
+      vertices:
+      - {x: -6.567936, y: 324.9637}
+      - {x: -2.567936, y: 282.9637}
+      - {x: 39.432064, y: 356.9637}
+      - {x: -6.567936, y: 298.9637}
+      - {x: 108.43207, y: 314.9637}
+      - {x: 106.43207, y: 121.963715}
+      - {x: 108.43207, y: 251.96371}
+      - {x: 67.43207, y: 83.963715}
+      - {x: 64.43206, y: 356.9637}
+      - {x: 43.432064, y: 83.963715}
+      - {x: -6.567936, y: 205.96371}
+      - {x: -6.567936, y: 127.963715}
+      indices: 0b0000000a0000000900000001000000090000000a000000020000000900000001000000080000000900000002000000070000000900000008000000040000000700000008000000050000000700000004000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup2
+      rect:
+        serializedVersion: 2
+        x: 1171.0762
+        y: 390.02676
+        width: 206.87617
+        height: 187.89713
+      alignment: 9
+      pivot: {x: 0.3617998, y: -0.0029457568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.590324, y: -98.00206}
+        - {x: -126.590324, y: 3.99794}
+        - {x: -126.590324, y: 20.99794}
+        - {x: -124.590324, y: 24.997948}
+        - {x: -70.590324, y: 63.99794}
+        - {x: -16.590324, y: 63.99794}
+        - {x: 80.409676, y: 25.997948}
+        - {x: 80.409676, y: -29.00206}
+        - {x: 49.409676, y: -87.00206}
+        - {x: -23.590324, y: -124.00206}
+        - {x: -57.590324, y: -124.00206}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6310202a3de44e38b8dc9aa37fb27ca
+      internalID: 21300044
+      vertices:
+      - {x: 212.43808, y: 214.44858}
+      - {x: 181.43808, y: 101.44856}
+      - {x: 212.43808, y: 159.44856}
+      - {x: 115.43809, y: 252.44856}
+      - {x: 108.43809, y: 64.44856}
+      - {x: 74.43809, y: 64.44856}
+      - {x: 61.438087, y: 252.44856}
+      - {x: 25.438087, y: 90.44856}
+      - {x: 7.4380875, y: 213.44858}
+      - {x: 5.4380875, y: 209.44856}
+      - {x: 5.4380875, y: 192.44856}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000050000000700000006000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening_Flipped4
+      rect:
+        serializedVersion: 2
+        x: 847.0477
+        y: 801.02673
+        width: 204.87617
+        height: 180.9465
+      alignment: 9
+      pivot: {x: 0.40465716, y: -0.2462247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.53349, y: -102.52676}
+        - {x: -128.5335, y: -56.526756}
+        - {x: -128.5335, y: -37.526756}
+        - {x: -11.533493, y: 38.47325}
+        - {x: 4.466507, y: 38.47325}
+        - {x: 75.46651, y: 0.47325134}
+        - {x: 76.46651, y: -3.5267487}
+        - {x: 76.46651, y: -13.526756}
+        - {x: 49.466507, y: -108.52676}
+        - {x: -12.533493, y: -142.52676}
+        - {x: -22.533493, y: -142.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89653aaf17944e90a3d41fa610a4bd40
+      internalID: 21300046
+      vertices:
+      - {x: 197.43808, y: 225.97325}
+      - {x: 198.43808, y: 211.97324}
+      - {x: 198.43808, y: 221.97325}
+      - {x: 171.43808, y: 116.97324}
+      - {x: 126.43807, y: 263.97327}
+      - {x: 110.43807, y: 263.97327}
+      - {x: 109.43807, y: 82.97324}
+      - {x: 99.43807, y: 82.97324}
+      - {x: 16.438072, y: 122.97324}
+      - {x: -6.561928, y: 187.97324}
+      - {x: -6.561928, y: 168.97324}
+      indices: 0a0000000900000008000000050000000800000009000000070000000800000005000000060000000700000005000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CassettePlayer
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 311
+        width: 65
+        height: 72
+      alignment: 9
+      pivot: {x: 0.16923077, y: 0.090277776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -36}
+        - {x: -32.5, y: -34}
+        - {x: -32.5, y: 10}
+        - {x: -24.5, y: 21}
+        - {x: 15.5, y: 36}
+        - {x: 28.5, y: 36}
+        - {x: 32.500004, y: 30.000004}
+        - {x: 32.500004, y: -14}
+        - {x: -8.5, y: -36}
+      physicsShape:
+      - - {x: 22.5, y: 36}
+        - {x: 20.5, y: 36}
+        - {x: -27.5, y: 12}
+        - {x: -27.5, y: 6.999996}
+        - {x: -32.5, y: 5}
+        - {x: -32.5, y: -30}
+        - {x: -21.5, y: -36}
+        - {x: -19.5, y: -36}
+        - {x: 0.5, y: -27}
+        - {x: 18.499996, y: -18}
+        - {x: 32.499996, y: -10}
+        - {x: 32.499996, y: 25}
+        - {x: 26.5, y: 28}
+        - {x: 26.5, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7ddaaea19b456dac0d1e64021edbab
+      internalID: 21300048
+      vertices:
+      - {x: 82.5, y: 101.5}
+      - {x: 86.5, y: 51.5}
+      - {x: 86.5, y: 95.5}
+      - {x: 69.5, y: 101.5}
+      - {x: 45.5, y: 29.5}
+      - {x: 29.5, y: 86.5}
+      - {x: 27.5, y: 29.5}
+      - {x: 21.5, y: 75.5}
+      - {x: 21.5, y: 31.5}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup5
+      rect:
+        serializedVersion: 2
+        x: 1026.0762
+        y: 657.0761
+        width: 188.84775
+        height: 201.84775
+      alignment: 9
+      pivot: {x: 0.2904338, y: 0.03640253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.576126, y: -111.07611}
+        - {x: -127.576126, y: -111.07611}
+        - {x: -127.576126, y: -90.07611}
+        - {x: -124.576126, y: -76.07611}
+        - {x: -125.576126, y: 10.923889}
+        - {x: -127.576126, y: 21.923897}
+        - {x: -127.576126, y: 45.923897}
+        - {x: -43.576122, y: 74.9239}
+        - {x: -8.576122, y: 74.9239}
+        - {x: 61.423878, y: 58.923897}
+        - {x: 61.423878, y: 37.923897}
+        - {x: 59.423878, y: 25.92389}
+        - {x: 61.423878, y: -35.07611}
+        - {x: 61.423878, y: -97.07611}
+        - {x: -29.576122, y: -127.07611}
+        - {x: -38.576122, y: -127.07611}
+        - {x: -39.576122, y: -117.07611}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb5694cbaa4d08b1f712b577dc1f23
+      internalID: 21300050
+      vertices:
+      - {x: 195.42386, y: 253.42387}
+      - {x: 193.42386, y: 220.42386}
+      - {x: 195.42386, y: 232.42387}
+      - {x: 125.42386, y: 269.4239}
+      - {x: 195.42386, y: 97.42387}
+      - {x: 195.42386, y: 159.42386}
+      - {x: 104.42386, y: 67.42387}
+      - {x: 95.42386, y: 67.42387}
+      - {x: 94.42386, y: 77.42387}
+      - {x: 90.42386, y: 269.4239}
+      - {x: 22.423859, y: 83.42387}
+      - {x: 9.423859, y: 118.42387}
+      - {x: 8.423859, y: 205.42386}
+      - {x: 6.4238586, y: 240.42387}
+      - {x: 6.4238586, y: 216.42387}
+      - {x: 6.4238586, y: 104.42387}
+      - {x: 6.4238586, y: 83.42387}
+      indices: 100000000f0000000a0000000b0000000a0000000f0000000e0000000d0000000c000000090000000c0000000d0000000b0000000c000000090000000a0000000b00000009000000080000000a00000009000000030000000800000009000000070000000800000003000000060000000700000003000000040000000600000003000000010000000400000003000000050000000400000001000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup4
+      rect:
+        serializedVersion: 2
+        x: 804.0761
+        y: 561.0429
+        width: 173.84775
+        height: 251.91418
+      alignment: 9
+      pivot: {x: 0.22345847, y: -0.0023254564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.076126, y: -132.04291}
+        - {x: -128.07613, y: -146.04291}
+        - {x: -128.07613, y: 45.957092}
+        - {x: -44.076122, y: 79.95709}
+        - {x: -38.076122, y: 79.95709}
+        - {x: -31.076122, y: 75.95711}
+        - {x: -28.076122, y: 78.95709}
+        - {x: -23.076122, y: 77.95709}
+        - {x: 45.923878, y: 57.957092}
+        - {x: 45.923878, y: -135.04291}
+        - {x: -36.076122, y: -172.04291}
+        - {x: -47.076122, y: -172.04291}
+        - {x: -49.076122, y: -171.04291}
+        - {x: -51.076122, y: -142.04291}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fc2b2051974037bf020f7543615df6
+      internalID: 21300052
+      vertices:
+      - {x: 111.923874, y: 330.4571}
+      - {x: 180.92387, y: 117.45709}
+      - {x: 180.92387, y: 310.4571}
+      - {x: 106.923874, y: 331.4571}
+      - {x: 103.923874, y: 328.4571}
+      - {x: 98.923874, y: 80.45709}
+      - {x: 96.923874, y: 332.4571}
+      - {x: 90.923874, y: 332.4571}
+      - {x: 87.923874, y: 80.45709}
+      - {x: 85.923874, y: 81.45709}
+      - {x: 83.923874, y: 110.45709}
+      - {x: 37.923874, y: 120.45709}
+      - {x: 6.923874, y: 298.4571}
+      - {x: 6.923874, y: 106.45709}
+      indices: 0d0000000c0000000b000000070000000b0000000c0000000a0000000b00000007000000090000000a00000007000000080000000900000007000000050000000800000007000000060000000500000007000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup3
+      rect:
+        serializedVersion: 2
+        x: 204.07613
+        y: 0.027320862
+        width: 201.84775
+        height: 255.94592
+      alignment: 9
+      pivot: {x: 0.37081298, y: -0.03342363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.07611, y: -35.027603}
+        - {x: -124.07611, y: -16.027596}
+        - {x: -124.07611, y: -9.027603}
+        - {x: -101.07611, y: 37.972397}
+        - {x: -22.07611, y: 77.9724}
+        - {x: -12.076111, y: 77.9724}
+        - {x: 15.923889, y: 69.9724}
+        - {x: 77.92389, y: 36.972397}
+        - {x: 77.92389, y: 28.972397}
+        - {x: 60.92389, y: 6.972397}
+        - {x: 55.92389, y: -123.0276}
+        - {x: 52.92389, y: -137.0276}
+        - {x: -7.076111, y: -178.0276}
+        - {x: -35.07611, y: -178.0276}
+        - {x: -54.07611, y: -144.0276}
+        - {x: -94.07611, y: -168.0276}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302d6af8114941e4ae4ba30c9ac06938
+      internalID: 21300054
+      vertices:
+      - {x: 204.92387, y: 301.47296}
+      - {x: 187.92387, y: 271.47296}
+      - {x: 204.92387, y: 293.47296}
+      - {x: 179.92387, y: 127.47296}
+      - {x: 182.92387, y: 141.47296}
+      - {x: 142.92387, y: 334.47296}
+      - {x: 119.923874, y: 86.47296}
+      - {x: 114.923874, y: 342.47296}
+      - {x: 104.923874, y: 342.47296}
+      - {x: 91.923874, y: 86.47296}
+      - {x: 72.923874, y: 120.47296}
+      - {x: 32.923874, y: 96.47296}
+      - {x: 25.923874, y: 302.47296}
+      - {x: 19.923874, y: 229.47296}
+      - {x: 2.923874, y: 255.47296}
+      - {x: 2.923874, y: 248.47296}
+      indices: 0f0000000e0000000d0000000c0000000d0000000e0000000b0000000d0000000c000000080000000b0000000c0000000a0000000b00000008000000090000000a00000008000000060000000900000008000000070000000600000008000000050000000600000007000000030000000600000005000000010000000300000005000000000000000100000005000000040000000300000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening7
+      rect:
+        serializedVersion: 2
+        x: 284.0761
+        y: 1230.0267
+        width: 187.84775
+        height: 191.94649
+      alignment: 9
+      pivot: {x: 0.19615754, y: -0.39882728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.076126, y: -146.02673}
+        - {x: -136.07613, y: -77.02673}
+        - {x: -136.07613, y: -39.026733}
+        - {x: -52.076122, y: 11.973267}
+        - {x: -8.076122, y: 11.973267}
+        - {x: 51.923878, y: -18.026733}
+        - {x: 51.923878, y: -25.026733}
+        - {x: 32.923878, y: -69.02673}
+        - {x: 25.923878, y: -139.02673}
+        - {x: -56.076122, y: -180.02673}
+        - {x: -61.076122, y: -180.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a732451c8f446999b2814d25e583bcf
+      internalID: 21300056
+      vertices:
+      - {x: 202.92387, y: 250.47324}
+      - {x: 183.92387, y: 199.47324}
+      - {x: 202.92387, y: 243.47324}
+      - {x: 142.92387, y: 280.47324}
+      - {x: 176.92387, y: 129.47324}
+      - {x: 98.923874, y: 280.47324}
+      - {x: 94.923874, y: 88.47324}
+      - {x: 89.923874, y: 88.47324}
+      - {x: 23.923874, y: 122.47324}
+      - {x: 14.923874, y: 229.47324}
+      - {x: 14.923874, y: 191.47324}
+      indices: 0a0000000900000008000000050000000800000009000000070000000800000005000000060000000700000005000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening2
+      rect:
+        serializedVersion: 2
+        x: 219.07611
+        y: 1821.0267
+        width: 153.89713
+        height: 190.89714
+      alignment: 9
+      pivot: {x: 0.109474115, y: -0.4010196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.10081, y: -179.50208}
+        - {x: -129.10081, y: -149.50208}
+        - {x: -129.10081, y: -32.502075}
+        - {x: -47.10081, y: 11.497925}
+        - {x: -11.100811, y: 11.497925}
+        - {x: -0.10080719, y: 10.497925}
+        - {x: 24.899189, y: -2.5020752}
+        - {x: 24.899189, y: -83.502075}
+        - {x: 22.899189, y: -138.50208}
+        - {x: -56.10081, y: -179.50208}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667d439f95e143af915842c0a953b344
+      internalID: 21300058
+      vertices:
+      - {x: 161.94856, y: 264.94858}
+      - {x: 159.94856, y: 128.94858}
+      - {x: 161.94856, y: 183.94858}
+      - {x: 136.94856, y: 277.94858}
+      - {x: 125.94856, y: 278.94858}
+      - {x: 89.94856, y: 278.94858}
+      - {x: 80.94856, y: 87.94857}
+      - {x: 75.94856, y: 87.94857}
+      - {x: 7.9485626, y: 234.94858}
+      - {x: 7.9485626, y: 117.94857}
+      indices: 090000000800000007000000050000000700000008000000060000000700000005000000010000000600000005000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening4
+      rect:
+        serializedVersion: 2
+        x: 1007.0762
+        y: 923.02673
+        width: 204.84775
+        height: 180.9465
+      alignment: 9
+      pivot: {x: 0.3458557, y: -0.24622473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.57611, y: -108.526764}
+        - {x: -127.57611, y: -13.526764}
+        - {x: -127.57611, y: 1.4732361}
+        - {x: -46.57611, y: 38.473236}
+        - {x: -41.57611, y: 38.473236}
+        - {x: 52.42389, y: -18.526764}
+        - {x: 77.42389, y: -39.526764}
+        - {x: 77.42389, y: -54.526764}
+        - {x: 53.42389, y: -102.526764}
+        - {x: -28.57611, y: -142.52676}
+        - {x: -37.57611, y: -142.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c373f8a89a45ecb9c2965ac226bf6b
+      internalID: 21300060
+      vertices:
+      - {x: 211.42387, y: 185.97325}
+      - {x: 187.42387, y: 122.97325}
+      - {x: 211.42387, y: 170.97325}
+      - {x: 186.42387, y: 206.97325}
+      - {x: 105.423874, y: 82.97325}
+      - {x: 96.423874, y: 82.97325}
+      - {x: 92.423874, y: 263.97327}
+      - {x: 87.423874, y: 263.97327}
+      - {x: 32.423874, y: 116.97325}
+      - {x: 6.423874, y: 226.97325}
+      - {x: 6.423874, y: 211.97325}
+      indices: 0a0000000900000008000000070000000800000009000000050000000800000007000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup_Flipped8
+      rect:
+        serializedVersion: 2
+        x: 1823.0762
+        y: 1079.0762
+        width: 20.847755
+        height: 284.84778
+      alignment: 9
+      pivot: {x: -4.851948, y: 0.103029646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.57611, y: -173.57613}
+        - {x: -128.57611, y: -144.57613}
+        - {x: -128.57611, y: 111.42386}
+        - {x: -113.57611, y: 111.42386}
+        - {x: -107.57611, y: 82.423874}
+        - {x: -107.57611, y: -173.57613}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca661a0b9f9483db6fa838ebab9a6ec
+      internalID: 21300062
+      vertices:
+      - {x: 8.423862, y: 366.9239}
+      - {x: 14.423862, y: 81.92389}
+      - {x: 14.423862, y: 337.9239}
+      - {x: -0.57613754, y: 81.92389}
+      - {x: -6.5761375, y: 366.9239}
+      - {x: -6.5761375, y: 110.92389}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup_Flipped2
+      rect:
+        serializedVersion: 2
+        x: 1510.0477
+        y: 0.026750565
+        width: 206.87617
+        height: 187.89713
+      alignment: 9
+      pivot: {x: 0.4007451, y: -0.0029457263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5335, y: -17.002068}
+        - {x: -129.5335, y: -15.002068}
+        - {x: -129.5335, y: 0.99793243}
+        - {x: -117.53349, y: 20.99794}
+        - {x: -34.533493, y: 63.99794}
+        - {x: -2.533493, y: 63.99794}
+        - {x: 77.46651, y: 28.997932}
+        - {x: 77.46651, y: -32.002068}
+        - {x: 64.46651, y: -124.00207}
+        - {x: -55.533493, y: -124.00207}
+        - {x: -106.53349, y: -80.00207}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f2e6999c4e48ba8d70f732a2d500ca
+      internalID: 21300064
+      vertices:
+      - {x: 201.43808, y: 217.44855}
+      - {x: 188.43808, y: 64.448555}
+      - {x: 201.43808, y: 156.44855}
+      - {x: 121.43807, y: 252.44856}
+      - {x: 89.43807, y: 252.44856}
+      - {x: 68.43807, y: 64.448555}
+      - {x: 17.438072, y: 108.448555}
+      - {x: 6.438072, y: 209.44856}
+      - {x: -4.561928, y: 171.44855}
+      - {x: -5.561928, y: 189.44855}
+      - {x: -5.561928, y: 173.44855}
+      indices: 0a0000000900000008000000070000000800000009000000060000000800000007000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening4
+      rect:
+        serializedVersion: 2
+        x: 165.07613
+        y: 605.02673
+        width: 204.84775
+        height: 213.94649
+      alignment: 9
+      pivot: {x: 0.3458557, y: -0.3578161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.57611, y: -51.026733}
+        - {x: -127.57611, y: -22.026733}
+        - {x: -127.57611, y: -15.026733}
+        - {x: -49.57611, y: 22.973267}
+        - {x: -44.57611, y: 22.973267}
+        - {x: -12.576111, y: -8.026733}
+        - {x: 52.42389, y: -35.026733}
+        - {x: 77.42389, y: -54.026733}
+        - {x: 77.42389, y: -80.02673}
+        - {x: 52.42389, y: -151.02673}
+        - {x: -30.57611, y: -191.02673}
+        - {x: -35.57611, y: -191.02673}
+        - {x: -100.57611, y: -160.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80964e6293745a1b88fc7782c3b240d
+      internalID: 21300066
+      vertices:
+      - {x: 186.42387, y: 255.47324}
+      - {x: 211.42387, y: 210.47324}
+      - {x: 211.42387, y: 236.47324}
+      - {x: 186.42387, y: 139.47324}
+      - {x: 121.423874, y: 282.47324}
+      - {x: 103.423874, y: 99.47324}
+      - {x: 98.423874, y: 99.47324}
+      - {x: 89.423874, y: 313.47324}
+      - {x: 84.423874, y: 313.47324}
+      - {x: 33.423874, y: 130.47324}
+      - {x: 28.423874, y: 239.47324}
+      - {x: 6.423874, y: 275.47324}
+      - {x: 6.423874, y: 268.47324}
+      indices: 0c0000000b0000000a000000080000000a0000000b000000090000000a00000008000000060000000900000008000000070000000600000008000000040000000600000007000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening6
+      rect:
+        serializedVersion: 2
+        x: 168.07613
+        y: 1420.0267
+        width: 185.84775
+        height: 182.94577
+      alignment: 9
+      pivot: {x: 0.33816808, y: -0.24353391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.07611, y: -124.52639}
+        - {x: -122.07611, y: -93.52639}
+        - {x: -122.07611, y: -16.52639}
+        - {x: -11.076111, y: 39.473618}
+        - {x: -0.07611275, y: 39.473618}
+        - {x: 63.92389, y: 9.473618}
+        - {x: 63.92389, y: -78.52639}
+        - {x: 53.92389, y: -102.52639}
+        - {x: -27.07611, y: -143.5264}
+        - {x: -40.07611, y: -143.5264}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82cc05dae7a4b65a2465e5960a00f30
+      internalID: 21300068
+      vertices:
+      - {x: 186.92386, y: 236.97289}
+      - {x: 176.92386, y: 124.97288}
+      - {x: 186.92386, y: 148.97287}
+      - {x: 122.92386, y: 266.9729}
+      - {x: 111.92386, y: 266.9729}
+      - {x: 95.92386, y: 83.97288}
+      - {x: 82.92386, y: 83.97288}
+      - {x: 7.9238586, y: 102.97288}
+      - {x: 0.92385864, y: 210.97287}
+      - {x: 0.92385864, y: 133.97287}
+      indices: 090000000800000007000000040000000700000008000000060000000700000004000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening3
+      rect:
+        serializedVersion: 2
+        x: 783.02673
+        y: 1505.0267
+        width: 180.89713
+        height: 172.9465
+      alignment: 9
+      pivot: {x: 0.10473632, y: -0.25761437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140.50206, y: -106.526764}
+        - {x: -141.50206, y: -86.526764}
+        - {x: -141.50206, y: -7.526764}
+        - {x: -62.50206, y: 34.473236}
+        - {x: -21.50206, y: 34.473236}
+        - {x: 39.49794, y: -1.5267639}
+        - {x: 39.49794, y: -32.526764}
+        - {x: 11.49794, y: -97.526764}
+        - {x: -70.50206, y: -138.52676}
+        - {x: -72.50206, y: -138.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98943bacebed443bb7eccd07481c788a
+      internalID: 21300070
+      vertices:
+      - {x: 201.44856, y: 215.97325}
+      - {x: 173.44856, y: 119.97325}
+      - {x: 201.44856, y: 184.97325}
+      - {x: 140.44856, y: 251.97325}
+      - {x: 99.44856, y: 251.97325}
+      - {x: 91.44856, y: 78.97325}
+      - {x: 89.44856, y: 78.97325}
+      - {x: 21.448563, y: 110.97325}
+      - {x: 20.448563, y: 209.97325}
+      - {x: 20.448563, y: 130.97325}
+      indices: 090000000800000007000000040000000700000008000000060000000700000004000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup2
+      rect:
+        serializedVersion: 2
+        x: 980.0761
+        y: 476.02676
+        width: 206.87617
+        height: 187.89713
+      alignment: 9
+      pivot: {x: 0.3617999, y: -0.0029457263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.590324, y: -98.00207}
+        - {x: -126.590324, y: 3.9979324}
+        - {x: -126.590324, y: 20.99794}
+        - {x: -124.590324, y: 24.997932}
+        - {x: -70.590324, y: 63.99794}
+        - {x: -16.590324, y: 63.99794}
+        - {x: 80.40967, y: 25.997932}
+        - {x: 80.40967, y: -29.002068}
+        - {x: 49.409676, y: -87.00207}
+        - {x: -23.590324, y: -124.00207}
+        - {x: -57.590324, y: -124.00207}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8f475f29744036a626a266966f4b2f
+      internalID: 21300072
+      vertices:
+      - {x: 212.43806, y: 214.44855}
+      - {x: 181.43808, y: 101.448555}
+      - {x: 212.43806, y: 159.44855}
+      - {x: 115.43807, y: 252.44856}
+      - {x: 108.43807, y: 64.448555}
+      - {x: 74.43807, y: 64.448555}
+      - {x: 61.438072, y: 252.44856}
+      - {x: 25.438072, y: 90.448555}
+      - {x: 7.438072, y: 213.44855}
+      - {x: 5.438072, y: 209.44856}
+      - {x: 5.438072, y: 192.44855}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000050000000700000006000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening5
+      rect:
+        serializedVersion: 2
+        x: 652.0761
+        y: 1133.0267
+        width: 200.84775
+        height: 166.9465
+      alignment: 9
+      pivot: {x: 0.3726592, y: -0.26687294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.57611, y: -135.52676}
+        - {x: -123.57611, y: -78.526764}
+        - {x: -123.57611, y: -16.526764}
+        - {x: -99.57611, y: 8.473236}
+        - {x: -40.57611, y: 31.473236}
+        - {x: -17.57611, y: 31.473236}
+        - {x: 48.42389, y: 3.473236}
+        - {x: 77.42389, y: -10.526772}
+        - {x: 77.42389, y: -71.526764}
+        - {x: 70.42389, y: -107.526764}
+        - {x: 30.42389, y: -135.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff06d1da978b48daadb5030301794a23
+      internalID: 21300074
+      vertices:
+      - {x: 203.42387, y: 200.97324}
+      - {x: 196.42387, y: 103.97325}
+      - {x: 203.42387, y: 139.97325}
+      - {x: 174.42387, y: 214.97325}
+      - {x: 156.42387, y: 75.97325}
+      - {x: 108.423874, y: 242.97325}
+      - {x: 85.423874, y: 242.97325}
+      - {x: 60.423874, y: 75.97325}
+      - {x: 26.423874, y: 219.97325}
+      - {x: 2.423874, y: 194.97325}
+      - {x: 2.423874, y: 132.97325}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000040000000700000006000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup_Flipped2
+      rect:
+        serializedVersion: 2
+        x: 29.047707
+        y: 246.02676
+        width: 206.87617
+        height: 220.89714
+      alignment: 9
+      pivot: {x: 0.4007451, y: -0.14736952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.533493, y: -164.50208}
+        - {x: -1.533493, y: -170.50208}
+        - {x: -4.533493, y: -172.50208}
+        - {x: -31.533493, y: -172.50208}
+        - {x: -111.53349, y: -124.502075}
+        - {x: -129.5335, y: -65.502075}
+        - {x: -129.5335, y: -3.5020752}
+        - {x: -119.53349, y: 8.497925}
+        - {x: -24.533493, y: 48.497925}
+        - {x: 12.466507, y: 48.497925}
+        - {x: 77.46651, y: 20.497925}
+        - {x: 77.46651, y: -94.502075}
+        - {x: 69.46651, y: -143.50208}
+        - {x: 34.466507, y: -151.50208}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37be4c6d928d49bbacfbe5569e9ab45c
+      internalID: 21300076
+      vertices:
+      - {x: 201.43808, y: 273.94858}
+      - {x: 193.43808, y: 109.94857}
+      - {x: 201.43808, y: 158.94858}
+      - {x: 158.43808, y: 101.94857}
+      - {x: 136.43808, y: 301.94858}
+      - {x: 121.43807, y: 88.94857}
+      - {x: 119.43807, y: 80.94857}
+      - {x: 99.43807, y: 301.94858}
+      - {x: 92.43807, y: 80.94857}
+      - {x: 12.438072, y: 128.94858}
+      - {x: 4.438072, y: 261.94858}
+      - {x: -5.561928, y: 249.94858}
+      - {x: -5.561928, y: 187.94858}
+      - {x: 122.43807, y: 82.94857}
+      indices: 06000000050000000d0000000c0000000b000000090000000a000000090000000b00000007000000090000000a000000080000000900000007000000060000000800000007000000040000000600000007000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Open
+      rect:
+        serializedVersion: 2
+        x: 57.076126
+        y: 1703.0267
+        width: 162.84775
+        height: 185.94649
+      alignment: 9
+      pivot: {x: 0.16486412, y: -0.41169637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.576126, y: -143.02673}
+        - {x: -128.57613, y: -83.02673}
+        - {x: -128.57613, y: -37.026733}
+        - {x: -127.576126, y: -30.026733}
+        - {x: -45.576122, y: 8.973267}
+        - {x: -32.576122, y: 8.973267}
+        - {x: 30.423878, y: -26.026733}
+        - {x: 34.423878, y: -50.026726}
+        - {x: 34.423878, y: -76.02673}
+        - {x: 29.423878, y: -136.02673}
+        - {x: -51.576122, y: -177.02673}
+        - {x: -60.576122, y: -177.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004ef44fb3e941c486d3c5bc26010da2
+      internalID: 21300078
+      vertices:
+      - {x: 166.42387, y: 236.47324}
+      - {x: 170.42387, y: 186.47324}
+      - {x: 170.42387, y: 212.47325}
+      - {x: 165.42387, y: 126.47324}
+      - {x: 103.423874, y: 271.47324}
+      - {x: 90.423874, y: 271.47324}
+      - {x: 84.423874, y: 85.47324}
+      - {x: 75.423874, y: 85.47324}
+      - {x: 11.423874, y: 119.47324}
+      - {x: 8.423874, y: 232.47324}
+      - {x: 7.423874, y: 225.47324}
+      - {x: 7.423874, y: 179.47324}
+      indices: 0b0000000a0000000800000009000000080000000a000000050000000800000009000000070000000800000005000000060000000700000005000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening_Flipped4
+      rect:
+        serializedVersion: 2
+        x: 83.04771
+        y: 1149.0267
+        width: 204.87617
+        height: 180.9465
+      alignment: 9
+      pivot: {x: 0.40465716, y: -0.2462247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.53349, y: -102.52676}
+        - {x: -128.5335, y: -56.526756}
+        - {x: -128.5335, y: -37.526756}
+        - {x: -11.533493, y: 38.47325}
+        - {x: 4.466507, y: 38.47325}
+        - {x: 75.46651, y: 0.47325134}
+        - {x: 76.46651, y: -3.5267487}
+        - {x: 76.46651, y: -13.526756}
+        - {x: 49.466507, y: -108.52676}
+        - {x: -12.533493, y: -142.52676}
+        - {x: -22.533493, y: -142.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddac2db93484f21aac5e903444daed8
+      internalID: 21300080
+      vertices:
+      - {x: 197.43808, y: 225.97325}
+      - {x: 198.43808, y: 211.97324}
+      - {x: 198.43808, y: 221.97325}
+      - {x: 171.43808, y: 116.97324}
+      - {x: 126.43807, y: 263.97327}
+      - {x: 110.43807, y: 263.97327}
+      - {x: 109.43807, y: 82.97324}
+      - {x: 99.43807, y: 82.97324}
+      - {x: 16.438072, y: 122.97324}
+      - {x: -6.561928, y: 187.97324}
+      - {x: -6.561928, y: 168.97324}
+      indices: 0a0000000900000008000000050000000800000009000000070000000800000005000000060000000700000005000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BookBagDenim_Flipped
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 346
+        width: 72
+        height: 72
+      alignment: 9
+      pivot: {x: 0.30555555, y: -0.0069444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -36}
+        - {x: -36, y: -36}
+        - {x: -36, y: 11}
+        - {x: -2, y: 36}
+        - {x: 36, y: 36}
+        - {x: 36, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffb9004b8454e4ab77ec961c5ec3fa5
+      internalID: 21300082
+      vertices:
+      - {x: 48, y: 108.5}
+      - {x: 86, y: 51.5}
+      - {x: 86, y: 108.5}
+      - {x: 47, y: 36.5}
+      - {x: 14, y: 83.5}
+      - {x: 14, y: 36.5}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup_Flipped3
+      rect:
+        serializedVersion: 2
+        x: 579.0761
+        y: 0.026750565
+        width: 201.84775
+        height: 222.9465
+      alignment: 9
+      pivot: {x: 0.36090454, y: 0.105166525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.07612, y: 22.473251}
+        - {x: -132.07613, y: 45.47326}
+        - {x: -132.07613, y: 53.47326}
+        - {x: -82.07612, y: 93.47326}
+        - {x: -10.076118, y: 93.47326}
+        - {x: 45.92388, y: 52.47326}
+        - {x: 67.92388, y: 9.473251}
+        - {x: 69.92388, y: 5.4732513}
+        - {x: 69.92388, y: -1.5267487}
+        - {x: 39.92388, y: -99.52675}
+        - {x: -7.0761185, y: -129.52675}
+        - {x: -28.076118, y: -129.52675}
+        - {x: -115.07612, y: -93.52675}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2997d6feca4b1b9f8b1cff2ac2a5a5
+      internalID: 21300084
+      vertices:
+      - {x: 196.92386, y: 208.97324}
+      - {x: 198.92386, y: 197.97324}
+      - {x: 198.92386, y: 204.97324}
+      - {x: 174.92386, y: 251.97325}
+      - {x: 168.92386, y: 99.97324}
+      - {x: 121.92386, y: 69.97324}
+      - {x: 118.92386, y: 292.97327}
+      - {x: 100.92386, y: 69.97324}
+      - {x: 46.92386, y: 292.97327}
+      - {x: 13.923859, y: 105.97324}
+      - {x: 12.923859, y: 221.97324}
+      - {x: -3.076149, y: 252.97325}
+      - {x: -3.076149, y: 244.97325}
+      indices: 0c0000000b0000000a000000080000000a0000000b000000090000000a00000008000000070000000900000008000000060000000700000008000000050000000700000006000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CassettePlayer_Flipped_On
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 445
+        width: 65
+        height: 77
+      alignment: 9
+      pivot: {x: 0.83076924, y: 0.084415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -38.5}
+        - {x: -32.500004, y: -22.5}
+        - {x: -32.500004, y: 38.5}
+        - {x: -14.5, y: 38.5}
+        - {x: 29.5, y: 16.5}
+        - {x: 32.5, y: 8.5}
+        - {x: 32.5, y: -35.5}
+        - {x: 26.5, y: -38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd1bbb4f044af6b25f3c99785712c9
+      internalID: 21300086
+      vertices:
+      - {x: 40.5, y: 87}
+      - {x: 43.5, y: 35}
+      - {x: 43.5, y: 79}
+      - {x: 37.5, y: 32}
+      - {x: 16.5, y: 32}
+      - {x: -3.5, y: 109}
+      - {x: -21.500004, y: 109}
+      - {x: -21.500004, y: 48}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Closed
+      rect:
+        serializedVersion: 2
+        x: 664.0761
+        y: 1804.0267
+        width: 151.84775
+        height: 185.94649
+      alignment: 9
+      pivot: {x: 0.11095161, y: -0.41169637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.076122, y: -177.02673}
+        - {x: -128.07613, y: -143.02673}
+        - {x: -128.07613, y: -32.026733}
+        - {x: -46.076122, y: 8.973267}
+        - {x: -44.076122, y: 8.973267}
+        - {x: 22.923878, y: -24.026733}
+        - {x: 23.923878, y: -26.026733}
+        - {x: 23.923878, y: -136.02673}
+        - {x: -58.076122, y: -177.02673}
+      physicsShape:
+      - - {x: -59.311993, y: -175.26935}
+        - {x: -125.774734, y: -141.5093}
+        - {x: -126.01901, y: -33.38806}
+        - {x: -44.626537, y: 7.0033417}
+        - {x: 22.027485, y: -26.63269}
+        - {x: 22.080486, y: -134.67393}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0299b6b0154e728365979c6398f1f5
+      internalID: 21300088
+      vertices:
+      - {x: 157.92387, y: 238.47324}
+      - {x: 158.92387, y: 126.47324}
+      - {x: 158.92387, y: 236.47324}
+      - {x: 90.923874, y: 271.47324}
+      - {x: 88.923874, y: 271.47324}
+      - {x: 76.923874, y: 85.47324}
+      - {x: 72.923874, y: 85.47324}
+      - {x: 6.923874, y: 230.47324}
+      - {x: 6.923874, y: 119.47324}
+      indices: 080000000700000006000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup3
+      rect:
+        serializedVersion: 2
+        x: 498.0761
+        y: 220.02731
+        width: 201.84775
+        height: 222.94594
+      alignment: 9
+      pivot: {x: 0.37081304, y: 0.105161674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.07611, y: -24.52761}
+        - {x: -124.07611, y: -3.5276108}
+        - {x: -124.07611, y: 29.47239}
+        - {x: -100.07611, y: 52.472397}
+        - {x: -46.07611, y: 93.4724}
+        - {x: 41.92389, y: 93.4724}
+        - {x: 68.92389, y: 81.4724}
+        - {x: 77.92389, y: 53.472397}
+        - {x: 77.92389, y: 42.472397}
+        - {x: 55.92389, y: -90.52761}
+        - {x: -3.0761108, y: -129.52762}
+        - {x: -37.07611, y: -129.52762}
+        - {x: -55.07611, y: -97.52761}
+        - {x: -92.07611, y: -110.52761}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f88e6c8ab94726b43a7a4266f4e847
+      internalID: 21300090
+      vertices:
+      - {x: 195.92386, y: 280.97296}
+      - {x: 204.92386, y: 241.97296}
+      - {x: 204.92386, y: 252.97296}
+      - {x: 182.92386, y: 108.97296}
+      - {x: 168.92386, y: 292.97296}
+      - {x: 123.92386, y: 69.97296}
+      - {x: 89.92386, y: 69.97296}
+      - {x: 80.92386, y: 292.97296}
+      - {x: 71.92386, y: 101.97296}
+      - {x: 34.92386, y: 88.97296}
+      - {x: 26.923859, y: 251.97296}
+      - {x: 10.923859, y: 174.97296}
+      - {x: 2.9238586, y: 228.97296}
+      - {x: 2.9238586, y: 195.97296}
+      indices: 0d0000000c0000000b0000000a0000000b0000000c000000090000000b0000000a00000007000000090000000a000000080000000900000007000000060000000800000007000000040000000600000007000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup8
+      rect:
+        serializedVersion: 2
+        x: 1217.0762
+        y: 580
+        width: 20.847755
+        height: 250.92387
+      alignment: 9
+      pivot: {x: -5.4275494, y: 0.23712374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.57611, y: -125.46194}
+        - {x: -127.57611, y: -119.46194}
+        - {x: -127.57611, y: 125.53807}
+        - {x: -111.57611, y: 125.53807}
+        - {x: -110.57611, y: 122.53807}
+        - {x: -106.57611, y: 100.53807}
+        - {x: -106.57611, y: -125.46194}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc9e90ec3924f42a447a8b59d1f4f9a
+      internalID: 21300092
+      vertices:
+      - {x: 23.423862, y: 313.96194}
+      - {x: 27.423862, y: 65.96193}
+      - {x: 27.423862, y: 291.96194}
+      - {x: 22.423862, y: 316.96194}
+      - {x: 9.423862, y: 65.96193}
+      - {x: 6.4238625, y: 316.96194}
+      - {x: 6.4238625, y: 71.96193}
+      indices: 060000000500000004000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening7
+      rect:
+        serializedVersion: 2
+        x: 1321.0762
+        y: 1338.0267
+        width: 187.84775
+        height: 158.9465
+      alignment: 9
+      pivot: {x: 0.19615762, y: -0.280305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.076126, y: -131.52676}
+        - {x: -136.07613, y: -90.52676}
+        - {x: -136.07613, y: -11.526764}
+        - {x: -38.076122, y: 27.473251}
+        - {x: -0.07611847, y: 27.473251}
+        - {x: 51.92387, y: -2.5267563}
+        - {x: 51.92387, y: -9.526749}
+        - {x: 50.92387, y: -11.526764}
+        - {x: 31.923878, y: -52.526756}
+        - {x: 25.923878, y: -90.52676}
+        - {x: -29.076122, y: -131.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61408368e65d4f859007131606fc5337
+      internalID: 21300094
+      vertices:
+      - {x: 202.92386, y: 200.97324}
+      - {x: 201.92386, y: 191.97324}
+      - {x: 202.92386, y: 193.97325}
+      - {x: 182.92386, y: 150.97324}
+      - {x: 150.92386, y: 230.97325}
+      - {x: 176.92386, y: 112.97324}
+      - {x: 121.92386, y: 71.97324}
+      - {x: 112.92386, y: 230.97325}
+      - {x: 65.92386, y: 71.97324}
+      - {x: 14.923859, y: 191.97324}
+      - {x: 14.923859, y: 112.97324}
+      indices: 0a0000000900000008000000070000000800000009000000060000000800000007000000040000000600000007000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardOld
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 495
+        width: 93
+        height: 50
+      alignment: 9
+      pivot: {x: 0.29032257, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -25}
+        - {x: -46.5, y: -19}
+        - {x: -46.5, y: -3}
+        - {x: 16.5, y: 25}
+        - {x: 33.499996, y: 25}
+        - {x: 46.5, y: 17}
+        - {x: 46.5, y: 4}
+        - {x: -7.5, y: -25}
+      physicsShape:
+      - - {x: 22.907356, y: 25}
+        - {x: -46.5, y: -9.407365}
+        - {x: -46.5, y: -12.709131}
+        - {x: -22.141113, y: -25}
+        - {x: -18.916761, y: -25}
+        - {x: 46.5, y: 7.7279205}
+        - {x: 46.5, y: 13.621571}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb4b32a8e174ddc9bc4be3f20f5ed52
+      internalID: 21300096
+      vertices:
+      - {x: 99.5, y: 69.5}
+      - {x: 112.5, y: 48.5}
+      - {x: 112.5, y: 61.5}
+      - {x: 82.5, y: 69.5}
+      - {x: 58.5, y: 19.5}
+      - {x: 38.5, y: 19.5}
+      - {x: 19.499998, y: 41.5}
+      - {x: 19.499998, y: 25.5}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup4
+      rect:
+        serializedVersion: 2
+        x: 1778.0762
+        y: 0.042907715
+        width: 173.84775
+        height: 218.91418
+      alignment: 9
+      pivot: {x: 0.22345856, y: 0.14350003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.076122, y: -123.54291}
+        - {x: -128.07613, y: -97.54291}
+        - {x: -128.07613, y: 60.4571}
+        - {x: -125.076126, y: 61.4571}
+        - {x: -44.076122, y: 95.4571}
+        - {x: -38.076122, y: 95.4571}
+        - {x: -31.076122, y: 91.4571}
+        - {x: -28.076122, y: 94.4571}
+        - {x: -22.076122, y: 94.4571}
+        - {x: 45.923878, y: 70.4571}
+        - {x: 45.923878, y: -93.54291}
+        - {x: -28.076122, y: -123.54291}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3bf2c78302439a97e51a7afcb73c5d
+      internalID: 21300098
+      vertices:
+      - {x: 112.92386, y: 281.9571}
+      - {x: 180.92386, y: 93.957085}
+      - {x: 180.92386, y: 257.9571}
+      - {x: 106.92386, y: 281.9571}
+      - {x: 106.92386, y: 63.957085}
+      - {x: 103.92386, y: 278.9571}
+      - {x: 96.92386, y: 282.9571}
+      - {x: 90.92386, y: 282.9571}
+      - {x: 76.92386, y: 63.957085}
+      - {x: 9.923859, y: 248.95709}
+      - {x: 6.9238586, y: 247.95709}
+      - {x: 6.9238586, y: 89.957085}
+      indices: 0b0000000a0000000800000009000000080000000a000000070000000800000009000000040000000800000007000000060000000400000007000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup_Flipped4
+      rect:
+        serializedVersion: 2
+        x: 333.0761
+        y: 736.02673
+        width: 173.84775
+        height: 251.93034
+      alignment: 9
+      pivot: {x: 0.30398878, y: -0.0021970554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.923878, y: -140.01868}
+        - {x: 40.923878, y: -141.01868}
+        - {x: -29.076122, y: -172.01868}
+        - {x: -41.076122, y: -172.01868}
+        - {x: -128.07613, y: -139.01868}
+        - {x: -128.07613, y: -112.01868}
+        - {x: -125.076126, y: -104.01868}
+        - {x: -125.076126, y: 19.981323}
+        - {x: -128.07613, y: 30.981323}
+        - {x: -128.07613, y: 51.981323}
+        - {x: -64.076126, y: 79.98132}
+        - {x: -37.076122, y: 79.98132}
+        - {x: 45.923878, y: 47.981323}
+        - {x: 45.923878, y: 16.981323}
+        - {x: 43.923878, y: 7.9813232}
+        - {x: 43.923878, y: -108.01868}
+        - {x: 45.923878, y: -123.01868}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1735f07c874645f1941489fb078c6505
+      internalID: 21300100
+      vertices:
+      - {x: -7.0761414, y: 304.46518}
+      - {x: -4.0761414, y: 272.46518}
+      - {x: 56.92386, y: 332.46518}
+      - {x: -7.0761414, y: 283.46518}
+      - {x: 166.92386, y: 300.46518}
+      - {x: 164.92386, y: 260.46518}
+      - {x: 166.92386, y: 269.46518}
+      - {x: 161.92386, y: 111.46517}
+      - {x: 164.92386, y: 144.46518}
+      - {x: 91.92386, y: 80.46517}
+      - {x: 83.92386, y: 332.46518}
+      - {x: 79.92386, y: 80.46517}
+      - {x: -4.0761414, y: 148.46518}
+      - {x: -7.0761414, y: 140.46518}
+      - {x: -7.0761414, y: 113.46517}
+      - {x: 166.92386, y: 112.46517}
+      - {x: 166.92386, y: 129.46518}
+      indices: 07000000080000000f000000100000000f000000080000000e0000000d0000000b0000000c0000000b0000000d000000010000000b0000000c000000020000000b000000010000000a0000000b00000002000000090000000b0000000a00000004000000090000000a000000050000000900000004000000070000000900000005000000080000000700000005000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxComputer_FoldUp3
+      rect:
+        serializedVersion: 2
+        x: 736.0761
+        y: 1300.0273
+        width: 157.84775
+        height: 206.94592
+      alignment: 9
+      pivot: {x: 0.05605254, y: -0.041337535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.076126, y: -138.5276}
+        - {x: -137.07613, y: -133.5276}
+        - {x: -137.07613, y: 43.472404}
+        - {x: -50.076126, y: 68.472404}
+        - {x: -33.076126, y: 68.472404}
+        - {x: 19.923874, y: 45.472404}
+        - {x: 20.923874, y: 40.472404}
+        - {x: 20.923874, y: 32.472404}
+        - {x: 7.923874, y: -80.5276}
+        - {x: 5.923874, y: -97.5276}
+        - {x: -73.076126, y: -138.5276}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc094c24b1194d97acd8b2cb68afc45f
+      internalID: 21300102
+      vertices:
+      - {x: 168.92386, y: 260.97296}
+      - {x: 169.92386, y: 247.97296}
+      - {x: 169.92386, y: 255.97296}
+      - {x: 156.92386, y: 134.97296}
+      - {x: 154.92386, y: 117.97295}
+      - {x: 115.92386, y: 283.97296}
+      - {x: 98.92386, y: 283.97296}
+      - {x: 75.92386, y: 76.97295}
+      - {x: 44.92386, y: 76.97295}
+      - {x: 11.923859, y: 258.97296}
+      - {x: 11.923859, y: 81.97295}
+      indices: 0a0000000900000008000000060000000800000009000000070000000800000006000000040000000700000006000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup6
+      rect:
+        serializedVersion: 2
+        x: 943.0761
+        y: 0.042907715
+        width: 173.84775
+        height: 251.91418
+      alignment: 9
+      pivot: {x: 0.22345847, y: -0.049960725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.076126, y: -178.04291}
+        - {x: -128.07613, y: -152.04291}
+        - {x: -128.07613, y: -39.042908}
+        - {x: -125.076126, y: 3.9570923}
+        - {x: -128.07613, y: 9.957092}
+        - {x: -128.07613, y: 41.957092}
+        - {x: -127.076126, y: 43.957092}
+        - {x: -45.076122, y: 73.95709}
+        - {x: -38.076122, y: 73.95709}
+        - {x: -31.076122, y: 69.95709}
+        - {x: -28.076122, y: 72.95709}
+        - {x: -23.076122, y: 71.95709}
+        - {x: 45.923878, y: 51.957092}
+        - {x: 45.923878, y: -59.042908}
+        - {x: 43.923878, y: -108.04291}
+        - {x: 45.923878, y: -114.04291}
+        - {x: 45.923878, y: -148.04291}
+        - {x: -35.076122, y: -178.04291}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab77841f4104d53bf9961309958f3ff
+      internalID: 21300104
+      vertices:
+      - {x: 180.92387, y: 316.4571}
+      - {x: 178.92387, y: 156.45709}
+      - {x: 180.92387, y: 205.45709}
+      - {x: 111.923874, y: 336.4571}
+      - {x: 180.92387, y: 116.45709}
+      - {x: 180.92387, y: 150.45709}
+      - {x: 106.923874, y: 337.4571}
+      - {x: 103.923874, y: 334.4571}
+      - {x: 99.923874, y: 86.45709}
+      - {x: 96.923874, y: 338.4571}
+      - {x: 89.923874, y: 338.4571}
+      - {x: 67.923874, y: 86.45709}
+      - {x: 9.923874, y: 268.4571}
+      - {x: 7.923874, y: 308.4571}
+      - {x: 6.923874, y: 306.4571}
+      - {x: 6.923874, y: 274.4571}
+      - {x: 6.923874, y: 225.45709}
+      - {x: 6.923874, y: 112.45709}
+      indices: 11000000100000000b0000000c0000000b000000100000000f0000000e0000000c0000000d0000000c0000000e0000000a0000000c0000000d0000000b0000000c0000000a000000080000000b0000000a00000009000000080000000a000000070000000800000009000000040000000800000007000000060000000400000007000000030000000400000006000000010000000400000003000000050000000400000001000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxComputer_FoldUp4
+      rect:
+        serializedVersion: 2
+        x: 517.0761
+        y: 1718.043
+        width: 144.84775
+        height: 205.93034
+      alignment: 9
+      pivot: {x: -0.049377512, y: -0.012556711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.57611, y: -116.05099}
+        - {x: -138.57611, y: -115.05099}
+        - {x: -138.57611, y: 35.94902}
+        - {x: -74.57611, y: 70.94902}
+        - {x: -32.57611, y: 70.94902}
+        - {x: 6.423889, y: 52.94902}
+        - {x: 6.423889, y: -99.05099}
+        - {x: -79.57611, y: -135.051}
+        - {x: -85.57611, y: -135.051}
+        - {x: -88.57611, y: -134.051}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033cfe781b6040edb0c8638907cb853c
+      internalID: 21300106
+      vertices:
+      - {x: 119.42386, y: 279.46518}
+      - {x: 158.42386, y: 109.465164}
+      - {x: 158.42386, y: 261.46518}
+      - {x: 77.42386, y: 279.46518}
+      - {x: 72.42386, y: 73.465164}
+      - {x: 66.42386, y: 73.465164}
+      - {x: 63.42386, y: 74.465164}
+      - {x: 19.423859, y: 92.465164}
+      - {x: 13.423859, y: 244.46518}
+      - {x: 13.423859, y: 93.465164}
+      indices: 090000000800000007000000030000000700000008000000060000000700000003000000050000000600000003000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening_Flipped7
+      rect:
+        serializedVersion: 2
+        x: 1132.0762
+        y: 1032.0267
+        width: 187.84775
+        height: 191.94576
+      alignment: 9
+      pivot: {x: 0.44103688, y: -0.3988288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.0761, y: -36.026367}
+        - {x: -120.0761, y: -27.026367}
+        - {x: -120.0761, y: -19.026367}
+        - {x: -56.076103, y: 11.973633}
+        - {x: -10.076103, y: 11.973633}
+        - {x: 67.9239, y: -40.026367}
+        - {x: 67.9239, y: -108.02637}
+        - {x: 57.923897, y: -146.02637}
+        - {x: -10.076103, y: -180.02637}
+        - {x: -15.076103, y: -180.02637}
+        - {x: -99.0761, y: -141.02637}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cda389e1ca49e1aac4dba073af9a78
+      internalID: 21300108
+      vertices:
+      - {x: 172.92386, y: 228.47287}
+      - {x: 162.92386, y: 122.47288}
+      - {x: 172.92386, y: 160.47287}
+      - {x: 94.92386, y: 280.47287}
+      - {x: 94.92386, y: 88.47288}
+      - {x: 89.92386, y: 88.47288}
+      - {x: 48.92386, y: 280.47287}
+      - {x: 5.9238586, y: 127.47288}
+      - {x: 3.9238586, y: 232.47287}
+      - {x: -15.076141, y: 249.47287}
+      - {x: -15.076141, y: 241.47287}
+      indices: 0a0000000900000008000000060000000800000009000000070000000800000006000000050000000700000006000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup_Flipped5
+      rect:
+        serializedVersion: 2
+        x: 376.0761
+        y: 452.02676
+        width: 188.84775
+        height: 234.93697
+      alignment: 9
+      pivot: {x: 0.35397702, y: -0.10451103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125.576126, y: 11.478012}
+        - {x: -128.57611, y: 32.478012}
+        - {x: -128.57611, y: 41.478012}
+        - {x: -123.576126, y: 43.478012}
+        - {x: -54.576126, y: 58.478027}
+        - {x: -42.576126, y: 59.478027}
+        - {x: -33.576126, y: 59.478027}
+        - {x: 54.423874, y: 31.478012}
+        - {x: 60.423874, y: 29.478012}
+        - {x: 60.423874, y: 8.478012}
+        - {x: 58.423874, y: -6.521988}
+        - {x: 60.423874, y: -53.521988}
+        - {x: 60.423874, y: -159.52199}
+        - {x: -11.576126, y: -167.52199}
+        - {x: -23.576126, y: -175.52199}
+        - {x: -57.576126, y: -175.52199}
+        - {x: -126.576126, y: -152.52199}
+        - {x: -128.57611, y: -145.52199}
+        - {x: -128.57611, y: -33.521988}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eb213e8a464d39afa46cba958875f1
+      internalID: 21300110
+      vertices:
+      - {x: 182.42386, y: 288.96848}
+      - {x: 180.42386, y: 252.96848}
+      - {x: 182.42386, y: 267.96848}
+      - {x: 176.42386, y: 290.96848}
+      - {x: 182.42386, y: 99.96848}
+      - {x: 182.42386, y: 205.96848}
+      - {x: 110.42386, y: 91.96848}
+      - {x: 98.42386, y: 83.96848}
+      - {x: 88.42386, y: 318.9685}
+      - {x: 79.42386, y: 318.9685}
+      - {x: 67.42386, y: 317.9685}
+      - {x: 64.42386, y: 83.96848}
+      - {x: -1.5761414, y: 302.96848}
+      - {x: -3.5761414, y: 270.96848}
+      - {x: -4.5761414, y: 106.96848}
+      - {x: -6.5761337, y: 225.96848}
+      - {x: -6.5761337, y: 113.96848}
+      - {x: -6.5761337, y: 300.96848}
+      - {x: -6.5761337, y: 291.96848}
+      indices: 12000000110000000d0000000c0000000d00000011000000100000000f0000000e0000000d0000000e0000000f0000000b0000000e0000000d0000000c0000000b0000000d0000000a0000000b0000000c000000070000000b0000000a00000009000000070000000a000000080000000700000009000000030000000700000008000000060000000700000003000000040000000600000003000000010000000400000003000000050000000400000001000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup5
+      rect:
+        serializedVersion: 2
+        x: 1258.0762
+        y: 564.0761
+        width: 188.84775
+        height: 201.84775
+      alignment: 9
+      pivot: {x: 0.2904337, y: 0.036402494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.576126, y: -111.07611}
+        - {x: -127.576126, y: -111.07611}
+        - {x: -127.576126, y: -90.07611}
+        - {x: -124.576126, y: -76.07611}
+        - {x: -125.576126, y: 10.923882}
+        - {x: -127.576126, y: 21.92389}
+        - {x: -127.576126, y: 45.92389}
+        - {x: -43.576122, y: 74.92389}
+        - {x: -8.576122, y: 74.92389}
+        - {x: 61.423878, y: 58.92389}
+        - {x: 61.423878, y: 37.92389}
+        - {x: 59.423878, y: 25.923897}
+        - {x: 61.423878, y: -35.076115}
+        - {x: 61.423878, y: -97.07611}
+        - {x: -29.576122, y: -127.07611}
+        - {x: -38.576122, y: -127.07611}
+        - {x: -39.576122, y: -117.07611}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0252b702a3c405f915d04ddb79f2fc7
+      internalID: 21300112
+      vertices:
+      - {x: 195.42387, y: 253.42387}
+      - {x: 193.42387, y: 220.42389}
+      - {x: 195.42387, y: 232.42387}
+      - {x: 125.423874, y: 269.4239}
+      - {x: 195.42387, y: 97.423874}
+      - {x: 195.42387, y: 159.42387}
+      - {x: 104.423874, y: 67.423874}
+      - {x: 95.423874, y: 67.423874}
+      - {x: 94.423874, y: 77.423874}
+      - {x: 90.423874, y: 269.4239}
+      - {x: 22.423874, y: 83.423874}
+      - {x: 9.423874, y: 118.423874}
+      - {x: 8.423874, y: 205.42386}
+      - {x: 6.423874, y: 240.42387}
+      - {x: 6.423874, y: 216.42387}
+      - {x: 6.423874, y: 104.423874}
+      - {x: 6.423874, y: 83.423874}
+      indices: 100000000f0000000a0000000b0000000a0000000f0000000e0000000d0000000c000000090000000c0000000d0000000b0000000c000000090000000a0000000b00000009000000080000000a00000009000000030000000800000009000000070000000800000003000000060000000700000003000000040000000600000003000000010000000400000003000000050000000400000001000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup_Flipped6
+      rect:
+        serializedVersion: 2
+        x: 1347.0762
+        y: 756.02673
+        width: 173.84775
+        height: 218.93034
+      alignment: 9
+      pivot: {x: 0.30398878, y: 0.08882509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.923878, y: -99.51867}
+        - {x: -22.076122, y: -127.51867}
+        - {x: -32.076122, y: -129.51868}
+        - {x: -43.076122, y: -129.51868}
+        - {x: -128.07613, y: -93.51867}
+        - {x: -128.07613, y: -72.51867}
+        - {x: -126.076126, y: -58.51867}
+        - {x: -126.076126, y: 28.48133}
+        - {x: -128.07613, y: 39.48134}
+        - {x: -128.07613, y: 62.48134}
+        - {x: -58.076122, y: 89.48134}
+        - {x: -38.076122, y: 89.48134}
+        - {x: 45.923878, y: 54.48134}
+        - {x: 45.923878, y: 1.4813309}
+        - {x: 43.923878, y: -65.51867}
+        - {x: 45.923878, y: -77.51867}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf475302a8fc4b5b87d3c35e360766a6
+      internalID: 21300114
+      vertices:
+      - {x: -7.0761414, y: 261.96518}
+      - {x: -5.0761414, y: 227.96516}
+      - {x: 62.92386, y: 288.96518}
+      - {x: -7.0761414, y: 238.96518}
+      - {x: 166.92386, y: 253.96518}
+      - {x: 164.92386, y: 133.96516}
+      - {x: 166.92386, y: 200.96516}
+      - {x: 98.92386, y: 71.965164}
+      - {x: 88.92386, y: 69.965164}
+      - {x: 82.92386, y: 288.96518}
+      - {x: 77.92386, y: 69.965164}
+      - {x: -5.0761414, y: 140.96516}
+      - {x: -7.0761414, y: 126.965164}
+      - {x: -7.0761414, y: 105.965164}
+      - {x: 166.92386, y: 99.965164}
+      - {x: 166.92386, y: 121.965164}
+      indices: 07000000050000000e0000000f0000000e000000050000000d0000000c0000000a0000000b0000000a0000000c000000010000000a0000000b000000020000000a00000001000000090000000a00000002000000080000000a00000009000000040000000800000009000000070000000800000004000000050000000700000004000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlushDragon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 66
+        height: 87
+      alignment: 9
+      pivot: {x: 0.43939394, y: 0.028735632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -43.5}
+        - {x: -33, y: -32.5}
+        - {x: -33, y: 32.5}
+        - {x: -22, y: 43.5}
+        - {x: 21, y: 43.5}
+        - {x: 33, y: 39.5}
+        - {x: 33, y: -38.5}
+        - {x: 24, y: -43.5}
+      physicsShape:
+      - - {x: 33, y: -18.5}
+        - {x: 33, y: -15.5}
+        - {x: 29.386292, y: -12.306852}
+        - {x: 24.772583, y: -12.264278}
+        - {x: 18, y: -16.500002}
+        - {x: 18, y: -8.5}
+        - {x: 7.276679, y: 2.5959206}
+        - {x: 18.999998, y: 2.5}
+        - {x: 25.999998, y: 8.499996}
+        - {x: 26.644857, y: 16.136555}
+        - {x: 24.288507, y: 26.557114}
+        - {x: 19.105656, y: 26.753105}
+        - {x: 19.062305, y: 36.79283}
+        - {x: 11.482868, y: 43.5}
+        - {x: 5.9491196, y: 43.5}
+        - {x: -9.622015, y: 39.210274}
+        - {x: -13.884127, y: 36.020668}
+        - {x: -16.965733, y: 28.403435}
+        - {x: -23.009865, y: 27.586716}
+        - {x: -23.332294, y: 23.607986}
+        - {x: -17.03946, y: 18.974556}
+        - {x: -16.927017, y: 14.224495}
+        - {x: -27.686466, y: 14.004723}
+        - {x: -33, y: 9.750256}
+        - {x: -33, y: 6.313854}
+        - {x: -27.042576, y: -6.6817245}
+        - {x: -12.329178, y: -7.1531677}
+        - {x: -13.788021, y: -11.756683}
+        - {x: -28, y: -14.500002}
+        - {x: -28, y: -19.500002}
+        - {x: -18.49429, y: -29.230011}
+        - {x: -17, y: -34.5}
+        - {x: -3, y: -43.5}
+        - {x: 3.6315193, y: -43.5}
+        - {x: 8.289719, y: -39.553997}
+        - {x: 8.310748, y: -33.141792}
+        - {x: 12.710152, y: -28.689117}
+        - {x: 20.730011, y: -32.78972}
+        - {x: 25.013163, y: -32.57607}
+        - {x: 29.085148, y: -28.70457}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a810efcf1c244aab3a2283b29d0ea60
+      internalID: 21300116
+      vertices:
+      - {x: 70, y: 124}
+      - {x: 61, y: 41}
+      - {x: 70, y: 46}
+      - {x: 58, y: 128}
+      - {x: 15, y: 128}
+      - {x: 13, y: 41}
+      - {x: 4, y: 117}
+      - {x: 4, y: 52}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening3
+      rect:
+        serializedVersion: 2
+        x: 0.026752472
+        y: 981.02673
+        width: 180.89713
+        height: 205.94649
+      alignment: 9
+      pivot: {x: 0.10473632, y: -0.3717155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140.50206, y: -155.02673}
+        - {x: -141.50206, y: -141.02673}
+        - {x: -141.50206, y: -29.026733}
+        - {x: -135.50206, y: -18.026733}
+        - {x: -52.50206, y: 18.973267}
+        - {x: -44.50206, y: 18.973267}
+        - {x: -38.50206, y: 17.973267}
+        - {x: 39.49794, y: -18.026733}
+        - {x: 39.49794, y: -56.026733}
+        - {x: 11.49794, y: -146.02673}
+        - {x: -70.50206, y: -187.02673}
+        - {x: -72.50206, y: -187.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e548a790371045ca8cd2c30b94005cc1
+      internalID: 21300118
+      vertices:
+      - {x: 201.44856, y: 264.47324}
+      - {x: 173.44856, y: 136.47324}
+      - {x: 201.44856, y: 226.47324}
+      - {x: 123.44856, y: 300.47324}
+      - {x: 117.44856, y: 301.47324}
+      - {x: 109.44856, y: 301.47324}
+      - {x: 91.44856, y: 95.47324}
+      - {x: 89.44856, y: 95.47324}
+      - {x: 26.448563, y: 264.47324}
+      - {x: 21.448563, y: 127.47324}
+      - {x: 20.448563, y: 253.47324}
+      - {x: 20.448563, y: 141.47324}
+      indices: 0b0000000a0000000900000008000000090000000a000000070000000900000008000000050000000700000008000000060000000700000005000000010000000600000005000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup_Flipped1
+      rect:
+        serializedVersion: 2
+        x: 1069.0646
+        y: 1665.0762
+        width: 182.85925
+        height: 156.89713
+      alignment: 9
+      pivot: {x: 0.2891336, y: -0.24635401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5588875, y: -117.60081}
+        - {x: -9.5588875, y: -127.60081}
+        - {x: -38.558887, y: -127.60081}
+        - {x: -129.55888, y: -89.60081}
+        - {x: -132.55888, y: -70.60081}
+        - {x: -132.55888, y: -14.6008}
+        - {x: -131.55888, y: -5.600807}
+        - {x: -51.558887, y: 29.3992}
+        - {x: -37.558887, y: 29.3992}
+        - {x: 39.441113, y: -8.600807}
+        - {x: 50.441113, y: -25.600807}
+        - {x: 50.441113, y: -57.600807}
+        - {x: 31.441113, y: -90.60081}
+        - {x: 18.441116, y: -104.60081}
+        - {x: 10.4411125, y: -109.60081}
+        - {x: -8.558889, y: -111.60081}
+        - {x: -5.5588875, y: -114.60081}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a0ab8c62a94e45b612bcf6b9cdb593
+      internalID: 21300120
+      vertices:
+      - {x: 169.42961, y: 186.94855}
+      - {x: 180.42961, y: 137.94855}
+      - {x: 180.42961, y: 169.94855}
+      - {x: 161.42961, y: 104.948555}
+      - {x: 148.42961, y: 90.948555}
+      - {x: 140.42961, y: 85.948555}
+      - {x: 121.42961, y: 83.948555}
+      - {x: 92.42961, y: 224.94856}
+      - {x: 120.42961, y: 67.948555}
+      - {x: 91.42961, y: 67.948555}
+      - {x: 78.42961, y: 224.94856}
+      - {x: 0.4296112, y: 105.948555}
+      - {x: -1.5703888, y: 189.94855}
+      - {x: -2.5703888, y: 180.94856}
+      - {x: -2.5703888, y: 124.948555}
+      - {x: 125.42961, y: 77.948555}
+      - {x: 124.42961, y: 80.948555}
+      indices: 08000000060000000f000000100000000f000000060000000e0000000d0000000b0000000c0000000b0000000d0000000a0000000b0000000c000000090000000b0000000a00000007000000090000000a000000080000000900000007000000060000000800000007000000000000000600000007000000050000000600000000000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening_Flipped4
+      rect:
+        serializedVersion: 2
+        x: 546.0477
+        y: 600.02673
+        width: 204.87617
+        height: 213.94649
+      alignment: 9
+      pivot: {x: 0.40465716, y: -0.3578161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.53349, y: -71.02673}
+        - {x: -128.5335, y: -69.02673}
+        - {x: -128.5335, y: -63.026726}
+        - {x: -126.53349, y: -54.026733}
+        - {x: -103.53349, y: -36.026733}
+        - {x: -6.533493, y: 22.973267}
+        - {x: -1.533493, y: 22.973267}
+        - {x: 76.46651, y: -14.026733}
+        - {x: 76.46651, y: -38.026733}
+        - {x: 49.466507, y: -157.02673}
+        - {x: -15.533493, y: -191.02673}
+        - {x: -20.533493, y: -191.02673}
+        - {x: -102.53349, y: -152.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1d0c7b78db44e0a7d12b947e0afac3
+      internalID: 21300122
+      vertices:
+      - {x: 198.43808, y: 276.47324}
+      - {x: 171.43808, y: 133.47324}
+      - {x: 198.43808, y: 252.47324}
+      - {x: 120.43807, y: 313.47324}
+      - {x: 115.43807, y: 313.47324}
+      - {x: 106.43807, y: 99.47324}
+      - {x: 101.43807, y: 99.47324}
+      - {x: 19.438072, y: 138.47324}
+      - {x: 18.438072, y: 254.47324}
+      - {x: -4.561928, y: 236.47324}
+      - {x: -4.561928, y: 219.47324}
+      - {x: -6.561928, y: 227.47325}
+      - {x: -6.561928, y: 221.47324}
+      indices: 0c0000000b0000000a000000090000000a0000000b000000070000000a00000009000000080000000700000009000000040000000700000008000000060000000700000004000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening5
+      rect:
+        serializedVersion: 2
+        x: 1082.0762
+        y: 208.02673
+        width: 200.84775
+        height: 199.94649
+      alignment: 9
+      pivot: {x: 0.3726592, y: -0.38286993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.57611, y: -184.02673}
+        - {x: -123.57611, y: -114.02673}
+        - {x: -123.57611, y: -37.026733}
+        - {x: -106.57611, y: -15.026733}
+        - {x: -48.57611, y: 15.973267}
+        - {x: -11.576111, y: 15.973267}
+        - {x: 58.42389, y: -16.026733}
+        - {x: 77.42389, y: -58.02674}
+        - {x: 77.42389, y: -71.02674}
+        - {x: 57.42389, y: -143.02673}
+        - {x: -24.57611, y: -184.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186437562ad14380ac4eb8dcb6cccb05
+      internalID: 21300124
+      vertices:
+      - {x: 184.42387, y: 260.47324}
+      - {x: 203.42387, y: 205.47324}
+      - {x: 203.42387, y: 218.47324}
+      - {x: 183.42387, y: 133.47324}
+      - {x: 114.423874, y: 292.47324}
+      - {x: 101.423874, y: 92.47324}
+      - {x: 77.423874, y: 292.47324}
+      - {x: 57.423874, y: 92.47324}
+      - {x: 19.423874, y: 261.47324}
+      - {x: 2.423874, y: 239.47324}
+      - {x: 2.423874, y: 162.47324}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000050000000700000006000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup6
+      rect:
+        serializedVersion: 2
+        x: 1832.0762
+        y: 766.0429
+        width: 173.84775
+        height: 218.91418
+      alignment: 9
+      pivot: {x: 0.22345847, y: 0.08868399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.076126, y: -129.54291}
+        - {x: -128.07613, y: -110.54291}
+        - {x: -128.07613, y: 54.457092}
+        - {x: -46.076122, y: 89.45709}
+        - {x: -32.076122, y: 89.45709}
+        - {x: -28.076122, y: 88.45709}
+        - {x: -22.076122, y: 88.45709}
+        - {x: 45.923878, y: 59.457092}
+        - {x: 45.923878, y: -102.54291}
+        - {x: -37.076122, y: -128.54291}
+        - {x: -38.076122, y: -129.54291}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0f85f2f3384bca8ebf492d3b4495d6
+      internalID: 21300126
+      vertices:
+      - {x: 112.923874, y: 287.9571}
+      - {x: 180.92387, y: 96.95709}
+      - {x: 180.92387, y: 258.9571}
+      - {x: 106.923874, y: 287.9571}
+      - {x: 102.923874, y: 288.9571}
+      - {x: 97.923874, y: 70.95709}
+      - {x: 96.923874, y: 69.95709}
+      - {x: 88.923874, y: 288.9571}
+      - {x: 63.923874, y: 69.95709}
+      - {x: 6.923874, y: 253.95709}
+      - {x: 6.923874, y: 88.95709}
+      indices: 0a0000000900000008000000070000000800000009000000060000000800000007000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxComputer_FoldUp6
+      rect:
+        serializedVersion: 2
+        x: 1339.0762
+        y: 1496.043
+        width: 144.84775
+        height: 205.93034
+      alignment: 9
+      pivot: {x: -0.049377512, y: -0.07082884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.57611, y: -141.051}
+        - {x: -138.57611, y: -126.05099}
+        - {x: -138.57611, y: 29.94902}
+        - {x: -62.57611, y: 64.94902}
+        - {x: -43.57611, y: 64.94902}
+        - {x: -0.57611084, y: 49.94902}
+        - {x: 6.423889, y: 42.94902}
+        - {x: 6.423889, y: -47.050987}
+        - {x: 5.423889, y: -84.05099}
+        - {x: 6.423889, y: -87.05099}
+        - {x: 6.423889, y: -105.05099}
+        - {x: -68.57611, y: -141.051}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26b6fadd44e409e9358630d9b15bcc0
+      internalID: 21300128
+      vertices:
+      - {x: 158.42386, y: 263.46518}
+      - {x: 157.42386, y: 136.46516}
+      - {x: 158.42386, y: 173.46516}
+      - {x: 151.42386, y: 270.46518}
+      - {x: 158.42386, y: 115.465164}
+      - {x: 158.42386, y: 133.46516}
+      - {x: 108.42386, y: 285.46518}
+      - {x: 89.42386, y: 285.46518}
+      - {x: 83.42386, y: 79.465164}
+      - {x: 54.42386, y: 79.465164}
+      - {x: 13.423859, y: 250.46518}
+      - {x: 13.423859, y: 94.465164}
+      indices: 0b0000000a0000000900000007000000090000000a000000080000000900000007000000040000000800000007000000060000000400000007000000010000000400000006000000030000000100000006000000050000000400000001000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup_Flipped6
+      rect:
+        serializedVersion: 2
+        x: 1675.0762
+        y: 353.02676
+        width: 173.84775
+        height: 218.93034
+      alignment: 9
+      pivot: {x: 0.30398878, y: 0.08882509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.923878, y: -99.51867}
+        - {x: -22.076122, y: -127.51867}
+        - {x: -31.076122, y: -129.51868}
+        - {x: -43.076122, y: -129.51868}
+        - {x: -128.07613, y: -93.51867}
+        - {x: -128.07613, y: -72.51867}
+        - {x: -126.076126, y: -58.51867}
+        - {x: -126.076126, y: 28.48133}
+        - {x: -128.07613, y: 39.48134}
+        - {x: -128.07613, y: 62.48134}
+        - {x: -58.076122, y: 89.48134}
+        - {x: -38.076122, y: 89.48134}
+        - {x: 45.923878, y: 54.48134}
+        - {x: 45.923878, y: 1.4813309}
+        - {x: 43.923878, y: -65.51867}
+        - {x: 45.923878, y: -77.51867}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3731483383d14acb910815329c822fca
+      internalID: 21300130
+      vertices:
+      - {x: -7.0761414, y: 261.96518}
+      - {x: -5.0761414, y: 227.96516}
+      - {x: 62.92386, y: 288.96518}
+      - {x: -7.0761414, y: 238.96518}
+      - {x: 166.92386, y: 253.96518}
+      - {x: 164.92386, y: 133.96516}
+      - {x: 166.92386, y: 200.96516}
+      - {x: 98.92386, y: 71.965164}
+      - {x: 89.92386, y: 69.965164}
+      - {x: 82.92386, y: 288.96518}
+      - {x: 77.92386, y: 69.965164}
+      - {x: -5.0761414, y: 140.96516}
+      - {x: -7.0761414, y: 126.965164}
+      - {x: -7.0761414, y: 105.965164}
+      - {x: 166.92386, y: 99.965164}
+      - {x: 166.92386, y: 121.965164}
+      indices: 07000000050000000e0000000f0000000e000000050000000d0000000c0000000a0000000b0000000a0000000c000000010000000a0000000b000000020000000a00000001000000090000000a00000002000000080000000a00000009000000040000000800000009000000070000000800000004000000050000000700000004000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup_Flipped3
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.026752472
+        width: 201.84775
+        height: 255.94649
+      alignment: 9
+      pivot: {x: 0.36090454, y: -0.033419114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.92388, y: -31.026756}
+        - {x: 45.92388, y: -152.02675}
+        - {x: 2.9238815, y: -149.02675}
+        - {x: -10.076118, y: -178.02675}
+        - {x: -40.07612, y: -178.02675}
+        - {x: -110.07612, y: -139.02675}
+        - {x: -116.07612, y: 5.9732513}
+        - {x: -132.07613, y: 28.973251}
+        - {x: -132.07613, y: 36.97325}
+        - {x: -70.07612, y: 69.97325}
+        - {x: -42.07612, y: 75.97325}
+        - {x: -38.07612, y: 77.97325}
+        - {x: -31.076118, y: 77.97325}
+        - {x: 46.92388, y: 37.97325}
+        - {x: 69.92388, y: 2.9732513}
+        - {x: 69.92388, y: -21.026749}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76544a9aeb94422e94719288c5e3da40
+      internalID: 21300132
+      vertices:
+      - {x: 175.92386, y: 302.47324}
+      - {x: 198.92386, y: 243.47324}
+      - {x: 198.92386, y: 267.47324}
+      - {x: 173.92386, y: 233.47324}
+      - {x: 131.92386, y: 115.47324}
+      - {x: 118.92386, y: 86.47324}
+      - {x: 97.92386, y: 342.47324}
+      - {x: 90.92386, y: 342.47324}
+      - {x: 88.92386, y: 86.47324}
+      - {x: 86.92386, y: 340.47324}
+      - {x: 58.92386, y: 334.47324}
+      - {x: 18.923859, y: 125.47324}
+      - {x: 12.923859, y: 270.47324}
+      - {x: -3.076149, y: 301.47324}
+      - {x: -3.076149, y: 293.47324}
+      - {x: 174.92386, y: 112.47324}
+      indices: 04000000030000000f0000000e0000000d0000000c0000000a0000000c0000000d0000000b0000000c0000000a000000080000000b0000000a00000009000000080000000a000000070000000800000009000000050000000800000007000000060000000500000007000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening_Flipped6
+      rect:
+        serializedVersion: 2
+        x: 356.0761
+        y: 1413.0267
+        width: 185.84775
+        height: 182.94577
+      alignment: 9
+      pivot: {x: 0.2843605, y: -0.24353391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.07613, y: -143.5264}
+        - {x: -134.07613, y: -111.52639}
+        - {x: -134.07613, y: 20.473618}
+        - {x: -85.076126, y: 39.473618}
+        - {x: -59.07613, y: 39.473618}
+        - {x: 36.92387, y: -28.52639}
+        - {x: 51.92387, y: -48.52639}
+        - {x: 51.92387, y: -72.52639}
+        - {x: 28.92387, y: -109.52639}
+        - {x: -39.07613, y: -143.5264}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b7a2ea7ab47b29b0a66f8834eeba1
+      internalID: 21300134
+      vertices:
+      - {x: 169.92386, y: 198.97287}
+      - {x: 184.92386, y: 154.97287}
+      - {x: 184.92386, y: 178.97287}
+      - {x: 161.92386, y: 117.97288}
+      - {x: 93.92386, y: 83.97288}
+      - {x: 87.92386, y: 83.97288}
+      - {x: 73.92386, y: 266.9729}
+      - {x: 47.92386, y: 266.9729}
+      - {x: -1.0761414, y: 247.97289}
+      - {x: -1.0761414, y: 115.97288}
+      indices: 090000000800000005000000070000000500000008000000060000000500000007000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup1
+      rect:
+        serializedVersion: 2
+        x: 1254.0762
+        y: 1684.0762
+        width: 182.84775
+        height: 156.89713
+      alignment: 9
+      pivot: {x: 0.31090212, y: -0.24635406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.576126, y: -127.60081}
+        - {x: -123.576126, y: -70.60081}
+        - {x: -123.576126, y: -15.600807}
+        - {x: -111.576126, y: -9.6008}
+        - {x: -39.576122, y: 29.399193}
+        - {x: -4.5761204, y: 29.399193}
+        - {x: 59.423878, y: -11.600815}
+        - {x: 59.423878, y: -92.60081}
+        - {x: -9.576122, y: -127.60081}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3607fd81c36b4f57be6511d32e8f9b16
+      internalID: 21300136
+      vertices:
+      - {x: 121.423874, y: 224.94856}
+      - {x: 185.42387, y: 102.94856}
+      - {x: 185.42387, y: 183.94855}
+      - {x: 116.423874, y: 67.94856}
+      - {x: 86.423874, y: 224.94856}
+      - {x: 34.423874, y: 67.94856}
+      - {x: 14.423874, y: 185.94858}
+      - {x: 2.423874, y: 179.94856}
+      - {x: 2.423874, y: 124.94856}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup_Flipped1
+      rect:
+        serializedVersion: 2
+        x: 1486.0646
+        y: 1543.0762
+        width: 182.85925
+        height: 156.89713
+      alignment: 9
+      pivot: {x: 0.2891335, y: -0.24635406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5588913, y: -117.60081}
+        - {x: -9.558891, y: -127.60081}
+        - {x: -38.55889, y: -127.60081}
+        - {x: -129.5589, y: -89.60081}
+        - {x: -132.5589, y: -70.60081}
+        - {x: -132.5589, y: -14.600807}
+        - {x: -131.5589, y: -5.600807}
+        - {x: -51.55889, y: 29.399193}
+        - {x: -37.55889, y: 29.399193}
+        - {x: 39.44111, y: -8.600807}
+        - {x: 50.44111, y: -25.600807}
+        - {x: 50.44111, y: -57.600803}
+        - {x: 31.441109, y: -90.60081}
+        - {x: 18.441109, y: -104.60081}
+        - {x: 10.441109, y: -109.60081}
+        - {x: -8.558889, y: -111.60081}
+        - {x: -5.5588913, y: -114.60081}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3098578f4846a4adf5c49dfaaf7b45
+      internalID: 21300138
+      vertices:
+      - {x: 169.42963, y: 186.94856}
+      - {x: 180.42963, y: 137.94856}
+      - {x: 180.42963, y: 169.94856}
+      - {x: 161.42963, y: 104.94856}
+      - {x: 148.42963, y: 90.94856}
+      - {x: 140.42963, y: 85.94856}
+      - {x: 121.42963, y: 83.94856}
+      - {x: 92.42963, y: 224.94856}
+      - {x: 120.42963, y: 67.94856}
+      - {x: 91.42963, y: 67.94856}
+      - {x: 78.42963, y: 224.94856}
+      - {x: 0.42962646, y: 105.94856}
+      - {x: -1.5703735, y: 189.94856}
+      - {x: -2.5703735, y: 180.94856}
+      - {x: -2.5703735, y: 124.94856}
+      - {x: 125.42963, y: 77.94856}
+      - {x: 124.42963, y: 80.94856}
+      indices: 08000000060000000f000000100000000f000000060000000e0000000d0000000b0000000c0000000b0000000d0000000a0000000b0000000c000000090000000b0000000a00000007000000090000000a000000080000000900000007000000060000000800000007000000000000000600000007000000050000000600000000000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening5
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 1541.0267
+        width: 200.84775
+        height: 166.9465
+      alignment: 9
+      pivot: {x: 0.3726593, y: -0.2668729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.57611, y: -135.52676}
+        - {x: -123.57611, y: -78.52676}
+        - {x: -123.57611, y: -16.526756}
+        - {x: -99.57611, y: 8.473251}
+        - {x: -40.57611, y: 31.473251}
+        - {x: -17.57611, y: 31.473251}
+        - {x: 48.42389, y: 3.4732513}
+        - {x: 77.42389, y: -10.526756}
+        - {x: 77.42389, y: -71.52676}
+        - {x: 70.42389, y: -107.52676}
+        - {x: 30.423885, y: -135.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa44554964684c9581604204a987c534
+      internalID: 21300140
+      vertices:
+      - {x: 203.42386, y: 200.97324}
+      - {x: 196.42386, y: 103.97324}
+      - {x: 203.42386, y: 139.97324}
+      - {x: 174.42386, y: 214.97325}
+      - {x: 156.42386, y: 75.97324}
+      - {x: 108.42386, y: 242.97325}
+      - {x: 85.42386, y: 242.97325}
+      - {x: 60.42386, y: 75.97324}
+      - {x: 26.423859, y: 219.97325}
+      - {x: 2.4238586, y: 194.97324}
+      - {x: 2.4238586, y: 132.97324}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000040000000700000006000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening_Flipped3
+      rect:
+        serializedVersion: 2
+        x: 183.07613
+        y: 945.02673
+        width: 180.89713
+        height: 205.94649
+      alignment: 9
+      pivot: {x: 0.48009485, y: -0.3717155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.6008, y: -146.02673}
+        - {x: -114.6008, y: -89.02673}
+        - {x: -114.6008, y: 5.9732666}
+        - {x: -86.6008, y: 18.973267}
+        - {x: 14.3992, y: 18.973267}
+        - {x: 58.399197, y: -22.026733}
+        - {x: 64.3992, y: -28.026733}
+        - {x: 66.3992, y: -33.026733}
+        - {x: 66.3992, y: -42.026733}
+        - {x: 65.3992, y: -153.02673}
+        - {x: -2.6007996, y: -187.02673}
+        - {x: -7.6007996, y: -187.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab929226144475a9aaac52242e8a4c6
+      internalID: 21300142
+      vertices:
+      - {x: 160.44855, y: 249.47324}
+      - {x: 159.44855, y: 129.47324}
+      - {x: 160.44855, y: 240.47324}
+      - {x: 158.44855, y: 254.47324}
+      - {x: 152.44855, y: 260.47324}
+      - {x: 108.44855, y: 301.47324}
+      - {x: 91.44855, y: 95.47324}
+      - {x: 86.44855, y: 95.47324}
+      - {x: 7.4485474, y: 301.47324}
+      - {x: 6.4485474, y: 136.47324}
+      - {x: -20.551453, y: 288.47324}
+      - {x: -20.551453, y: 193.47324}
+      indices: 0b0000000a0000000900000008000000090000000a000000070000000900000008000000050000000700000008000000060000000700000005000000010000000600000005000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxComputer_FoldUp2
+      rect:
+        serializedVersion: 2
+        x: 1174.0762
+        y: 1477.0267
+        width: 162.84775
+        height: 185.9465
+      alignment: 9
+      pivot: {x: 0.06661294, y: -0.121290244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.57613, y: -110.02676}
+        - {x: -138.57613, y: -55.02676}
+        - {x: -138.57613, y: 13.973251}
+        - {x: -58.576126, y: 50.97325}
+        - {x: -32.576126, y: 50.97325}
+        - {x: 24.423874, y: 20.973251}
+        - {x: 24.423874, y: -29.026756}
+        - {x: 15.423874, y: -87.02676}
+        - {x: -66.576126, y: -135.02676}
+        - {x: -103.576126, y: -135.02676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5255cbd6f84edd948e2795c9ef32e1
+      internalID: 21300144
+      vertices:
+      - {x: 176.42386, y: 229.47325}
+      - {x: 167.42386, y: 121.47324}
+      - {x: 176.42386, y: 179.47324}
+      - {x: 119.42386, y: 259.47327}
+      - {x: 93.42386, y: 259.47327}
+      - {x: 85.42386, y: 73.47324}
+      - {x: 48.42386, y: 73.47324}
+      - {x: 19.423862, y: 98.47324}
+      - {x: 13.423859, y: 222.47325}
+      - {x: 13.423859, y: 153.47324}
+      indices: 090000000800000007000000040000000700000008000000060000000700000004000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup5
+      rect:
+        serializedVersion: 2
+        x: 0.076122284
+        y: 457.0761
+        width: 188.84775
+        height: 234.84776
+      alignment: 9
+      pivot: {x: 0.2904337, y: -0.10497117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121.576126, y: -159.57613}
+        - {x: -127.576126, y: -158.57613}
+        - {x: -127.576126, y: -135.57613}
+        - {x: -125.576126, y: -123.576126}
+        - {x: -127.576126, y: -47.576126}
+        - {x: -127.576126, y: 29.423874}
+        - {x: -103.576126, y: 37.423874}
+        - {x: -43.576122, y: 56.423874}
+        - {x: -37.576122, y: 58.42389}
+        - {x: -33.576122, y: 59.42389}
+        - {x: -15.576122, y: 59.42389}
+        - {x: 61.423878, y: 44.423874}
+        - {x: 61.423878, y: -143.57613}
+        - {x: -26.576122, y: -174.57613}
+        - {x: -29.576122, y: -175.57613}
+        - {x: -46.576122, y: -175.57613}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc7059724e44570ad1594e03629d80c
+      internalID: 21300146
+      vertices:
+      - {x: 118.423874, y: 318.9239}
+      - {x: 195.42387, y: 115.92388}
+      - {x: 195.42387, y: 303.9239}
+      - {x: 107.423874, y: 84.92388}
+      - {x: 104.423874, y: 83.92388}
+      - {x: 100.423874, y: 318.9239}
+      - {x: 96.423874, y: 317.9239}
+      - {x: 90.423874, y: 315.9239}
+      - {x: 87.423874, y: 83.92388}
+      - {x: 30.423874, y: 296.9239}
+      - {x: 12.423874, y: 99.92388}
+      - {x: 8.423874, y: 135.92389}
+      - {x: 6.423874, y: 288.9239}
+      - {x: 6.423874, y: 211.92389}
+      - {x: 6.423874, y: 123.92388}
+      - {x: 6.423874, y: 100.92388}
+      indices: 0f0000000e0000000a0000000b0000000a0000000e0000000d0000000c0000000b000000090000000b0000000c0000000a0000000b00000009000000080000000a00000009000000070000000800000009000000040000000800000007000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup3
+      rect:
+        serializedVersion: 2
+        x: 750.0761
+        y: 121.02731
+        width: 201.84775
+        height: 222.94594
+      alignment: 9
+      pivot: {x: 0.37081298, y: 0.10516164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.07611, y: -24.52761}
+        - {x: -124.07611, y: -3.5276108}
+        - {x: -124.07611, y: 29.472382}
+        - {x: -100.07611, y: 52.47239}
+        - {x: -46.07611, y: 93.47239}
+        - {x: 41.92389, y: 93.47239}
+        - {x: 68.92389, y: 81.47239}
+        - {x: 77.92389, y: 53.47239}
+        - {x: 77.92389, y: 42.47239}
+        - {x: 55.92389, y: -90.52761}
+        - {x: -3.0761108, y: -129.52762}
+        - {x: -37.07611, y: -129.52762}
+        - {x: -55.07611, y: -97.52761}
+        - {x: -92.07611, y: -110.52761}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a97ed27136c4c7a8ddd7c968ae8f7aa
+      internalID: 21300148
+      vertices:
+      - {x: 195.92387, y: 280.97296}
+      - {x: 204.92387, y: 241.97296}
+      - {x: 204.92387, y: 252.97296}
+      - {x: 182.92387, y: 108.97297}
+      - {x: 168.92387, y: 292.97296}
+      - {x: 123.923874, y: 69.97297}
+      - {x: 89.923874, y: 69.97297}
+      - {x: 80.923874, y: 292.97296}
+      - {x: 71.923874, y: 101.97297}
+      - {x: 34.923874, y: 88.97297}
+      - {x: 26.923874, y: 251.97296}
+      - {x: 10.923874, y: 174.97296}
+      - {x: 2.923874, y: 228.97296}
+      - {x: 2.923874, y: 195.97296}
+      indices: 0d0000000c0000000b0000000a0000000b0000000c000000090000000b0000000a00000007000000090000000a000000080000000900000007000000060000000800000007000000040000000600000007000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening1
+      rect:
+        serializedVersion: 2
+        x: 1875.0762
+        y: 1842.0267
+        width: 151.84775
+        height: 185.94594
+      alignment: 9
+      pivot: {x: 0.11095161, y: -0.4116976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.076122, y: -177.02646}
+        - {x: -128.07613, y: -143.02646}
+        - {x: -128.07613, y: -32.02646}
+        - {x: -49.076122, y: 8.973541}
+        - {x: -44.076122, y: 8.973541}
+        - {x: -17.076122, y: -2.0264587}
+        - {x: 0.92388153, y: 6.9735413}
+        - {x: 23.923878, y: -14.026459}
+        - {x: 23.923878, y: -136.02646}
+        - {x: -58.076122, y: -177.02646}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e890bee51f24e888f22963dfd80e5b7
+      internalID: 21300150
+      vertices:
+      - {x: 135.92387, y: 269.47296}
+      - {x: 158.92387, y: 126.47297}
+      - {x: 158.92387, y: 248.47296}
+      - {x: 117.923874, y: 260.47296}
+      - {x: 90.923874, y: 271.47296}
+      - {x: 85.923874, y: 271.47296}
+      - {x: 76.923874, y: 85.47297}
+      - {x: 71.923874, y: 85.47297}
+      - {x: 6.923874, y: 230.47296}
+      - {x: 6.923874, y: 119.47297}
+      indices: 090000000800000007000000050000000700000008000000060000000700000005000000010000000600000005000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FramedDrawingHorse
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1647
+        width: 102
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6372549, y: 0.08035714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.000001, y: -28}
+        - {x: -51, y: 0}
+        - {x: -51, y: 10}
+        - {x: -21, y: 28}
+        - {x: -5, y: 28}
+        - {x: 51, y: 2.999998}
+        - {x: 51, y: -13}
+        - {x: 15, y: -28}
+      physicsShape:
+      - - {x: -51, y: 8}
+        - {x: -51, y: 2}
+        - {x: 9, y: -28}
+        - {x: 11, y: -28}
+        - {x: 51, y: -8}
+        - {x: 51, y: -2.000002}
+        - {x: -8.999998, y: 28}
+        - {x: -11, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e1348ba3384df8ac18df9d0480690a
+      internalID: 21300152
+      vertices:
+      - {x: 88, y: 54.5}
+      - {x: 52, y: 23.5}
+      - {x: 88, y: 38.5}
+      - {x: 36, y: 23.5}
+      - {x: 32, y: 79.5}
+      - {x: 16, y: 79.5}
+      - {x: -14, y: 61.5}
+      - {x: -14, y: 51.5}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup_Flipped5
+      rect:
+        serializedVersion: 2
+        x: 1380.0762
+        y: 379.02676
+        width: 188.84775
+        height: 201.93697
+      alignment: 9
+      pivot: {x: 0.35397702, y: 0.03687541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.423874, y: -113.02198}
+        - {x: -11.576126, y: -119.02198}
+        - {x: -22.576126, y: -127.02198}
+        - {x: -57.576126, y: -127.02198}
+        - {x: -126.576126, y: -103.02198}
+        - {x: -128.57611, y: -98.02198}
+        - {x: -128.57611, y: -68.02198}
+        - {x: -125.576126, y: -64.02198}
+        - {x: -128.57611, y: -13.02198}
+        - {x: -128.57611, y: 55.978027}
+        - {x: -125.576126, y: 62.978027}
+        - {x: -52.576126, y: 74.97803}
+        - {x: -15.576126, y: 74.97803}
+        - {x: 60.423874, y: 43.978027}
+        - {x: 60.423874, y: -3.0219803}
+        - {x: 57.423874, y: -76.02198}
+        - {x: 60.423874, y: -86.02198}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02989ef8c8e34b309c8228f6f7c77de3
+      internalID: 21300154
+      vertices:
+      - {x: -6.5761337, y: 250.46848}
+      - {x: -3.5761414, y: 130.46848}
+      - {x: -3.5761414, y: 257.46848}
+      - {x: -6.5761337, y: 181.46848}
+      - {x: 182.42386, y: 238.46848}
+      - {x: 179.42386, y: 118.468475}
+      - {x: 182.42386, y: 191.46848}
+      - {x: 110.42386, y: 75.468475}
+      - {x: 106.42386, y: 269.46848}
+      - {x: 99.42386, y: 67.468475}
+      - {x: 69.42386, y: 269.46848}
+      - {x: 64.42386, y: 67.468475}
+      - {x: -4.5761414, y: 91.468475}
+      - {x: -6.5761337, y: 126.468475}
+      - {x: -6.5761337, y: 96.468475}
+      - {x: 182.42386, y: 81.468475}
+      - {x: 182.42386, y: 108.468475}
+      indices: 07000000050000000f000000100000000f000000050000000e0000000d0000000c000000010000000c0000000d0000000b0000000c00000001000000020000000b000000010000000a0000000b00000002000000090000000b0000000a00000008000000090000000a000000070000000900000008000000040000000700000008000000050000000700000004000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup_Flipped4
+      rect:
+        serializedVersion: 2
+        x: 0.076122284
+        y: 760.02673
+        width: 173.84775
+        height: 218.93034
+      alignment: 9
+      pivot: {x: 0.30398878, y: 0.14363705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.076122, y: -123.51867}
+        - {x: -128.07613, y: -87.51867}
+        - {x: -128.07613, y: 68.48134}
+        - {x: -58.076122, y: 95.48134}
+        - {x: -38.076122, y: 95.48134}
+        - {x: 45.923878, y: 60.48134}
+        - {x: 45.923878, y: -96.51867}
+        - {x: -12.076122, y: -85.51867}
+        - {x: -33.076122, y: -122.51867}
+        - {x: -36.076122, y: -123.51867}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691061cb58749b78e099a8fff8687aa
+      internalID: 21300156
+      vertices:
+      - {x: 166.92386, y: 247.96518}
+      - {x: 108.92386, y: 101.965164}
+      - {x: 166.92386, y: 90.965164}
+      - {x: 87.92386, y: 64.965164}
+      - {x: 84.92386, y: 63.965164}
+      - {x: 82.92386, y: 282.96518}
+      - {x: 77.92386, y: 63.965164}
+      - {x: 62.92386, y: 282.96518}
+      - {x: -7.0761414, y: 255.96518}
+      - {x: -7.0761414, y: 99.965164}
+      indices: 090000000800000006000000070000000600000008000000050000000600000007000000040000000600000005000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening7
+      rect:
+        serializedVersion: 2
+        x: 1593.0762
+        y: 1200.0267
+        width: 187.84775
+        height: 158.9465
+      alignment: 9
+      pivot: {x: 0.19615754, y: -0.28030503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.076126, y: -131.52676}
+        - {x: -136.07613, y: -90.52676}
+        - {x: -136.07613, y: -11.526756}
+        - {x: -38.076122, y: 27.473244}
+        - {x: -0.076122284, y: 27.473244}
+        - {x: 51.923878, y: -2.5267563}
+        - {x: 51.923878, y: -9.526756}
+        - {x: 50.923885, y: -11.526756}
+        - {x: 31.923878, y: -52.526756}
+        - {x: 25.923878, y: -90.52676}
+        - {x: -29.076122, y: -131.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41243bf094c490da6a1eeef529f6582
+      internalID: 21300158
+      vertices:
+      - {x: 202.92387, y: 200.97325}
+      - {x: 201.92389, y: 191.97325}
+      - {x: 202.92387, y: 193.97325}
+      - {x: 182.92387, y: 150.97325}
+      - {x: 150.92387, y: 230.97325}
+      - {x: 176.92387, y: 112.97325}
+      - {x: 121.923874, y: 71.97325}
+      - {x: 112.923874, y: 230.97325}
+      - {x: 65.923874, y: 71.97325}
+      - {x: 14.923874, y: 191.97325}
+      - {x: 14.923874, y: 112.97325}
+      indices: 0a0000000900000008000000070000000800000009000000060000000800000007000000040000000600000007000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup2
+      rect:
+        serializedVersion: 2
+        x: 289.0761
+        y: 239.02676
+        width: 206.87617
+        height: 220.89714
+      alignment: 9
+      pivot: {x: 0.3617998, y: -0.14736952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.590324, y: -152.50208}
+        - {x: -112.590324, y: -150.50208}
+        - {x: -101.590324, y: -51.502075}
+        - {x: -122.590324, y: -43.502075}
+        - {x: -126.590324, y: -22.502068}
+        - {x: -126.590324, y: 22.497925}
+        - {x: -51.590324, y: 48.497925}
+        - {x: 0.4096756, y: 48.497925}
+        - {x: 68.409676, y: 5.497925}
+        - {x: 80.409676, y: -8.502075}
+        - {x: 80.409676, y: -48.502075}
+        - {x: 52.409676, y: -139.50208}
+        - {x: -21.590324, y: -172.50208}
+        - {x: -48.590324, y: -172.50208}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87d28b3d9b4425dafb73d0ccfe85393
+      internalID: 21300160
+      vertices:
+      - {x: 200.43808, y: 258.94858}
+      - {x: 212.43808, y: 204.94858}
+      - {x: 212.43808, y: 244.94858}
+      - {x: 184.43808, y: 113.94857}
+      - {x: 132.43808, y: 301.94858}
+      - {x: 110.43809, y: 80.94857}
+      - {x: 83.43809, y: 80.94857}
+      - {x: 80.43809, y: 301.94858}
+      - {x: 70.43809, y: 100.94857}
+      - {x: 30.438087, y: 201.94858}
+      - {x: 9.438087, y: 209.94858}
+      - {x: 5.4380875, y: 275.94858}
+      - {x: 5.4380875, y: 230.94858}
+      - {x: 19.438087, y: 102.94857}
+      indices: 0d00000009000000080000000c0000000b0000000a000000070000000a0000000b000000090000000a00000007000000080000000900000007000000060000000800000007000000040000000600000007000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup_Flipped5
+      rect:
+        serializedVersion: 2
+        x: 624.0761
+        y: 809.02673
+        width: 188.84775
+        height: 201.93697
+      alignment: 9
+      pivot: {x: 0.35397702, y: 0.03687541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.423874, y: -113.02198}
+        - {x: -11.576126, y: -119.02198}
+        - {x: -22.576126, y: -127.02198}
+        - {x: -57.576126, y: -127.02198}
+        - {x: -126.576126, y: -103.02198}
+        - {x: -128.57611, y: -98.02198}
+        - {x: -128.57611, y: -68.02198}
+        - {x: -125.576126, y: -64.02198}
+        - {x: -128.57611, y: -13.02198}
+        - {x: -128.57611, y: 55.978027}
+        - {x: -125.576126, y: 62.978027}
+        - {x: -52.576126, y: 74.97803}
+        - {x: -15.576126, y: 74.97803}
+        - {x: 60.423874, y: 43.978027}
+        - {x: 60.423874, y: -3.0219803}
+        - {x: 57.423874, y: -76.02198}
+        - {x: 60.423874, y: -86.02198}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8058d3e502f453e9c6acb271186c913
+      internalID: 21300162
+      vertices:
+      - {x: -6.5761337, y: 250.46848}
+      - {x: -3.5761414, y: 130.46848}
+      - {x: -3.5761414, y: 257.46848}
+      - {x: -6.5761337, y: 181.46848}
+      - {x: 182.42386, y: 238.46848}
+      - {x: 179.42386, y: 118.468475}
+      - {x: 182.42386, y: 191.46848}
+      - {x: 110.42386, y: 75.468475}
+      - {x: 106.42386, y: 269.46848}
+      - {x: 99.42386, y: 67.468475}
+      - {x: 69.42386, y: 269.46848}
+      - {x: 64.42386, y: 67.468475}
+      - {x: -4.5761414, y: 91.468475}
+      - {x: -6.5761337, y: 126.468475}
+      - {x: -6.5761337, y: 96.468475}
+      - {x: 182.42386, y: 81.468475}
+      - {x: 182.42386, y: 108.468475}
+      indices: 07000000050000000f000000100000000f000000050000000e0000000d0000000c000000010000000c0000000d0000000b0000000c00000001000000020000000b000000010000000a0000000b00000002000000090000000b0000000a00000008000000090000000a000000070000000900000008000000040000000700000008000000050000000700000004000000060000000500000004000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening6
+      rect:
+        serializedVersion: 2
+        x: 1393.0762
+        y: 170.02675
+        width: 185.84775
+        height: 215.94576
+      alignment: 9
+      pivot: {x: 0.33816803, y: -0.35450336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.07611, y: -158.02637}
+        - {x: -122.07611, y: -86.02637}
+        - {x: -122.07611, y: -67.026375}
+        - {x: -119.07611, y: -52.026367}
+        - {x: -9.076107, y: 23.973633}
+        - {x: -0.07610512, y: 23.973633}
+        - {x: 61.923893, y: -8.026367}
+        - {x: 63.923893, y: -17.026367}
+        - {x: 63.923893, y: -95.02637}
+        - {x: 53.923893, y: -151.02637}
+        - {x: -27.076107, y: -192.02637}
+        - {x: -36.076107, y: -192.02637}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82afc7df093d48979270460ce1a5c0e3
+      internalID: 21300164
+      vertices:
+      - {x: 184.92387, y: 284.47287}
+      - {x: 186.92387, y: 197.47287}
+      - {x: 186.92387, y: 275.47287}
+      - {x: 176.92387, y: 141.47287}
+      - {x: 122.923874, y: 316.47287}
+      - {x: 113.923874, y: 316.47287}
+      - {x: 95.923874, y: 100.47288}
+      - {x: 86.923874, y: 100.47288}
+      - {x: 22.923874, y: 134.47287}
+      - {x: 3.923874, y: 240.47287}
+      - {x: 0.9238739, y: 225.47287}
+      - {x: 0.9238739, y: 206.47287}
+      indices: 0b0000000a0000000800000009000000080000000a000000050000000800000009000000070000000800000005000000060000000700000005000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening4
+      rect:
+        serializedVersion: 2
+        x: 758.0761
+        y: 964.02673
+        width: 204.84775
+        height: 180.9465
+      alignment: 9
+      pivot: {x: 0.34585577, y: -0.2462247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.57611, y: -108.52676}
+        - {x: -127.57611, y: -13.526756}
+        - {x: -127.57611, y: 1.4732513}
+        - {x: -46.57611, y: 38.47325}
+        - {x: -41.57611, y: 38.47325}
+        - {x: 52.42389, y: -18.526749}
+        - {x: 77.42388, y: -39.526756}
+        - {x: 77.42388, y: -54.526756}
+        - {x: 53.42389, y: -102.52676}
+        - {x: -28.57611, y: -142.52676}
+        - {x: -37.57611, y: -142.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba15c182a6164dfa9933c1cc6d7c1eb8
+      internalID: 21300166
+      vertices:
+      - {x: 211.42386, y: 185.97324}
+      - {x: 187.42386, y: 122.97324}
+      - {x: 211.42386, y: 170.97324}
+      - {x: 186.42386, y: 206.97325}
+      - {x: 105.42386, y: 82.97324}
+      - {x: 96.42386, y: 82.97324}
+      - {x: 92.42386, y: 263.97327}
+      - {x: 87.42386, y: 263.97327}
+      - {x: 32.42386, y: 116.97324}
+      - {x: 6.4238586, y: 226.97325}
+      - {x: 6.4238586, y: 211.97324}
+      indices: 0a0000000900000008000000070000000800000009000000050000000800000007000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening_Flipped7
+      rect:
+        serializedVersion: 2
+        x: 1497.0762
+        y: 1383.0267
+        width: 187.84775
+        height: 158.94577
+      alignment: 9
+      pivot: {x: 0.44103688, y: -0.28030628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.07611, y: -12.52639}
+        - {x: -120.0761, y: -9.526382}
+        - {x: -120.0761, y: -4.52639}
+        - {x: -56.076103, y: 27.473618}
+        - {x: -48.076103, y: 27.473618}
+        - {x: -22.076103, y: 22.473618}
+        - {x: 58.923897, y: -12.52639}
+        - {x: 67.9239, y: -20.526382}
+        - {x: 67.9239, y: -87.52639}
+        - {x: 20.923897, y: -131.5264}
+        - {x: -44.076103, y: -131.5264}
+        - {x: -94.0761, y: -92.52639}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fae40e55ab41eeacadd8c6da96edbd
+      internalID: 21300168
+      vertices:
+      - {x: 163.92386, y: 190.97287}
+      - {x: 172.92386, y: 115.97288}
+      - {x: 172.92386, y: 182.97289}
+      - {x: 125.92386, y: 71.97288}
+      - {x: 82.92386, y: 225.97289}
+      - {x: 60.92386, y: 71.97288}
+      - {x: 56.92386, y: 230.97289}
+      - {x: 48.92386, y: 230.97289}
+      - {x: 10.923859, y: 110.97288}
+      - {x: -10.076149, y: 190.97287}
+      - {x: -15.076141, y: 198.97287}
+      - {x: -15.076141, y: 193.97289}
+      indices: 0b0000000a0000000900000007000000090000000a000000080000000900000007000000050000000800000007000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Foldup8
+      rect:
+        serializedVersion: 2
+        x: 1954.0762
+        y: 0
+        width: 20.847755
+        height: 250.92387
+      alignment: 9
+      pivot: {x: -5.4275503, y: 0.23712371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.576126, y: -125.461945}
+        - {x: -127.576126, y: -119.461945}
+        - {x: -127.576126, y: 125.53806}
+        - {x: -111.576126, y: 125.53806}
+        - {x: -110.576126, y: 122.53806}
+        - {x: -106.576126, y: 100.53806}
+        - {x: -106.576126, y: -125.461945}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c13f451bf49e79b52136f3640ccd0
+      internalID: 21300170
+      vertices:
+      - {x: 23.423878, y: 313.96194}
+      - {x: 27.423878, y: 65.96193}
+      - {x: 27.423878, y: 291.96194}
+      - {x: 22.423878, y: 316.96194}
+      - {x: 9.423878, y: 65.96193}
+      - {x: 6.4238777, y: 316.96194}
+      - {x: 6.4238777, y: 71.96193}
+      indices: 060000000500000004000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMid_Opening_Flipped5
+      rect:
+        serializedVersion: 2
+        x: 449.02676
+        y: 1154.0267
+        width: 200.89713
+        height: 166.9465
+      alignment: 9
+      pivot: {x: 0.3531485, y: -0.2668729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.50206, y: -96.52676}
+        - {x: -132.50208, y: -54.526756}
+        - {x: -132.50208, y: -20.526756}
+        - {x: -56.50206, y: 31.473251}
+        - {x: -6.50206, y: 31.473251}
+        - {x: 50.49794, y: 10.473251}
+        - {x: 68.49794, y: 0.47325134}
+        - {x: 68.49794, y: -89.52676}
+        - {x: 22.49794, y: -135.52676}
+        - {x: -75.50206, y: -135.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac21dfc1675d495c8819b0b72ceafb30
+      internalID: 21300172
+      vertices:
+      - {x: 180.44855, y: 221.97325}
+      - {x: 198.44855, y: 121.97324}
+      - {x: 198.44855, y: 211.97325}
+      - {x: 152.44855, y: 75.97324}
+      - {x: 123.44855, y: 242.97325}
+      - {x: 73.44855, y: 242.97325}
+      - {x: 54.448547, y: 75.97324}
+      - {x: 14.448547, y: 114.97324}
+      - {x: -2.5514603, y: 190.97324}
+      - {x: -2.5514603, y: 156.97324}
+      indices: 090000000800000007000000050000000700000008000000060000000700000005000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxComputer_Opening4
+      rect:
+        serializedVersion: 2
+        x: 1687.0762
+        y: 1361.0267
+        width: 162.89713
+        height: 181.9465
+      alignment: 9
+      pivot: {x: 0.066592745, y: -0.27784815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.600815, y: -147.02676}
+        - {x: -138.60081, y: -100.02676}
+        - {x: -138.60081, y: -7.0267487}
+        - {x: -136.60081, y: -4.0267487}
+        - {x: -61.600815, y: 34.97325}
+        - {x: -53.600815, y: 34.97325}
+        - {x: 24.399185, y: 8.973251}
+        - {x: 24.399185, y: -45.026756}
+        - {x: 22.399185, y: -116.02676}
+        - {x: -17.600815, y: -147.02676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7328dade14934e91b35fab5f37d1b36e
+      internalID: 21300174
+      vertices:
+      - {x: 176.44855, y: 241.47325}
+      - {x: 174.44855, y: 116.47324}
+      - {x: 176.44855, y: 187.47324}
+      - {x: 134.44855, y: 85.47324}
+      - {x: 98.44855, y: 267.47327}
+      - {x: 90.44855, y: 267.47327}
+      - {x: 42.448547, y: 85.47324}
+      - {x: 15.448547, y: 228.47325}
+      - {x: 13.448547, y: 225.47325}
+      - {x: 13.448547, y: 132.47324}
+      indices: 090000000800000006000000070000000600000008000000050000000600000007000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Closed_Flipped
+      rect:
+        serializedVersion: 2
+        x: 1741.0762
+        y: 1718.0267
+        width: 151.84775
+        height: 185.94649
+      alignment: 9
+      pivot: {x: 0.20314932, y: -0.41169637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.076122, y: -177.02673}
+        - {x: -128.07613, y: -136.02673}
+        - {x: -128.07613, y: -25.026733}
+        - {x: -60.076122, y: 8.973267}
+        - {x: -58.076122, y: 8.973267}
+        - {x: 22.923878, y: -31.026733}
+        - {x: 23.923878, y: -33.026733}
+        - {x: 23.923878, y: -143.02673}
+        - {x: -44.076122, y: -177.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a465414f84d509367216ca70f4ded
+      internalID: 21300176
+      vertices:
+      - {x: 143.92386, y: 231.47324}
+      - {x: 144.92386, y: 119.47324}
+      - {x: 144.92386, y: 229.47324}
+      - {x: 76.92386, y: 85.47324}
+      - {x: 72.92386, y: 85.47324}
+      - {x: 62.92386, y: 271.47324}
+      - {x: 60.92386, y: 271.47324}
+      - {x: -7.0761414, y: 237.47324}
+      - {x: -7.0761414, y: 126.47324}
+      indices: 080000000700000004000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Foldup_Flipped2
+      rect:
+        serializedVersion: 2
+        x: 1581.0477
+        y: 184.02675
+        width: 206.87617
+        height: 187.89713
+      alignment: 9
+      pivot: {x: 0.4007451, y: -0.0029457263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5335, y: -17.002068}
+        - {x: -129.5335, y: -15.002068}
+        - {x: -129.5335, y: 0.99793243}
+        - {x: -117.53349, y: 20.99794}
+        - {x: -34.533493, y: 63.99794}
+        - {x: -2.533493, y: 63.99794}
+        - {x: 77.46651, y: 28.997932}
+        - {x: 77.46651, y: -32.002068}
+        - {x: 64.46651, y: -124.00207}
+        - {x: -55.533493, y: -124.00207}
+        - {x: -106.53349, y: -80.00207}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89c471db2104f2c833f5a93f120c7e0
+      internalID: 21300178
+      vertices:
+      - {x: 201.43808, y: 217.44855}
+      - {x: 188.43808, y: 64.448555}
+      - {x: 201.43808, y: 156.44855}
+      - {x: 121.43807, y: 252.44856}
+      - {x: 89.43807, y: 252.44856}
+      - {x: 68.43807, y: 64.448555}
+      - {x: 17.438072, y: 108.448555}
+      - {x: 6.438072, y: 209.44856}
+      - {x: -4.561928, y: 171.44855}
+      - {x: -5.561928, y: 189.44855}
+      - {x: -5.561928, y: 173.44855}
+      indices: 0a0000000900000008000000070000000800000009000000060000000800000007000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CassettePlayer_Flipped
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 826
+        width: 65
+        height: 77
+      alignment: 9
+      pivot: {x: 0.83076924, y: 0.084415585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -38.5}
+        - {x: -32.500004, y: -25.5}
+        - {x: -32.500004, y: 38.5}
+        - {x: -8.500002, y: 38.5}
+        - {x: 32.5, y: 10.5}
+        - {x: 32.5, y: -36.5}
+        - {x: 26.5, y: -38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5827f7b263e7497b8adcabb3f6981b4b
+      internalID: 21300180
+      vertices:
+      - {x: 43.5, y: 81}
+      - {x: 37.5, y: 32}
+      - {x: 43.5, y: 34}
+      - {x: 16.5, y: 32}
+      - {x: 2.499998, y: 109}
+      - {x: -21.500004, y: 109}
+      - {x: -21.500004, y: 45}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Opening_Flipped5
+      rect:
+        serializedVersion: 2
+        x: 1119.0267
+        y: 0.026748657
+        width: 200.89713
+        height: 199.94649
+      alignment: 9
+      pivot: {x: 0.3531485, y: -0.38286993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.50204, y: -72.02674}
+        - {x: -132.50208, y: -71.02674}
+        - {x: -132.50208, y: -39.026733}
+        - {x: -71.50206, y: 15.973267}
+        - {x: 12.49794, y: 15.973267}
+        - {x: 50.49794, y: -5.0267334}
+        - {x: 68.49794, y: -32.026733}
+        - {x: 68.49794, y: -49.026733}
+        - {x: 39.49794, y: -44.026733}
+        - {x: 39.49794, y: -150.02673}
+        - {x: -25.50206, y: -184.02673}
+        - {x: -30.50206, y: -184.02673}
+        - {x: -112.50206, y: -145.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bb92fb2d54479f86edbc8d335b0765
+      internalID: 21300182
+      vertices:
+      - {x: 180.44855, y: 271.47324}
+      - {x: 198.44855, y: 227.47324}
+      - {x: 198.44855, y: 244.47324}
+      - {x: 169.44855, y: 232.47324}
+      - {x: 142.44855, y: 292.47324}
+      - {x: 169.44855, y: 126.47324}
+      - {x: 104.44855, y: 92.47324}
+      - {x: 99.44855, y: 92.47324}
+      - {x: 58.448547, y: 292.47324}
+      - {x: 17.448547, y: 131.47324}
+      - {x: -0.551445, y: 204.47324}
+      - {x: -2.5514603, y: 237.47324}
+      - {x: -2.5514603, y: 205.47324}
+      indices: 0c0000000b0000000a000000080000000a0000000b000000090000000a00000008000000070000000900000008000000040000000700000008000000060000000700000004000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup_Flipped1
+      rect:
+        serializedVersion: 2
+        x: 0.0646286
+        y: 1286.0762
+        width: 182.85925
+        height: 189.89713
+      alignment: 9
+      pivot: {x: 0.2891336, y: -0.37205532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.558887, y: -176.1008}
+        - {x: -132.55888, y: -141.1008}
+        - {x: -132.55888, y: -9.1008}
+        - {x: -55.558887, y: 13.8992}
+        - {x: -37.558887, y: 13.8992}
+        - {x: 39.441113, y: -24.1008}
+        - {x: 50.441113, y: -41.1008}
+        - {x: 50.441113, y: -89.1008}
+        - {x: 35.441113, y: -140.1008}
+        - {x: 2.4411125, y: -170.1008}
+        - {x: -12.5588875, y: -176.1008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94bcbe4bc0a4e1ba4253afad40ecdad
+      internalID: 21300184
+      vertices:
+      - {x: 169.42961, y: 236.44856}
+      - {x: 180.42961, y: 171.44856}
+      - {x: 180.42961, y: 219.44856}
+      - {x: 165.42961, y: 120.44856}
+      - {x: 132.42961, y: 90.44856}
+      - {x: 117.42961, y: 84.44856}
+      - {x: 92.42961, y: 274.44855}
+      - {x: 76.42961, y: 84.44856}
+      - {x: 74.42961, y: 274.44855}
+      - {x: -2.5703888, y: 251.44856}
+      - {x: -2.5703888, y: 119.44856}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000050000000700000006000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxMidPartner_Opening_Flipped5
+      rect:
+        serializedVersion: 2
+        x: 538.02673
+        y: 1445.0267
+        width: 200.89713
+        height: 166.9465
+      alignment: 9
+      pivot: {x: 0.3531485, y: -0.2668729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.50206, y: -96.52676}
+        - {x: -132.50208, y: -54.526756}
+        - {x: -132.50208, y: -20.526756}
+        - {x: -56.50206, y: 31.473251}
+        - {x: -6.50206, y: 31.473251}
+        - {x: 50.49794, y: 10.473251}
+        - {x: 68.49794, y: 0.47325134}
+        - {x: 68.49794, y: -89.52676}
+        - {x: 22.49794, y: -135.52676}
+        - {x: -75.50206, y: -135.52676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9892ad7cf949beb138df17cd71fb8e
+      internalID: 21300186
+      vertices:
+      - {x: 180.44855, y: 221.97325}
+      - {x: 198.44855, y: 121.97324}
+      - {x: 198.44855, y: 211.97325}
+      - {x: 152.44855, y: 75.97324}
+      - {x: 123.44855, y: 242.97325}
+      - {x: 73.44855, y: 242.97325}
+      - {x: 54.448547, y: 75.97324}
+      - {x: 14.448547, y: 114.97324}
+      - {x: -2.5514603, y: 190.97324}
+      - {x: -2.5514603, y: 156.97324}
+      indices: 090000000800000007000000050000000700000008000000060000000700000005000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBig_Foldup7
+      rect:
+        serializedVersion: 2
+        x: 1850.0762
+        y: 218.02676
+        width: 114.847755
+        height: 272.93695
+      alignment: 9
+      pivot: {x: -0.16676196, y: 0.04926594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.57611, y: -175.52197}
+        - {x: -125.57611, y: -137.52197}
+        - {x: -123.57611, y: 9.47802}
+        - {x: -127.57611, y: 25.47802}
+        - {x: -127.57611, y: 45.47802}
+        - {x: -77.57611, y: 97.47802}
+        - {x: -59.57611, y: 97.47802}
+        - {x: -12.576111, y: 65.47802}
+        - {x: -12.576111, y: -45.52198}
+        - {x: -13.576111, y: -98.52198}
+        - {x: -12.576111, y: -111.52198}
+        - {x: -12.576111, y: -129.52197}
+        - {x: -63.57611, y: -175.52197}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d2c753cfc449caa35b2fea2c846e62
+      internalID: 21300188
+      vertices:
+      - {x: 121.423874, y: 324.96848}
+      - {x: 120.423874, y: 160.96848}
+      - {x: 121.423874, y: 213.96848}
+      - {x: 74.423874, y: 356.96848}
+      - {x: 121.423874, y: 129.96848}
+      - {x: 121.423874, y: 147.96848}
+      - {x: 70.423874, y: 83.968475}
+      - {x: 56.423878, y: 356.96848}
+      - {x: 50.423878, y: 83.968475}
+      - {x: 10.423878, y: 268.96848}
+      - {x: 6.4238777, y: 304.96848}
+      - {x: 6.4238777, y: 284.96848}
+      - {x: 8.423878, y: 121.968475}
+      indices: 0c00000009000000080000000b0000000a0000000900000007000000090000000a000000080000000900000007000000060000000800000007000000030000000600000007000000040000000600000003000000010000000400000003000000050000000400000001000000030000000000000001000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FramedDrawingFoxGirl_Shadow
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 821
+        width: 102
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6372549, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.000001, y: -25.5}
+        - {x: -51, y: 2.5}
+        - {x: -51, y: 7.5}
+        - {x: -21, y: 25.5}
+        - {x: -4, y: 25.5}
+        - {x: 51, y: 0.5}
+        - {x: 51, y: -10.5}
+        - {x: 15, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39d463607b14b7fa1e497636701f9be
+      internalID: 21300190
+      vertices:
+      - {x: 88, y: 47}
+      - {x: 52, y: 21}
+      - {x: 88, y: 36}
+      - {x: 36, y: 21}
+      - {x: 33, y: 72}
+      - {x: 16, y: 72}
+      - {x: -14, y: 54}
+      - {x: -14, y: 49}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BodyTowelPurple_Bar: 21300028
+      BookBagDenim_Flipped: 21300082
+      BoxBig_Closed: 21300088
+      BoxBig_Closed_Flipped: 21300176
+      BoxBig_Foldup1: 21300004
+      BoxBig_Foldup2: 21300160
+      BoxBig_Foldup3: 21300054
+      BoxBig_Foldup4: 21300052
+      BoxBig_Foldup5: 21300146
+      BoxBig_Foldup6: 21300104
+      BoxBig_Foldup7: 21300188
+      BoxBig_Foldup_Flipped1: 21300184
+      BoxBig_Foldup_Flipped2: 21300076
+      BoxBig_Foldup_Flipped3: 21300132
+      BoxBig_Foldup_Flipped4: 21300100
+      BoxBig_Foldup_Flipped5: 21300110
+      BoxBig_Foldup_Flipped6: 21300024
+      BoxBig_Foldup_Flipped7: 21300042
+      BoxBig_Foldup_Flipped8: 21300062
+      BoxBig_Open: 21300078
+      BoxBig_Open_Flipped: 21300016
+      BoxBig_Opening1: 21300150
+      BoxBig_Opening2: 21300058
+      BoxBig_Opening3: 21300118
+      BoxBig_Opening4: 21300066
+      BoxBig_Opening5: 21300124
+      BoxBig_Opening6: 21300164
+      BoxBig_Opening7: 21300056
+      BoxBig_Opening8: 21300014
+      BoxBig_Opening_Flipped2: 21300012
+      BoxBig_Opening_Flipped3: 21300142
+      BoxBig_Opening_Flipped4: 21300122
+      BoxBig_Opening_Flipped5: 21300182
+      BoxBig_Opening_Flipped6: 21300030
+      BoxBig_Opening_Flipped7: 21300108
+      BoxBig_Opening_Flipped8: 21300026
+      BoxComputer_FoldUp2: 21300144
+      BoxComputer_FoldUp3: 21300102
+      BoxComputer_FoldUp4: 21300106
+      BoxComputer_FoldUp5: 21300032
+      BoxComputer_FoldUp6: 21300128
+      BoxComputer_Opening4: 21300174
+      BoxMidPartner_Foldup1: 21300000
+      BoxMidPartner_Foldup2: 21300072
+      BoxMidPartner_Foldup3: 21300090
+      BoxMidPartner_Foldup4: 21300098
+      BoxMidPartner_Foldup5: 21300050
+      BoxMidPartner_Foldup6: 21300018
+      BoxMidPartner_Foldup8: 21300092
+      BoxMidPartner_Foldup_Flipped1: 21300120
+      BoxMidPartner_Foldup_Flipped2: 21300178
+      BoxMidPartner_Foldup_Flipped3: 21300084
+      BoxMidPartner_Foldup_Flipped4: 21300020
+      BoxMidPartner_Foldup_Flipped5: 21300154
+      BoxMidPartner_Foldup_Flipped6: 21300114
+      BoxMidPartner_Opening3: 21300040
+      BoxMidPartner_Opening4: 21300166
+      BoxMidPartner_Opening5: 21300140
+      BoxMidPartner_Opening6: 21300068
+      BoxMidPartner_Opening7: 21300094
+      BoxMidPartner_Opening_Flipped3: 21300010
+      BoxMidPartner_Opening_Flipped4: 21300046
+      BoxMidPartner_Opening_Flipped5: 21300186
+      BoxMidPartner_Opening_Flipped6: 21300134
+      BoxMidPartner_Opening_Flipped7: 21300168
+      BoxMid_Foldup1: 21300136
+      BoxMid_Foldup2: 21300044
+      BoxMid_Foldup3: 21300148
+      BoxMid_Foldup4: 21300008
+      BoxMid_Foldup5: 21300112
+      BoxMid_Foldup6: 21300126
+      BoxMid_Foldup8: 21300170
+      BoxMid_Foldup_Flipped1: 21300138
+      BoxMid_Foldup_Flipped2: 21300064
+      BoxMid_Foldup_Flipped3: 21300006
+      BoxMid_Foldup_Flipped4: 21300156
+      BoxMid_Foldup_Flipped5: 21300162
+      BoxMid_Foldup_Flipped6: 21300130
+      BoxMid_Opening3: 21300070
+      BoxMid_Opening4: 21300060
+      BoxMid_Opening5: 21300074
+      BoxMid_Opening6: 21300002
+      BoxMid_Opening7: 21300158
+      BoxMid_Opening_Flipped3: 21300038
+      BoxMid_Opening_Flipped4: 21300080
+      BoxMid_Opening_Flipped5: 21300172
+      BoxMid_Opening_Flipped6: 21300036
+      BoxMid_Opening_Flipped7: 21300022
+      CassettePlayer: 21300048
+      CassettePlayer_Flipped: 21300180
+      CassettePlayer_Flipped_On: 21300086
+      FramedDrawingFoxGirl_Shadow: 21300190
+      FramedDrawingHorse: 21300152
+      FramedDrawingHorse_Shadow: 21300034
+      KeyboardOld: 21300096
+      PlushDragon: 21300116
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

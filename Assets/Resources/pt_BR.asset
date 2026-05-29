@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: pt_BR
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: Português brasileiro
+  - id: menu_resume
+    text: Continuar
+  - id: menu_restart
+    text: Reiniciar
+  - id: menu_album
+    text: Álbum
+  - id: menu_settings
+    text: Configurações
+  - id: menu_mainmenu
+    text: Menu Principal
+  - id: menu_play
+    text: Jogar
+  - id: menu_newgame
+    text: Novo jogo
+  - id: menu_quit
+    text: Sair
+  - id: menu_back
+    text: Voltar
+  - id: menu_volume_music
+    text: Música
+  - id: menu_volume_sfx
+    text: Efeitos sonoros
+  - id: menu_volume_master
+    text: Volume principal
+  - id: menu_speakers
+    text: Alto-falantes
+  - id: menu_access_zonechange
+    text: Troca de cômodo
+  - id: menu_resolution
+    text: Resolução
+  - id: menu_fullscreen
+    text: Modo de exibição
+  - id: menu_apply
+    text: Aplicar
+  - id: menu_no
+    text: Não
+  - id: menu_yes
+    text: Sim
+  - id: menu_startover
+    text: Recomeçar
+  - id: menu_toggle_fullscreen
+    text: Tela cheia
+  - id: menu_toggle_windowed
+    text: Modo janela
+  - id: menu_toggle_slide
+    text: Deslizar
+  - id: menu_toggle_fade
+    text: Desvanecer
+  - id: menu_postfx
+    text: Efeitos de pós-processamento
+  - id: menu_access_iconsize
+    text: Tamanho do ícone
+  - id: menu_toggle_default
+    text: Padrão
+  - id: menu_toggle_2x
+    text: 2x
+  - id: menu_toggle_3x
+    text: 3x
+  - id: menu_access_placementhints
+    text: Dicas de posicionamento
+  - id: menu_access_invaliditemhighlight
+    text: Destaque de item inválido
+  - id: menu_access_allowitemsanywhere
+    text: Permitir itens em todo lugar
+  - id: menu_discard
+    text: Descartar
+  - id: menu_replace
+    text: Substituir
+  - id: menu_cancel
+    text: Cancelar
+  - id: menu_album_select
+    text: Selecionar Álbum
+  - id: menu_stickersheets
+    text: Adesivos
+  - id: menu_language
+    text: Idioma
+  - id: menu_audio
+    text: Áudio
+  - id: menu_video
+    text: Vídeo
+  - id: menu_controls
+    text: Controles
+  - id: menu_accessibility
+    text: Acessibilidade
+  - id: menu_clearall
+    text: Apagar dados
+  - id: menu_resetdefault
+    text: Reverter ao padrão
+  - id: menu_skip
+    text: Pular
+  - id: menu_startover_prompt
+    text: Recomeçar?\nSeu progresso será perdido.
+  - id: menu_startover_prompt_ingame
+    text: Recomeçar fase?
+  - id: menu_unsavedchange_prompt_ingame
+    text: Esta fase já foi concluída! O que gostaria de fazer com as mudanças?
+  - id: menu_photo_exit_prompt
+    text: Sair do modo Foto?
+  - id: menu_album_delete_prompt
+    text: Descartar este álbum?\nNão será possível desfazer.
+  - id: menu_clearall_prompt
+    text: TODOS os dados de armazenamento\nserão excluídos! Tem certeza?
+  - id: outro_title
+    text: Agradecemos por jogar nossa demo!
+  - id: outro_upper_line
+    text: aguardem o jogo completo em 2021 :)
+  - id: outro_lower_line
+    text: Para saber das novidades, adicione Unpacking à sua lista de desejos,\nsiga-nos no Twitter ou inscreva-se na nossa lista de e-mail!
+  - id: sticker_Hearts
+    text: Ésse dois
+  - id: sticker_ThumbsUp
+    text: Isso aí
+  - id: sticker_Exclaim
+    text: Uau!
+  - id: sticker_Brain
+    text: Resolva um quebra-cabeça
+  - id: sticker_Music
+    text: Toca música aí
+  - id: sticker_Star
+    text: Começo
+  - id: sticker_Dab
+    text: Faz uma pose
+  - id: sticker_Cookie
+    text: Guloseima
+  - id: sticker_Skeleton
+    text: Perigo de choque
+  - id: sticker_Graduation
+    text: Pura inteligência
+  - id: sticker_Gaming
+    text: Jogo rolando
+  - id: sticker_Fashion
+    text: Boné na cabeça
+  - id: sticker_Roleplaying
+    text: Sociedade
+  - id: sticker_Undies
+    text: Cueca
+  - id: sticker_Coffee
+    text: Quero café
+  - id: sticker_Guitar
+    text: Que irado
+  - id: sticker_Dog
+    text: Redescubra a infância
+  - id: sticker_ReturningHome
+    text: Comida de casa
+  - id: sticker_Lightbulb
+    text: Solução genial
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: Independência
+  - id: sticker_Plant
+    text: Dedo verde
+  - id: sticker_PlushToys
+    text: Amigos felpudos
+  - id: sticker_Love
+    text: Amor
+  - id: sticker_Blocks
+    text: Bebê construtor
+  - id: sticker_Toilet
+    text: Vai tudo com a descarga
+  - id: sticker_House
+    text: Nada como o nosso lar
+  - id: album_cover
+    text: Este livro pertence a
+  - id: album_childroom_year
+    text: 1997
+  - id: album_childroom_date
+    text: Maio de 1997
+  - id: album_studioapt_year
+    text: 2004
+  - id: album_studioapt_date
+    text: Janeiro de 2004
+  - id: album_sharehouse_year
+    text: 2007
+  - id: album_sharehouse_date
+    text: Março de 2007
+  - id: album_boyfriendapt_year
+    text: 2010
+  - id: album_boyfriendapt_date
+    text: Setembro de 2010
+  - id: album_parenthouse_year
+    text: 2012
+  - id: album_parenthouse_date
+    text: Junho de 2012
+  - id: album_soloapt_year
+    text: 2013
+  - id: album_soloapt_date
+    text: Janeiro de 2013
+  - id: album_partnerapt_year
+    text: 2015
+  - id: album_partnerapt_date
+    text: Novembro de 2015
+  - id: album_house_year
+    text: 2018
+  - id: album_house_date
+    text: Julho de 2018
+  - id: album_childroom_bedroom
+    text: Finalmente, meu próprio quarto!
+  - id: album_childroom_darkstar
+    text: Gostei, agora eu vou brincar!
+  - id: album_studioapt_bedroom
+    text: As aulas começam na segunda! Universidade, tô chegando!
+  - id: album_studioapt_bathroom
+    text: Um banheiro só meu! Beleza!
+  - id: album_studioapt_kitchenette
+    text: Tenho que fazer minha comida? Vixe.
+  - id: album_studioapt_darkstar
+    text: Ãh, vou arrumar um pouco mais tarde.
+  - id: album_sharehouse_livingroom
+    text: As noites de filme vão ser demais!
+  - id: album_sharehouse_bathroom
+    text: Espera, a gente vai dividir um banheiro?
+  - id: album_sharehouse_bedroom
+    text: Grande dia! Já posso ir pra cama.
+  - id: album_sharehouse_kitchen
+    text: MUITO maior que a minha outra cozinha!
+  - id: album_sharehouse_diningroom
+    text: As noites de jogos acabaram de ficar mais confortáveis!
+  - id: album_sharehouse_darkstar
+    text: Eles já me conheciam na universidade, sabiam o que esperar.
+  - id: album_boyfriendapt_livingroom
+    text: Mudar pra casa dele? A coisa tá ficando séria.
+  - id: album_boyfriendapt_kitchen
+    text: Nem todo tipo de café é instantâneo. Quem diria?
+  - id: album_boyfriendapt_bathroom
+    text: Um chuveiro com vista!
+  - id: album_boyfriendapt_bedroom
+    text: Mal consigo entrar aqui!
+  - id: album_boyfriendapt_darkstar
+    text: Tudo bem, ele gosta da minha espontaneidade!
+  - id: album_parenthouse_bedroom
+    text: Este quarto parecia maior antes.
+  - id: album_parenthouse_bathroom
+    text: Já briguei muito com a minha irmã por causa desse banheiro.
+  - id: album_parenthouse_darkstar
+    text: Levou um tempo para colocar tudo de volta onde deixei.
+  - id: album_soloapt_livingroom
+    text: Depois eu descubro onde arranjar um sofá.
+  - id: album_soloapt_bathroom
+    text: Estava com saudades de banhos longos!
+  - id: album_soloapt_bedroom
+    text: Uma cama queen size só pra mim!
+  - id: album_soloapt_office
+    text: Aqui vai ser o meu cantinho da arte!
+  - id: album_soloapt_kitchen
+    text: Que bom que achei um lugar assim com um preço acessível!
+  - id: album_soloapt_darkstar
+    text: Não estava pensando em receber muita gente mesmo.
+  - id: album_partnerapt_livingroom
+    text: Agora está muito mais aconchegante! Parece um lar.
+  - id: album_partnerapt_bathroom
+    text: Essas gavetas encheram rápido!
+  - id: album_partnerapt_bedroom
+    text: Que bom que tem espaço no guarda-roupa agora!
+  - id: album_partnerapt_office
+    text: Tá complicado, mas já estou no caminho!
+  - id: album_partnerapt_kitchen
+    text: Não vejo a hora de ter novas aventuras culinárias!
+  - id: album_partnerapt_darkstar
+    text: Vem pra selva!
+  - id: album_house_foyer
+    text: Nosso novo lar!
+  - id: album_house_bathroom
+    text: Um banheiro tamanho família!
+  - id: album_house_nursery
+    text: Estamos muito ansiosos para te conhecer!
+  - id: album_house_closet
+    text: Espaço suficiente para todas as nossas roupas e um pouco mais!
+  - id: album_house_bedroom
+    text: Mal posso esperar para dormir na nossa casa nova pela primeira vez!
+  - id: album_house_office
+    text: Meu espaço profissional, para mim, profissional que sou!
+  - id: album_house_toilet
+    text: Privada extra!
+  - id: album_house_kitchen
+    text: Finalmente, uma geladeira grande o suficiente para todos os nossos ímãs!
+  - id: album_house_diningroom
+    text: Já estamos planejando os jantares com os amigos!
+  - id: album_house_livingroom
+    text: Tem muito espaço e um quintal, também! Agora podemos adotar um bichinho!
+  - id: album_house_darkstar
+    text: Gostei, hora de tirar um cochilo!
+  - id: album_credits
+    text: Agradeço por embarcar comigo nesta jornada.
+  - id: album_credits_darkstar
+    text: Não vou voltar pra dentro da casa, tá uma zona.
+  - id: credits_developed
+    text: desenvolvido por
+  - id: credits_creative_director
+    text: Diretor de criação
+  - id: credits_technical_director
+    text: Diretor técnico
+  - id: credits_composer_sound_designer
+    text: Compositor e designer de som
+  - id: credits_pixel_art
+    text: Pixel Art
+  - id: credits_foley_recording
+    text: Sonoplastia
+  - id: credits_game_design
+    text: Design de jogo
+  - id: credits_narrative_assistance
+    text: Assistência de narrativa
+  - id: credits_additional_coding
+    text: Programação adicional
+  - id: credits_hero_image_stickers
+    text: Imagem do herói e adesivos
+  - id: credits_title_screen_art
+    text: Arte da tela de título
+  - id: credits_anim_previs
+    text: Pré-visualização de animação
+  - id: credits_dev_business_support
+    text: Desenvolvimento e suporte comercial
+  - id: credits_legal
+    text: Assistência legal
+  - id: credits_published_by
+    text: Apresentado por
+  - id: credits_special_thanks
+    text: Agradecimentos especiais
+  - id: credits_in_memory
+    text: Em memória de
+  - id: credits_supported_by
+    text: Apoiado com orgulho por
+  - id: input_rebind
+    text: Apertar botão
+  - id: inputaction_gameplay
+    text: No jogo
+  - id: inputaction_gameplay_liftandplace
+    text: Levantar e colocar
+  - id: inputaction_gameplay_turnandinteract
+    text: Virar e interagir
+  - id: inputaction_gameplay_screenpan
+    text: Rolar tela
+  - id: inputaction_gameplay_photomode
+    text: Abrir modo Foto
+  - id: inputaction_gameplay_floorplanmode
+    text: Abrir planta
+  - id: inputaction_gameplay_zoomin
+    text: Aumentar zoom
+  - id: inputaction_gameplay_zoomout
+    text: Reduzir zoom
+  - id: inputaction_gameplay_changezoneleft
+    text: Quarto da esquerda
+  - id: inputaction_gameplay_changezoneright
+    text: Quarto da direita
+  - id: inputaction_photo
+    text: Modo Foto
+  - id: inputaction_photo_capture
+    text: Tirar foto
+  - id: inputaction_photo_hideui
+    text: Ocultar IU
+  - id: inputaction_menu
+    text: Menus
+  - id: inputaction_menu_accept
+    text: Aceitar
+  - id: inputaction_menu_back
+    text: Voltar
+  - id: inputaction_menu_nextpage
+    text: Próxima página
+  - id: inputaction_menu_prevpage
+    text: Página anterior
+  - id: menu_controls_rebind
+    text: Mudar controles
+  - id: menu_controls_reversesticks
+    text: Inverter analógicos
+  - id: menu_controls_vibration
+    text: Vibração
+  - id: menu_controls_cursorsensitivity
+    text: Sensibilidade do\ncursor do controle
+  - id: menu_controls_changeinput
+    text: Alterar entrada
+  - id: menu_saveerror_prompt
+    text: Não foi possível carregar os dados salvos. \nRecomeçar?
+  - id: menu_allowanywhere_prompt
+    text: Isso removerá o elemento de quebra-cabeças do jogo. Tem certeza?
+  - id: menu_controls_cursor
+    text: Travar cursor
+  - id: menu_audio_shuffle
+    text: Modo aleatório
+  - id: menu_continue
+    text: Ok
+  - id: menu_photo_exit_prompt_extra
+    text: (Suas alterações serão perdidas.)
+  - id: menu_save_image
+    text: Local de salv. de imagem
+  - id: menu_save_gif
+    text: Local de salv. de GIF
+  - id: menu_save_video
+    text: Local de salv. de vídeo
+  - id: album_clone
+    text: copiar para um novo álbum
+  - id: photo_save_computer
+    text: Imagem salva em
+  - id: photo_save_steam
+    text: Imagem salva nas capturas de tela do Steam
+  - id: photo_save
+    text: Imagem salva!
+  - id: playback_header
+    text: Reprodução rápida
+  - id: playback_speed
+    text: Velocidade
+  - id: playback_encoding
+    text: Codificando...
+  - id: playback_gif_result
+    text: 'GIF salvo em:'
+  - id: playback_video_result
+    text: 'Vídeo salvo em:'
+  - id: unlock_header
+    text: Funções desbloqueadas!
+  - id: unlock_shuffle
+    text: Agora é possível ativar a opção “Modo aleatório” nas configurações de áudio para ouvir as músicas de todo o jogo.
+  - id: unlock_validation
+    text: Quando uma fase estiver aberta, será possível ativar ou desativar a avaliação, ocultando temporariamente os destaques dos itens e o botão de estrela.
+  - id: credits_localization
+    text: Localização
+  - id: credits_website
+    text: Design do site
+  - id: credits_audio_director
+    text: Direção de áudio
+  - id: credits_music_sound_design
+    text: Design de música e som
+  - id: credits_foley_production
+    text: Sonoplastia
+  - id: credits_foley_additional
+    text: Sonoplastia extra
+  - id: credits_community
+    text: Estratégia da comunidade
+  - id: credits_playtesters
+    text: Testadores de jogo
+  - id: credits_guitars_additional
+    text: Guitarras extras
+  - id: credits_testing
+    text: Teste por
+  - id: credits_porting
+    text: Portabilidade por
+  - id: lyrics_1_1
+    text: A mudança chegou de caminhão
+  - id: lyrics_1_2
+    text: e alguém bate na porta
+  - id: lyrics_1_3
+    text: Agora suas coisas estão aqui
+  - id: lyrics_1_4
+    text: encaixotadas no chão
+  - id: lyrics_2_1
+    text: Você abre uma caixa
+  - id: lyrics_2_2
+    text: temos tanto a arrumar
+  - id: lyrics_2_3
+    text: Eu abro meu coração
+  - id: lyrics_2_4
+    text: e agora temos um lar
+  - id: lyrics_3_1
+    text: Muito bela sua plantinha
+  - id: lyrics_3_2
+    text: ao triste peitoril da janela
+  - id: lyrics_3_3
+    text: Agora fique quentinha
+  - id: lyrics_3_4
+    text: com o cobertor de flanela
+  - id: lyrics_4_1
+    text: Achamos sua caneca favorita
+  - id: lyrics_4_2
+    text: aquela que você diz amar
+  - id: lyrics_4_3
+    text: Colocamos ímãs na geladeira
+  - id: lyrics_4_4
+    text: e transformamos a casa num lar
+  - id: lyrics_5_1
+    text: Você põe nossa foto na prateleira
+  - id: lyrics_5_2
+    text: e eu sorrio sozinha
+  - id: lyrics_6_1
+    text: Você corta a fita com uma faquinha
+  - id: lyrics_6_2
+    text: e desempacotamos sua vida inteira
+  - id: lyrics_6_3
+    text: Desempacotamos nossa vida inteira
+  - id: lyrics_7_1
+    text: Devagar, nossas coisas são unidas
+  - id: lyrics_7_2
+    text: E num local de primeira
+  - id: lyrics_7_3
+    text: Ficam as pelúcias preferidas
+  - id: lyrics_7_4
+    text: No quarto, numa estante
+  - id: lyrics_7_5
+    text: e eu sorrio num instante
+  - id: lyrics_8_1
+    text: Você corta a fita com uma faquinha
+  - id: lyrics_8_2
+    text: e nós desempacotamos nossa vida inteira
+  - id: lyrics_8_3
+    text: Nós desempacotamos nossa vida inteira
+  - id: input_rebind_cancel
+    text: (Segure {0} ou {1} para cancelar)
+  - id: input_rebind_cancel_gp_only
+    text: (Segure {0} para cancelar)
+  - id: inputaction_gameplay_focus
+    text: Foco do item
+  - id: credits_font_clean
+    text: Ajustes nas fontes chinesas e coreanas
+  - id: credits_grandmother
+    text: Ilana Sharon, avó amada
+  - id: menu_switch_user
+    text: Trocar de usuário
+  - id: menu_switch_profile
+    text: Trocar de perfil
+  - id: menu_controls_swapsticks
+    text: Inverter analógico esquerdo com direito
+  - id: menu_controls_cursorsensitivity_alt
+    text: Velocidade do \ncursor
+  - id: menu_credits
+    text: Créditos
+  - id: inputaction_gameplay_spmove_down
+    text: '   Abaixo'
+  - id: inputaction_gameplay_spmove_left
+    text: '   Esquerda'
+  - id: inputaction_gameplay_spmove_right
+    text: '   Direita'
+  - id: inputaction_gameplay_spmove_up
+    text: '   Acima'
+  - id: menu_controls_swapsticks_nx
+    text: Inverter analógico esquerdo com direito

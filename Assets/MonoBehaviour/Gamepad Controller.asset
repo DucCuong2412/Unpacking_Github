@@ -1,0 +1,581 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 814eda8c6b5b8d6775323eda5265927c, type: 3}
+  m_Name: Gamepad Controller
+  m_EditorClassIdentifier:
+  m_deviceProfiles:
+  - m_name: Xbox 360 Gamepad
+    m_idTags:
+    - XBOX 360
+    - Xbox 360
+    m_inputManifest:
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300734, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300412, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300732, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300408, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300728, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300402, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300730, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300404, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300794, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300464, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300866, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300534, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300792, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300462, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300870, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300538, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300800, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300470, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300824, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300492, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300826, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300494, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300754, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300426, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300776, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300448, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300782, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300454, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300770, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300442, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300786, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300458, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300758, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300430, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300762, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300434, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300778, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300450, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300784, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300456, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+  - m_name: Xbox One Gamepad
+    m_idTags:
+    - Xbox One
+    m_inputManifest:
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300720, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300394, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300724, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300398, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300856, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300524, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300848, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300516, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300794, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300464, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300866, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300534, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300792, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300462, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300870, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300538, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300726, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300400, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300822, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300490, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300826, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300494, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300754, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300426, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300776, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300448, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300782, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300454, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300770, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300442, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300786, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300458, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300758, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300430, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300762, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300434, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300778, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300450, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300784, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300456, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+  - m_name: PS4 Controller
+    m_idTags:
+    - Sony DualShock 4
+    - DUALSHOCK 4 Wireless Controller
+    m_inputManifest:
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300842, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300510, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300878, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300548, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300846, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300514, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300874, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300544, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300830, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300498, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300868, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300536, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300834, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300502, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300862, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300530, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300860, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300528, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300852, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300520, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300860, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300528, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300826, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300494, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300754, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300426, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300722, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300396, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300880, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300550, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300718, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300392, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300882, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300552, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300758, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300430, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300762, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300434, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300778, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300450, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300784, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300456, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+  - m_name: PS5 Controller
+    m_idTags:
+    - Sony DualSense
+    m_inputManifest:
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300744, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300482, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300748, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300478, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300814, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300488, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300790, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300472, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300818, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300480, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300868, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300536, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300750, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300406, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300862, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300530, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300806, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300410, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300810, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300484, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300806, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300410, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300826, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300494, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300754, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300426, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300736, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300418, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300816, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300416, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300740, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300542, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300808, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300424, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300758, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300430, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300762, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300434, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300778, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300450, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300784, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300456, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+  - m_name: Switch Controller
+    m_idTags:
+    - Pro Controller
+    m_inputManifest:
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300760, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300432, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300756, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300428, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300746, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300422, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300742, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300420, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300788, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300460, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300838, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300506, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300774, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300446, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300850, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300518, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300820, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300486, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300738, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300414, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 0}
+      m_iconTutorial: {fileID: 0}
+    - m_icon: {fileID: 21300826, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300494, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300754, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300426, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300776, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300448, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300782, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300454, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300770, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300442, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300786, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300458, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300758, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300434, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300858, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300526, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300762, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300430, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300778, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300450, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300828, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300496, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+    - m_icon: {fileID: 21300784, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+      m_iconTutorial: {fileID: 21300456, guid: fef433adb62441a41b35beea93ead9ed, type: 3}
+  m_defaultFallbackName: Xbox 360 Gamepad
+  m_defaultBindings:
+  - ia: Menu_Navigate
+    p1: LeftStick
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NavigateUp
+    p1: DPadUp
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NavigateDown
+    p1: DPadDown
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NavigateLeft
+    p1: DPadLeft
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NavigateRight
+    p1: DPadRight
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Accept
+    p1: ActionBottomRow1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Back
+    p1: ActionBottomRow2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Choice1
+    p1: ActionTopRow1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Choice2
+    p1: ActionTopRow2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NextPage
+    p1: DPadRight
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_PrevPage
+    p1: DPadLeft
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Slider_Left
+    p1: DPadLeft
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Slider_Right
+    p1: DPadRight
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Cursor
+    p1: ActionBottomRow1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_CursorMove
+    p1: LeftStick
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_LiftAndPlace
+    p1: ActionBottomRow1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_TurnAndInteract
+    p1: ActionBottomRow2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ScreenPan
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ScreenPanMove
+    p1: RightStick
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_SPMove_Up
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_SPMove_Right
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_SPMove_Down
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_SPMove_Left
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_Menu
+    p1: Center2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_PhotoMode
+    p1: ActionTopRow1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_FloorplanMode
+    p1: ActionTopRow2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ZoomIn
+    p1: DPadUp
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ZoomOut
+    p1: DPadDown
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ChangeZoneLeft
+    p1: LeftShoulder1
+    p2: Empty
+    s1: LeftShoulder2
+    s2: Empty
+  - ia: Gameplay_ChangeZoneRight
+    p1: RightShoulder1
+    p2: Empty
+    s1: RightShoulder2
+    s2: Empty
+  - ia: Album_DeleteAlbum
+    p1: Center1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_CopyAlbum
+    p1: Center2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_RestartStage
+    p1: Center2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_RecordStage
+    p1: Center1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_Rename
+    p1: ActionTopRow2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_StickerSheets
+    p1: ActionTopRow1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Photo_HideUI
+    p1: Center1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Photo_Capture
+    p1: RightShoulder1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Filter_IntensityInc
+    p1: DPadRight
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Filter_IntensityDec
+    p1: DPadLeft
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_ScaleInc
+    p1: DPadUp
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_ScaleDec
+    p1: DPadDown
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_Rotate
+    p1: DPadLeft
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_Flip
+    p1: DPadRight
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_DeleteCurrent
+    p1: ActionBottomRow2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Floorplan_Up
+    p1: RightStickUp
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Floorplan_Down
+    p1: RightStickDown
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_Focus
+    p1: Center1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  m_startWithXInputOn: 1
+  m_allowXInputToggling: 0

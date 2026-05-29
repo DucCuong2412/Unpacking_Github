@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb924ccc8692c5e5a566b2eb7c90e716, type: 3}
+  m_Name: stickers
+  m_EditorClassIdentifier:
+  stickers:
+  - id: sticker_Exclaim
+    sprite: {fileID: 21300074, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 0
+    position: {x: 6, y: 8}
+  - id: sticker_Star
+    sprite: {fileID: 21300000, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 0
+    position: {x: 74, y: 8}
+  - id: sticker_Cookie
+    sprite: {fileID: 21300030, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 0
+    position: {x: 14, y: 87}
+  - id: sticker_ThumbsUp
+    sprite: {fileID: 21300032, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 0
+    position: {x: 92, y: 97}
+  - id: sticker_Independence
+    sprite: {fileID: 21300016, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 0
+    position: {x: 6, y: 160}
+  - id: sticker_Hearts
+    sprite: {fileID: 21300026, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 0
+    position: {x: 117, y: 196}
+  - id: sticker_Dab
+    sprite: {fileID: 21300018, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 1
+    position: {x: 7, y: 8}
+  - id: sticker_Graduation
+    sprite: {fileID: 21300050, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 1
+    position: {x: 71, y: 61}
+  - id: sticker_Roleplaying
+    sprite: {fileID: 21300042, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 1
+    position: {x: 8, y: 99}
+  - id: sticker_Microwave
+    sprite: {fileID: 21300036, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 1
+    position: {x: 8, y: 179}
+  - id: sticker_Skeleton
+    sprite: {fileID: 21300064, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 1
+    position: {x: 100, y: 143}
+  - id: sticker_Coffee
+    sprite: {fileID: 21300076, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 2
+    position: {x: 8, y: 11}
+  - id: sticker_Music
+    sprite: {fileID: 21300008, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 2
+    position: {x: 62, y: 7}
+  - id: sticker_Gaming
+    sprite: {fileID: 21300002, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 2
+    position: {x: 6, y: 104}
+  - id: sticker_Undies
+    sprite: {fileID: 21300072, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 2
+    position: {x: 96, y: 112}
+  - id: sticker_Guitar
+    sprite: {fileID: 21300024, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 2
+    position: {x: 7, y: 168}
+  - id: sticker_Dog
+    sprite: {fileID: 21300004, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 2
+    position: {x: 66, y: 181}
+  - id: sticker_ReturningHome
+    sprite: {fileID: 21300060, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 3
+    position: {x: 7, y: 9}
+  - id: sticker_Lightbulb
+    sprite: {fileID: 21300012, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 3
+    position: {x: 90, y: 8}
+  - id: sticker_PlushToys
+    sprite: {fileID: 21300056, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 3
+    position: {x: 24, y: 99}
+  - id: sticker_Plant
+    sprite: {fileID: 21300006, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 3
+    position: {x: 6, y: 177}
+  - id: sticker_Love
+    sprite: {fileID: 21300044, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 3
+    position: {x: 69, y: 177}
+  - id: sticker_House
+    sprite: {fileID: 21300020, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 4
+    position: {x: 6, y: 6}
+  - id: sticker_Brain
+    sprite: {fileID: 21300040, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 4
+    position: {x: 100, y: 19}
+  - id: sticker_Fashion
+    sprite: {fileID: 21300066, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 4
+    position: {x: 23, y: 105}
+  - id: sticker_Toilet
+    sprite: {fileID: 21300022, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 4
+    position: {x: 6, y: 187}
+  - id: sticker_Blocks
+    sprite: {fileID: 21300054, guid: 0bbdb059c76435f47ab384d7a489bc1a, type: 3}
+    page: 4
+    position: {x: 104, y: 163}

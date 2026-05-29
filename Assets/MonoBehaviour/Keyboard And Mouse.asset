@@ -1,0 +1,437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 261ab25fbd9f8ffddf07b49541d0598b, type: 3}
+  m_Name: Keyboard And Mouse
+  m_EditorClassIdentifier:
+  defaultBindings:
+  - ia: Menu_Navigate
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NavigateUp
+    p1: UpArrow
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NavigateDown
+    p1: DownArrow
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NavigateLeft
+    p1: LeftArrow
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NavigateRight
+    p1: RightArrow
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Accept
+    p1: Return
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Back
+    p1: Escape
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Choice1
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Choice2
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_NextPage
+    p1: Period
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_PrevPage
+    p1: Comma
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Slider_Left
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Slider_Right
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Menu_Cursor
+    p1: Mouse0
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_CursorMove
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_LiftAndPlace
+    p1: Mouse0
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_TurnAndInteract
+    p1: Mouse1
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ScreenPan
+    p1: Mouse2
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ScreenPanMove
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_SPMove_Up
+    p1: UpArrow
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_SPMove_Right
+    p1: RightArrow
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_SPMove_Down
+    p1: DownArrow
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_SPMove_Left
+    p1: LeftArrow
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_Menu
+    p1: Escape
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_PhotoMode
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_FloorplanMode
+    p1: F
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ZoomIn
+    p1: Equals
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ZoomOut
+    p1: Minus
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ChangeZoneLeft
+    p1: LeftBracket
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_ChangeZoneRight
+    p1: RightBracket
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_DeleteAlbum
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_CopyAlbum
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_RestartStage
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_RecordStage
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_Rename
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Album_StickerSheets
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Photo_HideUI
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Photo_Capture
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Filter_IntensityInc
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Filter_IntensityDec
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_ScaleInc
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_ScaleDec
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_Rotate
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_Flip
+    p1: Empty
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Sticker_DeleteCurrent
+    p1: Escape
+    p2: Empty
+    s1: Mouse1
+    s2: Empty
+  - ia: Floorplan_Up
+    p1: PageUp
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Floorplan_Down
+    p1: PageDown
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  - ia: Gameplay_Focus
+    p1: Space
+    p2: Empty
+    s1: Empty
+    s2: Empty
+  panSpeed: 0.2
+  m_keyNamePairs:
+  - key: Backspace
+    name: BkSpc
+  - key: Delete
+    name: Del
+  - key: Escape
+    name: Esc
+  - key: Keypad0
+    name: KP 0
+  - key: Keypad1
+    name: KP 1
+  - key: Keypad2
+    name: KP 2
+  - key: Keypad3
+    name: KP 3
+  - key: Keypad4
+    name: KP 4
+  - key: Keypad5
+    name: KP 5
+  - key: Keypad6
+    name: KP 6
+  - key: Keypad7
+    name: KP 7
+  - key: Keypad8
+    name: KP 8
+  - key: Keypad9
+    name: KP 9
+  - key: KeypadPeriod
+    name: KP .
+  - key: KeypadDivide
+    name: KP /
+  - key: KeypadMultiply
+    name: KP *
+  - key: KeypadMinus
+    name: KP -
+  - key: KeypadPlus
+    name: KP +
+  - key: KeypadEnter
+    name: KP Enter
+  - key: KeypadEquals
+    name: KP =
+  - key: UpArrow
+    name: Up
+  - key: DownArrow
+    name: Down
+  - key: LeftArrow
+    name: Left
+  - key: RightArrow
+    name: Right
+  - key: Insert
+    name: Ins
+  - key: PageUp
+    name: PgUp
+  - key: PageDown
+    name: PgDn
+  - key: Alpha0
+    name: 0
+  - key: Alpha1
+    name: 1
+  - key: Alpha2
+    name: 2
+  - key: Alpha3
+    name: 3
+  - key: Alpha4
+    name: 4
+  - key: Alpha5
+    name: 5
+  - key: Alpha6
+    name: 6
+  - key: Alpha7
+    name: 7
+  - key: Alpha8
+    name: 8
+  - key: Alpha9
+    name: 9
+  - key: Exclaim
+    name: '!'
+  - key: DoubleQuote
+    name: '"'
+  - key: Hash
+    name: '#'
+  - key: Dollar
+    name: $
+  - key: Percent
+    name: '%'
+  - key: Ampersand
+    name: '&'
+  - key: Quote
+    name: ''''
+  - key: LeftParen
+    name: (
+  - key: RightParen
+    name: )
+  - key: Asterisk
+    name: '*'
+  - key: Plus
+    name: +
+  - key: Comma
+    name: ','
+  - key: Minus
+    name: '-'
+  - key: Period
+    name: .
+  - key: Slash
+    name: /
+  - key: Colon
+    name: ':'
+  - key: Semicolon
+    name: ;
+  - key: Less
+    name: '<'
+  - key: Equals
+    name: =
+  - key: Greater
+    name: '>'
+  - key: Question
+    name: '?'
+  - key: At
+    name: '@'
+  - key: LeftBracket
+    name: '['
+  - key: Backslash
+    name: \
+  - key: RightBracket
+    name: ']'
+  - key: Caret
+    name: ^
+  - key: Underscore
+    name: _
+  - key: BackQuote
+    name: '`'
+  - key: LeftCurlyBracket
+    name: '{'
+  - key: Pipe
+    name: |
+  - key: RightCurlyBracket
+    name: '}'
+  - key: Tilde
+    name: ~
+  - key: Numlock
+    name: NumLk
+  - key: CapsLock
+    name: CapsLk
+  - key: ScrollLock
+    name: ScLk
+  - key: RightShift
+    name: R Shift
+  - key: LeftShift
+    name: L Shift
+  - key: RightControl
+    name: R Ctrl
+  - key: LeftControl
+    name: L Ctrl
+  - key: RightAlt
+    name: R Alt
+  - key: LeftAlt
+    name: L Alt
+  - key: LeftCommand
+    name: L Cmd
+  - key: LeftWindows
+    name: L Win
+  - key: RightApple
+    name: R Cmd
+  - key: RightWindows
+    name: R Win
+  - key: AltGr
+    name: Alt Gr
+  - key: Mouse0
+    name: L Mouse
+  - key: Mouse1
+    name: R Mouse
+  - key: Mouse2
+    name: M Mouse
+  - key: None
+    name:
+  - key: Comma
+    name: '<'
+  - key: Period
+    name: '>'
+  - key: Equals
+    name: +

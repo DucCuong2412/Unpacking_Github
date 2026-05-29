@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: ms_MY
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: Bahasa Melayu
+  - id: menu_resume
+    text: Sambung
+  - id: menu_restart
+    text: Mula Semula
+  - id: menu_album
+    text: Album
+  - id: menu_settings
+    text: Tetapan
+  - id: menu_mainmenu
+    text: Menu Utama
+  - id: menu_play
+    text: Main
+  - id: menu_newgame
+    text: Permainan Baharu
+  - id: menu_quit
+    text: Keluar
+  - id: menu_back
+    text: Kembali
+  - id: menu_volume_music
+    text: Muzik
+  - id: menu_volume_sfx
+    text: Bunyi FX
+  - id: menu_volume_master
+    text: Vol Utama
+  - id: menu_speakers
+    text: Pembesar Suara
+  - id: menu_access_zonechange
+    text: Tukar Bilik
+  - id: menu_resolution
+    text: Resolusi
+  - id: menu_fullscreen
+    text: Mod Paparan
+  - id: menu_apply
+    text: Terap
+  - id: menu_no
+    text: Tidak
+  - id: menu_yes
+    text: Ya
+  - id: menu_startover
+    text: Mula Balik
+  - id: menu_toggle_fullscreen
+    text: Skrin Penuh
+  - id: menu_toggle_windowed
+    text: Bertingkap
+  - id: menu_toggle_slide
+    text: Luncur
+  - id: menu_toggle_fade
+    text: Pudar
+  - id: menu_postfx
+    text: Pasca FX
+  - id: menu_access_iconsize
+    text: Saiz ikon
+  - id: menu_toggle_default
+    text: Lalai
+  - id: menu_toggle_2x
+    text: 2x
+  - id: menu_toggle_3x
+    text: 3x
+  - id: menu_access_placementhints
+    text: Bayangan susun letak
+  - id: menu_access_invaliditemhighlight
+    text: Serlahan item tidak sah
+  - id: menu_access_allowitemsanywhere
+    text: Biarkan item di mana sahaja
+  - id: menu_discard
+    text: Buang
+  - id: menu_replace
+    text: Ganti
+  - id: menu_cancel
+    text: Batal
+  - id: menu_album_select
+    text: Pilihan Album
+  - id: menu_stickersheets
+    text: Pelekat
+  - id: menu_language
+    text: Bahasa
+  - id: menu_audio
+    text: Audio
+  - id: menu_video
+    text: Video
+  - id: menu_controls
+    text: Kawalan
+  - id: menu_accessibility
+    text: Capaian
+  - id: menu_clearall
+    text: Kosongkan data
+  - id: menu_resetdefault
+    text: Tetapkan semula kepada lalai
+  - id: menu_skip
+    text: Langkau
+  - id: menu_startover_prompt
+    text: Mula balik?\nKemajuan anda akan hilang.
+  - id: menu_startover_prompt_ingame
+    text: Mula balik peringkat ini?
+  - id: menu_unsavedchange_prompt_ingame
+    text: Peringkat ini sudah selesai. Apa yang ingin ada lakukan dengan perubahan anda?
+  - id: menu_photo_exit_prompt
+    text: Tinggalkan Mod Foto?
+  - id: menu_album_delete_prompt
+    text: Buang album ini?\nIni tidak boleh berpatah balik.
+  - id: menu_clearall_prompt
+    text: Ini akan memadamkan SEMUA data\nyang tersimpan! Adakah anda pasti?
+  - id: outro_title
+    text: Terima kasih kerana bermain demo kami!
+  - id: outro_upper_line
+    text: Banyak lagi untuk dikemaskan dalam permainan penuh.
+  - id: outro_lower_line
+    text: Tersedia sekarang!
+  - id: sticker_Hearts
+    text: Kurang daripada tiga
+  - id: sticker_ThumbsUp
+    text: Tentulah
+  - id: sticker_Exclaim
+    text: Wau!
+  - id: sticker_Brain
+    text: Selesaikan teka-teki
+  - id: sticker_Music
+    text: Kuatkan muzik
+  - id: sticker_Star
+    text: Permulaan
+  - id: sticker_Dab
+    text: Buat aksi
+  - id: sticker_Cookie
+    text: Makanan sekali-sekali
+  - id: sticker_Skeleton
+    text: Mudarat elektrik
+  - id: sticker_Graduation
+    text: Jadi bijak
+  - id: sticker_Gaming
+    text: Ayuh main
+  - id: sticker_Fashion
+    text: Pakai topi
+  - id: sticker_Roleplaying
+    text: Persahabatan
+  - id: sticker_Undies
+    text: Seluar dalam
+  - id: sticker_Coffee
+    text: Bancuhkan kopi
+  - id: sticker_Guitar
+    text: Terlalu hebat
+  - id: sticker_Dog
+    text: Mengimbau zaman kecil
+  - id: sticker_ReturningHome
+    text: Masakan rumah
+  - id: sticker_Lightbulb
+    text: Selesai dengan jelas
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: Berdikari
+  - id: sticker_Plant
+    text: Pokok kaktus
+  - id: sticker_PlushToys
+    text: Kawan gebu
+  - id: sticker_Love
+    text: Cinta
+  - id: sticker_Blocks
+    text: Bongkah Kecil
+  - id: sticker_Toilet
+    text: Perlu pam kesemuanya
+  - id: sticker_House
+    text: Tiada sehebat rumah sendiri
+  - id: album_cover
+    text: Buku ini kepunyaan
+  - id: album_childroom_year
+    text: 1997
+  - id: album_childroom_date
+    text: Mei 1997
+  - id: album_studioapt_year
+    text: 2004
+  - id: album_studioapt_date
+    text: Januari 2004
+  - id: album_sharehouse_year
+    text: 2007
+  - id: album_sharehouse_date
+    text: Mac 2007
+  - id: album_boyfriendapt_year
+    text: 2010
+  - id: album_boyfriendapt_date
+    text: September 2010
+  - id: album_parenthouse_year
+    text: 2012
+  - id: album_parenthouse_date
+    text: Jun 2012
+  - id: album_soloapt_year
+    text: 2013
+  - id: album_soloapt_date
+    text: Januari 2013
+  - id: album_partnerapt_year
+    text: 2015
+  - id: album_partnerapt_date
+    text: November 2015
+  - id: album_house_year
+    text: 2018
+  - id: album_house_date
+    text: Julai 2018
+  - id: album_childroom_bedroom
+    text: Akhirnya, bilik saya sendiri!
+  - id: album_childroom_darkstar
+    text: Nampak menarik, masa untuk bermain!
+  - id: album_studioapt_bedroom
+    text: Kelas bermula hari Isnin! Uni, saya datang!
+  - id: album_studioapt_bathroom
+    text: Bilik mandi persendirian! Hebat!
+  - id: album_studioapt_kitchenette
+    text: Saya perlu masak sendiri? Uh oh.
+  - id: album_studioapt_darkstar
+    text: Eh, saya akan rapikan sedikit nanti.
+  - id: album_sharehouse_livingroom
+    text: Malam menonton filem nanti pasti mengagumkan!
+  - id: album_sharehouse_bathroom
+    text: Tunggu, kita semua berkongsi satu bilik mandi?
+  - id: album_sharehouse_bedroom
+    text: Ini hari yang memenatkan! Saya dah nak tidur.
+  - id: album_sharehouse_kitchen
+    text: JAUH lebih besar daripada dapur saya yang dahulu!
+  - id: album_sharehouse_diningroom
+    text: Malam perlawanan pasti lebih selesa!
+  - id: album_sharehouse_darkstar
+    text: Mereka kenal saya di uni, mereka sudah boleh jangka.
+  - id: album_boyfriendapt_livingroom
+    text: Benar-benar serius untuk berpindah ke tempatnya!
+  - id: album_boyfriendapt_kitchen
+    text: Bukan semua kopi itu segera, siapa tahu?
+  - id: album_boyfriendapt_bathroom
+    text: Tempat mandi dengan pemandangan!
+  - id: album_boyfriendapt_bedroom
+    text: Baru sahaja menyesuaikan diri di sini!
+  - id: album_boyfriendapt_darkstar
+    text: Tak apa, dia sukakan sikap bersahaja saya!
+  - id: album_parenthouse_bedroom
+    text: Dulu bilik ini terasa lebih besar.
+  - id: album_parenthouse_bathroom
+    text: Saya dan adik-beradik selalu berebut bilik mandi ini.
+  - id: album_parenthouse_darkstar
+    text: Untuk kembalikan seperti dahulu akan mengambil masa.
+  - id: album_soloapt_livingroom
+    text: Nanti saya akan fikirkan tempat untuk dapatkan sofa.
+  - id: album_soloapt_bathroom
+    text: Saya rindu untuk mandi lama-lama!
+  - id: album_soloapt_bedroom
+    text: Katil ratu untuk saya seorang!
+  - id: album_soloapt_office
+    text: Menjadikan ini ruang seni saya!
+  - id: album_soloapt_kitchen
+    text: Lega jumpa tempat yang baik ini dalam bajet saya!
+  - id: album_soloapt_darkstar
+    text: Lagipun saya tidak merancang untuk berhibur sangat.
+  - id: album_partnerapt_livingroom
+    text: Jauh lebih selesa sekarang! Rasa macam di rumah.
+  - id: album_partnerapt_bathroom
+    text: Semua laci itu penuh dengan cepat!
+  - id: album_partnerapt_bedroom
+    text: Lega sungguh dengan ruang almari pakaian sekarang!
+  - id: album_partnerapt_office
+    text: Segalanya sukar tetapi saya sudah mula biasakan diri!
+  - id: album_partnerapt_kitchen
+    text: Tidak sabar untuk pengembaraan kulinari baru!
+  - id: album_partnerapt_darkstar
+    text: Selamat datang ke rimba!
+  - id: album_house_foyer
+    text: Rumah baharu kita!
+  - id: album_house_bathroom
+    text: Bilik mandi bersaiz keluarga!
+  - id: album_house_nursery
+    text: Kami tidak sabar untuk bertemu anda!
+  - id: album_house_closet
+    text: Cukup ruang untuk semua pakaian kita dan ada lagi!
+  - id: album_house_bedroom
+    text: Tidak sabar untuk tidur kali pertama di rumah baharu kita!
+  - id: album_house_office
+    text: Ruang profesional saya, untuk saya, yang profesional!
+  - id: album_house_toilet
+    text: Tandas bonus!
+  - id: album_house_kitchen
+    text: Akhirnya, peti sejuk yang cukup besar untuk semua magnet saya!
+  - id: album_house_diningroom
+    text: Kami sudah merancang untuk jamuan makan malam ini!
+  - id: album_house_livingroom
+    text: Ruang dan halaman belakangnya besar! Kita boleh bela haiwan kesayangan sekarang!
+  - id: album_house_darkstar
+    text: Nampak menarik, masa untuk tidur sekejap!
+  - id: album_credits
+    text: Terima kasih kerana menyertai saya dalam perjalanan ini.
+  - id: album_credits_darkstar
+    text: Tidak ingin masuk kembali ke rumah itu, ia bersepah.
+  - id: credits_developed
+    text: dimajukan oleh
+  - id: credits_creative_director
+    text: Pengarah Kreatif
+  - id: credits_technical_director
+    text: Pengarah Teknikal
+  - id: credits_composer_sound_designer
+    text: Penggubah & Pereka Bunyi
+  - id: credits_pixel_art
+    text: Seni Piksel
+  - id: credits_foley_recording
+    text: Rakaman Folei
+  - id: credits_game_design
+    text: Rekaan Permainan
+  - id: credits_narrative_assistance
+    text: Bantuan Naratif
+  - id: credits_additional_coding
+    text: Pengekodan Tambahan
+  - id: credits_hero_image_stickers
+    text: Wira dan Pelekat Wira
+  - id: credits_title_screen_art
+    text: Seni Skrin Tajuk
+  - id: credits_anim_previs
+    text: Pravisual Animasi
+  - id: credits_dev_business_support
+    text: Sokongan Pembangunan & Perniagaan
+  - id: credits_legal
+    text: Bantuan Perundangan
+  - id: credits_published_by
+    text: Dipersembahkan Oleh
+  - id: credits_special_thanks
+    text: Penghargaan
+  - id: credits_in_memory
+    text: Bagi Mengenang
+  - id: credits_supported_by
+    text: Disokong Dengan Bangganya Oleh
+  - id: input_rebind
+    text: Tekan butang
+  - id: inputaction_gameplay
+    text: Dalam Permainan
+  - id: inputaction_gameplay_liftandplace
+    text: Angkat dan Letak
+  - id: inputaction_gameplay_turnandinteract
+    text: Pusing dan Interaksi
+  - id: inputaction_gameplay_screenpan
+    text: Sorot Skrin
+  - id: inputaction_gameplay_photomode
+    text: Buka Mod Foto
+  - id: inputaction_gameplay_floorplanmode
+    text: Buka Pelan Lantai
+  - id: inputaction_gameplay_zoomin
+    text: Zum Masuk
+  - id: inputaction_gameplay_zoomout
+    text: Zum Keluar
+  - id: inputaction_gameplay_changezoneleft
+    text: Bilik Kiri
+  - id: inputaction_gameplay_changezoneright
+    text: Bilik Kanan
+  - id: inputaction_photo
+    text: Mod Foto
+  - id: inputaction_photo_capture
+    text: Ambil Foto
+  - id: inputaction_photo_hideui
+    text: Sembunyikan UI
+  - id: inputaction_menu
+    text: Menu
+  - id: inputaction_menu_accept
+    text: Terima
+  - id: inputaction_menu_back
+    text: Kembali
+  - id: inputaction_menu_nextpage
+    text: Halaman Seterusnya
+  - id: inputaction_menu_prevpage
+    text: Halaman Sebelumnya
+  - id: menu_controls_rebind
+    text: Tetap Semula Kawalan
+  - id: menu_controls_reversesticks
+    text: Undur kayu kawalan
+  - id: menu_controls_swapsticks
+    text: Tukar Kayu Kiri / Kanan
+  - id: menu_controls_vibration
+    text: Getaran
+  - id: menu_controls_cursorsensitivity
+    text: Sensitiviti\nkursor pengawal
+  - id: menu_controls_cursorsensitivity_alt
+    text: \nKelajuan Kursor
+  - id: menu_controls_changeinput
+    text: Tukar input
+  - id: menu_saveerror_prompt
+    text: Data yang disimpan tidak boleh dimuatkan. \nMula balik?
+  - id: menu_allowanywhere_prompt
+    text: Ini akan mengeluarkan elemen teka-teki daripada permainan. Adakah anda pasti?
+  - id: menu_controls_cursor
+    text: Kursor kekangan
+  - id: menu_audio_shuffle
+    text: Rombak muzik
+  - id: menu_continue
+    text: OK
+  - id: menu_photo_exit_prompt_extra
+    text: (Perubahan anda akan hilang.)
+  - id: menu_save_image
+    text: Lokasi simpanan imej
+  - id: menu_save_gif
+    text: Lokasi simpanan GIF
+  - id: menu_save_video
+    text: Lokasi simpanan video
+  - id: album_clone
+    text: salin ke album baharu
+  - id: photo_save_computer
+    text: Imej disimpan pada
+  - id: photo_save_steam
+    text: Imej disimpan pada Tangkapan Skrin Steam
+  - id: photo_save
+    text: Imej disimpan!
+  - id: playback_header
+    text: Ulang Tayang Cepat
+  - id: playback_speed
+    text: Kelajuan
+  - id: playback_encoding
+    text: Mengekod...
+  - id: playback_gif_result
+    text: 'GIF disimpan pada:'
+  - id: playback_video_result
+    text: 'Video disimpan pada:'
+  - id: unlock_header
+    text: Ciri dinyahkunci!
+  - id: unlock_shuffle
+    text: Anda kini boleh mendengar runut bunyi daripada seluruh permainan dengan mendayakan "Rombak Muzik" di bawah tetapan audio!
+  - id: unlock_validation
+    text: Setelah sesuatu peringkat dikemaskan, anda boleh menghidupkan atau mematikan pentaksiran, menyembunyikan serlahan item dan butang bintang buat sementara waktu.
+  - id: credits_localization
+    text: Penyetempatan
+  - id: credits_website
+    text: Rekaan Laman Web
+  - id: credits_audio_director
+    text: Pengarah Audio
+  - id: credits_music_sound_design
+    text: Rekaan Muzik & Bunyi
+  - id: credits_foley_production
+    text: Penerbitan Folei
+  - id: credits_foley_additional
+    text: Folei Tambahan
+  - id: credits_community
+    text: Strategi Komuniti
+  - id: credits_playtesters
+    text: Pemain Ujian
+  - id: credits_guitars_additional
+    text: Gitar Tambahan
+  - id: credits_testing
+    text: Diuji oleh
+  - id: credits_porting
+    text: Dipindahkan oleh
+  - id: lyrics_1_1
+    text: Trak pemindah itu berhenti
+  - id: lyrics_1_2
+    text: pintu rumah diketuk
+  - id: lyrics_1_3
+    text: Kini semua barang awak sudah sampai
+  - id: lyrics_1_4
+    text: dalam kotak di atas lantai
+  - id: lyrics_2_1
+    text: Awak membuka kotak
+  - id: lyrics_2_2
+    text: banyak yang perlu dilakukan
+  - id: lyrics_2_3
+    text: Saya membuka hati saya
+  - id: lyrics_2_4
+    text: ia kini rumah untuk berdua
+  - id: lyrics_3_1
+    text: Tumbuhan di rumah awak menerangi
+  - id: lyrics_3_2
+    text: ambang tingkap yang suram
+  - id: lyrics_3_3
+    text: Selimut awak menghangatkan kita
+  - id: lyrics_3_4
+    text: dalam kedinginan malam
+  - id: lyrics_4_1
+    text: Kita mengeluarkan koleh kegemaran awak
+  - id: lyrics_4_2
+    text: daripada busa pembungkusan
+  - id: lyrics_4_3
+    text: Melekatkan magnet di peti sejuk
+  - id: lyrics_4_4
+    text: dan kita jadikan rumah ini tempat tinggal
+  - id: lyrics_5_1
+    text: Awak meletak foto kita di atas rak
+  - id: lyrics_5_2
+    text: Saya tersenyum sendiri
+  - id: lyrics_6_1
+    text: Awak memotong pita dengan pisau stanley saya
+  - id: lyrics_6_2
+    text: dan kita mengatur hidup awak
+  - id: lyrics_6_3
+    text: Kita mengatur hidup awak
+  - id: lyrics_7_1
+    text: Perlahan-lahan, barangan kita bersatu
+  - id: lyrics_7_2
+    text: Patung mainan kegemaran awak betul-betul di sebelah saya
+  - id: lyrics_7_3
+    text: Barang milik berharga kita ada di lokasi utama
+  - id: lyrics_7_4
+    text: atas rak di bilik tidur
+  - id: lyrics_7_5
+    text: Saya tersenyum sendiri
+  - id: lyrics_8_1
+    text: Awak memotong pita dengan pisau stanley saya
+  - id: lyrics_8_2
+    text: dan kita atur hidup sendiri
+  - id: lyrics_8_3
+    text: Kita atur hidup sendiri
+  - id: input_rebind_cancel
+    text: (Tahan {0} atau {1} untuk batal)
+  - id: input_rebind_cancel_gp_only
+    text: (Tahan {0} untuk batal)
+  - id: inputaction_gameplay_focus
+    text: Tumpuan Item
+  - id: credits_font_clean
+    text: Pembersihan Fon Cina & Korea
+  - id: credits_grandmother
+    text: Ilana Sharon, nenek tersayang
+  - id: menu_switch_user
+    text: Ubah Pengguna
+  - id: menu_switch_profile
+    text: Ubah Profil
+  - id: menu_credits
+    text: Kredit
+  - id: inputaction_gameplay_spmove_down
+    text: '   Bawah'
+  - id: inputaction_gameplay_spmove_left
+    text: '   Kiri'
+  - id: inputaction_gameplay_spmove_right
+    text: '   Kanan'
+  - id: inputaction_gameplay_spmove_up
+    text: '   Atas'
+  - id: menu_controls_swapsticks_nx
+    text: Tukar Kayu Kiri / Kanan

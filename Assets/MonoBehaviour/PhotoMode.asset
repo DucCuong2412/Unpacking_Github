@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e127e127a5ce0aacf103fd38613f0505, type: 3}
+  m_Name: PhotoMode
+  m_EditorClassIdentifier:
+  m_borders:
+  - stringID: none
+    prefab: {fileID: 0}
+    icon: {fileID: 21300104, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: white
+    prefab: {fileID: 224730242686860875, guid: 9845d7004c3e90243821b9a44bc172ed, type: 2}
+    icon: {fileID: 21300050, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: cinema
+    prefab: {fileID: 224730242686860875, guid: 90a98eb9db0dcae48afb9de9822d9a9e, type: 2}
+    icon: {fileID: 21300042, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: speedlines
+    prefab: {fileID: 224730242686860875, guid: 355d2adfce48d6c46bbc0c41649eb569, type: 2}
+    icon: {fileID: 21300132, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: rounded
+    prefab: {fileID: 224730242686860875, guid: 2caabcf43df830d47bd795c13bbb8b38, type: 2}
+    icon: {fileID: 21300098, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: gold
+    prefab: {fileID: 224730242686860875, guid: 033ff963729c20841adebb6ff29d0b0a, type: 2}
+    icon: {fileID: 21300040, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: photoframe
+    prefab: {fileID: 224730242686860875, guid: 5cd20ca5546a1544fbf252de779f6412, type: 2}
+    icon: {fileID: 21300028, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: album
+    prefab: {fileID: 224730242686860875, guid: 5727fca9cc6057f4c8a06ed5352d1e9e, type: 2}
+    icon: {fileID: 21300100, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: instant
+    prefab: {fileID: 224618682377417806, guid: 793e288aca3c7be4f9f51b229810ed97, type: 2}
+    icon: {fileID: 21300016, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: handheld
+    prefab: {fileID: 224730242686860875, guid: 1382b4105bfaf7244bd5722a22417881, type: 2}
+    icon: {fileID: 21300096, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: comic
+    prefab: {fileID: 224730242686860875, guid: 78b2ccc958245eb429a423af69d98470, type: 2}
+    icon: {fileID: 21300072, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  - stringID: magazine
+    prefab: {fileID: 224618682377417806, guid: 1a08a91c2bd3a514ba49aff1ab314df6, type: 2}
+    icon: {fileID: 21300084, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+  m_filters:
+  - stringID: none
+    profile: {fileID: 0}
+    icon: {fileID: 21300104, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0
+  - stringID: vivid
+    profile: {fileID: 11400000, guid: e3063e0bf3714894baa85f2dd98b0bca, type: 2}
+    icon: {fileID: 21300024, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0
+  - stringID: warm
+    profile: {fileID: 11400000, guid: e0fa8ae356f232a4d8e9c1cc0f2ce6a0, type: 2}
+    icon: {fileID: 21300108, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0
+  - stringID: cool
+    profile: {fileID: 11400000, guid: 326850bd3a6f5404084afaaadd895279, type: 2}
+    icon: {fileID: 21300002, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0
+  - stringID: noir
+    profile: {fileID: 11400000, guid: ec9811e0ada7421468dcf59901586142, type: 2}
+    icon: {fileID: 21300044, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0
+  - stringID: sepia
+    profile: {fileID: 11400000, guid: 996b32b53ad01894999494e34b1ff87a, type: 2}
+    icon: {fileID: 21300082, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0
+  - stringID: spooky
+    profile: {fileID: 11400000, guid: ddaeea82c583f1b448cd506eae63a9e5, type: 2}
+    icon: {fileID: 21300008, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0
+  - stringID: tropical
+    profile: {fileID: 11400000, guid: 09df26c61f50c9b469bf140b4d43e70c, type: 2}
+    icon: {fileID: 21300020, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0
+  - stringID: handheld
+    profile: {fileID: 11400000, guid: fe6b881dbaa41014196634650c9514d8, type: 2}
+    icon: {fileID: 21300026, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 1
+    meshStrength: 0.05
+  - stringID: ega
+    profile: {fileID: 11400000, guid: 66ffebeee2766274392dafb8ae762b5e, type: 2}
+    icon: {fileID: 21300060, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 1
+    meshStrength: 0.04
+  - stringID: crt
+    profile: {fileID: 11400000, guid: b51c851360a85f148aaa8c1e3ff24fa9, type: 2}
+    icon: {fileID: 21300046, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0
+  - stringID: universe
+    profile: {fileID: 11400000, guid: 79f227fecceff114dba2ab862d8ef0e3, type: 2}
+    icon: {fileID: 21300000, guid: fa03b6a0b662c7547995c41e2f47b390, type: 3}
+    hideGradient: 0
+    meshStrength: 0

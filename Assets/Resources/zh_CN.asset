@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: zh_CN
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: 简体中文
+  - id: menu_resume
+    text: 继续游玩
+  - id: menu_restart
+    text: 重新开始
+  - id: menu_album
+    text: 相册
+  - id: menu_settings
+    text: 设置
+  - id: menu_mainmenu
+    text: 主菜单
+  - id: menu_play
+    text: 游玩
+  - id: menu_newgame
+    text: 新游戏
+  - id: menu_quit
+    text: 退出
+  - id: menu_back
+    text: 返回
+  - id: menu_volume_music
+    text: 音乐
+  - id: menu_volume_sfx
+    text: 声效
+  - id: menu_volume_master
+    text: 主音量
+  - id: menu_speakers
+    text: 扬声器
+  - id: menu_access_zonechange
+    text: 更换房间
+  - id: menu_resolution
+    text: 分辨率
+  - id: menu_fullscreen
+    text: 显示模式
+  - id: menu_apply
+    text: 应用
+  - id: menu_no
+    text: 否
+  - id: menu_yes
+    text: 是
+  - id: menu_startover
+    text: 重新开始
+  - id: menu_toggle_fullscreen
+    text: 全屏
+  - id: menu_toggle_windowed
+    text: 窗口化
+  - id: menu_toggle_slide
+    text: 滑动
+  - id: menu_toggle_fade
+    text: 淡出
+  - id: menu_postfx
+    text: 后期处理
+  - id: menu_access_iconsize
+    text: 图标大小
+  - id: menu_toggle_default
+    text: 默认
+  - id: menu_toggle_2x
+    text: 2倍
+  - id: menu_toggle_3x
+    text: 3倍
+  - id: menu_access_placementhints
+    text: 位置提示
+  - id: menu_access_invaliditemhighlight
+    text: 高亮显示无效物品
+  - id: menu_access_allowitemsanywhere
+    text: 允许随处放置物品
+  - id: menu_discard
+    text: 丢弃
+  - id: menu_replace
+    text: 替换
+  - id: menu_cancel
+    text: 取消
+  - id: menu_album_select
+    text: 相册选取
+  - id: menu_stickersheets
+    text: 贴纸
+  - id: menu_language
+    text: 语言
+  - id: menu_audio
+    text: 音频
+  - id: menu_video
+    text: 视频
+  - id: menu_controls
+    text: 控制
+  - id: menu_accessibility
+    text: 无障碍功能
+  - id: menu_clearall
+    text: 清除所有数据
+  - id: menu_resetdefault
+    text: 重置为默认
+  - id: menu_skip
+    text: 跳过
+  - id: menu_startover_prompt
+    text: 是否重新开始？\n你的进度将会丢失。
+  - id: menu_startover_prompt_ingame
+    text: 重新开始此关卡？
+  - id: menu_unsavedchange_prompt_ingame
+    text: 此关卡已完成！如何处理变更项目？
+  - id: menu_photo_exit_prompt
+    text: 离开照片模式？
+  - id: menu_album_delete_prompt
+    text: 是否丢弃此相册？\n此操作无法撤销。
+  - id: menu_clearall_prompt
+    text: 这将删除当前所有\n保存数据！是否确定？
+  - id: outro_title
+    text: 感谢游玩试玩版本！
+  - id: outro_upper_line
+    text: 敬请期待2021年推出的完整游戏
+  - id: outro_lower_line
+    text: 欲知最新消息，请将《Unpacking》添至愿望单，\n在Twitter上关注我们或加入我们的邮件列表！
+  - id: sticker_Hearts
+    text: 笔芯
+  - id: sticker_ThumbsUp
+    text: 棒呆了
+  - id: sticker_Exclaim
+    text: 哇！
+  - id: sticker_Brain
+    text: 解决难题
+  - id: sticker_Music
+    text: 大声播放音乐
+  - id: sticker_Star
+    text: 起点
+  - id: sticker_Dab
+    text: 摆个姿势
+  - id: sticker_Cookie
+    text: 偶尔啃两口
+  - id: sticker_Skeleton
+    text: 触电危险
+  - id: sticker_Graduation
+    text: 学富五车
+  - id: sticker_Gaming
+    text: 开始游戏
+  - id: sticker_Fashion
+    text: 头戴帽子
+  - id: sticker_Roleplaying
+    text: 团队
+  - id: sticker_Undies
+    text: 整齐收纳
+  - id: sticker_Coffee
+    text: 冲泡咖啡
+  - id: sticker_Guitar
+    text: 太酷了
+  - id: sticker_Dog
+    text: 重温童年
+  - id: sticker_ReturningHome
+    text: 家常菜
+  - id: sticker_Lightbulb
+    text: 灵机一动
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: 独立自主
+  - id: sticker_Plant
+    text: 园艺奇才
+  - id: sticker_PlushToys
+    text: 毛绒好友
+  - id: sticker_Love
+    text: 爱情
+  - id: sticker_Blocks
+    text: 积木建筑师
+  - id: sticker_Toilet
+    text: 抽水马桶
+  - id: sticker_House
+    text: 最美好的家
+  - id: album_cover
+    text: 这本书属于
+  - id: album_childroom_year
+    text: 1997年
+  - id: album_childroom_date
+    text: 1997年5月
+  - id: album_studioapt_year
+    text: 2004年
+  - id: album_studioapt_date
+    text: 2004年1月
+  - id: album_sharehouse_year
+    text: 2007年
+  - id: album_sharehouse_date
+    text: 2007年3月
+  - id: album_boyfriendapt_year
+    text: 2010年
+  - id: album_boyfriendapt_date
+    text: 2010年9月
+  - id: album_parenthouse_year
+    text: 2012年
+  - id: album_parenthouse_date
+    text: 2012年6月
+  - id: album_soloapt_year
+    text: 2013年
+  - id: album_soloapt_date
+    text: 2013年1月
+  - id: album_partnerapt_year
+    text: 2015年
+  - id: album_partnerapt_date
+    text: 2015年11月
+  - id: album_house_year
+    text: 2018年
+  - id: album_house_date
+    text: 2018年7月
+  - id: album_childroom_bedroom
+    text: 终于有我自己的房间了！
+  - id: album_childroom_darkstar
+    text: 这就行了吧。该出去玩了！
+  - id: album_studioapt_bedroom
+    text: 周一便开学了！大学，我来啦！
+  - id: album_studioapt_bathroom
+    text: 有私人浴室！加分！
+  - id: album_studioapt_kitchenette
+    text: 我得自己做饭？糟糕了。
+  - id: album_studioapt_darkstar
+    text: 呃，我过会再收拾吧。
+  - id: album_sharehouse_livingroom
+    text: 电影之夜一定很棒！
+  - id: album_sharehouse_bathroom
+    text: 等等，我们共用一个浴室？
+  - id: album_sharehouse_bedroom
+    text: 今天是大日子！我准备好睡觉了。
+  - id: album_sharehouse_kitchen
+    text: 比我之前的厨房大得多了！
+  - id: album_sharehouse_diningroom
+    text: 游戏之夜变得更方便了！
+  - id: album_sharehouse_darkstar
+    text: 他们从大学时期就认识我了，他们应该心里有数。
+  - id: album_boyfriendapt_livingroom
+    text: 要搬去他家，这是重大的一步！
+  - id: album_boyfriendapt_kitchen
+    text: 谁知道原来并非所有咖啡都是速溶的呢？
+  - id: album_boyfriendapt_bathroom
+    text: 可以享受美景的沐浴间！
+  - id: album_boyfriendapt_bedroom
+    text: 我的东西几乎都挤不下了！
+  - id: album_boyfriendapt_darkstar
+    text: 没事的，他就是喜欢我率性而为！
+  - id: album_parenthouse_bedroom
+    text: 这房间以前感觉大一些。
+  - id: album_parenthouse_bathroom
+    text: 我妹妹和我以前经常因为浴室而吵架。
+  - id: album_parenthouse_darkstar
+    text: 过了一段时间才将这里恢复为我离开前的样子。
+  - id: album_soloapt_livingroom
+    text: 待会我再想办法弄张沙发回来吧。
+  - id: album_soloapt_bathroom
+    text: 我好怀念泡澡！
+  - id: album_soloapt_bedroom
+    text: 一张属于我自己的大号床！
+  - id: album_soloapt_office
+    text: 我要把这里打造成我的艺术空间！
+  - id: album_soloapt_kitchen
+    text: 很庆幸我能在预算内找到这么好的地方！
+  - id: album_soloapt_darkstar
+    text: 反正我也不打算招呼人来我家。
+  - id: album_partnerapt_livingroom
+    text: 现在感觉舒服多了！终于像一个家了。
+  - id: album_partnerapt_bathroom
+    text: 那么快就装满了所有抽屉！
+  - id: album_partnerapt_bedroom
+    text: 很高兴现在有那么大的衣橱空间！
+  - id: album_partnerapt_office
+    text: 虽然这很不简单，但我终于有点进展了！
+  - id: album_partnerapt_kitchen
+    text: 期待新奇的烹饪之旅！
+  - id: album_partnerapt_darkstar
+    text: 欢迎来到丛林！
+  - id: album_house_foyer
+    text: 我们的新家！
+  - id: album_house_bathroom
+    text: 一个适合家庭共用的大浴室！
+  - id: album_house_nursery
+    text: 我们非常期待认识你！
+  - id: album_house_closet
+    text: 空间够大，放得下我们的所有衣服，还能购置几件新衣！
+  - id: album_house_bedroom
+    text: 真期待在新家度过的第一晚！
+  - id: album_house_office
+    text: 我的工作空间，属于我这个专业人士！
+  - id: album_house_toilet
+    text: 有个额外厕所！
+  - id: album_house_kitchen
+    text: 终于有个大冰箱，可以贴上所有的冰箱磁贴！
+  - id: album_house_diningroom
+    text: 我们已经在着手计划开晚餐聚会的事了！
+  - id: album_house_livingroom
+    text: 现在有大量空间，还有后院！终于能养只宠物了！
+  - id: album_house_darkstar
+    text: 看起来很不错，该小睡一下了！
+  - id: album_credits
+    text: 感谢你和我一起经历这段旅程。
+  - id: album_credits_darkstar
+    text: 我才不回到房子里去，全都搞砸了。
+  - id: credits_developed
+    text: 开发团队
+  - id: credits_creative_director
+    text: 创意总监
+  - id: credits_technical_director
+    text: 技术总监
+  - id: credits_composer_sound_designer
+    text: 作曲家兼音效设计师
+  - id: credits_pixel_art
+    text: 像素美术
+  - id: credits_foley_recording
+    text: 拟音录音
+  - id: credits_game_design
+    text: 游戏设计
+  - id: credits_narrative_assistance
+    text: 剧本支持
+  - id: credits_additional_coding
+    text: 附加编程
+  - id: credits_hero_image_stickers
+    text: 营销图像与贴纸
+  - id: credits_title_screen_art
+    text: 标题画面美术
+  - id: credits_anim_previs
+    text: 动画预览
+  - id: credits_dev_business_support
+    text: 开发与业务支持
+  - id: credits_legal
+    text: 法律支持
+  - id: credits_published_by
+    text: 出品团队：
+  - id: credits_special_thanks
+    text: 特别鸣谢
+  - id: credits_in_memory
+    text: 特此纪念
+  - id: credits_supported_by
+    text: 荣获下列各方支持
+  - id: input_rebind
+    text: 按下按钮
+  - id: inputaction_gameplay
+    text: 在游戏中
+  - id: inputaction_gameplay_liftandplace
+    text: 拿起和放置
+  - id: inputaction_gameplay_turnandinteract
+    text: 转动和互动
+  - id: inputaction_gameplay_screenpan
+    text: 平移屏幕
+  - id: inputaction_gameplay_photomode
+    text: 打开照片模式
+  - id: inputaction_gameplay_floorplanmode
+    text: 打开平面图
+  - id: inputaction_gameplay_zoomin
+    text: 放大
+  - id: inputaction_gameplay_zoomout
+    text: 缩小
+  - id: inputaction_gameplay_changezoneleft
+    text: 左边房间
+  - id: inputaction_gameplay_changezoneright
+    text: 右边房间
+  - id: inputaction_photo
+    text: 照片模式
+  - id: inputaction_photo_capture
+    text: 拍照
+  - id: inputaction_photo_hideui
+    text: 隐藏用户界面
+  - id: inputaction_menu
+    text: 菜单
+  - id: inputaction_menu_accept
+    text: 接受
+  - id: inputaction_menu_back
+    text: 返回
+  - id: inputaction_menu_nextpage
+    text: 下一页
+  - id: inputaction_menu_prevpage
+    text: 上一页
+  - id: menu_controls_rebind
+    text: 重设控制方案
+  - id: menu_controls_reversesticks
+    text: 反向摇杆
+  - id: menu_controls_vibration
+    text: 振动
+  - id: menu_controls_cursorsensitivity
+    text: 控制器光标\n敏感度
+  - id: menu_controls_changeinput
+    text: 更改输入
+  - id: menu_saveerror_prompt
+    text: 无法加载保存数据。\n重新开始？
+  - id: menu_allowanywhere_prompt
+    text: 这将移除游戏中的拼图元素。是否确定？
+  - id: menu_controls_cursor
+    text: 限制光标活动范围
+  - id: menu_audio_shuffle
+    text: 随机播放音乐
+  - id: menu_continue
+    text: 确定
+  - id: menu_photo_exit_prompt_extra
+    text: （你的变更将丢失。）
+  - id: menu_save_image
+    text: 图片保存位置
+  - id: menu_save_gif
+    text: GIF图保存位置
+  - id: menu_save_video
+    text: 视频保存位置
+  - id: album_clone
+    text: 复制至新相册
+  - id: photo_save_computer
+    text: 图片已保存至
+  - id: photo_save_steam
+    text: 图片已保存至Steam截图
+  - id: photo_save
+    text: 图片已保存！
+  - id: playback_header
+    text: 快速回放
+  - id: playback_speed
+    text: 速度
+  - id: playback_encoding
+    text: 编码中……
+  - id: playback_gif_result
+    text: GIF图已保存至：
+  - id: playback_video_result
+    text: 视频已保存至：
+  - id: unlock_header
+    text: 功能已解锁！
+  - id: unlock_shuffle
+    text: 你现可通过在音频设置中开启“随机播放音乐”，收听游戏中的所有曲目！
+  - id: unlock_validation
+    text: 一旦完成关卡后，你可切换评估开关，暂时隐藏物品高亮显示和星星按钮。
+  - id: credits_localization
+    text: 本地化
+  - id: credits_website
+    text: 网站设计
+  - id: credits_audio_director
+    text: 音频总监
+  - id: credits_music_sound_design
+    text: 音乐与音效设计
+  - id: credits_foley_production
+    text: 拟音制作
+  - id: credits_foley_additional
+    text: 附加拟音
+  - id: credits_community
+    text: 社区战略
+  - id: credits_playtesters
+    text: 游戏测试员
+  - id: credits_guitars_additional
+    text: 附加吉他
+  - id: credits_testing
+    text: 测试人员
+  - id: credits_porting
+    text: 移植人员
+  - id: lyrics_1_1
+    text: 行驶的卡车停了下来
+  - id: lyrics_1_2
+    text: 传来一阵敲门声
+  - id: lyrics_1_3
+    text: 现在你的东西全都到了
+  - id: lyrics_1_4
+    text: 就装在地板上的箱子里
+  - id: lyrics_2_1
+    text: 你打开一个箱子
+  - id: lyrics_2_2
+    text: 有好多事情要忙
+  - id: lyrics_2_3
+    text: 我敞开心扉
+  - id: lyrics_2_4
+    text: 现在这里是我俩的家了
+  - id: lyrics_3_1
+    text: 你的室内植物照亮了
+  - id: lyrics_3_2
+    text: 沉闷的窗台
+  - id: lyrics_3_3
+    text: 你的毯子让我们
+  - id: lyrics_3_4
+    text: 在寒夜中保持温暖
+  - id: lyrics_4_1
+    text: 我们从泡沫包装中
+  - id: lyrics_4_2
+    text: 拿出你最爱的杯子
+  - id: lyrics_4_3
+    text: 把磁铁贴在冰箱上
+  - id: lyrics_4_4
+    text: 我们把这个房子变成了家
+  - id: lyrics_5_1
+    text: 你把我们的照片放在架子上
+  - id: lyrics_5_2
+    text: 我暗自微笑
+  - id: lyrics_6_1
+    text: 你用我的美工刀割开胶带
+  - id: lyrics_6_2
+    text: 然后我们打开你的人生
+  - id: lyrics_6_3
+    text: 我们打开你的人生
+  - id: lyrics_7_1
+    text: 慢慢地 慢慢地 我们的东西融洽共处
+  - id: lyrics_7_2
+    text: 你和我最爱的毛绒玩具双双坐在一起
+  - id: lyrics_7_3
+    text: 我们珍视的财产就放在
+  - id: lyrics_7_4
+    text: 卧室架子上的最佳位置
+  - id: lyrics_7_5
+    text: 我暗自微笑
+  - id: lyrics_8_1
+    text: 你用我的美工刀割开胶带
+  - id: lyrics_8_2
+    text: 然后我们打开我们的人生
+  - id: lyrics_8_3
+    text: 我们打开我们的人生
+  - id: input_rebind_cancel
+    text: （按住{0}或{1}以取消）
+  - id: input_rebind_cancel_gp_only
+    text: （按住{0}以取消）
+  - id: inputaction_gameplay_focus
+    text: 物品聚焦
+  - id: credits_font_clean
+    text: 中文与韩文字体整理
+  - id: credits_grandmother
+    text: 亲爱的祖母，Ilana Sharon
+  - id: menu_switch_user
+    text: 切换用户
+  - id: menu_switch_profile
+    text: 切换档案
+  - id: menu_controls_swapsticks
+    text: 左右摇杆互换
+  - id: menu_controls_cursorsensitivity_alt
+    text: \n光标速度
+  - id: menu_credits
+    text: 制作人员
+  - id: inputaction_gameplay_spmove_down
+    text: '   下'
+  - id: inputaction_gameplay_spmove_left
+    text: '   左'
+  - id: inputaction_gameplay_spmove_right
+    text: '   右'
+  - id: inputaction_gameplay_spmove_up
+    text: '   上'
+  - id: menu_controls_swapsticks_nx
+    text: 左右摇杆互换

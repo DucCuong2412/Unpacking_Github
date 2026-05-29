@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: zh_TW
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: 繁體中文
+  - id: menu_resume
+    text: 繼續遊玩
+  - id: menu_restart
+    text: 重新開始
+  - id: menu_album
+    text: 相簿
+  - id: menu_settings
+    text: 設定
+  - id: menu_mainmenu
+    text: 主選單
+  - id: menu_play
+    text: 遊玩
+  - id: menu_newgame
+    text: 新的遊戲
+  - id: menu_quit
+    text: 結束遊戲
+  - id: menu_back
+    text: 返回
+  - id: menu_volume_music
+    text: 音樂
+  - id: menu_volume_sfx
+    text: 音效
+  - id: menu_volume_master
+    text: 主音量
+  - id: menu_speakers
+    text: 喇叭
+  - id: menu_access_zonechange
+    text: 切換房間
+  - id: menu_resolution
+    text: 解析度
+  - id: menu_fullscreen
+    text: 顯示模式
+  - id: menu_apply
+    text: 套用
+  - id: menu_no
+    text: 否
+  - id: menu_yes
+    text: 是
+  - id: menu_startover
+    text: 從頭開始
+  - id: menu_toggle_fullscreen
+    text: 全螢幕
+  - id: menu_toggle_windowed
+    text: 視窗
+  - id: menu_toggle_slide
+    text: 滑動
+  - id: menu_toggle_fade
+    text: 淡化
+  - id: menu_postfx
+    text: 後期特效
+  - id: menu_access_iconsize
+    text: 圖示尺寸
+  - id: menu_toggle_default
+    text: 預設值
+  - id: menu_toggle_2x
+    text: 2倍
+  - id: menu_toggle_3x
+    text: 3倍
+  - id: menu_access_placementhints
+    text: 位置提示
+  - id: menu_access_invaliditemhighlight
+    text: 標記無效物品
+  - id: menu_access_allowitemsanywhere
+    text: 允許隨處放置物品
+  - id: menu_discard
+    text: 丟棄
+  - id: menu_replace
+    text: 取代
+  - id: menu_cancel
+    text: 取消
+  - id: menu_album_select
+    text: 選擇相簿
+  - id: menu_stickersheets
+    text: 貼紙
+  - id: menu_language
+    text: 語言
+  - id: menu_audio
+    text: 聲音
+  - id: menu_video
+    text: 影片
+  - id: menu_controls
+    text: 控制
+  - id: menu_accessibility
+    text: 無障礙功能
+  - id: menu_clearall
+    text: 清除所有資料
+  - id: menu_resetdefault
+    text: 重置為預設值
+  - id: menu_skip
+    text: 跳過
+  - id: menu_startover_prompt
+    text: 要從頭開始嗎？\n遊戲進度將丟失。
+  - id: menu_startover_prompt_ingame
+    text: 要從頭遊玩此關卡嗎？
+  - id: menu_unsavedchange_prompt_ingame
+    text: 此關卡已完成。你想要如何處理這些變更？
+  - id: menu_photo_exit_prompt
+    text: 離開照相模式？
+  - id: menu_album_delete_prompt
+    text: 丟棄這本相簿？\n確定後將無法撤銷。
+  - id: menu_clearall_prompt
+    text: 這會刪除現有的全部存檔！\n你確定嗎？
+  - id: outro_title
+    text: 感謝你體驗試玩版！
+  - id: outro_upper_line
+    text: 敬請期待於2021年推出的完整版遊戲 :)
+  - id: outro_lower_line
+    text: 如要獲得最新消息，請將《Unpacking》加入願望清單，\n在Twitter追蹤我們或訂閱電子報！
+  - id: sticker_Hearts
+    text: 愛你喔
+  - id: sticker_ThumbsUp
+    text: 讚啦
+  - id: sticker_Exclaim
+    text: 哇！
+  - id: sticker_Brain
+    text: 解決謎題
+  - id: sticker_Music
+    text: 大聲放音樂
+  - id: sticker_Star
+    text: 起點
+  - id: sticker_Dab
+    text: 擺姿勢
+  - id: sticker_Cookie
+    text: 嘴饞來一口
+  - id: sticker_Skeleton
+    text: 小心觸電
+  - id: sticker_Graduation
+    text: 學業有成
+  - id: sticker_Gaming
+    text: 遊戲開始
+  - id: sticker_Fashion
+    text: 帽戴頭頂
+  - id: sticker_Roleplaying
+    text: 團契
+  - id: sticker_Undies
+    text: 整齊三角褲
+  - id: sticker_Coffee
+    text: 沖煮咖啡
+  - id: sticker_Guitar
+    text: 太酷了
+  - id: sticker_Dog
+    text: 重溫童年
+  - id: sticker_ReturningHome
+    text: 家常菜
+  - id: sticker_Lightbulb
+    text: 神來之筆
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: 獨立自主
+  - id: sticker_Plant
+    text: 園藝高手
+  - id: sticker_PlushToys
+    text: 毛絨好友
+  - id: sticker_Love
+    text: 愛情
+  - id: sticker_Blocks
+    text: 寶貝建築師
+  - id: sticker_Toilet
+    text: 都該沖水囉
+  - id: sticker_House
+    text: 還是家最好
+  - id: album_cover
+    text: 這本相簿屬於
+  - id: album_childroom_year
+    text: 1997年
+  - id: album_childroom_date
+    text: 1997年5月
+  - id: album_studioapt_year
+    text: 2004年
+  - id: album_studioapt_date
+    text: 2004年1月
+  - id: album_sharehouse_year
+    text: 2007年
+  - id: album_sharehouse_date
+    text: 2007年3月
+  - id: album_boyfriendapt_year
+    text: 2010年
+  - id: album_boyfriendapt_date
+    text: 2010年9月
+  - id: album_parenthouse_year
+    text: 2012年
+  - id: album_parenthouse_date
+    text: 2012年6月
+  - id: album_soloapt_year
+    text: 2013年
+  - id: album_soloapt_date
+    text: 2013年1月
+  - id: album_partnerapt_year
+    text: 2015年
+  - id: album_partnerapt_date
+    text: 2015年11月
+  - id: album_house_year
+    text: 2018年
+  - id: album_house_date
+    text: 2018年7月
+  - id: album_childroom_bedroom
+    text: 終於有我自己的房間了！
+  - id: album_childroom_darkstar
+    text: 很好，該出去玩囉！
+  - id: album_studioapt_bedroom
+    text: 週一要開學了！大學我來啦！
+  - id: album_studioapt_bathroom
+    text: 有私人浴室！讚啦！
+  - id: album_studioapt_kitchenette
+    text: 我要自己煮？慘了。
+  - id: album_studioapt_darkstar
+    text: 呃，我等下再整理。
+  - id: album_sharehouse_livingroom
+    text: 電影之夜一定會很棒！
+  - id: album_sharehouse_bathroom
+    text: 等等，我們都共用同一間浴室？
+  - id: album_sharehouse_bedroom
+    text: 這大日子真累人！我要去睡了。
+  - id: album_sharehouse_kitchen
+    text: 比我之前的廚房大多了！
+  - id: album_sharehouse_diningroom
+    text: 晚上玩遊戲更方便了！
+  - id: album_sharehouse_darkstar
+    text: 他們從大學就認識我了，應該心裡有數。
+  - id: album_boyfriendapt_livingroom
+    text: 要搬去他家了，這是大事！
+  - id: album_boyfriendapt_kitchen
+    text: 並非所有咖啡都是即溶的，真意外。
+  - id: album_boyfriendapt_bathroom
+    text: 能看到美景的淋浴間！
+  - id: album_boyfriendapt_bedroom
+    text: 這裡幾乎沒有容納我的空間！
+  - id: album_boyfriendapt_darkstar
+    text: 沒關係，他就是喜歡我率性而為！
+  - id: album_parenthouse_bedroom
+    text: 這個房間以前感覺比較大。
+  - id: album_parenthouse_bathroom
+    text: 我們姊妹兩人以前經常為了這間浴室吵架。
+  - id: album_parenthouse_darkstar
+    text: 我花了好一陣子才將這裡恢復成離開時的模樣。
+  - id: album_soloapt_livingroom
+    text: 晚點再想辦法弄張沙發回來吧。
+  - id: album_soloapt_bathroom
+    text: 好懷念悠閒泡澡的時光！
+  - id: album_soloapt_bedroom
+    text: 一張屬於我自己的加大雙人床！
+  - id: album_soloapt_office
+    text: 把這裡打造成我專屬的藝術空間！
+  - id: album_soloapt_kitchen
+    text: 好高興能在預算內能找到這麼好的地方！
+  - id: album_soloapt_darkstar
+    text: 反正我也沒打算找人來我家玩。
+  - id: album_partnerapt_livingroom
+    text: 現在舒適多了！有家的感覺。
+  - id: album_partnerapt_bathroom
+    text: 那麼快就塞滿所有抽屜了！
+  - id: album_partnerapt_bedroom
+    text: 現在有這麼大的衣櫥空間真令人開心！
+  - id: album_partnerapt_office
+    text: 雖然很不容易，但終於有所進展了！
+  - id: album_partnerapt_kitchen
+    text: 期待新奇的烹飪冒險！
+  - id: album_partnerapt_darkstar
+    text: 歡迎來到叢林！
+  - id: album_house_foyer
+    text: 我們的新家！
+  - id: album_house_bathroom
+    text: 適合家庭使用的大浴室！
+  - id: album_house_nursery
+    text: 我們很期待能見到你！
+  - id: album_house_closet
+    text: 我們所有的衣服都有足夠的空間！
+  - id: album_house_bedroom
+    text: 期待在我們的新房子裡第一次睡覺！
+  - id: album_house_office
+    text: 屬於我這專業人士的工作空間！
+  - id: album_house_toilet
+    text: 一間附加的廁所！
+  - id: album_house_kitchen
+    text: 終於有一個可以容納我們所有磁鐵的大冰箱！
+  - id: album_house_diningroom
+    text: 我們已經開始計劃晚宴派對了！
+  - id: album_house_livingroom
+    text: 很大的空間，而且還有個後院！我們可以養寵物了！
+  - id: album_house_darkstar
+    text: 很好，該小睡一下囉！
+  - id: album_credits
+    text: 謝謝你和我一起經歷這段旅程。
+  - id: album_credits_darkstar
+    text: 我不回房子裡了，裡面亂七八糟的。
+  - id: credits_developed
+    text: 開發團隊
+  - id: credits_creative_director
+    text: 創意總監
+  - id: credits_technical_director
+    text: 技術總監
+  - id: credits_composer_sound_designer
+    text: 作曲家兼音效設計師
+  - id: credits_pixel_art
+    text: 像素美術
+  - id: credits_foley_recording
+    text: 擬音錄音
+  - id: credits_game_design
+    text: 遊戲設計
+  - id: credits_narrative_assistance
+    text: 敘事協助
+  - id: credits_additional_coding
+    text: 附加程式編碼
+  - id: credits_hero_image_stickers
+    text: 主視覺圖與貼紙
+  - id: credits_title_screen_art
+    text: 標題螢幕美術
+  - id: credits_anim_previs
+    text: 動畫視覺預覽
+  - id: credits_dev_business_support
+    text: 開發兼商業支援
+  - id: credits_legal
+    text: 法律協助
+  - id: credits_published_by
+    text: 出品團隊
+  - id: credits_special_thanks
+    text: 特別感謝
+  - id: credits_in_memory
+    text: 特此紀念
+  - id: credits_supported_by
+    text: 感謝下列贊助夥伴
+  - id: input_rebind
+    text: 按下按鈕
+  - id: inputaction_gameplay
+    text: 遊戲內
+  - id: inputaction_gameplay_liftandplace
+    text: 拿起和放置
+  - id: inputaction_gameplay_turnandinteract
+    text: 轉向和互動
+  - id: inputaction_gameplay_screenpan
+    text: 水平轉動螢幕
+  - id: inputaction_gameplay_photomode
+    text: 開啟照相模式
+  - id: inputaction_gameplay_floorplanmode
+    text: 開啟平面圖
+  - id: inputaction_gameplay_zoomin
+    text: 放大
+  - id: inputaction_gameplay_zoomout
+    text: 縮小
+  - id: inputaction_gameplay_changezoneleft
+    text: 左邊房間
+  - id: inputaction_gameplay_changezoneright
+    text: 右邊房間
+  - id: inputaction_photo
+    text: 照相模式
+  - id: inputaction_photo_capture
+    text: 拍照
+  - id: inputaction_photo_hideui
+    text: 隱藏使用者介面
+  - id: inputaction_menu
+    text: 選單
+  - id: inputaction_menu_accept
+    text: 接受
+  - id: inputaction_menu_back
+    text: 返回
+  - id: inputaction_menu_nextpage
+    text: 下一頁
+  - id: inputaction_menu_prevpage
+    text: 上一頁
+  - id: menu_controls_rebind
+    text: 重新綁定控制
+  - id: menu_controls_reversesticks
+    text: 反轉操控搖桿
+  - id: menu_controls_vibration
+    text: 震動
+  - id: menu_controls_cursorsensitivity
+    text: 控制器游標\n敏感度
+  - id: menu_controls_changeinput
+    text: 變更輸入設備
+  - id: menu_saveerror_prompt
+    text: 無法讀取存檔。\n要從頭開始嗎？
+  - id: menu_allowanywhere_prompt
+    text: 這會移除遊戲的益智解謎要素。你確定嗎？
+  - id: menu_controls_cursor
+    text: 限制游標
+  - id: menu_audio_shuffle
+    text: 隨機播放音樂
+  - id: menu_continue
+    text: 確定
+  - id: menu_photo_exit_prompt_extra
+    text: （所做的變更將會消失。）
+  - id: menu_save_image
+    text: 圖片儲存位置
+  - id: menu_save_gif
+    text: GIF圖儲存位置
+  - id: menu_save_video
+    text: 影片儲存位置
+  - id: album_clone
+    text: 複製到新的相簿
+  - id: photo_save_computer
+    text: 圖片已儲存至
+  - id: photo_save_steam
+    text: 圖片已儲存至Steam螢幕截圖
+  - id: photo_save
+    text: 已儲存圖片！
+  - id: playback_header
+    text: 快速播放
+  - id: playback_speed
+    text: 速度
+  - id: playback_encoding
+    text: 轉檔中……
+  - id: playback_gif_result
+    text: GIF圖已儲存至：
+  - id: playback_video_result
+    text: 影片已儲存至：
+  - id: unlock_header
+    text: 已解鎖功能！
+  - id: unlock_shuffle
+    text: 現在到聲音設定中啟用「隨機播放音樂」功能，即可聆聽整個遊戲內的曲目！
+  - id: unlock_validation
+    text: 現在一個關卡拆箱完成後，就能切換評價開關，暫時隱藏物品標記和星星按鈕。
+  - id: credits_localization
+    text: 在地化翻譯
+  - id: credits_website
+    text: 網站設計
+  - id: credits_audio_director
+    text: 成音總監
+  - id: credits_music_sound_design
+    text: 音樂兼音效設計
+  - id: credits_foley_production
+    text: 擬音製作
+  - id: credits_foley_additional
+    text: 附加擬音
+  - id: credits_community
+    text: 社群策略
+  - id: credits_playtesters
+    text: 遊戲測試員
+  - id: credits_guitars_additional
+    text: 額外吉他
+  - id: credits_testing
+    text: 測試團隊
+  - id: credits_porting
+    text: 移植團隊
+  - id: lyrics_1_1
+    text: 移動的卡車停下
+  - id: lyrics_1_2
+    text: 敲門聲響起
+  - id: lyrics_1_3
+    text: 你的行李都到了
+  - id: lyrics_1_4
+    text: 就在地上的箱子裡
+  - id: lyrics_2_1
+    text: 你打開一個紙箱
+  - id: lyrics_2_2
+    text: 有太多事得做
+  - id: lyrics_2_3
+    text: 我敞開心扉
+  - id: lyrics_2_4
+    text: 現在這是兩個人的家
+  - id: lyrics_3_1
+    text: 你在家裡種的植物
+  - id: lyrics_3_2
+    text: 照亮沉悶的窗臺
+  - id: lyrics_3_3
+    text: 你的毛毯帶給我們溫暖
+  - id: lyrics_3_4
+    text: 度過寒意正濃的夜晚
+  - id: lyrics_4_1
+    text: 我們把你最愛的馬克杯
+  - id: lyrics_4_2
+    text: 從包裝泡棉中拿出
+  - id: lyrics_4_3
+    text: 把磁鐵黏在冰箱上
+  - id: lyrics_4_4
+    text: 將這間房子變成一個家
+  - id: lyrics_5_1
+    text: 你放了我們的合照在架子上
+  - id: lyrics_5_2
+    text: 我暗自微笑
+  - id: lyrics_6_1
+    text: 你用我的美工刀割開膠帶
+  - id: lyrics_6_2
+    text: 我們就此打開你的生活
+  - id: lyrics_6_3
+    text: 打開你的生活
+  - id: lyrics_7_1
+    text: 漸漸地我們的物品都擺在一起
+  - id: lyrics_7_2
+    text: 你最愛的絨毛玩具就在我身旁
+  - id: lyrics_7_3
+    text: 我們的珍藏都放在一個最佳地點
+  - id: lyrics_7_4
+    text: 那就是在臥室的架子上
+  - id: lyrics_7_5
+    text: 我暗自微笑
+  - id: lyrics_8_1
+    text: 你用我的美工刀割開膠帶
+  - id: lyrics_8_2
+    text: 我們就此打開兩人的生活
+  - id: lyrics_8_3
+    text: 打開兩人的生活
+  - id: input_rebind_cancel
+    text: （按住 {0} 或 {1} 取消）
+  - id: input_rebind_cancel_gp_only
+    text: （按住 {0} 取消）
+  - id: inputaction_gameplay_focus
+    text: 專注物品
+  - id: credits_font_clean
+    text: 中文與韓文字體清理
+  - id: credits_grandmother
+    text: 我們親愛的祖母，Ilana Sharon
+  - id: menu_switch_user
+    text: 切換使用者
+  - id: menu_switch_profile
+    text: 切換個人檔案
+  - id: menu_controls_swapsticks
+    text: 交換L/R操控搖桿
+  - id: menu_controls_cursorsensitivity_alt
+    text: \n游標速度
+  - id: menu_credits
+    text: 製作名單
+  - id: inputaction_gameplay_spmove_down
+    text: '   下'
+  - id: inputaction_gameplay_spmove_left
+    text: '   左'
+  - id: inputaction_gameplay_spmove_right
+    text: '   右'
+  - id: inputaction_gameplay_spmove_up
+    text: '   上'
+  - id: menu_controls_swapsticks_nx
+    text: 交換L/R操控搖桿

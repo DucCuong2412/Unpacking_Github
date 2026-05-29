@@ -1,0 +1,231 @@
+Shader "Hidden/Custom/SimpleLUT"
+{
+	Properties
+	{
+	}
+	SubShader
+	{
+		Pass
+		{
+			ZTest Always
+			ZWrite Off
+			Cull Off
+			GpuProgramID 30669
+
+			HLSLPROGRAM
+
+			// https://docs.unity3d.com/Manual/SL-PragmaDirectives.html
+			#pragma vertex vert
+			#pragma fragment frag
+			#pragma target 4.0
+
+
+			float _RenderViewportScaleFactor;
+
+			static float4 vertex_uniform_buffer_0[27];
+			static float4 gl_Position;
+			static float3 vertex_input_0;
+			static float2 vertex_output_1;
+			static float2 vertex_output_1;
+
+			struct Vertex_Stage_Input
+			{
+				float3 vertex_input_0 : POSITION; // POSITION
+			};
+
+			struct Vertex_Stage_Output
+			{
+				float2 vertex_output_1 : TEXCOORD; // TEXCOORD
+				float2 vertex_output_1 : TEXCOORD1; // TEXCOORD_1
+				float4 gl_Position : SV_Position;
+			};
+
+			void vert_main()
+			{
+				gl_Position.x = vertex_input_0.x;
+				gl_Position.y = vertex_input_0.y;
+				gl_Position.z = 0.0f;
+				gl_Position.w = 1.0f;
+				precise float vertex_unnamed_42 = vertex_input_0.x + 1.0f;
+				precise float vertex_unnamed_43 = vertex_input_0.y + 1.0f;
+				precise float vertex_unnamed_54 = mad(vertex_unnamed_42, 0.5f, 0.0f) * vertex_uniform_buffer_0[26u].x;
+				precise float vertex_unnamed_55 = mad(vertex_unnamed_43, -0.5f, 1.0f) * vertex_uniform_buffer_0[26u].x;
+				vertex_output_1.x = vertex_unnamed_54;
+				vertex_output_1.y = vertex_unnamed_55;
+				vertex_output_1.x = mad(vertex_input_0.x, 0.5f, 0.5f);
+				vertex_output_1.y = mad(vertex_input_0.y, -0.5f, 0.5f);
+			}
+
+			Vertex_Stage_Output vert(Vertex_Stage_Input stage_input)
+			{
+				vertex_uniform_buffer_0[26] = float4(_RenderViewportScaleFactor, vertex_uniform_buffer_0[26][1], vertex_uniform_buffer_0[26][2], vertex_uniform_buffer_0[26][3]);
+
+				vertex_input_0 = stage_input.vertex_input_0;
+				vert_main();
+				Vertex_Stage_Output stage_output;
+				stage_output.gl_Position = gl_Position;
+				stage_output.vertex_output_1 = vertex_output_1;
+				stage_output.vertex_output_1 = vertex_output_1;
+				return stage_output;
+			}
+
+
+			float _RenderViewportScaleFactor;
+
+			static float4 gl_Position;
+			static float3 vertex_input_0;
+			static float2 vertex_output_1;
+			static float2 vertex_output_0;
+
+			struct Vertex_Stage_Input
+			{
+				float3 vertex_input_0 : POSITION;
+			};
+
+			struct Vertex_Stage_Output
+			{
+				float2 vertex_output_0 : TEXCOORD0; // vs_TEXCOORD0
+				float2 vertex_output_1 : TEXCOORD1; // vs_TEXCOORD1
+				float4 gl_Position : SV_Position;
+			};
+
+			static float2 vertex_unnamed_33;
+
+			void vert_main()
+			{
+				gl_Position = float4(vertex_input_0.xy.x, vertex_input_0.xy.y, gl_Position.z, gl_Position.w);
+				gl_Position = float4(gl_Position.x, gl_Position.y, float2(0.0f, 1.0f).x, float2(0.0f, 1.0f).y);
+				vertex_unnamed_33 = vertex_input_0.xy + 1.0f.xx;
+				vertex_unnamed_33 = (vertex_unnamed_33 * float2(0.5f, -0.5f)) + float2(0.0f, 1.0f);
+				vertex_output_1 = vertex_unnamed_33 * _RenderViewportScaleFactor.xx;
+				vertex_output_0 = (vertex_input_0.xy * float2(0.5f, -0.5f)) + 0.5f.xx;
+			}
+
+			Vertex_Stage_Output vert(Vertex_Stage_Input stage_input)
+			{
+				vertex_input_0 = stage_input.vertex_input_0;
+				vert_main();
+				Vertex_Stage_Output stage_output;
+				stage_output.gl_Position = gl_Position;
+				stage_output.vertex_output_1 = vertex_output_1;
+				stage_output.vertex_output_0 = vertex_output_0;
+				return stage_output;
+			}
+
+			float _Blend;
+			float4 _LutTex_TexelSize;
+
+			Texture2D<float4> _MainTex;
+			SamplerState sampler_MainTex;
+			Texture2D<float4> _LutTex;
+			SamplerState sampler_LutTex;
+
+			static float2 fragment_input_0;
+			static float4 fragment_output_0;
+
+			struct Fragment_Stage_Input
+			{
+				float2 fragment_input_0 : TEXCOORD0; // vs_TEXCOORD0
+			};
+
+			struct Fragment_Stage_Output
+			{
+				float4 fragment_output_0 : SV_Target0;
+			};
+
+			static float4 fragment_unnamed_9;
+			static float3 fragment_unnamed_27;
+			static float2 fragment_unnamed_42;
+			static float3 fragment_unnamed_55;
+
+			void frag_main()
+			{
+				fragment_unnamed_9 = _MainTex.Sample(sampler_MainTex, fragment_input_0);
+				fragment_unnamed_27.x = fragment_unnamed_9.z * 31.0f;
+				fragment_unnamed_27.x = floor(fragment_unnamed_27.x);
+				fragment_unnamed_42 = 0.5f.xx / _LutTex_TexelSize.zw;
+				float2 fragment_unnamed_63 = (fragment_unnamed_9.xy * float2(0.0302734375f, 0.96875f)) + fragment_unnamed_42;
+				fragment_unnamed_55 = float3(fragment_unnamed_55.x, fragment_unnamed_63.x, fragment_unnamed_63.y);
+				fragment_unnamed_55.x = (fragment_unnamed_27.x * 0.03125f) + fragment_unnamed_55.y;
+				fragment_unnamed_27 = _LutTex.Sample(sampler_LutTex, fragment_unnamed_55.xz).xyz;
+				fragment_unnamed_27 = (-fragment_unnamed_9.xyz) + fragment_unnamed_27;
+				float3 fragment_unnamed_100 = (_Blend.xxx * fragment_unnamed_27) + fragment_unnamed_9.xyz;
+				fragment_output_0 = float4(fragment_unnamed_100.x, fragment_unnamed_100.y, fragment_unnamed_100.z, fragment_output_0.w);
+				fragment_output_0.w = fragment_unnamed_9.w;
+			}
+
+			Fragment_Stage_Output frag(Fragment_Stage_Input stage_input)
+			{
+				fragment_input_0 = stage_input.fragment_input_0;
+				frag_main();
+				Fragment_Stage_Output stage_output;
+				stage_output.fragment_output_0 = fragment_output_0;
+				return stage_output;
+			}
+
+
+			float _Blend;
+			float4 _LutTex_TexelSize;
+
+			static float4 fragment_uniform_buffer_0[30];
+			Texture2D<float4> _LutTex;
+			Texture2D<float4> _MainTex;
+			SamplerState sampler_MainTex;
+			SamplerState sampler_LutTex;
+
+			static float2 fragment_input_1;
+			static float2 fragment_input_1;
+			static float4 fragment_output_0;
+
+			struct Fragment_Stage_Input
+			{
+				float2 fragment_input_1 : TEXCOORD; // TEXCOORD
+				float2 fragment_input_1 : TEXCOORD1; // TEXCOORD_1
+			};
+
+			struct Fragment_Stage_Output
+			{
+				float4 fragment_output_0 : SV_Target0;
+			};
+
+			void frag_main()
+			{
+				float4 fragment_unnamed_43 = _MainTex.Sample(sampler_MainTex, float2(fragment_input_1.x, fragment_input_1.y));
+				float fragment_unnamed_45 = fragment_unnamed_43.x;
+				float fragment_unnamed_46 = fragment_unnamed_43.y;
+				float fragment_unnamed_47 = fragment_unnamed_43.z;
+				precise float fragment_unnamed_49 = fragment_unnamed_47 * 31.0f;
+				precise float fragment_unnamed_59 = 0.5f / fragment_uniform_buffer_0[29u].z;
+				precise float fragment_unnamed_61 = 0.5f / fragment_uniform_buffer_0[29u].w;
+				float4 fragment_unnamed_69 = _LutTex.Sample(sampler_LutTex, float2(mad(floor(fragment_unnamed_49), 0.03125f, mad(fragment_unnamed_45, 0.0302734375f, fragment_unnamed_59)), mad(fragment_unnamed_46, 0.96875f, fragment_unnamed_61)));
+				precise float fragment_unnamed_74 = (-0.0f) - fragment_unnamed_45;
+				precise float fragment_unnamed_76 = (-0.0f) - fragment_unnamed_46;
+				precise float fragment_unnamed_77 = (-0.0f) - fragment_unnamed_47;
+				precise float fragment_unnamed_78 = fragment_unnamed_74 + fragment_unnamed_69.x;
+				precise float fragment_unnamed_79 = fragment_unnamed_76 + fragment_unnamed_69.y;
+				precise float fragment_unnamed_80 = fragment_unnamed_77 + fragment_unnamed_69.z;
+				fragment_output_0.x = mad(fragment_uniform_buffer_0[28u].x, fragment_unnamed_78, fragment_unnamed_45);
+				fragment_output_0.y = mad(fragment_uniform_buffer_0[28u].x, fragment_unnamed_79, fragment_unnamed_46);
+				fragment_output_0.z = mad(fragment_uniform_buffer_0[28u].x, fragment_unnamed_80, fragment_unnamed_47);
+				fragment_output_0.w = fragment_unnamed_43.w;
+			}
+
+			Fragment_Stage_Output frag(Fragment_Stage_Input stage_input)
+			{
+				fragment_uniform_buffer_0[28] = float4(_Blend, fragment_uniform_buffer_0[28][1], fragment_uniform_buffer_0[28][2], fragment_uniform_buffer_0[28][3]);
+
+				fragment_uniform_buffer_0[29] = float4(_LutTex_TexelSize[0], _LutTex_TexelSize[1], _LutTex_TexelSize[2], _LutTex_TexelSize[3]);
+
+				fragment_input_1 = stage_input.fragment_input_1;
+				fragment_input_1 = stage_input.fragment_input_1;
+				frag_main();
+				Fragment_Stage_Output stage_output;
+				stage_output.fragment_output_0 = fragment_output_0;
+				return stage_output;
+			}
+
+
+			ENDHLSL
+		}
+	}
+}

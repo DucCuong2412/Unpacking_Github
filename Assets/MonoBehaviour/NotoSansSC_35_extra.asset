@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -667331979, guid: 67dfb1fdfb2b407222eda8e23ac8b724, type: 3}
+  m_Name: NotoSansSC_35_extra
+  m_EditorClassIdentifier:
+  hashCode: 2134820249
+  material: {fileID: 2100000, guid: 1e32b9a7c5d6ac949a2c3ab2fdbab098, type: 2}
+  materialHashCode: 940421273
+  m_Version: 1.1.0
+  m_SourceFontFileGUID: 2a5fd0e23ca98f04cbdd50eded116b3b
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 0
+  m_FaceInfo:
+    m_FaceIndex: 0
+    m_FamilyName: Noto Sans SC
+    m_StyleName: Bold
+    m_PointSize: 35
+    m_Scale: 1
+    m_LineHeight: 51.8
+    m_AscentLine: 40.600002
+    m_CapLine: 26
+    m_MeanLine: 20
+    m_Baseline: 0
+    m_DescentLine: -11.2
+    m_SuperscriptOffset: 40.600002
+    m_SuperscriptSize: 0.5
+    m_SubscriptOffset: -11.2
+    m_SubscriptSize: 0.5
+    m_UnderlineOffset: -5.25
+    m_UnderlineThickness: 1.75
+    m_StrikethroughOffset: 8
+    m_StrikethroughThickness: 1.75
+    m_TabWidth: 8
+  m_GlyphTable:
+  - m_Index: 10250
+    m_Metrics:
+      m_Width: 29
+      m_Height: 35
+      m_HorizontalBearingX: 1
+      m_HorizontalBearingY: 31
+      m_HorizontalAdvance: 35
+    m_GlyphRect:
+      m_X: 58
+      m_Y: 8
+      m_Width: 29
+      m_Height: 35
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 15454
+    m_Metrics:
+      m_Width: 34
+      m_Height: 35
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 31
+      m_HorizontalAdvance: 35
+    m_GlyphRect:
+      m_X: 8
+      m_Y: 8
+      m_Width: 34
+      m_Height: 35
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 22001
+    m_Metrics:
+      m_Width: 34
+      m_Height: 35
+      m_HorizontalBearingX: 1
+      m_HorizontalBearingY: 31
+      m_HorizontalAdvance: 35
+    m_GlyphRect:
+      m_X: 8
+      m_Y: 59
+      m_Width: 34
+      m_Height: 35
+    m_Scale: 1
+    m_AtlasIndex: 0
+  m_CharacterTable:
+  - m_ElementType: 1
+    m_Unicode: 21517
+    m_GlyphIndex: 10250
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 26723
+    m_GlyphIndex: 15454
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 33268
+    m_GlyphIndex: 22001
+    m_Scale: 1
+  m_AtlasTextures:
+  - {fileID: 2800000, guid: 227bc03d377351a448801d662cbbe202, type: 3}
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
+  m_ClearDynamicDataOnBuild: 0
+  m_UsedGlyphRects:
+  - m_X: 0
+    m_Y: 0
+    m_Width: 50
+    m_Height: 51
+  - m_X: 0
+    m_Y: 51
+    m_Width: 50
+    m_Height: 51
+  - m_X: 50
+    m_Y: 0
+    m_Width: 45
+    m_Height: 51
+  m_FreeGlyphRects:
+  - m_X: 0
+    m_Y: 102
+    m_Width: 128
+    m_Height: 26
+  - m_X: 50
+    m_Y: 51
+    m_Width: 78
+    m_Height: 77
+  - m_X: 95
+    m_Y: 0
+    m_Width: 33
+    m_Height: 128
+  m_fontInfo:
+    Name:
+    PointSize: 0
+    Scale: 0
+    CharacterCount: 0
+    LineHeight: 0
+    Baseline: 0
+    Ascender: 0
+    CapHeight: 0
+    Descender: 0
+    CenterLine: 0
+    SuperscriptOffset: 0
+    SubscriptOffset: 0
+    SubSize: 0
+    Underline: 0
+    UnderlineThickness: 0
+    strikethrough: 0
+    strikethroughThickness: 0
+    TabWidth: 0
+    Padding: 0
+    AtlasWidth: 0
+    AtlasHeight: 0
+  atlas: {fileID: 0}
+  m_AtlasWidth: 128
+  m_AtlasHeight: 128
+  m_AtlasPadding: 8
+  m_AtlasRenderMode: 4121
+  m_glyphInfoList: []
+  m_KerningTable:
+    kerningPairs: []
+  m_FontFeatureTable:
+    m_GlyphPairAdjustmentRecords: []
+  fallbackFontAssets: []
+  m_FallbackFontAssetTable: []
+  m_CreationSettings:
+    sourceFontFileName:
+    sourceFontFileGUID: 2a5fd0e23ca98f04cbdd50eded116b3b
+    pointSizeSamplingMode: 1
+    pointSize: 35
+    padding: 8
+    packingMode: 4
+    atlasWidth: 128
+    atlasHeight: 128
+    characterSetSelectionMode: 7
+    characterSequence: 档致名
+    referencedFontAssetGUID: 3b6a401a334a9bb4eb4a3801f4ded95f
+    referencedTextAssetGUID: 2df0ea8d8e6d44340af01c46fc198383
+    fontStyle: 0
+    fontStyleModifier: 0
+    renderMode: 4121
+    includeFontFeatures: 0
+  m_FontWeightTable:
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  fontWeights: []
+  normalStyle: 0
+  normalSpacingOffset: 0
+  boldStyle: 0.75
+  boldSpacing: 7
+  italicStyle: 35
+  tabSize: 10

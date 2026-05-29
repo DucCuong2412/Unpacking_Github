@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1324876848, guid: a9e21bc7bb762a5cf3086c00d123625f, type: 3}
+  m_Name: FDBAFBE6-BA83-4078-853E-91A1E9BB13B7
+  m_EditorClassIdentifier:
+  objectName: volume_ambience
+  id: 269715282
+  guid: FDBAFBE6-BA83-4078-853E-91A1E9BB13B7

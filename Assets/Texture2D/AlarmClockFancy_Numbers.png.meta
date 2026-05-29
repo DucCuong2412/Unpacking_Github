@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: 465c68d2483bee145baa602c662f130d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AlarmClockFancy_Numbers_0
+  - first:
+      213: 21300002
+    second: AlarmClockFancy_Numbers_1
+  - first:
+      213: 21300004
+    second: AlarmClockFancy_Numbers_2
+  - first:
+      213: 21300006
+    second: AlarmClockFancy_Numbers_3
+  - first:
+      213: 21300008
+    second: AlarmClockFancy_Numbers_4
+  - first:
+      213: 21300010
+    second: AlarmClockFancy_Numbers_5
+  - first:
+      213: 21300012
+    second: AlarmClockFancy_Numbers_6
+  - first:
+      213: 21300014
+    second: AlarmClockFancy_Numbers_7
+  - first:
+      213: 21300016
+    second: AlarmClockFancy_Numbers_8
+  - first:
+      213: 21300018
+    second: AlarmClockFancy_Numbers_9
+  - first:
+      213: 21300020
+    second: AlarmClockFancy_Numbers_f0
+  - first:
+      213: 21300022
+    second: AlarmClockFancy_Numbers_f1
+  - first:
+      213: 21300024
+    second: AlarmClockFancy_Numbers_f2
+  - first:
+      213: 21300026
+    second: AlarmClockFancy_Numbers_f3
+  - first:
+      213: 21300028
+    second: AlarmClockFancy_Numbers_f4
+  - first:
+      213: 21300030
+    second: AlarmClockFancy_Numbers_f5
+  - first:
+      213: 21300032
+    second: AlarmClockFancy_Numbers_f6
+  - first:
+      213: 21300034
+    second: AlarmClockFancy_Numbers_f7
+  - first:
+      213: 21300036
+    second: AlarmClockFancy_Numbers_f8
+  - first:
+      213: 21300038
+    second: AlarmClockFancy_Numbers_f9
+  - first:
+      213: 21300040
+    second: AlarmClockFancy_Numbers_dots
+  - first:
+      213: 21300042
+    second: AlarmClockFancy_Numbers_dot
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9ea181a1474569aa567c4f3dd944e9
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ccde88b76a4de499aaeaeb914e092d
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e3a6ed0f8744739e7f0eec161522e7
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33533a2f5f584722b55b89fa179b8615
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ceac8542fc41e7981c43e405b2c141
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14535b0669fb42a3abe38d793b4c6616
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a76f333b26441fe8c43c12fc7591e4d
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565ec7813854ab984eff167ee6e1a82
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57590af43ba439ca343ac21d2bad787
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b4cf826b748418b0827f7ced09a6a
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a6f3fac26490a9449230e4004e0be
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b665f9205b945bc9658471a0f098249
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8cbfd4e9d5417b9eae6833f5659578
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00e8591a8c41fdbe07b750c9d1c71c
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce4e779eb0a4f9ea724e3a84cf0181d
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d54ddb7fc244098bf7ab6fcda3bac28
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54e6b9e05d3447f9175998e4d202c87
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c510bf1cd7ec47d0a66669253932e3e5
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db93f2eeccb740eb80ad0d732a03b35a
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_f9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -3.5}
+        - {x: -1.5, y: 3.5}
+        - {x: 1.5, y: 3.5}
+        - {x: 1.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2883ca88644b50809c1ab1358d9a69
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 3, y: 7}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_dots
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 10
+        width: 1
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -3.5}
+        - {x: -0.5, y: 3.5}
+        - {x: 0.5, y: 3.5}
+        - {x: 0.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486da19071d24167913ff46eaf0ff05e
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 1, y: 7}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlarmClockFancy_Numbers_dot
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 1
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -3.5}
+        - {x: -0.5, y: 3.5}
+        - {x: 0.5, y: 3.5}
+        - {x: 0.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5146911d26843fd8de4e1b0c7704fb7
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 7}
+      - {x: 1, y: 7}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AlarmClockFancy_Numbers_0: 21300000
+      AlarmClockFancy_Numbers_1: 21300002
+      AlarmClockFancy_Numbers_2: 21300004
+      AlarmClockFancy_Numbers_3: 21300006
+      AlarmClockFancy_Numbers_4: 21300008
+      AlarmClockFancy_Numbers_5: 21300010
+      AlarmClockFancy_Numbers_6: 21300012
+      AlarmClockFancy_Numbers_7: 21300014
+      AlarmClockFancy_Numbers_8: 21300016
+      AlarmClockFancy_Numbers_9: 21300018
+      AlarmClockFancy_Numbers_dot: 21300042
+      AlarmClockFancy_Numbers_dots: 21300040
+      AlarmClockFancy_Numbers_f0: 21300020
+      AlarmClockFancy_Numbers_f1: 21300022
+      AlarmClockFancy_Numbers_f2: 21300024
+      AlarmClockFancy_Numbers_f3: 21300026
+      AlarmClockFancy_Numbers_f4: 21300028
+      AlarmClockFancy_Numbers_f5: 21300030
+      AlarmClockFancy_Numbers_f6: 21300032
+      AlarmClockFancy_Numbers_f7: 21300034
+      AlarmClockFancy_Numbers_f8: 21300036
+      AlarmClockFancy_Numbers_f9: 21300038
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

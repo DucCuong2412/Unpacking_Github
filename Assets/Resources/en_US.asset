@@ -1,0 +1,543 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: en_US
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: English
+  - id: menu_resume
+    text: Resume
+  - id: menu_restart
+    text: Restart
+  - id: menu_album
+    text: Album
+  - id: menu_settings
+    text: Settings
+  - id: menu_mainmenu
+    text: Main Menu
+  - id: menu_play
+    text: Play
+  - id: menu_newgame
+    text: New Game
+  - id: menu_quit
+    text: Quit
+  - id: menu_back
+    text: Back
+  - id: menu_volume_music
+    text: Music
+  - id: menu_volume_sfx
+    text: Sound FX
+  - id: menu_volume_master
+    text: Master Vol
+  - id: menu_speakers
+    text: Speakers
+  - id: menu_access_zonechange
+    text: Room swap
+  - id: menu_resolution
+    text: Resolution
+  - id: menu_fullscreen
+    text: Display Mode
+  - id: menu_apply
+    text: Apply
+  - id: menu_no
+    text: No
+  - id: menu_yes
+    text: Yes
+  - id: menu_startover
+    text: Start Over
+  - id: menu_toggle_fullscreen
+    text: Fullscreen
+  - id: menu_toggle_windowed
+    text: Windowed
+  - id: menu_toggle_slide
+    text: Slide
+  - id: menu_toggle_fade
+    text: Fade
+  - id: menu_postfx
+    text: Post FX
+  - id: menu_access_iconsize
+    text: Icon size
+  - id: menu_toggle_default
+    text: Default
+  - id: menu_toggle_2x
+    text: 2x
+  - id: menu_toggle_3x
+    text: 3x
+  - id: menu_access_placementhints
+    text: Placement hints
+  - id: menu_access_invaliditemhighlight
+    text: Invalid item highlight
+  - id: menu_access_allowitemsanywhere
+    text: Allow items anywhere
+  - id: menu_discard
+    text: Discard
+  - id: menu_replace
+    text: Replace
+  - id: menu_cancel
+    text: Cancel
+  - id: menu_album_select
+    text: Album Select
+  - id: menu_stickersheets
+    text: Stickers
+  - id: menu_language
+    text: Language
+  - id: menu_audio
+    text: Audio
+  - id: menu_video
+    text: Video
+  - id: menu_controls
+    text: Controls
+  - id: menu_accessibility
+    text: Accessibility
+  - id: menu_clearall
+    text: Clear all data
+  - id: menu_resetdefault
+    text: Reset to default
+  - id: menu_skip
+    text: Skip
+  - id: menu_startover_prompt
+    text: Start over?\nYour progress will be lost.
+  - id: menu_startover_prompt_ingame
+    text: Start stage over?
+  - id: menu_unsavedchange_prompt_ingame
+    text: This stage was already finished. What would you like to do with your changes?
+  - id: menu_photo_exit_prompt
+    text: Leave Photo Mode?
+  - id: menu_album_delete_prompt
+    text: Discard this album?\nThis cannot be undone.
+  - id: menu_clearall_prompt
+    text: This will delete ALL existing\nsave data! Are you sure?
+  - id: outro_title
+    text: Thanks for playing our demo!
+  - id: outro_upper_line
+    text: look forward to the full game in 2021 :)
+  - id: outro_lower_line
+    text: For updates, wishlist Unpacking,\nfollow us on Twitter or join our mailing list!
+  - id: sticker_Hearts
+    text: Less than three
+  - id: sticker_ThumbsUp
+    text: Heck yeah
+  - id: sticker_Exclaim
+    text: Wow!
+  - id: sticker_Brain
+    text: Solve a puzzle
+  - id: sticker_Music
+    text: Blast some tunes
+  - id: sticker_Star
+    text: Beginning
+  - id: sticker_Dab
+    text: Strike a pose
+  - id: sticker_Cookie
+    text: A sometimes food
+  - id: sticker_Skeleton
+    text: Electrical hazard
+  - id: sticker_Graduation
+    text: Get smart
+  - id: sticker_Gaming
+    text: Game on
+  - id: sticker_Fashion
+    text: Hat on head
+  - id: sticker_Roleplaying
+    text: Fellowship
+  - id: sticker_Undies
+    text: Tidy whities
+  - id: sticker_Coffee
+    text: Brew some coffee
+  - id: sticker_Guitar
+    text: Too cool
+  - id: sticker_Dog
+    text: Rediscover childhood
+  - id: sticker_ReturningHome
+    text: Home cooking
+  - id: sticker_Lightbulb
+    text: Brilliantly solved
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: Independence
+  - id: sticker_Plant
+    text: Green thumb
+  - id: sticker_PlushToys
+    text: Fuzzy friends
+  - id: sticker_Love
+    text: Love
+  - id: sticker_Blocks
+    text: Baby builder
+  - id: sticker_Toilet
+    text: Gotta flush 'em all
+  - id: sticker_House
+    text: No place like home
+  - id: album_cover
+    text: This book belongs to
+  - id: album_childroom_year
+    text: 1997
+  - id: album_childroom_date
+    text: May 1997
+  - id: album_studioapt_year
+    text: 2004
+  - id: album_studioapt_date
+    text: January 2004
+  - id: album_sharehouse_year
+    text: 2007
+  - id: album_sharehouse_date
+    text: March 2007
+  - id: album_boyfriendapt_year
+    text: 2010
+  - id: album_boyfriendapt_date
+    text: September 2010
+  - id: album_parenthouse_year
+    text: 2012
+  - id: album_parenthouse_date
+    text: June 2012
+  - id: album_soloapt_year
+    text: 2013
+  - id: album_soloapt_date
+    text: January 2013
+  - id: album_partnerapt_year
+    text: 2015
+  - id: album_partnerapt_date
+    text: November 2015
+  - id: album_house_year
+    text: 2018
+  - id: album_house_date
+    text: July 2018
+  - id: album_childroom_bedroom
+    text: Finally, my own room!
+  - id: album_childroom_darkstar
+    text: Looks good to me, time to go play!
+  - id: album_studioapt_bedroom
+    text: Classes start Monday! Uni, here I come!
+  - id: album_studioapt_bathroom
+    text: Private bathroom! Score!
+  - id: album_studioapt_kitchenette
+    text: I have to cook for myself? Uh oh.
+  - id: album_studioapt_darkstar
+    text: Eh, I'll tidy up a bit later.
+  - id: album_sharehouse_livingroom
+    text: Movie nights are gonna be awesome!
+  - id: album_sharehouse_bathroom
+    text: Wait, we're all sharing one bathroom?
+  - id: album_sharehouse_bedroom
+    text: This was a big day! I'm ready for bed.
+  - id: album_sharehouse_kitchen
+    text: WAY bigger than my last kitchen!
+  - id: album_sharehouse_diningroom
+    text: Game nights just got more convenient!
+  - id: album_sharehouse_darkstar
+    text: They knew me at uni, they knew what to expect.
+  - id: album_boyfriendapt_livingroom
+    text: Feels so serious moving into his place!
+  - id: album_boyfriendapt_kitchen
+    text: Not all coffee is instant, who knew?
+  - id: album_boyfriendapt_bathroom
+    text: A shower with a view!
+  - id: album_boyfriendapt_bedroom
+    text: Barely managed to fit myself in here!
+  - id: album_boyfriendapt_darkstar
+    text: It's fine, he likes my spontaneity!
+  - id: album_parenthouse_bedroom
+    text: This room used to feel bigger.
+  - id: album_parenthouse_bathroom
+    text: My sister and I used to fight over this bathroom.
+  - id: album_parenthouse_darkstar
+    text: Took a while to get it all back to how I left it.
+  - id: album_soloapt_livingroom
+    text: I'll figure out where to get a couch from later.
+  - id: album_soloapt_bathroom
+    text: I've missed long baths!
+  - id: album_soloapt_bedroom
+    text: A queen sized bed all to myself!
+  - id: album_soloapt_office
+    text: Making this my art space!
+  - id: album_soloapt_kitchen
+    text: Glad I found a place this nice on my budget!
+  - id: album_soloapt_darkstar
+    text: Wasn't planning to entertain much anyway.
+  - id: album_partnerapt_livingroom
+    text: So much more cozy now! Feels like a home.
+  - id: album_partnerapt_bathroom
+    text: All those drawers filled up quickly!
+  - id: album_partnerapt_bedroom
+    text: So glad for all that wardrobe space now!
+  - id: album_partnerapt_office
+    text: It's been hard but I'm starting to get somewhere!
+  - id: album_partnerapt_kitchen
+    text: Looking forward to fresh culinary adventures!
+  - id: album_partnerapt_darkstar
+    text: Welcome to the jungle!
+  - id: album_house_foyer
+    text: Our new home!
+  - id: album_house_bathroom
+    text: A family-sized bathroom!
+  - id: album_house_nursery
+    text: We're so looking forward to meeting you!
+  - id: album_house_closet
+    text: Enough space for all our clothes and then some!
+  - id: album_house_bedroom
+    text: Looking forward to the first sleep in our new house!
+  - id: album_house_office
+    text: My professional space, for me, the professional!
+  - id: album_house_toilet
+    text: Bonus toilet!
+  - id: album_house_kitchen
+    text: Finally, a fridge big enough for all our magnets!
+  - id: album_house_diningroom
+    text: We're already planning the dinner parties!
+  - id: album_house_livingroom
+    text: Lots of space and a backyard! We can get a pet now!
+  - id: album_house_darkstar
+    text: Looks good to me, time for a nap!
+  - id: album_credits
+    text: Thanks for joining me on this journey.
+  - id: album_credits_darkstar
+    text: Not going back inside the house, it's trashed.
+  - id: credits_developed
+    text: developed by
+  - id: credits_creative_director
+    text: Creative Director
+  - id: credits_technical_director
+    text: Technical Director
+  - id: credits_composer_sound_designer
+    text: Composer & Sound Designer
+  - id: credits_pixel_art
+    text: Pixel Art
+  - id: credits_foley_recording
+    text: Foley Recording
+  - id: credits_game_design
+    text: Game Design
+  - id: credits_narrative_assistance
+    text: Narrative Assistance
+  - id: credits_additional_coding
+    text: Additional Coding
+  - id: credits_hero_image_stickers
+    text: Hero Image and Stickers
+  - id: credits_title_screen_art
+    text: Title Screen Art
+  - id: credits_anim_previs
+    text: Animation Pre-vis
+  - id: credits_dev_business_support
+    text: Development & Business Support
+  - id: credits_legal
+    text: Legal Assistance
+  - id: credits_published_by
+    text: Presented By
+  - id: credits_special_thanks
+    text: Special Thanks
+  - id: credits_in_memory
+    text: In Memory of
+  - id: credits_supported_by
+    text: Proudly Supported By
+  - id: inputaction_gameplay
+    text: In Game
+  - id: inputaction_gameplay_liftandplace
+    text: Lift And Place
+  - id: inputaction_gameplay_turnandinteract
+    text: Turn and Interact
+  - id: inputaction_gameplay_screenpan
+    text: Pan Screen
+  - id: inputaction_gameplay_photomode
+    text: Open Photo Mode
+  - id: inputaction_gameplay_floorplanmode
+    text: Open Floorplan
+  - id: inputaction_gameplay_zoomin
+    text: Zoom In
+  - id: inputaction_gameplay_zoomout
+    text: Zoom Out
+  - id: inputaction_gameplay_changezoneleft
+    text: Left Room
+  - id: inputaction_gameplay_changezoneright
+    text: Right Room
+  - id: inputaction_photo
+    text: Photo Mode
+  - id: inputaction_photo_capture
+    text: Take Photo
+  - id: inputaction_photo_hideui
+    text: Hide UI
+  - id: inputaction_menu
+    text: Menus
+  - id: inputaction_menu_accept
+    text: Accept
+  - id: inputaction_menu_back
+    text: Back
+  - id: inputaction_menu_nextpage
+    text: Next Page
+  - id: inputaction_menu_prevpage
+    text: Previous Page
+  - id: menu_controls_rebind
+    text: Rebind Controls
+  - id: album_clone
+    text: copy to a new album
+  - id: menu_controls_reversesticks
+    text: Reverse control sticks
+  - id: menu_controls_vibration
+    text: Vibration
+  - id: menu_controls_cursorsensitivity
+    text: Controller cursor\nSensitivity
+  - id: menu_controls_changeinput
+    text: Change input
+  - id: menu_saveerror_prompt
+    text: Save data can't be loaded. \nStart over?
+  - id: credits_localization
+    text: Localization
+  - id: credits_website
+    text: Website Design
+  - id: menu_allowanywhere_prompt
+    text: This will remove the puzzle element of the game. Are you sure?
+  - id: credits_audio_director
+    text: Audio Director
+  - id: credits_music_sound_design
+    text: Music & Sound Design
+  - id: credits_foley_production
+    text: Foley Production
+  - id: credits_foley_additional
+    text: Additional Foley
+  - id: credits_community
+    text: Community Strategy
+  - id: credits_playtesters
+    text: Playtesters
+  - id: credits_guitars_additional
+    text: Additional Guitars
+  - id: credits_testing
+    text: Testing by
+  - id: credits_porting
+    text: Porting by
+  - id: menu_continue
+    text: OK
+  - id: photo_save_computer
+    text: Image saved to
+  - id: photo_save_steam
+    text: Image saved to Steam Screenshots
+  - id: photo_save
+    text: Image saved!
+  - id: input_rebind
+    text: Press button
+  - id: menu_controls_cursor
+    text: Constrain cursor
+  - id: menu_audio_shuffle
+    text: Shuffle music
+  - id: menu_photo_exit_prompt_extra
+    text: (Your changes will be lost.)
+  - id: playback_header
+    text: Quick Playback
+  - id: playback_speed
+    text: Speed
+  - id: playback_encoding
+    text: Encoding...
+  - id: playback_gif_result
+    text: 'GIF saved to:'
+  - id: playback_video_result
+    text: 'Video saved to:'
+  - id: unlock_header
+    text: Features unlocked!
+  - id: unlock_shuffle
+    text: You can now listen to tracks from the whole game by enabling "Shuffle Music" under audio settings!
+  - id: unlock_validation
+    text: Once a stage is unpacked, you can now toggle assessment on and off, temporarily hiding item highlights and the star button.
+  - id: lyrics_1_1
+    text: The moving truck pulls up
+  - id: lyrics_1_2
+    text: there's a knock on the door
+  - id: lyrics_1_3
+    text: Now all your stuff is here
+  - id: lyrics_1_4
+    text: in boxes on the floor
+  - id: lyrics_2_1
+    text: You open up a box
+  - id: lyrics_2_2
+    text: there is so much to do
+  - id: lyrics_2_3
+    text: I open up my heart
+  - id: lyrics_2_4
+    text: this is now a home for two
+  - id: lyrics_3_1
+    text: Your house plant brightens up
+  - id: lyrics_3_2
+    text: the dreary windowsill
+  - id: lyrics_3_3
+    text: Your blanket keeps us warm
+  - id: lyrics_3_4
+    text: in the evening chill
+  - id: lyrics_4_1
+    text: We pull your favourite mug
+  - id: lyrics_4_2
+    text: out of the packing foam
+  - id: lyrics_4_3
+    text: Stick magnets on the fridge
+  - id: lyrics_4_4
+    text: and we make this house a home
+  - id: lyrics_5_1
+    text: You put our photo on the shelf
+  - id: lyrics_5_2
+    text: I smile to myself
+  - id: lyrics_6_1
+    text: You cut the tape with my stanley knife
+  - id: lyrics_6_2
+    text: and we unpack your life
+  - id: lyrics_6_3
+    text: We unpack your life
+  - id: lyrics_7_1
+    text: Slowly, slowly, our things combine
+  - id: lyrics_7_2
+    text: Your favourite stuffed toy right next to mine
+  - id: lyrics_7_3
+    text: Our prized possessions in a prime location
+  - id: lyrics_7_4
+    text: on the bedroom shelf
+  - id: lyrics_7_5
+    text: I smile to myself
+  - id: lyrics_8_1
+    text: You cut the tape with my stanley knife
+  - id: lyrics_8_2
+    text: and we unpack our life
+  - id: lyrics_8_3
+    text: We unpack our life
+  - id: menu_save_image
+    text: Image save location
+  - id: menu_save_gif
+    text: GIF save location
+  - id: menu_save_video
+    text: Video save location
+  - id: input_rebind_cancel
+    text: (Hold {0} or {1} to cancel)
+  - id: input_rebind_cancel_gp_only
+    text: (Hold {0} to cancel)
+  - id: credits_font_clean
+    text: Chinese & Korean Font Clean-Up
+  - id: credits_grandmother
+    text: Ilana Sharon, beloved grandmother
+  - id: menu_switch_user
+    text: Switch User
+  - id: inputaction_gameplay_focus
+    text: Item Focus
+  - id: menu_switch_profile
+    text: Switch Profile
+  - id: menu_controls_swapsticks
+    text: Swap Left / Right Stick
+  - id: menu_controls_cursorsensitivity_alt
+    text: \nCursor Speed
+  - id: menu_credits
+    text: Credits
+  - id: inputaction_gameplay_spmove_up
+    text: '   Up'
+  - id: inputaction_gameplay_spmove_right
+    text: '   Right'
+  - id: inputaction_gameplay_spmove_down
+    text: '   Down'
+  - id: inputaction_gameplay_spmove_left
+    text: '   Left'
+  - id: menu_access_disablepulsing
+    text: Disable icon pulsing
+  - id: menu_controls_swapsticks_nx
+    text: Swap Left / Right Stick
+  - id: menu_volume_controller
+    text: Controller

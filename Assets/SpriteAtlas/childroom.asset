@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: childroom
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300002, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300004, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300006, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300008, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300010, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300012, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300014, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300016, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300018, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300020, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300022, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300024, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300026, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300028, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300030, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300032, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300034, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300036, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300038, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300040, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300042, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300044, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300046, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300048, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300050, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300052, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300054, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300056, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300058, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300060, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300062, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300064, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300066, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300068, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300070, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300072, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300074, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300076, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300078, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300080, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300082, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300084, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300086, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300088, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300090, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300092, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    - {fileID: 21300094, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300002, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300004, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300006, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300008, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300010, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300012, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300014, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300016, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300018, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300020, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300022, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300024, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300026, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300028, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300030, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300032, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300034, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300036, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300038, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300040, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300042, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300044, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300046, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300048, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300050, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300052, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300054, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300056, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300058, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300060, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300062, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300064, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300066, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300068, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300070, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300072, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300074, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300076, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300078, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300080, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300082, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300084, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300086, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300088, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300090, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300092, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  - {fileID: 21300094, guid: 2bef9f33069ead44bb09e4f9cc882f57, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ^BG
+  - ^Pillow3
+  - ^Shelf_MidRight
+  - ^Desk_1
+  - ^Desk_0
+  - ^Desk_2
+  - ^Chair_Back
+  - ^Shelf_TopRight
+  - ^Cabinet_Bottom
+  - ^Cabinet_DoorLeft
+  - ^Chair_Seat
+  - ^Drawer_Mask
+  - ^Pillow_Shadow1
+  - ^Pillow_Shadow2
+  - ^Pillow_Shadow3
+  - ^Curtains
+  - ^ViewBG
+  - ^DoorStop
+  - ^Shelves_FrontTop_1
+  - ^Shelves_FrontTop_0
+  - ^Pillow
+  - ^Bed_Back
+  - ^Shelf_MidLeft
+  - ^ViewFG
+  - ^Pillow2
+  - ^SunBeam1
+  - ^Shelf_TopLeft
+  - ^Shelves_Bottom
+  - ^Desk_FrontLeg
+  - ^Pillow_Shadow4
+  - ^SunBeam2
+  - ^ViewFG_RimLight
+  - ^Cabinet_Top
+  - ^Bed_Front
+  - ^Pillow4
+  - +Drawer_Back
+  - ^Desk_BackLegs
+  - ^Ladder
+  - ^Cabinet_Shelf
+  - ^Cabinet_DoorRight
+  - +Drawer_Front
+  - ^Pillow5
+  - ^Pillow_Shadow5
+  - ^Shelf_BottomLeft
+  - ^SunBeam3
+  - ^CurtainLeft
+  - ^Drawer_Housing_0
+  - ^Outline
+  m_Tag: childroom
+  m_IsVariant: 0

@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -667331979, guid: 67dfb1fdfb2b407222eda8e23ac8b724, type: 3}
+  m_Name: Gaegu_35_extra
+  m_EditorClassIdentifier:
+  hashCode: -854218291
+  material: {fileID: 2100000, guid: 20dea07fec753dc4186dabc20fcf6aba, type: 2}
+  materialHashCode: -2135301427
+  m_Version: 1.1.0
+  m_SourceFontFileGUID: 8a8a6d8da0839c144b481ecdd4fb43d9
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 0
+  m_FaceInfo:
+    m_FaceIndex: 0
+    m_FamilyName: Gaegu
+    m_StyleName: Bold
+    m_PointSize: 35
+    m_Scale: 1
+    m_LineHeight: 43.75
+    m_AscentLine: 26.6
+    m_CapLine: 20
+    m_MeanLine: 13
+    m_Baseline: 0
+    m_DescentLine: -8.4
+    m_SuperscriptOffset: 26.6
+    m_SuperscriptSize: 0.5
+    m_SubscriptOffset: -8.4
+    m_SubscriptSize: 0.5
+    m_UnderlineOffset: -10.29
+    m_UnderlineThickness: 1.12
+    m_StrikethroughOffset: 5.2
+    m_StrikethroughThickness: 1.12
+    m_TabWidth: 15
+  m_GlyphTable:
+  - m_Index: 650
+    m_Metrics:
+      m_Width: 19
+      m_Height: 26
+      m_HorizontalBearingX: 4
+      m_HorizontalBearingY: 23
+      m_HorizontalAdvance: 29
+    m_GlyphRect:
+      m_X: 35
+      m_Y: 4
+      m_Width: 19
+      m_Height: 26
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2297
+    m_Metrics:
+      m_Width: 23
+      m_Height: 31
+      m_HorizontalBearingX: 1
+      m_HorizontalBearingY: 23
+      m_HorizontalAdvance: 29
+    m_GlyphRect:
+      m_X: 4
+      m_Y: 4
+      m_Width: 23
+      m_Height: 31
+    m_Scale: 1
+    m_AtlasIndex: 0
+  m_CharacterTable:
+  - m_ElementType: 1
+    m_Unicode: 46375
+    m_GlyphIndex: 650
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 54596
+    m_GlyphIndex: 2297
+    m_Scale: 1
+  m_AtlasTextures:
+  - {fileID: 2800000, guid: 9d5b7dd7ced8c1943a305eb5f61c2e92, type: 3}
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
+  m_ClearDynamicDataOnBuild: 0
+  m_UsedGlyphRects:
+  - m_X: 0
+    m_Y: 0
+    m_Width: 31
+    m_Height: 39
+  - m_X: 31
+    m_Y: 0
+    m_Width: 27
+    m_Height: 34
+  m_FreeGlyphRects:
+  - m_X: 0
+    m_Y: 39
+    m_Width: 64
+    m_Height: 25
+  - m_X: 31
+    m_Y: 34
+    m_Width: 33
+    m_Height: 30
+  - m_X: 58
+    m_Y: 0
+    m_Width: 6
+    m_Height: 64
+  m_fontInfo:
+    Name:
+    PointSize: 0
+    Scale: 0
+    CharacterCount: 0
+    LineHeight: 0
+    Baseline: 0
+    Ascender: 0
+    CapHeight: 0
+    Descender: 0
+    CenterLine: 0
+    SuperscriptOffset: 0
+    SubscriptOffset: 0
+    SubSize: 0
+    Underline: 0
+    UnderlineThickness: 0
+    strikethrough: 0
+    strikethroughThickness: 0
+    TabWidth: 0
+    Padding: 0
+    AtlasWidth: 0
+    AtlasHeight: 0
+  atlas: {fileID: 0}
+  m_AtlasWidth: 64
+  m_AtlasHeight: 64
+  m_AtlasPadding: 4
+  m_AtlasRenderMode: 4121
+  m_glyphInfoList: []
+  m_KerningTable:
+    kerningPairs: []
+  m_FontFeatureTable:
+    m_GlyphPairAdjustmentRecords: []
+  fallbackFontAssets: []
+  m_FallbackFontAssetTable: []
+  m_CreationSettings:
+    sourceFontFileName:
+    sourceFontFileGUID: 8a8a6d8da0839c144b481ecdd4fb43d9
+    pointSizeSamplingMode: 1
+    pointSize: 35
+    padding: 4
+    packingMode: 4
+    atlasWidth: 64
+    atlasHeight: 64
+    characterSetSelectionMode: 7
+    characterSequence: 딧필
+    referencedFontAssetGUID: 4590b89b79cd9c849a1fa36d2cf8e9fb
+    referencedTextAssetGUID: 91776bdb7f0b3124eb39688add800511
+    fontStyle: 0
+    fontStyleModifier: 0
+    renderMode: 4121
+    includeFontFeatures: 0
+  m_FontWeightTable:
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  fontWeights: []
+  normalStyle: 0
+  normalSpacingOffset: 0
+  boldStyle: 0.75
+  boldSpacing: 7
+  italicStyle: 35
+  tabSize: 10

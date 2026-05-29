@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: tr_TR
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: Türkçe
+  - id: menu_resume
+    text: Devam Et
+  - id: menu_restart
+    text: Yeniden Başlat
+  - id: menu_album
+    text: Albüm
+  - id: menu_settings
+    text: Ayarlar
+  - id: menu_mainmenu
+    text: Ana Menü
+  - id: menu_play
+    text: Oyna
+  - id: menu_newgame
+    text: Yeni Oyun
+  - id: menu_quit
+    text: Çıkış
+  - id: menu_back
+    text: Geri
+  - id: menu_volume_music
+    text: Müzik
+  - id: menu_volume_sfx
+    text: Ses Efektleri
+  - id: menu_volume_master
+    text: Ana Ses
+  - id: menu_speakers
+    text: Hoparlörler
+  - id: menu_access_zonechange
+    text: Oda Değiştirme
+  - id: menu_resolution
+    text: Çözünürlük
+  - id: menu_fullscreen
+    text: Görüntü Modu
+  - id: menu_apply
+    text: Uygula
+  - id: menu_no
+    text: Hayır
+  - id: menu_yes
+    text: Evet
+  - id: menu_startover
+    text: Baştan Başla
+  - id: menu_toggle_fullscreen
+    text: Tam Ekran
+  - id: menu_toggle_windowed
+    text: Pencere
+  - id: menu_toggle_slide
+    text: Kaydırma
+  - id: menu_toggle_fade
+    text: Sönme
+  - id: menu_postfx
+    text: Post Efektleri
+  - id: menu_access_iconsize
+    text: Simge boyutu
+  - id: menu_toggle_default
+    text: Varsayılan
+  - id: menu_toggle_2x
+    text: 2x
+  - id: menu_toggle_3x
+    text: 3x
+  - id: menu_access_placementhints
+    text: Yerleştirme ipuçları
+  - id: menu_access_invaliditemhighlight
+    text: Geçersiz eşya vurgusu
+  - id: menu_access_allowitemsanywhere
+    text: Serbest yerleştirme
+  - id: menu_discard
+    text: At
+  - id: menu_replace
+    text: Değiştir
+  - id: menu_cancel
+    text: İptal
+  - id: menu_album_select
+    text: Albüm Seç
+  - id: menu_stickersheets
+    text: Çıkartmalar
+  - id: menu_language
+    text: Dil
+  - id: menu_audio
+    text: Ses
+  - id: menu_video
+    text: Görüntü
+  - id: menu_controls
+    text: Kontroller
+  - id: menu_accessibility
+    text: Erişilebilirlik
+  - id: menu_clearall
+    text: Verileri temizle
+  - id: menu_resetdefault
+    text: Varsayılana sıfırla
+  - id: menu_skip
+    text: Atla
+  - id: menu_startover_prompt
+    text: Baştan başla?\nİlerlemen kaybolacak.
+  - id: menu_startover_prompt_ingame
+    text: Bölüme baştan başla?
+  - id: menu_unsavedchange_prompt_ingame
+    text: Bu bölüm zaten bitirilmiş. Değişikliklerle ilgili ne yapmak istersin?
+  - id: menu_photo_exit_prompt
+    text: Fotoğraf Modu'ndan çık?
+  - id: menu_album_delete_prompt
+    text: Bu albümü at?\nBu işlem geri alınamaz.
+  - id: menu_clearall_prompt
+    text: Bu işlem var olan TÜM kayıt\nverilerini silecek! Emin misin?
+  - id: outro_title
+    text: Demomuzu oynadığın için teşekkür ederiz!
+  - id: outro_upper_line
+    text: Tam sürümde açılacak çok kutu var.
+  - id: sticker_Hearts
+    text: Küçüktür üç
+  - id: sticker_ThumbsUp
+    text: Aynen öyle
+  - id: sticker_Exclaim
+    text: Vay canına!
+  - id: sticker_Brain
+    text: Bir bulmaca çöz
+  - id: sticker_Music
+    text: Birkaç şarkı çal
+  - id: sticker_Star
+    text: Başlangıç
+  - id: sticker_Dab
+    text: Poz ver
+  - id: sticker_Cookie
+    text: Bazen yemek lazım
+  - id: sticker_Skeleton
+    text: Elektrik tehlikesi
+  - id: sticker_Graduation
+    text: Bilgiç
+  - id: sticker_Gaming
+    text: Oyuna başla
+  - id: sticker_Fashion
+    text: Şapkanı tak
+  - id: sticker_Roleplaying
+    text: Kardeşlik
+  - id: sticker_Undies
+    text: Külot çekmecesi
+  - id: sticker_Coffee
+    text: Kahve koyalım
+  - id: sticker_Guitar
+    text: Aşırı cool
+  - id: sticker_Dog
+    text: İçindeki çocuk
+  - id: sticker_ReturningHome
+    text: Anne yemeği
+  - id: sticker_Lightbulb
+    text: Matematik desen var
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: Özgürlük
+  - id: sticker_Plant
+    text: Çiçeksever
+  - id: sticker_PlushToys
+    text: Tüylü arkadaşlar
+  - id: sticker_Love
+    text: Aşk
+  - id: sticker_Blocks
+    text: İnşaatçı bebek
+  - id: sticker_Toilet
+    text: Sifonu çekmeyi unutma
+  - id: sticker_House
+    text: Evim gibisi var mı?
+  - id: album_cover
+    text: Bu kitabın sahibi
+  - id: album_childroom_year
+    text: 1997
+  - id: album_childroom_date
+    text: Mayıs 1997
+  - id: album_studioapt_year
+    text: 2004
+  - id: album_studioapt_date
+    text: Ocak 2004
+  - id: album_sharehouse_year
+    text: 2007
+  - id: album_sharehouse_date
+    text: Mart 2007
+  - id: album_boyfriendapt_year
+    text: 2010
+  - id: album_boyfriendapt_date
+    text: Eylül 2010
+  - id: album_parenthouse_year
+    text: 2012
+  - id: album_parenthouse_date
+    text: Haziran 2012
+  - id: album_soloapt_year
+    text: 2013
+  - id: album_soloapt_date
+    text: Ocak 2013
+  - id: album_partnerapt_year
+    text: 2015
+  - id: album_partnerapt_date
+    text: Kasım 2015
+  - id: album_house_year
+    text: 2018
+  - id: album_house_date
+    text: Temmuz 2018
+  - id: album_childroom_bedroom
+    text: Nihayet, kendi odam!
+  - id: album_childroom_darkstar
+    text: Bence güzel oldu, şimdi oyun zamanı!
+  - id: album_studioapt_bedroom
+    text: Dersler pazartesi başlıyor! Üniversite, sıkı dur. Ben geliyorum!
+  - id: album_studioapt_bathroom
+    text: Kendi tuvaletim! Budur be!
+  - id: album_studioapt_kitchenette
+    text: Yemeğimi kendim mi yapacağım? Yandık.
+  - id: album_studioapt_darkstar
+    text: Eh, ortalığı biraz toparlarım sonra.
+  - id: album_sharehouse_livingroom
+    text: Film geceleri harika olacak!
+  - id: album_sharehouse_bathroom
+    text: Bir dakika, hep birlikte bir tane tuvaleti mi kullanıyoruz?
+  - id: album_sharehouse_bedroom
+    text: Bugün büyük bir gündü! Yatmaya hazırım.
+  - id: album_sharehouse_kitchen
+    text: Eski mutfağımdan DAHA büyük!
+  - id: album_sharehouse_diningroom
+    text: Oyun geceleri artık daha güzel olacak!
+  - id: album_sharehouse_darkstar
+    text: Beni üniversiteden tanıyorlardı, ne beklemeleri gerektiğini biliyorlardı.
+  - id: album_boyfriendapt_livingroom
+    text: Onun yanına taşınmak kulağa çok ciddi geliyor!
+  - id: album_boyfriendapt_kitchen
+    text: Tüm kahveler granül değilmiş, kim bilebilirdi ki?
+  - id: album_boyfriendapt_bathroom
+    text: Manzaralı duş!
+  - id: album_boyfriendapt_bedroom
+    text: Buraya güç bela sığdım!
+  - id: album_boyfriendapt_darkstar
+    text: Olur öyle, o benim spontanlığımı seviyor!
+  - id: album_parenthouse_bedroom
+    text: Bu oda eskiden daha büyüktü.
+  - id: album_parenthouse_bathroom
+    text: Kız kardeşimle bu banyo için kavga ederdik.
+  - id: album_parenthouse_darkstar
+    text: Bıraktığım haline geri döndürmek zaman aldı.
+  - id: album_soloapt_livingroom
+    text: Koltuk nereden alınır, sonra düşüneceğim.
+  - id: album_soloapt_bathroom
+    text: Uzun uzun yıkanmayı özledim!
+  - id: album_soloapt_bedroom
+    text: Çift kişilik yatak sadece bana ait!
+  - id: album_soloapt_office
+    text: Burası benim sanat alanım!
+  - id: album_soloapt_kitchen
+    text: Bütçeme uygun böyle güzel bir yer bulduğum için çok mutluyum!
+  - id: album_soloapt_darkstar
+    text: Çok eğlendirmeyi planlamıyordum zaten.
+  - id: album_partnerapt_livingroom
+    text: Şimdi çok daha huzurlu! Eve benzedi.
+  - id: album_partnerapt_bathroom
+    text: Şu çekmeceler de amma çabuk doldu!
+  - id: album_partnerapt_bedroom
+    text: Gardıroptaki onca yere şükürler olsun!
+  - id: album_partnerapt_office
+    text: Zor oldu ama nihayet bir şeyler başarmaya başladım!
+  - id: album_partnerapt_kitchen
+    text: Yepyeni mutfak maceraları için sabırsızlanıyorum!
+  - id: album_partnerapt_darkstar
+    text: Ormana hoş geldiniz!
+  - id: album_house_foyer
+    text: Yeni evimiz!
+  - id: album_house_bathroom
+    text: Aile boyu banyo!
+  - id: album_house_nursery
+    text: Seninle tanışmak için sabırsızlanıyoruz!
+  - id: album_house_closet
+    text: Tüm kıyafetlerimiz için yeterli alan ve hatta daha fazlası!
+  - id: album_house_bedroom
+    text: Yeni evimizdeki ilk uykum için sabırsızlanıyorum!
+  - id: album_house_office
+    text: Bir profesyonel olarak burası benim profesyonel alanım!
+  - id: album_house_toilet
+    text: Bonus tuvalet!
+  - id: album_house_kitchen
+    text: Nihayet tüm magnetlerimize yetecek kadar büyük bir buzdolabı!
+  - id: album_house_diningroom
+    text: Akşam yemeği davetlerini şimdiden planlamaya başladık!
+  - id: album_house_livingroom
+    text: Bir sürü alan, bir de arka bahçe! Şimdi bir hayvan alabiliriz işte!
+  - id: album_house_darkstar
+    text: Bence iyi oldu, artık uyku vakti!
+  - id: album_credits
+    text: Bu yolculukta bana katıldığınız için teşekkürler.
+  - id: album_credits_darkstar
+    text: Eve geri dönmeyeceğim, her taraf her tarafta.
+  - id: credits_developed
+    text: geliştiren
+  - id: credits_creative_director
+    text: Kreatif Direktör
+  - id: credits_technical_director
+    text: Teknik Direktör
+  - id: credits_composer_sound_designer
+    text: Besteci ve Ses Tasarımcısı
+  - id: credits_pixel_art
+    text: Pixel Art
+  - id: credits_foley_recording
+    text: Foley Kayıtları
+  - id: credits_game_design
+    text: Oyun Tasarımı
+  - id: credits_narrative_assistance
+    text: Anlatım Yardımı
+  - id: credits_additional_coding
+    text: İlave Kodlamalar
+  - id: credits_hero_image_stickers
+    text: Kahraman Görseli ve Çıkartmalar
+  - id: credits_title_screen_art
+    text: Açılış Ekranı Çizimi
+  - id: credits_anim_previs
+    text: Animasyon Pre-vis
+  - id: credits_dev_business_support
+    text: Geliştirme ve İşletme Desteği
+  - id: credits_legal
+    text: Hukuk Danışmanı
+  - id: credits_published_by
+    text: Yayıncı
+  - id: credits_special_thanks
+    text: Özel Teşekkürler
+  - id: credits_in_memory
+    text: Hatırasına Saygıyla
+  - id: credits_supported_by
+    text: Gururla Destekleyenler
+  - id: input_rebind
+    text: Düğmeye bas
+  - id: inputaction_gameplay
+    text: Oyun İçi
+  - id: inputaction_gameplay_liftandplace
+    text: Kaldır ve Yerleştir
+  - id: inputaction_gameplay_turnandinteract
+    text: Dön ve Etkileşime Geç
+  - id: inputaction_gameplay_screenpan
+    text: Ekran Kaydırma
+  - id: inputaction_gameplay_photomode
+    text: Fotoğraf Modu'nu Aç
+  - id: inputaction_gameplay_floorplanmode
+    text: Kat Planını Aç
+  - id: inputaction_gameplay_zoomin
+    text: Yakınlaştır
+  - id: inputaction_gameplay_zoomout
+    text: Uzaklaştır
+  - id: inputaction_gameplay_changezoneleft
+    text: Soldaki Oda
+  - id: inputaction_gameplay_changezoneright
+    text: Sağdaki Oda
+  - id: inputaction_photo
+    text: Fotoğraf Modu
+  - id: inputaction_photo_capture
+    text: Fotoğraf Çek
+  - id: inputaction_photo_hideui
+    text: Arayüzü Gizle
+  - id: inputaction_menu
+    text: Menüler
+  - id: inputaction_menu_accept
+    text: Kabul Et
+  - id: inputaction_menu_back
+    text: Geri
+  - id: inputaction_menu_nextpage
+    text: Sonraki Sayfa
+  - id: inputaction_menu_prevpage
+    text: Önceki Sayfa
+  - id: menu_controls_rebind
+    text: Kontrolleri Yeniden Ata
+  - id: menu_controls_reversesticks
+    text: Kontrol çubuklarını ters çevir
+  - id: menu_controls_swapsticks
+    text: Sol / Sağ Analog Stick'i Değiştir
+  - id: menu_controls_vibration
+    text: Titreşim
+  - id: menu_controls_cursorsensitivity
+    text: Oyun kumandası imleci\nHassasiyeti
+  - id: menu_controls_cursorsensitivity_alt
+    text: \nİmleç Hızı
+  - id: menu_controls_changeinput
+    text: Girdiyi değiştir
+  - id: menu_saveerror_prompt
+    text: Kayıt verisi yüklenemiyor. \nBaştan başla?
+  - id: menu_allowanywhere_prompt
+    text: Bu, oyunun bulmaca özelliğini ortadan kaldıracaktır. Emin misin?
+  - id: menu_controls_cursor
+    text: İmleci sınırla
+  - id: menu_audio_shuffle
+    text: Müziği karıştır
+  - id: menu_continue
+    text: TAMAM
+  - id: menu_photo_exit_prompt_extra
+    text: (Değişikliklerin kaybolacak.)
+  - id: menu_save_image
+    text: Görsel kayıt konumu
+  - id: menu_save_gif
+    text: GIF kayıt konumu
+  - id: menu_save_video
+    text: Video kayıt konumu
+  - id: album_clone
+    text: yeni bir albüme kopyala
+  - id: photo_save_computer
+    text: 'Görsel kaydedildi:'
+  - id: photo_save_steam
+    text: Görsel Steam Ekran Görüntülerine kaydedildi
+  - id: photo_save
+    text: Görsel kaydedildi!
+  - id: playback_header
+    text: Hızlı Tekrar Oynatma
+  - id: playback_speed
+    text: Hız
+  - id: playback_encoding
+    text: Kodlanıyor...
+  - id: playback_gif_result
+    text: 'GIF şuraya kaydedildi:'
+  - id: playback_video_result
+    text: 'Video şuraya kaydedildi:'
+  - id: unlock_header
+    text: Özellikler açıldı!
+  - id: unlock_shuffle
+    text: Artık oyunun tümündeki müzikleri, ses ayarları altındaki "Müziği Karıştır" seçeneğini etkinleştirerek dinleyebilirsin!
+  - id: unlock_validation
+    text: Bir bölüm yerleştirildikten sonra, değerlendirmeyi açıp kapatarak geçici olarak eşya vurgularını ve yıldız düğmesini gizleyebilirsin.
+  - id: credits_localization
+    text: Yerelleştirme
+  - id: credits_website
+    text: Web Sitesi Tasarımı
+  - id: credits_audio_director
+    text: Ses Direktörü
+  - id: credits_music_sound_design
+    text: Müzik ve Ses Tasarımı
+  - id: credits_foley_production
+    text: Foley Yapımı
+  - id: credits_foley_additional
+    text: İlave Foley'ler
+  - id: credits_community
+    text: Topluluk Stratejisi
+  - id: credits_playtesters
+    text: Test Edenler
+  - id: credits_guitars_additional
+    text: İlave Gitarlar
+  - id: credits_testing
+    text: Test Eden
+  - id: credits_porting
+    text: Uyarlama
+  - id: lyrics_1_1
+    text: Taşımacılar geliyor
+  - id: lyrics_1_2
+    text: Kapıyı çalıyorlar
+  - id: lyrics_1_3
+    text: Eşyaların geldi
+  - id: lyrics_1_4
+    text: Hepsi kutularda duruyor
+  - id: lyrics_2_1
+    text: Bir kutuyu açıyorsun
+  - id: lyrics_2_2
+    text: Yapılacak çok iş var
+  - id: lyrics_2_3
+    text: Kalbimi açıyorum
+  - id: lyrics_2_4
+    text: Burası artık iki kişinin yuvası
+  - id: lyrics_3_1
+    text: Çiçeğin renklendiriyor
+  - id: lyrics_3_2
+    text: Pencerenin kasvetli kenarını
+  - id: lyrics_3_3
+    text: Akşam soğuğunun ortasında
+  - id: lyrics_3_4
+    text: Battaniyene sarınıyoruz sıkı sıkı
+  - id: lyrics_4_1
+    text: En sevdiğin fincanı
+  - id: lyrics_4_2
+    text: Çıkarıyoruz kolisinden
+  - id: lyrics_4_3
+    text: Buzdolabına magnetleri yapıştır
+  - id: lyrics_4_4
+    text: Bir yuva yaratacağız bu yerden
+  - id: lyrics_5_1
+    text: Resmimizi rafa koyuyorsun
+  - id: lyrics_5_2
+    text: Gülümsüyorum, görüyorsun
+  - id: lyrics_6_1
+    text: Bantları maket bıçağıyla kesiyorsun
+  - id: lyrics_6_2
+    text: Ve hayatımızı kutusundan çıkarıyoruz
+  - id: lyrics_6_3
+    text: Hayatını kutusundan çıkarıyoruz
+  - id: lyrics_7_1
+    text: Yavaş yavaş, eşyalarımız birleşiyor
+  - id: lyrics_7_2
+    text: En sevdiğin peluş hayvan benimkinin yanında
+  - id: lyrics_7_3
+    text: En değerli eşyalarımız en güzel yerlerde
+  - id: lyrics_7_4
+    text: Yatak odası rafına koyuyorsun
+  - id: lyrics_7_5
+    text: Gülümsüyorum, görüyorsun
+  - id: lyrics_8_1
+    text: Bantları maket bıçağıyla kesiyorsun
+  - id: lyrics_8_2
+    text: Ve hayatımızı kutusundan çıkarıyoruz
+  - id: lyrics_8_3
+    text: Hayatımızı kutusundan çıkarıyoruz
+  - id: input_rebind_cancel
+    text: (İptal etmek için {0} veya {1} düğmesini basılı tut)
+  - id: input_rebind_cancel_gp_only
+    text: (İptal etmek için {0} düğmesini basılı tut)
+  - id: inputaction_gameplay_focus
+    text: Eşya odağı
+  - id: credits_font_clean
+    text: Çince ve Korece Yazı Tipi Temizliği
+  - id: credits_grandmother
+    text: Sevgili büyükannemiz, Ilana Sharon
+  - id: menu_switch_user
+    text: Kullanıcıyı Değiştir
+  - id: menu_switch_profile
+    text: Profili Değiştir
+  - id: menu_credits
+    text: Emeği Geçenler
+  - id: inputaction_gameplay_spmove_down
+    text: '   Aşağı'
+  - id: inputaction_gameplay_spmove_left
+    text: '   Sol'
+  - id: inputaction_gameplay_spmove_right
+    text: '   Sağ'
+  - id: inputaction_gameplay_spmove_up
+    text: '   Yukarı'
+  - id: menu_controls_swapsticks_nx
+    text: Sol / Sağ Çubuğu Değiştir
+  - id: outro_lower_line
+    text: Şimdi alınabilir!

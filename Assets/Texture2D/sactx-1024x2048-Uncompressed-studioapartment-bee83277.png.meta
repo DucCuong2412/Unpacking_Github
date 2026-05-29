@@ -1,0 +1,4463 @@
+fileFormatVersion: 2
+guid: a6b477d9a47230e41924c16f0f7069d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ^Shelf2_Over
+  - first:
+      213: 21300002
+    second: ^Bench_CupboardDoor
+  - first:
+      213: 21300004
+    second: ^DrawerHousingBack
+  - first:
+      213: 21300006
+    second: ^Shelf2
+  - first:
+      213: 21300008
+    second: ^View_Mask
+  - first:
+      213: 21300010
+    second: ^Shelf3
+  - first:
+      213: 21300012
+    second: ^DoorLeft_0002
+  - first:
+      213: 21300014
+    second: ^ChairBack
+  - first:
+      213: 21300016
+    second: ^DoorLeft_0001
+  - first:
+      213: 21300018
+    second: ^BoxMask_2_Bathroom_Floor
+  - first:
+      213: 21300020
+    second: ^Pillow_Shadow3
+  - first:
+      213: 21300022
+    second: ^DoorLeft_Open
+  - first:
+      213: 21300024
+    second: ^DoorRight_Open
+  - first:
+      213: 21300026
+    second: ^Cupboards_RightShelf
+  - first:
+      213: 21300028
+    second: ^DrawerHousingFront
+  - first:
+      213: 21300030
+    second: ^BedsideDrawer_Mask
+  - first:
+      213: 21300032
+    second: ^ClosetFront
+  - first:
+      213: 21300034
+    second: +ToiletRollHolder_Hover
+  - first:
+      213: 21300036
+    second: ^FoldingDoor_Open
+  - first:
+      213: 21300038
+    second: ^TowelRack
+  - first:
+      213: 21300040
+    second: ^Hook
+  - first:
+      213: 21300042
+    second: ^ClosetTop
+  - first:
+      213: 21300044
+    second: ^SinkTop
+  - first:
+      213: 21300046
+    second: ^Cupboards_Right
+  - first:
+      213: 21300048
+    second: +BedsideDrawerFront
+  - first:
+      213: 21300050
+    second: ^BedsideTableBack
+  - first:
+      213: 21300052
+    second: ^DeskFront
+  - first:
+      213: 21300054
+    second: ^DoorRight_0002
+  - first:
+      213: 21300056
+    second: +CutleryDivider
+  - first:
+      213: 21300058
+    second: ^FoldingDoor_0002
+  - first:
+      213: 21300060
+    second: ^Bath_Back
+  - first:
+      213: 21300062
+    second: ^Shelf1
+  - first:
+      213: 21300064
+    second: ^SinkBottom
+  - first:
+      213: 21300066
+    second: ^SplashGuard
+  - first:
+      213: 21300068
+    second: ^ToiletHandle
+  - first:
+      213: 21300070
+    second: ^Microwave_Off_Flipped
+  - first:
+      213: 21300072
+    second: ^Bench_CupboardDoor_open
+  - first:
+      213: 21300074
+    second: ^Drawer_Mask
+  - first:
+      213: 21300076
+    second: ^Pillow5
+  - first:
+      213: 21300078
+    second: ^Pillow_Shadow
+  - first:
+      213: 21300080
+    second: ^BedsideTableFront
+  - first:
+      213: 21300082
+    second: ^DoorRight
+  - first:
+      213: 21300084
+    second: ^TowelRack_TowelPlaced
+  - first:
+      213: 21300086
+    second: +DrawerFront
+  - first:
+      213: 21300088
+    second: ^TowelRack_TowelHover
+  - first:
+      213: 21300090
+    second: +BedsideDrawerBack
+  - first:
+      213: 21300092
+    second: ^DoorRight_0001
+  - first:
+      213: 21300094
+    second: ^Bench_CupboardDoor_0002
+  - first:
+      213: 21300096
+    second: ^BoxMask_2_Kitchenette_Floor
+  - first:
+      213: 21300098
+    second: ^ClosetDoorTrack
+  - first:
+      213: 21300100
+    second: ^FoldingDoor_0004
+  - first:
+      213: 21300102
+    second: ^Bench_Top
+  - first:
+      213: 21300104
+    second: +DrawerBack
+  - first:
+      213: 21300106
+    second: ^Tap
+  - first:
+      213: 21300108
+    second: +ClosetDrawerFront
+  - first:
+      213: 21300110
+    second: ^Cupboards_Middle
+  - first:
+      213: 21300112
+    second: ^DoorStop
+  - first:
+      213: 21300114
+    second: ^BedFrontEnd
+  - first:
+      213: 21300116
+    second: ^Shelf1_Over
+  - first:
+      213: 21300118
+    second: ^Pillow
+  - first:
+      213: 21300120
+    second: ^ToiletHandle_0001
+  - first:
+      213: 21300122
+    second: ^Cupboards_LeftShelf
+  - first:
+      213: 21300124
+    second: ^Bench_CupboardAndBack
+  - first:
+      213: 21300126
+    second: ^ClosetShelfMiddle
+  - first:
+      213: 21300128
+    second: +ClosetDrawerBack
+  - first:
+      213: 21300130
+    second: ^BedsideTableTop
+  - first:
+      213: 21300132
+    second: ^DoorLeft
+  - first:
+      213: 21300134
+    second: ^DoorRight_0003
+  - first:
+      213: 21300136
+    second: ^SinkBottom
+  - first:
+      213: 21300138
+    second: ^SinkTop2
+  - first:
+      213: 21300140
+    second: ^Pillow3
+  - first:
+      213: 21300142
+    second: ^Toilet_1
+  - first:
+      213: 21300144
+    second: ^Toilet_0
+  - first:
+      213: 21300146
+    second: ^Shelf3_Over
+  - first:
+      213: 21300148
+    second: ^FoldingDoor_0003
+  - first:
+      213: 21300150
+    second: ^Bench_CupboardDoor_0001
+  - first:
+      213: 21300152
+    second: ^Bench_CupboardDoor_0003
+  - first:
+      213: 21300154
+    second: ^Hook
+  - first:
+      213: 21300156
+    second: ^Bench_CupboardShelf
+  - first:
+      213: 21300158
+    second: ^Cupboards_Left
+  - first:
+      213: 21300160
+    second: ^ClosetDrawer_Mask
+  - first:
+      213: 21300162
+    second: ^Pillow2
+  - first:
+      213: 21300164
+    second: +ToiletRollHolder_Placed
+  - first:
+      213: 21300166
+    second: ^BathTap
+  - first:
+      213: 21300168
+    second: ^Bench_CupboardDoor_0004
+  - first:
+      213: 21300170
+    second: ^Pillow_Shadow5
+  - first:
+      213: 21300172
+    second: ^ChairSeat
+  - first:
+      213: 21300174
+    second: ^ClosetShelfTop
+  - first:
+      213: 21300176
+    second: ^ToiletHandle_0002
+  - first:
+      213: 21300178
+    second: ^Pillow_Shadow2
+  - first:
+      213: 21300180
+    second: ^Clothesrack
+  - first:
+      213: 21300182
+    second: ^FoldingDoor_0005
+  - first:
+      213: 21300184
+    second: ^DeskBack
+  - first:
+      213: 21300186
+    second: ^Blind
+  - first:
+      213: 21300188
+    second: ^ToiletRollHolder
+  - first:
+      213: 21300190
+    second: ^Pillow_Shadow4
+  - first:
+      213: 21300192
+    second: ^Tap
+  - first:
+      213: 21300194
+    second: ^DoorLeft_0003
+  - first:
+      213: 21300196
+    second: ^Pillow4
+  - first:
+      213: 21300198
+    second: ^ClosetShelfBottom
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ^Shelf2_Over
+      rect:
+        serializedVersion: 2
+        x: 0.026733398
+        y: 0.07611084
+        width: 43.897156
+        height: 54.897156
+      alignment: 9
+      pivot: {x: -28.56799, y: -13.446093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -898.0021, y: -652.6008}
+        - {x: -905.0021, y: -652.6008}
+        - {x: -905.0021, y: -617.6008}
+        - {x: -872.0021, y: -597.6008}
+        - {x: -861.0021, y: -597.6008}
+        - {x: -861.0021, y: -603.6008}
+        - {x: -894.0021, y: -650.6008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367069c917c14f6f8fe19477389a012e
+      internalID: 21300000
+      vertices:
+      - {x: 425.94858, y: 195.44858}
+      - {x: 436.94858, y: 189.44858}
+      - {x: 436.94858, y: 195.44858}
+      - {x: 403.94858, y: 142.44858}
+      - {x: 399.94858, y: 140.44858}
+      - {x: 392.94858, y: 175.44858}
+      - {x: 392.94858, y: 140.44858}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bench_CupboardDoor
+      rect:
+        serializedVersion: 2
+        x: 249.07611
+        y: 1441.0267
+        width: 87.84778
+        height: 171.9465
+      alignment: 9
+      pivot: {x: -4.9648633, y: -1.2914106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -439.0761, y: -453.0268}
+        - {x: -518.0761, y: -414.0268}
+        - {x: -518.0761, y: -284.0268}
+        - {x: -517.0761, y: -281.0268}
+        - {x: -510.0761, y: -281.0268}
+        - {x: -430.0761, y: -317.0268}
+        - {x: -430.0761, y: -450.0268}
+        - {x: -434.0761, y: -453.0268}
+      physicsShape:
+      - - {x: -515.82324, y: -284.5313}
+        - {x: -515.5729, y: -412.26807}
+        - {x: -437.08514, y: -451.5287}
+        - {x: -436.83484, y: -324.28616}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f5c3fa2eb4484ca83c085aa0b6ca32
+      internalID: 21300002
+      vertices:
+      - {x: 93.92389, y: 76.97325}
+      - {x: 89.92389, y: -59.02675}
+      - {x: 93.92389, y: -56.02675}
+      - {x: 84.92389, y: -59.02675}
+      - {x: 13.923887, y: 112.97325}
+      - {x: 6.923889, y: 112.97325}
+      - {x: 5.923889, y: 109.97325}
+      - {x: 5.923889, y: -20.026741}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DrawerHousingBack
+      rect:
+        serializedVersion: 2
+        x: 341.0761
+        y: 1083.0276
+        width: 135.84775
+        height: 117.94568
+      alignment: 9
+      pivot: {x: 2.0305657, y: -0.74657345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.076096, y: -359.02795}
+        - {x: -186.0761, y: -335.02795}
+        - {x: -186.0761, y: -319.02795}
+        - {x: -128.0761, y: -241.02795}
+        - {x: -107.076096, y: -241.02795}
+        - {x: -50.076096, y: -271.02795}
+        - {x: -50.076096, y: -331.02795}
+        - {x: -58.076096, y: -335.02795}
+        - {x: -122.076096, y: -359.02795}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dec6b3b0d7479bac1cb81884513246
+      internalID: 21300004
+      vertices:
+      - {x: -190.07613, y: -65.02716}
+      - {x: -198.07613, y: -129.02716}
+      - {x: -190.07613, y: -125.02716}
+      - {x: -247.07613, y: -35.02716}
+      - {x: -262.0761, y: -153.02715}
+      - {x: -267.0761, y: -153.02715}
+      - {x: -268.0761, y: -35.02716}
+      - {x: -326.0761, y: -113.02716}
+      - {x: -326.0761, y: -129.02716}
+      indices: 080000000700000005000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Shelf2
+      rect:
+        serializedVersion: 2
+        x: 120.07611
+        y: 1258.0271
+        width: 157.84778
+        height: 118.946106
+      alignment: 9
+      pivot: {x: -6.5642495, y: -6.188133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -734.0762, y: -683.52734}
+        - {x: -853.0762, y: -633.52734}
+        - {x: -853.0762, y: -582.52734}
+        - {x: -846.0762, y: -564.52734}
+        - {x: -784.0762, y: -564.52734}
+        - {x: -695.0762, y: -605.52734}
+        - {x: -695.0762, y: -673.52734}
+        - {x: -726.0762, y: -683.52734}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f927ec3358344a1a61f1a92ec3c3e40
+      internalID: 21300006
+      vertices:
+      - {x: 498.92386, y: 249.47305}
+      - {x: 467.9239, y: 171.47305}
+      - {x: 498.92386, y: 181.47305}
+      - {x: 459.9239, y: 171.47305}
+      - {x: 409.9239, y: 290.47305}
+      - {x: 347.9239, y: 290.47305}
+      - {x: 340.9239, y: 272.47308}
+      - {x: 340.9239, y: 221.47305}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^View_Mask
+      rect:
+        serializedVersion: 2
+        x: 403.0761
+        y: 0.026977539
+        width: 215.84778
+        height: 292.94604
+      alignment: 9
+      pivot: {x: -1.1311315, y: -2.2736404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -484.0761, y: -735.527}
+        - {x: -486.0761, y: -733.527}
+        - {x: -486.0761, y: -548.527}
+        - {x: -277.0761, y: -442.52698}
+        - {x: -272.0761, y: -442.52698}
+        - {x: -270.0761, y: -443.52698}
+        - {x: -270.0761, y: -629.527}
+        - {x: -482.0761, y: -735.527}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1bf60091054b14a69574020fe16267
+      internalID: 21300008
+      vertices:
+      - {x: 187.92389, y: 516.473}
+      - {x: 189.92389, y: 329.47302}
+      - {x: 189.92389, y: 515.473}
+      - {x: 182.92389, y: 516.473}
+      - {x: -22.07611, y: 223.47302}
+      - {x: -24.07611, y: 223.47302}
+      - {x: -26.07611, y: 410.47302}
+      - {x: -26.07611, y: 225.47302}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Shelf3
+      rect:
+        serializedVersion: 2
+        x: 8.076111
+        y: 1542.0271
+        width: 157.84778
+        height: 118.946106
+      alignment: 9
+      pivot: {x: -6.5642495, y: -5.145644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -734.0762, y: -621.52734}
+        - {x: -853.0762, y: -571.52734}
+        - {x: -853.0762, y: -520.52734}
+        - {x: -846.0762, y: -502.52734}
+        - {x: -784.0762, y: -502.52734}
+        - {x: -695.0762, y: -543.52734}
+        - {x: -695.0762, y: -611.52734}
+        - {x: -726.0762, y: -621.52734}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff457c6ca17460da117ce37baeeff92
+      internalID: 21300010
+      vertices:
+      - {x: 498.92386, y: 187.47305}
+      - {x: 467.9239, y: 109.47305}
+      - {x: 498.92386, y: 119.47305}
+      - {x: 459.9239, y: 109.47305}
+      - {x: 409.9239, y: 228.47305}
+      - {x: 347.9239, y: 228.47305}
+      - {x: 340.9239, y: 210.47305}
+      - {x: 340.9239, y: 159.47305}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorLeft_0002
+      rect:
+        serializedVersion: 2
+        x: 813.0762
+        y: 952.0762
+        width: 19.847778
+        height: 106.897156
+      alignment: 9
+      pivot: {x: -26.106308, y: -3.6123714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -516.0761, y: -502.6008}
+        - {x: -525.0761, y: -480.6008}
+        - {x: -525.0761, y: -444.6008}
+        - {x: -517.0761, y: -395.6008}
+        - {x: -505.0761, y: -395.6008}
+        - {x: -505.0761, y: -502.6008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8009158eb7ce4f0ab7371b692e681327
+      internalID: 21300012
+      vertices:
+      - {x: 32.92389, y: 97.44858}
+      - {x: 21.92389, y: -9.551422}
+      - {x: 32.92389, y: -9.551422}
+      - {x: 20.92389, y: 97.44858}
+      - {x: 12.923889, y: 48.448578}
+      - {x: 12.923889, y: 12.448578}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ChairBack
+      rect:
+        serializedVersion: 2
+        x: 358.0761
+        y: 1309.0267
+        width: 80.84778
+        height: 135.89713
+      alignment: 9
+      pivot: {x: -4.504171, y: -1.8694547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -450.5761, y: -451.00208}
+        - {x: -478.5761, y: -416.00208}
+        - {x: -478.5761, y: -327.00208}
+        - {x: -442.5761, y: -315.00208}
+        - {x: -403.5761, y: -315.00208}
+        - {x: -397.5761, y: -326.00208}
+        - {x: -397.5761, y: -377.00208}
+        - {x: -412.5761, y: -432.00208}
+        - {x: -427.5761, y: -451.00208}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5ec971765744b4b1c955d895db7c14
+      internalID: 21300014
+      vertices:
+      - {x: 41.42389, y: 74.94856}
+      - {x: 47.42389, y: 12.948563}
+      - {x: 47.42389, y: 63.948563}
+      - {x: 32.42389, y: -42.051437}
+      - {x: 17.42389, y: -61.051437}
+      - {x: 2.4238892, y: 74.94856}
+      - {x: -5.576111, y: -61.051437}
+      - {x: -33.57611, y: 62.948563}
+      - {x: -33.57611, y: -26.051437}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorLeft_0001
+      rect:
+        serializedVersion: 2
+        x: 61.07611
+        y: 1860.0364
+        width: 33.84778
+        height: 104.94882
+      alignment: 9
+      pivot: {x: -15.899189, y: -3.7167885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -518.0761, y: -503.547}
+        - {x: -542.0761, y: -477.547}
+        - {x: -542.0761, y: -398.547}
+        - {x: -534.0761, y: -398.547}
+        - {x: -508.0761, y: -416.547}
+        - {x: -508.0761, y: -501.547}
+        - {x: -514.0761, y: -503.547}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3bce128554bd8b3309498b669ef66
+      internalID: 21300016
+      vertices:
+      - {x: 63.92389, y: 78.47441}
+      - {x: 57.92389, y: -8.525589}
+      - {x: 63.92389, y: -6.525585}
+      - {x: 53.92389, y: -8.525589}
+      - {x: 37.92389, y: 96.47441}
+      - {x: 29.92389, y: 96.47441}
+      - {x: 29.92389, y: 17.474411}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^BoxMask_2_Bathroom_Floor
+      rect:
+        serializedVersion: 2
+        x: 403.0761
+        y: 216.02673
+        width: 339.84778
+        height: 184.89714
+      alignment: 9
+      pivot: {x: -0.930276, y: 0.35666597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -538.0761, y: -315.50204}
+        - {x: -584.0761, y: -295.50204}
+        - {x: -584.0761, y: -130.50204}
+        - {x: -246.0761, y: -130.50204}
+        - {x: -244.07611, y: -132.50204}
+        - {x: -244.07611, y: -169.50204}
+        - {x: -536.0761, y: -315.50204}
+      physicsShape:
+      - - {x: -584.0761, y: -130.50204}
+        - {x: -584.0761, y: -295.50204}
+        - {x: -541.0761, y: -315.50204}
+        - {x: -536.0761, y: -315.50204}
+        - {x: -244.07613, y: -170.50204}
+        - {x: -244.07613, y: -132.50204}
+        - {x: -246.07613, y: -130.50204}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b19a16c2094c3b95b7092e5959fca1
+      internalID: 21300018
+      vertices:
+      - {x: 409.9239, y: -11.55143}
+      - {x: 411.9239, y: -50.55143}
+      - {x: 411.9239, y: -13.551422}
+      - {x: 119.92389, y: -196.55142}
+      - {x: 117.92389, y: -196.55142}
+      - {x: 71.92389, y: -11.55143}
+      - {x: 71.92389, y: -176.55142}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow_Shadow3
+      rect:
+        serializedVersion: 2
+        x: 602.0762
+        y: 1321.0762
+        width: 103.897156
+        height: 56.897156
+      alignment: 9
+      pivot: {x: -6.4309, y: -10.934681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -640.1008, y: -571.6008}
+        - {x: -642.1008, y: -566.6008}
+        - {x: -642.1008, y: -562.6008}
+        - {x: -597.1008, y: -538.6008}
+        - {x: -590.1008, y: -538.6008}
+        - {x: -539.1008, y: -560.6008}
+        - {x: -538.1008, y: -561.6008}
+        - {x: -538.1008, y: -585.6008}
+        - {x: -559.1008, y: -595.6008}
+        - {x: -609.1008, y: -595.6008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ae2bfb79b447390dd191b205d460d
+      internalID: 21300020
+      vertices:
+      - {x: 232.94858, y: 118.44858}
+      - {x: 233.94858, y: 93.44858}
+      - {x: 233.94858, y: 117.44858}
+      - {x: 212.94858, y: 83.44858}
+      - {x: 181.94858, y: 140.44858}
+      - {x: 174.94858, y: 140.44858}
+      - {x: 162.94858, y: 83.44858}
+      - {x: 131.94858, y: 107.44858}
+      - {x: 129.94858, y: 116.44858}
+      - {x: 129.94858, y: 112.44858}
+      indices: 090000000800000007000000050000000700000008000000060000000700000005000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorLeft_Open
+      rect:
+        serializedVersion: 2
+        x: 670.0719
+        y: 1020.02673
+        width: 48.85196
+        height: 99.9465
+      alignment: 9
+      pivot: {x: -9.541968, y: -4.0026765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -508.56982, y: -506.0268}
+        - {x: -513.5698, y: -503.0268}
+        - {x: -513.5698, y: -421.0268}
+        - {x: -479.56982, y: -406.0268}
+        - {x: -470.56982, y: -406.0268}
+        - {x: -464.56982, y: -411.0268}
+        - {x: -464.56982, y: -486.0268}
+        - {x: -504.56982, y: -506.0268}
+      physicsShape:
+      - - {x: -505.8427, y: -503.81415}
+        - {x: -505.8427, y: -427.12238}
+        - {x: -466.654, y: -407.10663}
+        - {x: -467.07538, y: -484.0091}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eb82711e2c4f5db3196687dcd8141a
+      internalID: 21300022
+      vertices:
+      - {x: 44.42598, y: 93.97325}
+      - {x: 50.42598, y: 13.973251}
+      - {x: 50.42598, y: 88.97325}
+      - {x: 35.42598, y: 93.97325}
+      - {x: 10.42598, y: -6.0267487}
+      - {x: 6.4259796, y: -6.0267487}
+      - {x: 1.4259796, y: 78.97325}
+      - {x: 1.4259796, y: -3.0267448}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorRight_Open
+      rect:
+        serializedVersion: 2
+        x: 933.0762
+        y: 0.07611084
+        width: 19.847778
+        height: 107.88098
+      alignment: 9
+      pivot: {x: -34.671497, y: -2.874948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -608.0761, y: -465.0927}
+        - {x: -610.0761, y: -464.0927}
+        - {x: -610.0761, y: -357.0927}
+        - {x: -596.0761, y: -357.0927}
+        - {x: -590.0761, y: -396.0927}
+        - {x: -590.0761, y: -451.0927}
+        - {x: -598.0761, y: -465.0927}
+      physicsShape:
+      - - {x: -609.0761, y: -463.0927}
+        - {x: -609.0761, y: -359.0927}
+        - {x: -598.0761, y: -359.0927}
+        - {x: -596.0761, y: -406.0927}
+        - {x: -590.0761, y: -409.0927}
+        - {x: -590.0761, y: -432.0927}
+        - {x: -596.0761, y: -435.0927}
+        - {x: -598.0761, y: -463.0927}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d881256c61a423b8b00c89a8f6394fd
+      internalID: 21300024
+      vertices:
+      - {x: 111.92389, y: 60.94049}
+      - {x: 117.9239, y: -33.05951}
+      - {x: 117.9239, y: 21.94049}
+      - {x: 109.92389, y: -47.05951}
+      - {x: 99.92389, y: -47.05951}
+      - {x: 97.92389, y: 60.94049}
+      - {x: 97.92389, y: -46.05951}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Cupboards_RightShelf
+      rect:
+        serializedVersion: 2
+        x: 418.07617
+        y: 1511.0269
+        width: 129.84778
+        height: 71.94653
+      alignment: 9
+      pivot: {x: -5.5153213, y: -9.952578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -600.0761, y: -650.02673}
+        - {x: -679.0761, y: -609.02673}
+        - {x: -679.0761, y: -601.02673}
+        - {x: -678.0761, y: -597.02673}
+        - {x: -633.0761, y: -578.02673}
+        - {x: -628.0761, y: -578.02673}
+        - {x: -549.0761, y: -619.02673}
+        - {x: -549.0761, y: -627.02673}
+        - {x: -550.0761, y: -631.02673}
+        - {x: -595.0761, y: -650.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0de395a7904dca8c8d4e2bb804423d
+      internalID: 21300026
+      vertices:
+      - {x: 296.9239, y: 168.97327}
+      - {x: 295.9239, y: 156.97327}
+      - {x: 296.9239, y: 160.97327}
+      - {x: 250.92389, y: 137.97327}
+      - {x: 245.92389, y: 137.97327}
+      - {x: 217.92389, y: 209.97327}
+      - {x: 212.92389, y: 209.97327}
+      - {x: 167.92389, y: 190.97327}
+      - {x: 166.92389, y: 186.97327}
+      - {x: 166.92389, y: 178.97327}
+      indices: 090000000800000004000000070000000400000008000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DrawerHousingFront
+      rect:
+        serializedVersion: 2
+        x: 137.07611
+        y: 1782.0269
+        width: 67.847755
+        height: 91.94647
+      alignment: 9
+      pivot: {x: 4.1835985, y: -0.7401429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.076096, y: -336.02676}
+        - {x: -148.0761, y: -306.02676}
+        - {x: -148.0761, y: -248.02676}
+        - {x: -142.0761, y: -244.02676}
+        - {x: -138.0761, y: -244.02676}
+        - {x: -80.076096, y: -274.02676}
+        - {x: -80.076096, y: -333.02676}
+        - {x: -86.076096, y: -336.02676}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df01b60dd7b241b98951e88758078928
+      internalID: 21300028
+      vertices:
+      - {x: -296.0761, y: -114.026764}
+      - {x: -302.0761, y: -176.02676}
+      - {x: -296.0761, y: -173.02676}
+      - {x: -307.0761, y: -176.02676}
+      - {x: -354.0761, y: -84.026764}
+      - {x: -358.0761, y: -84.026764}
+      - {x: -364.0761, y: -88.026764}
+      - {x: -364.0761, y: -146.02676}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^BedsideDrawer_Mask
+      rect:
+        serializedVersion: 2
+        x: 581.05005
+        y: 1474.0276
+        width: 111.87384
+        height: 77.94562
+      alignment: 9
+      pivot: {x: -8.331707, y: -6.9029574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -777.037, y: -515.0281}
+        - {x: -778.037, y: -512.0281}
+        - {x: -728.037, y: -486.02808}
+        - {x: -726.037, y: -486.02808}
+        - {x: -667.037, y: -515.0281}
+        - {x: -666.037, y: -517.0281}
+        - {x: -666.037, y: -538.0281}
+        - {x: -720.037, y: -564.0281}
+        - {x: -725.037, y: -564.0281}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302bc0463fd4685b6a81992a8a1a051
+      internalID: 21300030
+      vertices:
+      - {x: 376.93692, y: 100.97281}
+      - {x: 377.93692, y: 77.97281}
+      - {x: 377.93692, y: 98.97281}
+      - {x: 323.93692, y: 51.97281}
+      - {x: 318.93692, y: 51.97281}
+      - {x: 317.93692, y: 129.97281}
+      - {x: 315.93692, y: 129.97281}
+      - {x: 266.9369, y: 100.97281}
+      - {x: 265.9369, y: 103.97281}
+      indices: 080000000600000007000000040000000700000006000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ClosetFront
+      rect:
+        serializedVersion: 2
+        x: 906.0761
+        y: 401.02673
+        width: 60.847763
+        height: 428.89716
+      alignment: 9
+      pivot: {x: 6.275461, y: 0.074485265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.57608, y: -429.50208}
+        - {x: -95.57608, y: -426.50208}
+        - {x: -95.57608, y: -27.50206}
+        - {x: -93.57608, y: -25.50206}
+        - {x: -89.57611, y: -25.50206}
+        - {x: -35.57611, y: -52.50206}
+        - {x: -34.57611, y: -55.50206}
+        - {x: -34.57611, y: -450.50208}
+        - {x: -40.57611, y: -454.50208}
+        - {x: -42.57611, y: -454.50208}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b2d4b2f98445bbbe98f29376793750
+      internalID: 21300032
+      vertices:
+      - {x: -356.5761, y: 344.44858}
+      - {x: -355.5761, y: -53.551422}
+      - {x: -355.5761, y: 341.44858}
+      - {x: -361.5761, y: -57.551422}
+      - {x: -363.5761, y: -57.551422}
+      - {x: -410.5761, y: 371.44858}
+      - {x: -414.57608, y: 371.44858}
+      - {x: -414.57608, y: -32.551422}
+      - {x: -416.57608, y: 369.44858}
+      - {x: -416.57608, y: -29.551422}
+      indices: 090000000800000007000000060000000700000008000000040000000700000006000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: +ToiletRollHolder_Hover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 18
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -7.5}
+        - {x: -9, y: 7.5}
+        - {x: 9, y: 7.5}
+        - {x: 9, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb79acdda9064525a6368008bb9ebdef
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 19}
+      - {x: 18, y: 19}
+      - {x: 0, y: 4}
+      - {x: 18, y: 4}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^FoldingDoor_Open
+      rect:
+        serializedVersion: 2
+        x: 741.0761
+        y: 867.02673
+        width: 39.84778
+        height: 397.9465
+      alignment: 9
+      pivot: {x: -0.85706717, y: -0.3469148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -267.0761, y: -524.0268}
+        - {x: -293.0761, y: -524.0268}
+        - {x: -293.0761, y: -128.02681}
+        - {x: -289.0761, y: -126.02681}
+        - {x: -269.0761, y: -126.02681}
+        - {x: -253.07611, y: -136.0268}
+        - {x: -253.07611, y: -515.0268}
+      physicsShape:
+      - - {x: -275.0761, y: -127.02681}
+        - {x: -291.17468, y: -135.77283}
+        - {x: -291.0761, y: -510.0268}
+        - {x: -289.0761, y: -520.0268}
+        - {x: -270.73145, y: -522.4751}
+        - {x: -255.07611, y: -514.0268}
+        - {x: -255.07611, y: -140.02681}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78549c321028451bba26e97a21868685
+      internalID: 21300036
+      vertices:
+      - {x: -179.07611, y: 399.97327}
+      - {x: -193.07613, y: 11.973251}
+      - {x: -179.07611, y: 20.973251}
+      - {x: -195.07613, y: 409.97324}
+      - {x: -215.0761, y: 409.97324}
+      - {x: -219.07613, y: 407.97324}
+      - {x: -219.07613, y: 11.973251}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^TowelRack
+      rect:
+        serializedVersion: 2
+        x: 228.07611
+        y: 608.02673
+        width: 64.84778
+        height: 33.945557
+      alignment: 9
+      pivot: {x: -7.1267242, y: -21.5066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -511.5761, y: -638.02625}
+        - {x: -519.5761, y: -635.02625}
+        - {x: -519.5761, y: -621.02625}
+        - {x: -462.5761, y: -604.02625}
+        - {x: -455.5761, y: -604.02625}
+        - {x: -454.5761, y: -607.02625}
+        - {x: -454.5761, y: -613.02625}
+        - {x: -497.5761, y: -638.02625}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4c6a6efd6429baff1ee46785e6e57
+      internalID: 21300038
+      vertices:
+      - {x: 71.42389, y: 159.97278}
+      - {x: 72.42389, y: 150.97278}
+      - {x: 72.42389, y: 156.97278}
+      - {x: 64.42389, y: 159.97278}
+      - {x: 29.42389, y: 125.97278}
+      - {x: 15.423889, y: 125.97278}
+      - {x: 7.423889, y: 142.97278}
+      - {x: 7.423889, y: 128.97278}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Hook
+      rect:
+        serializedVersion: 2
+        x: 0.026763916
+        y: 562.02673
+        width: 24.946472
+        height: 32.897156
+      alignment: 9
+      pivot: {x: -9.221887, y: -23.407904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -379.5268, y: -657.5021}
+        - {x: -383.5268, y: -655.5021}
+        - {x: -383.5268, y: -640.5021}
+        - {x: -380.5268, y: -625.5021}
+        - {x: -375.5268, y: -624.5021}
+        - {x: -358.5268, y: -624.5021}
+        - {x: -358.5268, y: -651.5021}
+        - {x: -360.52676, y: -657.5021}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dfc1ca06294f1aa772c013574b6984
+      internalID: 21300040
+      vertices:
+      - {x: -103.526764, y: 178.44858}
+      - {x: -105.52676, y: 145.44858}
+      - {x: -103.526764, y: 151.44858}
+      - {x: -120.526764, y: 178.44858}
+      - {x: -124.526764, y: 145.44858}
+      - {x: -125.526764, y: 177.44858}
+      - {x: -128.52676, y: 162.44858}
+      - {x: -128.52676, y: 147.44858}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ClosetTop
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 252.02698
+        width: 248.84778
+        height: 153.94629
+      alignment: 9
+      pivot: {x: 1.5344633, y: -4.8332047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.57611, y: -705.0271}
+        - {x: -189.57608, y: -673.0271}
+        - {x: -189.57608, y: -631.0271}
+        - {x: -31.57611, y: -551.0271}
+        - {x: -24.57611, y: -551.0271}
+        - {x: 59.42389, y: -585.0271}
+        - {x: 59.42389, y: -608.0271}
+        - {x: 56.42389, y: -620.0271}
+        - {x: -127.57611, y: -705.0271}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300427ad1ee74f14a5461658feb39556
+      internalID: 21300042
+      vertices:
+      - {x: -73.57611, y: 312.97314}
+      - {x: -76.57611, y: 277.97314}
+      - {x: -73.57611, y: 289.97314}
+      - {x: -157.57611, y: 346.97314}
+      - {x: -164.57611, y: 346.97314}
+      - {x: -260.5761, y: 192.97314}
+      - {x: -266.5761, y: 192.97314}
+      - {x: -322.57608, y: 266.97314}
+      - {x: -322.57608, y: 224.97314}
+      indices: 080000000700000006000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^SinkTop
+      rect:
+        serializedVersion: 2
+        x: 548.0762
+        y: 1094.0267
+        width: 113.84778
+        height: 93.94653
+      alignment: 9
+      pivot: {x: -4.709378, y: -5.8762517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -556.0761, y: -579.02673}
+        - {x: -581.0761, y: -558.02673}
+        - {x: -581.0761, y: -517.02673}
+        - {x: -537.0761, y: -485.02673}
+        - {x: -526.0761, y: -485.02673}
+        - {x: -467.0761, y: -516.02673}
+        - {x: -467.0761, y: -539.02673}
+        - {x: -521.0761, y: -579.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c01fdacc064710967707f8880b56c1
+      internalID: 21300044
+      vertices:
+      - {x: 182.92389, y: 129.97327}
+      - {x: 128.92389, y: 66.97327}
+      - {x: 182.92389, y: 106.97327}
+      - {x: 123.92389, y: 160.97327}
+      - {x: 112.92389, y: 160.97327}
+      - {x: 93.92389, y: 66.97327}
+      - {x: 68.92389, y: 128.97327}
+      - {x: 68.92389, y: 87.97327}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Cupboards_Right
+      rect:
+        serializedVersion: 2
+        x: 0.07611084
+        y: 749.02673
+        width: 141.84778
+        height: 180.94653
+      alignment: 9
+      pivot: {x: -4.992339, y: -3.2388213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -594.0761, y: -639.52673}
+        - {x: -681.0761, y: -594.52673}
+        - {x: -681.0761, y: -483.52673}
+        - {x: -631.0761, y: -458.52673}
+        - {x: -627.0761, y: -458.52673}
+        - {x: -542.0761, y: -501.52673}
+        - {x: -539.0761, y: -591.52673}
+        - {x: -539.0761, y: -614.52673}
+        - {x: -589.0761, y: -639.52673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1f6718d8a442ad8695b99b1cfc5a6c
+      internalID: 21300046
+      vertices:
+      - {x: 307.9239, y: 265.47327}
+      - {x: 310.9239, y: 152.47327}
+      - {x: 310.9239, y: 175.47327}
+      - {x: 260.9239, y: 127.47327}
+      - {x: 255.92389, y: 127.47327}
+      - {x: 222.92389, y: 308.47327}
+      - {x: 218.92389, y: 308.47327}
+      - {x: 168.92389, y: 283.47327}
+      - {x: 168.92389, y: 172.47327}
+      indices: 080000000700000004000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: +BedsideDrawerFront
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 222
+        width: 102
+        height: 49
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0.41836736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -24.5}
+        - {x: -51, y: -0.5}
+        - {x: -51, y: 24.5}
+        - {x: 16, y: 24.5}
+        - {x: 51, y: 23.5}
+        - {x: 51, y: -5.5}
+        - {x: 7, y: -24.5}
+      physicsShape:
+      - - {x: -51, y: 1.9416251}
+        - {x: -51, y: 22.400229}
+        - {x: 2.185257, y: -4.1538963}
+        - {x: 2.064602, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a7784e6e34e2a93b359c03f702d55
+      internalID: 21300048
+      vertices:
+      - {x: 55, y: 53}
+      - {x: 90, y: 23}
+      - {x: 90, y: 52}
+      - {x: 46, y: 4}
+      - {x: 30, y: 4}
+      - {x: -12, y: 53}
+      - {x: -12, y: 28}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^BedsideTableBack
+      rect:
+        serializedVersion: 2
+        x: 559.0762
+        y: 931.0276
+        width: 111.84778
+        height: 116.94562
+      alignment: 9
+      pivot: {x: -8.298352, y: -3.5576818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -750.0762, y: -522.5281}
+        - {x: -776.0762, y: -513.5281}
+        - {x: -776.0762, y: -431.5281}
+        - {x: -724.0762, y: -405.5281}
+        - {x: -719.0762, y: -405.5281}
+        - {x: -664.0762, y: -434.5281}
+        - {x: -664.0762, y: -497.5281}
+        - {x: -701.0762, y: -522.5281}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3e9c1ea66a4881a51260245a442acf
+      internalID: 21300050
+      vertices:
+      - {x: 375.9239, y: 98.47281}
+      - {x: 338.9239, y: 10.472809}
+      - {x: 375.9239, y: 35.47281}
+      - {x: 320.9239, y: 127.47281}
+      - {x: 315.9239, y: 127.47281}
+      - {x: 289.9239, y: 10.472809}
+      - {x: 263.9239, y: 101.47281}
+      - {x: 263.9239, y: 19.472809}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DeskFront
+      rect:
+        serializedVersion: 2
+        x: 282.0761
+        y: 449.02673
+        width: 251.84776
+        height: 246.9465
+      alignment: 9
+      pivot: {x: 0.22175208, y: -0.6238336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -347.0761, y: -296.5268}
+        - {x: -354.0761, y: -291.5268}
+        - {x: -354.0761, y: -282.5268}
+        - {x: -208.07611, y: -209.5268}
+        - {x: -206.07611, y: -209.5268}
+        - {x: -103.07612, y: -260.5268}
+        - {x: -102.07612, y: -262.5268}
+        - {x: -102.07612, y: -270.5268}
+        - {x: -242.07611, y: -452.5268}
+        - {x: -246.07611, y: -456.5268}
+        - {x: -250.07611, y: -456.5268}
+        - {x: -345.0761, y: -410.5268}
+        - {x: -346.0761, y: -407.5268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f67f4ea6d844f2b3903533bb9c3d1a
+      internalID: 21300052
+      vertices:
+      - {x: 92.92388, y: 140.47325}
+      - {x: 93.92388, y: 130.47325}
+      - {x: 93.92388, y: 138.47325}
+      - {x: -10.076118, y: 191.47325}
+      - {x: -12.076118, y: 191.47325}
+      - {x: -46.07612, y: -51.52675}
+      - {x: -50.07612, y: -55.52675}
+      - {x: -54.07612, y: -55.52675}
+      - {x: -149.07611, y: -9.526749}
+      - {x: -150.07611, y: -6.5267487}
+      - {x: -151.07611, y: 104.47325}
+      - {x: -158.07611, y: 118.47325}
+      - {x: -158.07611, y: 109.47325}
+      indices: 0c0000000b0000000a000000040000000a0000000b000000090000000a00000004000000080000000900000004000000070000000800000004000000060000000700000004000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorRight_0002
+      rect:
+        serializedVersion: 2
+        x: 621.0762
+        y: 99.07611
+        width: 60.84778
+        height: 85.89191
+      alignment: 9
+      pivot: {x: -9.69883, y: -4.1930866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -522.5761, y: -479.09814}
+        - {x: -581.5761, y: -479.09814}
+        - {x: -581.5761, y: -393.09814}
+        - {x: -520.5761, y: -393.09814}
+        - {x: -520.5761, y: -476.09814}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182963fab10a41adb734ffecd52a78b6
+      internalID: 21300054
+      vertices:
+      - {x: 130.42389, y: 52.945953}
+      - {x: 128.42389, y: -33.054047}
+      - {x: 130.42389, y: -30.054047}
+      - {x: 69.42389, y: 52.945953}
+      - {x: 69.42389, y: -33.054047}
+      indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: +CutleryDivider
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1504
+        width: 128
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5234375, y: 0.1985294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -34}
+        - {x: -64, y: -6}
+        - {x: -64, y: 5.999998}
+        - {x: -2, y: 34}
+        - {x: 15, y: 34}
+        - {x: 64, y: 5.999998}
+        - {x: 64, y: -3}
+        - {x: 2, y: -34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41d052870a0428599da0f46504f9907
+      internalID: 21300056
+      vertices:
+      - {x: 76, y: 88.5}
+      - {x: 125, y: 51.5}
+      - {x: 125, y: 60.5}
+      - {x: 63, y: 20.5}
+      - {x: 59, y: 88.5}
+      - {x: 53, y: 20.5}
+      - {x: -3, y: 60.5}
+      - {x: -3, y: 48.5}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^FoldingDoor_0002
+      rect:
+        serializedVersion: 2
+        x: 258.0761
+        y: 0.0362854
+        width: 142.84776
+        height: 446.8876
+      alignment: 9
+      pivot: {x: 1.3150207, y: -0.06281797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -232.57611, y: -493.51636}
+        - {x: -233.57611, y: -490.5164}
+        - {x: -233.57611, y: -111.51637}
+        - {x: -210.57611, y: -91.51637}
+        - {x: -179.57611, y: -94.51637}
+        - {x: -179.57611, y: -82.51637}
+        - {x: -175.57611, y: -78.51637}
+        - {x: -146.57611, y: -66.51637}
+        - {x: -142.57611, y: -62.516373}
+        - {x: -113.57612, y: -50.516373}
+        - {x: -109.57612, y: -46.516373}
+        - {x: -92.5761, y: -46.516373}
+        - {x: -90.57612, y: -48.516373}
+        - {x: -90.57612, y: -424.51636}
+        - {x: -107.57612, y: -445.51636}
+        - {x: -136.57611, y: -444.51636}
+        - {x: -140.57611, y: -461.51636}
+        - {x: -169.57611, y: -460.51636}
+        - {x: -173.57611, y: -477.51636}
+        - {x: -202.57611, y: -476.51636}
+        - {x: -206.57611, y: -493.51636}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3800782e78d497da6e137c4387d0dfd
+      internalID: 21300058
+      vertices:
+      - {x: -137.57611, y: 428.4438}
+      - {x: -135.57611, y: 50.4438}
+      - {x: -135.57611, y: 426.4438}
+      - {x: -152.57611, y: 29.443802}
+      - {x: -154.57611, y: 428.4438}
+      - {x: -158.57611, y: 424.4438}
+      - {x: -181.57611, y: 30.443802}
+      - {x: -185.57611, y: 13.443817}
+      - {x: -187.57611, y: 412.4438}
+      - {x: -191.57611, y: 408.4438}
+      - {x: -214.57611, y: 14.443817}
+      - {x: -218.57611, y: -2.5561981}
+      - {x: -220.57611, y: 396.4438}
+      - {x: -224.57611, y: 392.4438}
+      - {x: -224.57611, y: 380.4438}
+      - {x: -247.57611, y: -1.5561981}
+      - {x: -251.57611, y: -18.556198}
+      - {x: -255.57611, y: 383.4438}
+      - {x: -277.5761, y: -18.556198}
+      - {x: -278.5761, y: 363.4438}
+      - {x: -278.5761, y: -15.556213}
+      indices: 1400000013000000120000001100000012000000130000001000000012000000110000000e00000010000000110000000f000000100000000e0000000b0000000f0000000e0000000d0000000b0000000e0000000c0000000b0000000d000000090000000b0000000c0000000a0000000b00000009000000070000000a00000009000000080000000700000009000000050000000700000008000000060000000700000005000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bath_Back
+      rect:
+        serializedVersion: 2
+        x: 382.0761
+        y: 620.0761
+        width: 323.84778
+        height: 159.89713
+      alignment: 9
+      pivot: {x: 0.12304473, y: -0.95156324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -193.07613, y: -411.10077}
+        - {x: -398.0761, y: -307.10077}
+        - {x: -398.0761, y: -303.10077}
+        - {x: -296.0761, y: -252.10078}
+        - {x: -290.0761, y: -252.10078}
+        - {x: -75.076126, y: -359.10077}
+        - {x: -74.076126, y: -361.10077}
+        - {x: -74.076126, y: -365.10077}
+        - {x: -170.07613, y: -412.10077}
+        - {x: -185.07613, y: -412.10077}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7164c796ea5d45f09b8d327f66db98d3
+      internalID: 21300060
+      vertices:
+      - {x: 208.92389, y: -47.051437}
+      - {x: 209.92389, y: -53.051437}
+      - {x: 209.92389, y: -49.051437}
+      - {x: 113.92389, y: -100.05144}
+      - {x: 98.92389, y: -100.05144}
+      - {x: 90.92389, y: -99.05144}
+      - {x: -6.076111, y: 59.948563}
+      - {x: -12.076111, y: 59.948563}
+      - {x: -114.07611, y: 8.948563}
+      - {x: -114.07611, y: 4.9485626}
+      indices: 090000000800000005000000070000000500000008000000060000000500000007000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Shelf1
+      rect:
+        serializedVersion: 2
+        x: 275.07617
+        y: 984.0271
+        width: 157.84778
+        height: 118.946106
+      alignment: 9
+      pivot: {x: -6.5642495, y: -7.230622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -734.0762, y: -745.52734}
+        - {x: -853.0762, y: -695.52734}
+        - {x: -853.0762, y: -644.52734}
+        - {x: -846.0762, y: -626.52734}
+        - {x: -784.0762, y: -626.52734}
+        - {x: -695.0762, y: -667.52734}
+        - {x: -695.0762, y: -735.52734}
+        - {x: -726.0762, y: -745.52734}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee547c9ea946debbd825895de76bbd
+      internalID: 21300062
+      vertices:
+      - {x: 498.92386, y: 311.47305}
+      - {x: 467.9239, y: 233.47305}
+      - {x: 498.92386, y: 243.47305}
+      - {x: 459.9239, y: 233.47305}
+      - {x: 409.9239, y: 352.47305}
+      - {x: 347.9239, y: 352.47305}
+      - {x: 340.9239, y: 334.47305}
+      - {x: 340.9239, y: 283.47305}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^SinkBottom
+      rect:
+        serializedVersion: 2
+        x: 621.02673
+        y: 187.07611
+        width: 103.897156
+        height: 48.895874
+      alignment: 9
+      pivot: {x: -4.928465, y: -9.247247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -530.0021, y: -506.60016}
+        - {x: -564.0021, y: -489.60016}
+        - {x: -564.0021, y: -466.60016}
+        - {x: -559.0021, y: -457.60016}
+        - {x: -460.00208, y: -457.60016}
+        - {x: -460.00208, y: -484.60016}
+        - {x: -499.00208, y: -506.60016}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e7d79e46d4a458d1c55123d154f9f
+      internalID: 21300064
+      vertices:
+      - {x: 155.94858, y: 43.447937}
+      - {x: 116.94858, y: -5.552065}
+      - {x: 155.94858, y: 16.447937}
+      - {x: 85.94858, y: -5.552065}
+      - {x: 56.948578, y: 43.447937}
+      - {x: 51.948578, y: 34.447937}
+      - {x: 51.948578, y: 11.447937}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^SplashGuard
+      rect:
+        serializedVersion: 2
+        x: 68.07611
+        y: 1031.0267
+        width: 104.84778
+        height: 224.9465
+      alignment: 9
+      pivot: {x: -1.4893231, y: -1.6095095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -290.5761, y: -549.5268}
+        - {x: -386.5761, y: -499.5268}
+        - {x: -386.5761, y: -327.5268}
+        - {x: -384.5761, y: -324.5268}
+        - {x: -380.5761, y: -324.5268}
+        - {x: -292.5761, y: -365.5268}
+        - {x: -281.5761, y: -381.5268}
+        - {x: -281.5761, y: -547.5268}
+        - {x: -284.5761, y: -549.5268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2609295832745f29e8086c9d5d253ca
+      internalID: 21300066
+      vertices:
+      - {x: -20.57611, y: 205.47325}
+      - {x: -23.57611, y: 37.47325}
+      - {x: -20.57611, y: 39.47325}
+      - {x: -29.57611, y: 37.47325}
+      - {x: -31.57611, y: 221.47325}
+      - {x: -119.57611, y: 262.47327}
+      - {x: -123.57611, y: 262.47327}
+      - {x: -125.57611, y: 259.47327}
+      - {x: -125.57611, y: 87.47325}
+      indices: 080000000700000003000000060000000300000007000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ToiletHandle
+      rect:
+        serializedVersion: 2
+        x: 0.059753418
+        y: 233.031
+        width: 29.864136
+        height: 23.94223
+      alignment: 9
+      pivot: {x: -30.475334, y: -18.714296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -721.0516, y: -485.03308}
+        - {x: -726.0516, y: -478.03308}
+        - {x: -726.0516, y: -473.03308}
+        - {x: -720.0516, y: -468.03308}
+        - {x: -715.0516, y: -468.03308}
+        - {x: -713.0516, y: -469.03308}
+        - {x: -696.0516, y: -480.03308}
+        - {x: -696.0516, y: -487.03308}
+        - {x: -700.0516, y: -492.03308}
+        - {x: -704.0516, y: -492.03308}
+      physicsShape:
+      - - {x: -723.3826, y: -480.64365}
+        - {x: -725.46216, y: -473.9028}
+        - {x: -718.0918, y: -468.792}
+        - {x: -696.7165, y: -480.85526}
+        - {x: -699.891, y: -489.10907}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df692197b054fe4956f2be4457c1681
+      internalID: 21300068
+      vertices:
+      - {x: 243.93207, y: -8.028885}
+      - {x: 239.93207, y: -20.028885}
+      - {x: 243.93207, y: -15.028887}
+      - {x: 235.93207, y: -20.028885}
+      - {x: 226.93205, y: 2.971115}
+      - {x: 224.93205, y: 3.971115}
+      - {x: 219.93207, y: 3.971115}
+      - {x: 218.93207, y: -13.028885}
+      - {x: 213.93207, y: -1.0288849}
+      - {x: 213.93207, y: -6.028885}
+      indices: 090000000800000007000000060000000700000008000000030000000700000006000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Microwave_Off_Flipped
+      rect:
+        serializedVersion: 2
+        x: 292.0761
+        y: 1188.0267
+        width: 111.84778
+        height: 103.94653
+      alignment: 9
+      pivot: {x: -6.563852, y: -5.9843597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -611.0761, y: -619.02673}
+        - {x: -679.0761, y: -584.02673}
+        - {x: -679.0761, y: -534.02673}
+        - {x: -646.0761, y: -515.02673}
+        - {x: -635.0761, y: -515.02673}
+        - {x: -567.0761, y: -550.02673}
+        - {x: -567.0761, y: -600.02673}
+        - {x: -600.0761, y: -619.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f6a88b42d4c0298a2a2b40e28922a
+      internalID: 21300070
+      vertices:
+      - {x: 278.9239, y: 175.97327}
+      - {x: 245.92389, y: 106.97327}
+      - {x: 278.9239, y: 125.97327}
+      - {x: 234.92389, y: 106.97327}
+      - {x: 210.92389, y: 210.97327}
+      - {x: 199.92389, y: 210.97327}
+      - {x: 166.92389, y: 191.97327}
+      - {x: 166.92389, y: 141.97327}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bench_CupboardDoor_open
+      rect:
+        serializedVersion: 2
+        x: 522.0761
+        y: 1326.0267
+        width: 86.84778
+        height: 169.9465
+      alignment: 9
+      pivot: {x: -3.2027557, y: -1.3183768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -433.5761, y: -453.0268}
+        - {x: -438.5761, y: -451.0268}
+        - {x: -438.5761, y: -321.0268}
+        - {x: -368.5761, y: -283.0268}
+        - {x: -356.5761, y: -283.0268}
+        - {x: -351.5761, y: -285.0268}
+        - {x: -351.5761, y: -416.0268}
+        - {x: -424.5761, y: -453.0268}
+      physicsShape:
+      - - {x: -431.52103, y: -322.58084}
+        - {x: -432.14783, y: -450.06216}
+        - {x: -353.3443, y: -410.52576}
+        - {x: -353.5761, y: -283.25684}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f894982e12b432796b59fe5ea3a5cea
+      internalID: 21300072
+      vertices:
+      - {x: 8.423889, y: 110.97325}
+      - {x: 13.423887, y: -22.026756}
+      - {x: 13.423887, y: 108.97325}
+      - {x: -3.5761108, y: 110.97325}
+      - {x: -59.57611, y: -59.02675}
+      - {x: -68.57611, y: -59.02675}
+      - {x: -73.5761, y: 72.97325}
+      - {x: -73.5761, y: -57.02675}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Drawer_Mask
+      rect:
+        serializedVersion: 2
+        x: 0.07611084
+        y: 1434.0273
+        width: 155.84778
+        height: 123.94595
+      alignment: 9
+      pivot: {x: -1.8232677, y: -3.77628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -414.0761, y: -552.0276}
+        - {x: -476.0761, y: -473.0276}
+        - {x: -476.0761, y: -456.0276}
+        - {x: -399.0761, y: -428.0276}
+        - {x: -393.0761, y: -428.0276}
+        - {x: -320.0761, y: -466.0276}
+        - {x: -320.0761, y: -511.0276}
+        - {x: -378.0761, y: -552.0276}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6369e49a60747c5916a007ba1e6813c
+      internalID: 21300074
+      vertices:
+      - {x: 119.92389, y: 125.97298}
+      - {x: 61.92389, y: 39.972977}
+      - {x: 119.92389, y: 80.97298}
+      - {x: 46.92389, y: 163.97298}
+      - {x: 40.92389, y: 163.97298}
+      - {x: 25.92389, y: 39.972977}
+      - {x: -36.07611, y: 135.97298}
+      - {x: -36.07611, y: 118.97298}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow5
+      rect:
+        serializedVersion: 2
+        x: 646.0762
+        y: 1866.0269
+        width: 93.84778
+        height: 77.94653
+      alignment: 9
+      pivot: {x: -6.949043, y: -8.365394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -617.0761, y: -621.0267}
+        - {x: -629.0761, y: -608.0267}
+        - {x: -629.0761, y: -559.0267}
+        - {x: -585.0761, y: -543.0267}
+        - {x: -558.0761, y: -543.0267}
+        - {x: -535.0761, y: -557.0267}
+        - {x: -535.0761, y: -608.0267}
+        - {x: -574.0761, y: -621.0267}
+      physicsShape:
+      - - {x: -581.0761, y: -618.0267}
+        - {x: -597.0761, y: -619.0267}
+        - {x: -612.0761, y: -612.0267}
+        - {x: -622.0761, y: -600.0267}
+        - {x: -613.0761, y: -590.0267}
+        - {x: -627.0761, y: -575.0267}
+        - {x: -626.0761, y: -569.0267}
+        - {x: -616.0761, y: -564.0267}
+        - {x: -597.0761, y: -553.0267}
+        - {x: -576.0761, y: -545.0267}
+        - {x: -554.0761, y: -553.0267}
+        - {x: -542.0761, y: -563.0267}
+        - {x: -537.0761, y: -573.0267}
+        - {x: -538.0761, y: -590.0267}
+        - {x: -544.0761, y: -600.0267}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569e47050ff344c996a6f1bc49e1c843
+      internalID: 21300076
+      vertices:
+      - {x: 187.92389, y: 186.97327}
+      - {x: 210.92389, y: 121.97327}
+      - {x: 210.92389, y: 172.97327}
+      - {x: 171.92389, y: 108.97327}
+      - {x: 160.92389, y: 186.97327}
+      - {x: 128.92389, y: 108.97327}
+      - {x: 116.92389, y: 170.97327}
+      - {x: 116.92389, y: 121.97327}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow_Shadow
+      rect:
+        serializedVersion: 2
+        x: 389.0761
+        y: 1706.032
+        width: 127.84778
+        height: 65.941284
+      alignment: 9
+      pivot: {x: -5.273085, y: -9.069644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -653.0761, y: -556.0346}
+        - {x: -657.0761, y: -550.0346}
+        - {x: -657.0761, y: -546.0346}
+        - {x: -615.0761, y: -522.0346}
+        - {x: -602.0761, y: -522.0346}
+        - {x: -529.0761, y: -555.0346}
+        - {x: -529.0761, y: -568.0346}
+        - {x: -530.0761, y: -569.0346}
+        - {x: -575.0761, y: -588.0346}
+        - {x: -589.0761, y: -588.0346}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db23e8d230044478309d64283a439f2
+      internalID: 21300078
+      vertices:
+      - {x: 272.9239, y: 108.97064}
+      - {x: 271.9239, y: 94.97064}
+      - {x: 272.9239, y: 95.97064}
+      - {x: 226.92389, y: 75.97064}
+      - {x: 212.92389, y: 75.97064}
+      - {x: 199.92389, y: 141.97064}
+      - {x: 186.92389, y: 141.97064}
+      - {x: 148.92389, y: 107.97064}
+      - {x: 144.92389, y: 117.97064}
+      - {x: 144.92389, y: 113.97064}
+      indices: 090000000800000007000000060000000700000008000000040000000700000006000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^BedsideTableFront
+      rect:
+        serializedVersion: 2
+        x: 170.07611
+        y: 1099.0267
+        width: 119.84778
+        height: 161.94577
+      alignment: 9
+      pivot: {x: -7.71105, y: -2.3961942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -720.0761, y: -530.0264}
+        - {x: -778.0761, y: -420.02643}
+        - {x: -778.0761, y: -378.02643}
+        - {x: -733.0761, y: -369.02643}
+        - {x: -724.0761, y: -369.02643}
+        - {x: -658.0761, y: -401.02643}
+        - {x: -658.0761, y: -438.02643}
+        - {x: -660.0761, y: -505.02643}
+        - {x: -710.0761, y: -531.0264}
+        - {x: -716.0761, y: -531.0264}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ab2446b7d64149b96cc620d5bcc734
+      internalID: 21300080
+      vertices:
+      - {x: 385.9239, y: 148.97289}
+      - {x: 383.9239, y: 44.972885}
+      - {x: 385.9239, y: 111.972885}
+      - {x: 333.9239, y: 18.972885}
+      - {x: 327.9239, y: 18.972885}
+      - {x: 323.9239, y: 19.972885}
+      - {x: 319.9239, y: 180.97289}
+      - {x: 310.9239, y: 180.97289}
+      - {x: 265.9239, y: 171.97289}
+      - {x: 265.9239, y: 129.97289}
+      indices: 090000000800000005000000070000000500000008000000060000000500000007000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorRight
+      rect:
+        serializedVersion: 2
+        x: 324.0761
+        y: 1766.0269
+        width: 50.84778
+        height: 103.9465
+      alignment: 9
+      pivot: {x: -11.999585, y: -3.463835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -566.5761, y: -488.0268}
+        - {x: -586.5761, y: -466.0268}
+        - {x: -586.5761, y: -390.0268}
+        - {x: -585.5761, y: -387.0268}
+        - {x: -579.5761, y: -384.0268}
+        - {x: -573.5761, y: -384.0268}
+        - {x: -535.5761, y: -405.0268}
+        - {x: -535.5761, y: -484.0268}
+        - {x: -536.5761, y: -488.0268}
+      physicsShape:
+      - - {x: -581.99005, y: -465.71408}
+        - {x: -582.1674, y: -388.3958}
+        - {x: -542.79895, y: -408.61206}
+        - {x: -542.79895, y: -485.57562}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8323c3b9f140cb88eea767d2463b0e
+      internalID: 21300082
+      vertices:
+      - {x: 125.42389, y: 58.97325}
+      - {x: 124.42389, y: -24.026749}
+      - {x: 125.42389, y: -20.026749}
+      - {x: 94.42389, y: -24.026749}
+      - {x: 87.42389, y: 79.97325}
+      - {x: 81.42389, y: 79.97325}
+      - {x: 75.42389, y: 76.97325}
+      - {x: 74.42389, y: 73.97325}
+      - {x: 74.42389, y: -2.0267525}
+      indices: 080000000700000003000000060000000300000007000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^TowelRack_TowelPlaced
+      rect:
+        serializedVersion: 2
+        x: 136.07611
+        y: 273.03625
+        width: 10.847778
+        height: 10.920837
+      alignment: 9
+      pivot: {x: -45.368942, y: -67.76701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -504.5761, y: -631.53296}
+        - {x: -507.5761, y: -630.53296}
+        - {x: -507.5761, y: -621.53296}
+        - {x: -504.5761, y: -620.53296}
+        - {x: -497.5761, y: -620.53296}
+        - {x: -496.5761, y: -623.53296}
+        - {x: -496.5761, y: -627.53296}
+        - {x: -500.5761, y: -631.53296}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae067d2b03c4edfba157080186fa7d5
+      internalID: 21300084
+      vertices:
+      - {x: 5.423889, y: 130.46042}
+      - {x: 6.423889, y: 123.46041}
+      - {x: 6.423889, y: 127.46042}
+      - {x: 2.4238892, y: 119.46042}
+      - {x: -1.5761108, y: 130.46042}
+      - {x: -1.5761108, y: 119.46042}
+      - {x: -4.576111, y: 129.46042}
+      - {x: -4.576111, y: 120.46042}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: +DrawerFront
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1625
+        width: 146
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5273973, y: 0.35964912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -28.5}
+        - {x: -73, y: 0.5}
+        - {x: -73, y: 28.5}
+        - {x: 73, y: 28.5}
+        - {x: 73, y: 7.5}
+        - {x: 8, y: -28.5}
+      physicsShape:
+      - - {x: -73, y: 6.5147133}
+        - {x: -73, y: 26.234924}
+        - {x: -4.108382, y: -8.158066}
+        - {x: -4.1083755, y: -28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24140911a24434587ee0d9b59ba568e
+      internalID: 21300086
+      vertices:
+      - {x: 142, y: 65}
+      - {x: 77, y: 8}
+      - {x: 142, y: 44}
+      - {x: 60, y: 8}
+      - {x: -4, y: 65}
+      - {x: -4, y: 37}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^TowelRack_TowelHover
+      rect:
+        serializedVersion: 2
+        x: 81.07611
+        y: 0.036254883
+        width: 10.847778
+        height: 12.950806
+      alignment: 9
+      pivot: {x: -45.368942, y: -57.1449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -506.5761, y: -632.5479}
+        - {x: -507.5761, y: -629.5479}
+        - {x: -507.5761, y: -623.5479}
+        - {x: -498.5761, y: -619.5479}
+        - {x: -496.5761, y: -621.5479}
+        - {x: -496.5761, y: -630.5479}
+        - {x: -502.5761, y: -632.5479}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f75a4ea9a16454192147a7e16ed2dfa
+      internalID: 21300088
+      vertices:
+      - {x: 4.423889, y: 133.4754}
+      - {x: 6.423889, y: 122.4754}
+      - {x: 6.423889, y: 131.4754}
+      - {x: 0.42388916, y: 120.4754}
+      - {x: -3.5761108, y: 120.4754}
+      - {x: -4.576111, y: 129.4754}
+      - {x: -4.576111, y: 123.475395}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: +BedsideDrawerBack
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1861
+        width: 92
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6195652, y: 0.26271185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -29.5}
+        - {x: -45.999996, y: -7.4999995}
+        - {x: -45.999996, y: 10.499999}
+        - {x: -14, y: 29.5}
+        - {x: 2, y: 29.5}
+        - {x: 46, y: 10.499999}
+        - {x: 46, y: -13.5}
+        - {x: 8, y: -29.5}
+      physicsShape:
+      - - {x: 46, y: 4.783988}
+        - {x: -2.80439, y: 29.5}
+        - {x: -45.999996, y: 7.888133}
+        - {x: -45.999996, y: -5.3397655}
+        - {x: 2.7376518, y: -29.5}
+        - {x: 46, y: -8.183754}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e167b4d614bfeb5131134883cc2b8
+      internalID: 21300090
+      vertices:
+      - {x: 81, y: 54}
+      - {x: 43.000004, y: 14.000001}
+      - {x: 81, y: 30}
+      - {x: 37.000004, y: 73}
+      - {x: 27.000004, y: 14.000001}
+      - {x: 21.000004, y: 73}
+      - {x: -10.999992, y: 54}
+      - {x: -10.999992, y: 36}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorRight_0001
+      rect:
+        serializedVersion: 2
+        x: 606.0762
+        y: 0.07611084
+        width: 56.84778
+        height: 96.87256
+      alignment: 9
+      pivot: {x: -10.521998, y: -3.717794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -550.5761, y: -484.5885}
+        - {x: -583.5761, y: -476.5885}
+        - {x: -583.5761, y: -387.5885}
+        - {x: -562.5761, y: -387.5885}
+        - {x: -526.5761, y: -398.5885}
+        - {x: -526.5761, y: -482.5885}
+        - {x: -531.5761, y: -484.5885}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cf50245f2c4b73ad6f2d19cbb0f236
+      internalID: 21300092
+      vertices:
+      - {x: 128.42389, y: 58.43628}
+      - {x: 123.42389, y: -27.56372}
+      - {x: 128.42389, y: -25.56372}
+      - {x: 104.42389, y: -27.56372}
+      - {x: 92.42389, y: 69.43628}
+      - {x: 71.42389, y: 69.43628}
+      - {x: 71.42389, y: -19.56372}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bench_CupboardDoor_0002
+      rect:
+        serializedVersion: 2
+        x: 783.0762
+        y: 941.0762
+        width: 27.847778
+        height: 184.90582
+      alignment: 9
+      pivot: {x: -15.590193, y: -1.0391897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -478.0761, y: -440.60513}
+        - {x: -487.0761, y: -396.60513}
+        - {x: -487.0761, y: -260.60513}
+        - {x: -485.0761, y: -259.60513}
+        - {x: -476.0761, y: -261.60513}
+        - {x: -459.0761, y: -308.60513}
+        - {x: -459.0761, y: -444.60513}
+        - {x: -469.0761, y: -444.60513}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3611c19c8240ebb5e31b783230a0d4
+      internalID: 21300094
+      vertices:
+      - {x: 2.9238892, y: 68.45291}
+      - {x: -7.076111, y: -67.54709}
+      - {x: 2.9238892, y: -67.54709}
+      - {x: -14.076111, y: 115.45291}
+      - {x: -16.076113, y: -63.54709}
+      - {x: -23.07611, y: 117.45291}
+      - {x: -25.07611, y: 116.45291}
+      - {x: -25.07611, y: -19.547089}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^BoxMask_2_Kitchenette_Floor
+      rect:
+        serializedVersion: 2
+        x: 5.076126
+        y: 404.02673
+        width: 282.84778
+        height: 224.94649
+      alignment: 9
+      pivot: {x: 0.317654, y: 0.27538335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.57616, y: -143.52673}
+        - {x: -87.57616, y: -143.52673}
+        - {x: -90.57616, y: -155.52672}
+        - {x: -69.57616, y: -167.52672}
+        - {x: -69.57616, y: -335.52673}
+        - {x: -71.57616, y: -337.52673}
+        - {x: -73.57616, y: -337.52673}
+        - {x: -350.57617, y: -199.52673}
+        - {x: -352.57617, y: -196.52673}
+        - {x: -352.57617, y: -192.52673}
+        - {x: -194.57616, y: -112.526726}
+        - {x: -155.57616, y: -112.526726}
+        - {x: -140.57616, y: -114.526726}
+        - {x: -142.57616, y: -128.52673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b8dd7d5154ba793da0286c537cf13
+      internalID: 21300096
+      vertices:
+      - {x: 52.42389, y: 48.473244}
+      - {x: 37.42389, y: 50.473244}
+      - {x: 50.42389, y: 34.473244}
+      - {x: 123.42389, y: -4.5267487}
+      - {x: 121.42389, y: -174.52676}
+      - {x: 123.42389, y: -172.52676}
+      - {x: 119.42389, y: -174.52676}
+      - {x: 102.42389, y: 7.4732513}
+      - {x: 88.42389, y: 19.473244}
+      - {x: -1.5761108, y: 50.473244}
+      - {x: -157.57611, y: -36.526756}
+      - {x: -159.57611, y: -29.526756}
+      - {x: -159.57611, y: -33.526756}
+      - {x: 105.42389, y: 19.473244}
+      indices: 07000000080000000d0000000c0000000b0000000a000000090000000a0000000b000000060000000a00000009000000010000000600000009000000020000000600000001000000080000000600000002000000070000000600000008000000030000000600000007000000040000000600000003000000050000000400000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ClosetDoorTrack
+      rect:
+        serializedVersion: 2
+        x: 98.07611
+        y: 910.027
+        width: 205.84778
+        height: 110.94629
+      alignment: 9
+      pivot: {x: 1.5149435, y: -6.418006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -201.07614, y: -667.5271}
+        - {x: -203.07614, y: -666.5271}
+        - {x: -203.07614, y: -655.5271}
+        - {x: -5.0761566, y: -556.5271}
+        - {x: -1.0761261, y: -556.5271}
+        - {x: 2.9238586, y: -559.5271}
+        - {x: 2.9238586, y: -566.5271}
+        - {x: -196.07617, y: -667.5271}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a515c81a0fe14842a334f19a1ca491e3
+      internalID: 21300098
+      vertices:
+      - {x: -107.076096, y: 266.47314}
+      - {x: -103.07611, y: 256.47314}
+      - {x: -103.07611, y: 263.47314}
+      - {x: -111.076126, y: 266.47314}
+      - {x: -302.07614, y: 155.47314}
+      - {x: -307.0761, y: 155.47314}
+      - {x: -309.0761, y: 167.47314}
+      - {x: -309.0761, y: 156.47314}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^FoldingDoor_0004
+      rect:
+        serializedVersion: 2
+        x: 858.0762
+        y: 0.0362854
+        width: 72.84776
+        height: 416.94907
+      alignment: 9
+      pivot: {x: 0.65681857, y: -0.23521475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -252.57611, y: -513.5471}
+        - {x: -268.5761, y: -513.5471}
+        - {x: -268.5761, y: -134.54712}
+        - {x: -254.57611, y: -116.54712}
+        - {x: -240.57611, y: -107.54712}
+        - {x: -220.57611, y: -96.547134}
+        - {x: -205.57611, y: -96.547134}
+        - {x: -195.57611, y: -102.54712}
+        - {x: -195.57611, y: -483.54712}
+        - {x: -199.57611, y: -491.54712}
+        - {x: -226.57614, y: -506.54712}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8161fee58470422abacc1ec48a180987
+      internalID: 21300100
+      vertices:
+      - {x: -170.57611, y: 412.47455}
+      - {x: -174.57611, y: 23.474533}
+      - {x: -170.57611, y: 31.474533}
+      - {x: -180.57611, y: 418.47452}
+      - {x: -195.57611, y: 418.47452}
+      - {x: -201.57614, y: 8.474533}
+      - {x: -215.57611, y: 407.47455}
+      - {x: -227.57611, y: 1.4745331}
+      - {x: -229.57611, y: 398.47455}
+      - {x: -243.57611, y: 380.47455}
+      - {x: -243.57611, y: 1.4745331}
+      indices: 0a0000000900000007000000080000000700000009000000060000000700000008000000050000000700000006000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bench_Top
+      rect:
+        serializedVersion: 2
+        x: 477.0761
+        y: 403.0761
+        width: 247.84778
+        height: 200.89716
+      alignment: 9
+      pivot: {x: -1.1303399, y: -2.4895933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -403.0761, y: -598.6008}
+        - {x: -520.0761, y: -541.6008}
+        - {x: -520.0761, y: -531.6008}
+        - {x: -518.0761, y: -451.60083}
+        - {x: -426.0761, y: -405.60083}
+        - {x: -424.0761, y: -405.60083}
+        - {x: -273.0761, y: -480.60083}
+        - {x: -272.0761, y: -482.60083}
+        - {x: -272.0761, y: -562.6008}
+        - {x: -295.0761, y: -577.6008}
+        - {x: -305.0761, y: -591.6008}
+        - {x: -343.0761, y: -606.6008}
+        - {x: -357.0761, y: -606.6008}
+        - {x: -365.0761, y: -605.6008}
+        - {x: -391.0761, y: -590.6008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dd09255ff34ffea99657fdc9b1a2f4
+      internalID: 21300102
+      vertices:
+      - {x: 254.92389, y: 220.44858}
+      - {x: 255.92389, y: 138.44858}
+      - {x: 255.92389, y: 218.44858}
+      - {x: 232.92389, y: 123.44858}
+      - {x: 222.92389, y: 109.44858}
+      - {x: 184.92389, y: 94.44858}
+      - {x: 170.92389, y: 94.44858}
+      - {x: 162.92389, y: 95.44858}
+      - {x: 136.92389, y: 110.44858}
+      - {x: 124.92389, y: 102.44858}
+      - {x: 103.92389, y: 295.44858}
+      - {x: 101.92389, y: 295.44858}
+      - {x: 9.923889, y: 249.44858}
+      - {x: 7.923889, y: 169.44858}
+      - {x: 7.923889, y: 159.44858}
+      indices: 0e0000000d000000090000000c000000090000000d0000000b000000090000000c0000000a000000090000000b00000000000000090000000a000000080000000900000000000000070000000800000000000000060000000700000000000000050000000600000000000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: +DrawerBack
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1249
+        width: 136
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52205884, y: 0.19135803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -40.5}
+        - {x: -68, y: -10.5}
+        - {x: -68, y: 7.5}
+        - {x: -2, y: 40.5}
+        - {x: 8, y: 40.5}
+        - {x: 68, y: 10.5}
+        - {x: 68, y: -10.5}
+        - {x: 2, y: -40.5}
+      physicsShape:
+      - - {x: -2.8285217, y: -40.5}
+        - {x: -68, y: -7.986847}
+        - {x: -68, y: 4.8657303}
+        - {x: 2.9522476, y: 40.5}
+        - {x: 68, y: 7.708637}
+        - {x: 68, y: -4.6470547}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f19178ae9646bb924756d5e3be0ab9
+      internalID: 21300104
+      vertices:
+      - {x: 73, y: 106}
+      - {x: 133, y: 55}
+      - {x: 133, y: 76}
+      - {x: 67, y: 25}
+      - {x: 63, y: 106}
+      - {x: 50, y: 25}
+      - {x: -3, y: 73}
+      - {x: -3, y: 55}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Tap
+      rect:
+        serializedVersion: 2
+        x: 0.051330566
+        y: 466.02673
+        width: 45.87256
+        height: 37.946533
+      alignment: 9
+      pivot: {x: -13.387147, y: -15.549602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -566.03894, y: -570.02673}
+        - {x: -586.03894, y: -562.02673}
+        - {x: -586.03894, y: -551.02673}
+        - {x: -573.03894, y: -533.02673}
+        - {x: -566.03894, y: -532.02673}
+        - {x: -543.03894, y: -532.02673}
+        - {x: -540.03894, y: -536.02673}
+        - {x: -540.03894, y: -569.02673}
+        - {x: -543.03894, y: -570.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc203bff900e40a48494f0d3007b6d7b
+      internalID: 21300106
+      vertices:
+      - {x: 116.93628, y: 95.97327}
+      - {x: 119.93628, y: 58.973267}
+      - {x: 119.93628, y: 91.97327}
+      - {x: 116.93628, y: 57.973267}
+      - {x: 93.93628, y: 95.97327}
+      - {x: 93.93628, y: 57.973267}
+      - {x: 86.93628, y: 94.97327}
+      - {x: 73.93628, y: 76.97327}
+      - {x: 73.93628, y: 65.97327}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: +ClosetDrawerFront
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1817
+        width: 132
+        height: 57
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.37719297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -28.5}
+        - {x: -66, y: -2.5}
+        - {x: -66, y: 27.5}
+        - {x: -25, y: 28.5}
+        - {x: 66, y: 28.5}
+        - {x: 66, y: 3.5}
+        - {x: 9, y: -28.5}
+      physicsShape:
+      - - {x: -3.190483, y: -28.499998}
+        - {x: -3.4677505, y: -8.026207}
+        - {x: 66, y: 26.306606}
+        - {x: 66, y: 5.9907455}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcb6fb3da27450d9fec95c7bc33a802
+      internalID: 21300108
+      vertices:
+      - {x: 143, y: 64}
+      - {x: 86, y: 7}
+      - {x: 143, y: 39}
+      - {x: 69, y: 7}
+      - {x: 52, y: 64}
+      - {x: 11, y: 63}
+      - {x: 11, y: 33}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Cupboards_Middle
+      rect:
+        serializedVersion: 2
+        x: 144.07611
+        y: 772.02673
+        width: 139.84778
+        height: 179.94653
+      alignment: 9
+      pivot: {x: -3.8338273, y: -3.7458541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -508.0761, y: -683.02673}
+        - {x: -594.0761, y: -639.02673}
+        - {x: -594.0761, y: -528.02673}
+        - {x: -544.0761, y: -503.02673}
+        - {x: -540.0761, y: -503.02673}
+        - {x: -454.0761, y: -547.02673}
+        - {x: -454.0761, y: -658.02673}
+        - {x: -504.0761, y: -683.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db79d76e9f54b69a62f8dbed375c26a
+      internalID: 21300110
+      vertices:
+      - {x: 221.92389, y: 306.97327}
+      - {x: 171.92389, y: 170.97327}
+      - {x: 221.92389, y: 195.97327}
+      - {x: 167.92389, y: 170.97327}
+      - {x: 135.92389, y: 350.97327}
+      - {x: 131.92389, y: 350.97327}
+      - {x: 81.92389, y: 325.97327}
+      - {x: 81.92389, y: 214.97327}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorStop
+      rect:
+        serializedVersion: 2
+        x: 46.07611
+        y: 440.0761
+        width: 23.847778
+        height: 19.847778
+      alignment: 9
+      pivot: {x: -11.244328, y: -1.8214744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -399.0761, y: -284.0761}
+        - {x: -402.0761, y: -282.0761}
+        - {x: -402.0761, y: -269.0761}
+        - {x: -400.0761, y: -264.0761}
+        - {x: -384.0761, y: -264.0761}
+        - {x: -378.0761, y: -267.0761}
+        - {x: -378.0761, y: -281.0761}
+        - {x: -379.0761, y: -284.0761}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821551f98eba47fb9f8cd5f163c8b577
+      internalID: 21300112
+      vertices:
+      - {x: -86.07611, y: -211.07611}
+      - {x: -87.07611, y: -228.07613}
+      - {x: -86.07611, y: -225.0761}
+      - {x: -92.07611, y: -208.07611}
+      - {x: -107.07612, y: -228.07613}
+      - {x: -108.07612, y: -208.07611}
+      - {x: -110.07611, y: -213.07611}
+      - {x: -110.07611, y: -226.0761}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^BedFrontEnd
+      rect:
+        serializedVersion: 2
+        x: 0.07611084
+        y: 624.02673
+        width: 385.84778
+        height: 163.9465
+      alignment: 9
+      pivot: {x: -0.6120347, y: -1.5984088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -436.0761, y: -469.0268}
+        - {x: -567.0761, y: -405.0268}
+        - {x: -567.0761, y: -362.0268}
+        - {x: -222.07611, y: -305.0268}
+        - {x: -184.07611, y: -305.0268}
+        - {x: -181.07611, y: -309.0268}
+        - {x: -181.07611, y: -340.0268}
+        - {x: -420.0761, y: -469.0268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c969be4e164e759cbfd6b306026f0d
+      internalID: 21300114
+      vertices:
+      - {x: 437.9239, y: 120.97325}
+      - {x: 440.9239, y: 85.97325}
+      - {x: 440.9239, y: 116.97325}
+      - {x: 399.9239, y: 120.97325}
+      - {x: 201.92389, y: -43.02675}
+      - {x: 185.92389, y: -43.02675}
+      - {x: 54.92389, y: 63.97325}
+      - {x: 54.92389, y: 20.973251}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Shelf1_Over
+      rect:
+        serializedVersion: 2
+        x: 490.02673
+        y: 0.07611084
+        width: 43.897156
+        height: 54.897156
+      alignment: 9
+      pivot: {x: -28.56799, y: -15.704862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -898.0021, y: -714.6008}
+        - {x: -905.0021, y: -714.6008}
+        - {x: -905.0021, y: -679.6008}
+        - {x: -872.0021, y: -659.6008}
+        - {x: -861.0021, y: -659.6008}
+        - {x: -861.0021, y: -665.6008}
+        - {x: -894.0021, y: -712.6008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2842211fc0a04fadbba1dc87853339ee
+      internalID: 21300116
+      vertices:
+      - {x: 425.94858, y: 257.44858}
+      - {x: 436.94858, y: 251.44858}
+      - {x: 436.94858, y: 257.44858}
+      - {x: 403.94858, y: 204.44858}
+      - {x: 399.94858, y: 202.44858}
+      - {x: 392.94858, y: 237.44856}
+      - {x: 392.94858, y: 202.44858}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow
+      rect:
+        serializedVersion: 2
+        x: 565.02673
+        y: 1179.0267
+        width: 130.89716
+        height: 75.897156
+      alignment: 9
+      pivot: {x: -5.149489, y: -7.906139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -597.5021, y: -594.0021}
+        - {x: -658.5021, y: -558.0021}
+        - {x: -658.5021, y: -532.0021}
+        - {x: -635.5021, y: -518.0021}
+        - {x: -577.5021, y: -518.0021}
+        - {x: -527.5021, y: -556.0021}
+        - {x: -527.5021, y: -565.0021}
+        - {x: -533.5021, y: -574.0021}
+        - {x: -574.5021, y: -594.0021}
+      physicsShape:
+      - - {x: -534.5021, y: -569.0021}
+        - {x: -578.5021, y: -592.0021}
+        - {x: -585.5021, y: -591.0021}
+        - {x: -646.5021, y: -561.0021}
+        - {x: -656.5021, y: -552.0021}
+        - {x: -655.5021, y: -547.0021}
+        - {x: -631.5021, y: -525.0021}
+        - {x: -606.5021, y: -520.0021}
+        - {x: -588.5021, y: -525.0021}
+        - {x: -540.5021, y: -551.0021}
+        - {x: -529.5021, y: -562.0021}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39908d3976a4b11be0f8d9de3bcb164
+      internalID: 21300118
+      vertices:
+      - {x: 277.44855, y: 119.94858}
+      - {x: 271.44858, y: 101.94858}
+      - {x: 277.44855, y: 110.94858}
+      - {x: 230.44858, y: 81.94858}
+      - {x: 227.44858, y: 157.94858}
+      - {x: 207.44858, y: 81.94858}
+      - {x: 169.44858, y: 157.94858}
+      - {x: 146.44858, y: 143.94858}
+      - {x: 146.44858, y: 117.94858}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ToiletHandle_0001
+      rect:
+        serializedVersion: 2
+        x: 635.0598
+        y: 257.0429
+        width: 22.908264
+        height: 31.930328
+      alignment: 9
+      pivot: {x: -39.728874, y: -13.532145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -713.5737, y: -485.05096}
+        - {x: -722.5737, y: -467.05096}
+        - {x: -722.5737, y: -459.05096}
+        - {x: -717.5737, y: -456.05096}
+        - {x: -708.5737, y: -456.05096}
+        - {x: -699.5737, y: -476.05096}
+        - {x: -699.5737, y: -487.05096}
+        - {x: -703.5737, y: -488.05096}
+        - {x: -709.5737, y: -488.05096}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e55fe37224a03be9bf1dfc887b462
+      internalID: 21300120
+      vertices:
+      - {x: 233.45413, y: -12.034836}
+      - {x: 229.45413, y: -24.034836}
+      - {x: 233.45413, y: -23.034836}
+      - {x: 224.45415, y: 7.965164}
+      - {x: 223.45412, y: -24.034836}
+      - {x: 219.45413, y: -21.034836}
+      - {x: 215.45413, y: 7.965164}
+      - {x: 210.45413, y: 4.965164}
+      - {x: 210.45413, y: -3.0348358}
+      indices: 080000000700000005000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Cupboards_LeftShelf
+      rect:
+        serializedVersion: 2
+        x: 212.07611
+        y: 1733.0269
+        width: 129.84778
+        height: 71.94653
+      alignment: 9
+      pivot: {x: -2.8968706, y: -12.315444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -430.0761, y: -735.0268}
+        - {x: -509.0761, y: -694.0268}
+        - {x: -509.0761, y: -686.0268}
+        - {x: -508.0761, y: -682.0268}
+        - {x: -463.0761, y: -663.0268}
+        - {x: -458.0761, y: -663.0268}
+        - {x: -379.0761, y: -704.0268}
+        - {x: -379.0761, y: -712.0268}
+        - {x: -380.0761, y: -716.0268}
+        - {x: -425.0761, y: -735.0268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581129b5f449422ba626a9cdf7146ecc
+      internalID: 21300122
+      vertices:
+      - {x: 126.92389, y: 253.97327}
+      - {x: 125.92389, y: 241.97327}
+      - {x: 126.92389, y: 245.97325}
+      - {x: 80.92389, y: 222.97327}
+      - {x: 75.92389, y: 222.97327}
+      - {x: 47.92389, y: 294.97327}
+      - {x: 42.92389, y: 294.97327}
+      - {x: -2.0761108, y: 275.97327}
+      - {x: -3.0761108, y: 271.97327}
+      - {x: -3.0761108, y: 263.97327}
+      indices: 090000000800000004000000070000000400000008000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bench_CupboardAndBack
+      rect:
+        serializedVersion: 2
+        x: 0.07611084
+        y: 0.026763916
+        width: 255.84778
+        height: 262.9465
+      alignment: 9
+      pivot: {x: -1.0949957, y: -0.7836329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -505.0761, y: -416.5268}
+        - {x: -506.0761, y: -413.5268}
+        - {x: -506.0761, y: -408.5268}
+        - {x: -516.0761, y: -413.5268}
+        - {x: -518.0761, y: -413.5268}
+        - {x: -523.0761, y: -411.5268}
+        - {x: -524.0761, y: -409.5268}
+        - {x: -524.0761, y: -274.5268}
+        - {x: -430.0761, y: -227.5268}
+        - {x: -428.0761, y: -227.5268}
+        - {x: -269.0761, y: -306.5268}
+        - {x: -268.0761, y: -308.5268}
+        - {x: -268.0761, y: -443.5268}
+        - {x: -362.0761, y: -490.5268}
+        - {x: -364.0761, y: -490.5268}
+        - {x: -451.0761, y: -447.5268}
+        - {x: -452.0761, y: -445.5268}
+        - {x: -457.0761, y: -438.5268}
+        - {x: -463.0761, y: -438.5268}
+        - {x: -502.0761, y: -419.5268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e06c865da34f81876fb70e0a6124a8
+      internalID: 21300124
+      vertices:
+      - {x: 266.9239, y: 162.47325}
+      - {x: 267.9239, y: 25.473259}
+      - {x: 267.9239, y: 160.47325}
+      - {x: 173.92389, y: -21.526749}
+      - {x: 171.92389, y: -21.526749}
+      - {x: 107.92389, y: 241.47325}
+      - {x: 105.92389, y: 241.47325}
+      - {x: 84.92389, y: 21.473251}
+      - {x: 83.92389, y: 23.473244}
+      - {x: 78.92389, y: 30.473251}
+      - {x: 72.92389, y: 30.473251}
+      - {x: 33.92389, y: 49.47325}
+      - {x: 30.92389, y: 52.47325}
+      - {x: 29.92389, y: 60.47325}
+      - {x: 19.923882, y: 55.47325}
+      - {x: 17.92389, y: 55.47325}
+      - {x: 12.923889, y: 57.47325}
+      - {x: 11.923889, y: 194.47325}
+      - {x: 11.923889, y: 59.47325}
+      - {x: 29.92389, y: 55.47325}
+      indices: 130000000d0000000c0000001200000011000000100000000600000010000000110000000f00000010000000060000000e0000000f000000060000000d0000000e000000060000000c0000000d000000060000000b0000000c000000060000000a0000000b00000006000000090000000a00000006000000080000000900000006000000070000000800000006000000040000000700000006000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ClosetShelfMiddle
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 912.02673
+        width: 187.84778
+        height: 130.9465
+      alignment: 9
+      pivot: {x: 1.6601089, y: -2.5205219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -192.07611, y: -486.5268}
+        - {x: -194.07611, y: -485.5268}
+        - {x: -194.07611, y: -418.5268}
+        - {x: -71.07611, y: -355.5268}
+        - {x: -66.07611, y: -355.5268}
+        - {x: -7.076111, y: -380.5268}
+        - {x: -6.076111, y: -384.5268}
+        - {x: -6.076111, y: -394.5268}
+        - {x: -187.07614, y: -486.5268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4319a53b244ffa953c68b9ef5028d7
+      internalID: 21300126
+      vertices:
+      - {x: -131.07611, y: 80.47325}
+      - {x: -130.07611, y: 66.47325}
+      - {x: -130.07611, y: 76.47325}
+      - {x: -190.07611, y: 105.47325}
+      - {x: -195.07611, y: 105.47325}
+      - {x: -311.07614, y: -25.526749}
+      - {x: -316.0761, y: -25.526749}
+      - {x: -318.0761, y: 42.47325}
+      - {x: -318.0761, y: -24.526749}
+      indices: 080000000700000006000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: +ClosetDrawerBack
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1257
+        width: 122
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4180328, y: 0.22297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -37}
+        - {x: -61, y: -11}
+        - {x: -61, y: 7}
+        - {x: -1, y: 37}
+        - {x: 9, y: 37}
+        - {x: 61, y: 11}
+        - {x: 61, y: -10}
+        - {x: 1, y: -37}
+      physicsShape:
+      - - {x: -61, y: -8.158648}
+        - {x: -61, y: 3.88805}
+        - {x: 3.9342651, y: 37}
+        - {x: 60.750412, y: 8.800409}
+        - {x: 61, y: -4.0524063}
+        - {x: -4.0915527, y: -36.87521}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b74a7a0f3b4c67bcb5c6487e808792
+      internalID: 21300128
+      vertices:
+      - {x: 80, y: 94.5}
+      - {x: 132, y: 47.5}
+      - {x: 132, y: 68.5}
+      - {x: 72, y: 20.5}
+      - {x: 70, y: 94.5}
+      - {x: 56, y: 20.5}
+      - {x: 10, y: 64.5}
+      - {x: 10, y: 46.5}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^BedsideTableTop
+      rect:
+        serializedVersion: 2
+        x: 465.07617
+        y: 1559.0269
+        width: 111.84778
+        height: 81.94653
+      alignment: 9
+      pivot: {x: -8.298352, y: -6.5170965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -775.0762, y: -536.02673}
+        - {x: -776.0762, y: -534.02673}
+        - {x: -776.0762, y: -508.02673}
+        - {x: -724.0762, y: -482.02673}
+        - {x: -722.0762, y: -482.02673}
+        - {x: -665.0762, y: -510.02673}
+        - {x: -664.0762, y: -512.02673}
+        - {x: -664.0762, y: -538.02673}
+        - {x: -716.0762, y: -564.02673}
+        - {x: -718.0762, y: -564.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c50493057a4cae8e00a14fa9471554
+      internalID: 21300130
+      vertices:
+      - {x: 374.9239, y: 105.97327}
+      - {x: 375.9239, y: 77.97327}
+      - {x: 375.9239, y: 103.97327}
+      - {x: 323.9239, y: 51.973267}
+      - {x: 321.9239, y: 51.973267}
+      - {x: 317.9239, y: 133.97327}
+      - {x: 315.9239, y: 133.97327}
+      - {x: 264.9239, y: 79.97327}
+      - {x: 263.9239, y: 107.97327}
+      - {x: 263.9239, y: 81.97327}
+      indices: 090000000800000007000000060000000700000008000000040000000700000006000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorLeft
+      rect:
+        serializedVersion: 2
+        x: 0.07611084
+        y: 1007.02673
+        width: 47.84778
+        height: 102.9465
+      alignment: 9
+      pivot: {x: -11.205374, y: -3.8860333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -510.0761, y: -507.5268}
+        - {x: -548.0761, y: -490.5268}
+        - {x: -548.0761, y: -408.5268}
+        - {x: -544.0761, y: -404.5268}
+        - {x: -540.0761, y: -404.5268}
+        - {x: -500.0761, y: -422.5268}
+        - {x: -500.0761, y: -504.5268}
+        - {x: -502.0761, y: -507.5268}
+      physicsShape:
+      - - {x: -545.5317, y: -485.78055}
+        - {x: -545.68097, y: -408.61334}
+        - {x: -506.42566, y: -428.61414}
+        - {x: -506.27643, y: -505.03506}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1518cca8f430406eb41648fef9e97bc2
+      internalID: 21300132
+      vertices:
+      - {x: 83.92389, y: 80.47325}
+      - {x: 81.92389, y: -4.5267487}
+      - {x: 83.92389, y: -1.5267448}
+      - {x: 73.92389, y: -4.5267487}
+      - {x: 43.92389, y: 98.47325}
+      - {x: 39.92389, y: 98.47325}
+      - {x: 35.92389, y: 94.47325}
+      - {x: 35.92389, y: 12.473251}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorRight_0003
+      rect:
+        serializedVersion: 2
+        x: 708.0762
+        y: 1286.0267
+        width: 48.897156
+        height: 100.94516
+      alignment: 9
+      pivot: {x: -12.560081, y: -3.2101939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -583.6008, y: -468.52612}
+        - {x: -587.6008, y: -466.52612}
+        - {x: -587.6008, y: -385.52612}
+        - {x: -553.6008, y: -367.52612}
+        - {x: -538.6008, y: -367.52612}
+        - {x: -538.6008, y: -447.52612}
+        - {x: -574.6008, y: -468.52612}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e75dc4ea874a3ea4e584734a95eba0
+      internalID: 21300134
+      vertices:
+      - {x: 109.44858, y: 57.47258}
+      - {x: 124.44858, y: -22.52742}
+      - {x: 124.44858, y: 57.47258}
+      - {x: 88.44858, y: -43.52742}
+      - {x: 79.44858, y: -43.52742}
+      - {x: 75.44858, y: 39.47258}
+      - {x: 75.44858, y: -41.52742}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^SinkBottom
+      rect:
+        serializedVersion: 2
+        x: 326.148
+        y: 779.02734
+        width: 127.77588
+        height: 194.94592
+      alignment: 9
+      pivot: {x: -4.1971617, y: -1.6725391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -509.18396, y: -516.52765}
+        - {x: -588.18396, y: -476.52765}
+        - {x: -588.18396, y: -456.52765}
+        - {x: -584.18396, y: -344.52765}
+        - {x: -538.18396, y: -321.52765}
+        - {x: -534.18396, y: -321.52765}
+        - {x: -460.18396, y: -359.52765}
+        - {x: -460.18396, y: -489.52765}
+        - {x: -502.18396, y: -516.52765}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f8fed6f1cb4cb3a533e86e887ff0f6
+      internalID: 439580615426124020
+      vertices:
+      - {x: 203.88794, y: 161.47296}
+      - {x: 161.88794, y: 4.4729614}
+      - {x: 203.88794, y: 31.472961}
+      - {x: 154.88794, y: 4.4729614}
+      - {x: 129.88794, y: 199.47296}
+      - {x: 125.88794, y: 199.47296}
+      - {x: 79.88794, y: 176.47296}
+      - {x: 75.88794, y: 64.47296}
+      - {x: 75.88794, y: 44.472965}
+      indices: 080000000700000003000000060000000300000007000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^SinkTop2
+      rect:
+        serializedVersion: 2
+        x: 0.07611084
+        y: 1258.0278
+        width: 117.84778
+        height: 173.94543
+      alignment: 9
+      pivot: {x: -4.7871265, y: -1.9089645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -530.0761, y: -509.02838}
+        - {x: -597.0761, y: -402.02838}
+        - {x: -597.0761, y: -360.02838}
+        - {x: -519.0761, y: -335.02838}
+        - {x: -489.0761, y: -335.02838}
+        - {x: -479.0761, y: -342.02838}
+        - {x: -479.0761, y: -489.02838}
+        - {x: -521.0761, y: -509.02838}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9cbf325c584fb5a44811f935878bdc
+      internalID: 21300138
+      vertices:
+      - {x: 192.92389, y: 170.97272}
+      - {x: 202.92389, y: 16.972717}
+      - {x: 202.92389, y: 163.97272}
+      - {x: 162.92389, y: 170.97272}
+      - {x: 160.92389, y: -3.0272827}
+      - {x: 151.92389, y: -3.0272827}
+      - {x: 84.92389, y: 145.97272}
+      - {x: 84.92389, y: 103.97272}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow3
+      rect:
+        serializedVersion: 2
+        x: 215.07611
+        y: 1615.0762
+        width: 100.84778
+        height: 94.897156
+      alignment: 9
+      pivot: {x: -6.625354, y: -6.766823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -621.5761, y: -624.6008}
+        - {x: -640.5761, y: -614.6008}
+        - {x: -640.5761, y: -588.6008}
+        - {x: -612.5761, y: -549.6008}
+        - {x: -568.5761, y: -529.6008}
+        - {x: -551.5761, y: -529.6008}
+        - {x: -539.5761, y: -549.6008}
+        - {x: -539.5761, y: -593.6008}
+        - {x: -568.5761, y: -624.6008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc42139a22467bbe0bb5cda1971d17
+      internalID: 21300140
+      vertices:
+      - {x: 217.42389, y: 207.44858}
+      - {x: 229.42389, y: 143.44858}
+      - {x: 229.42389, y: 187.44858}
+      - {x: 200.42389, y: 207.44858}
+      - {x: 200.42389, y: 112.44858}
+      - {x: 156.42389, y: 187.44858}
+      - {x: 147.42389, y: 112.44858}
+      - {x: 128.42389, y: 148.44858}
+      - {x: 128.42389, y: 122.44858}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Toilet_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1555
+        width: 52
+        height: 172
+      alignment: 9
+      pivot: {x: -3.7884614, y: 0.7732558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.999985, y: -86}
+        - {x: -26, y: -86}
+        - {x: -26, y: 86}
+        - {x: -20, y: 86}
+        - {x: 26, y: 70}
+        - {x: 26, y: -2}
+        - {x: 19, y: -56}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08d42bf10f4c5083e4c1a7d20549c1
+      internalID: 21300142
+      vertices:
+      - {x: 275, y: 109}
+      - {x: 268, y: -17}
+      - {x: 275, y: 37}
+      - {x: 240.00002, y: -47}
+      - {x: 229, y: 125}
+      - {x: 223, y: 125}
+      - {x: 223, y: -47}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Toilet_0
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 824
+        width: 101
+        height: 198
+      alignment: 9
+      pivot: {x: -0.95049506, y: 0.7676768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: -99}
+        - {x: -50.5, y: -76}
+        - {x: -50.5, y: 13}
+        - {x: 8.5, y: 87}
+        - {x: 24.5, y: 99}
+        - {x: 43.5, y: 99}
+        - {x: 50.5, y: 97}
+        - {x: 50.5, y: -87}
+        - {x: 17.5, y: -99}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0b7f38e46d45deb3be0ff6843a62ca
+      internalID: 21300144
+      vertices:
+      - {x: 240.5, y: 145}
+      - {x: 247.5, y: -41}
+      - {x: 247.5, y: 143}
+      - {x: 221.5, y: 145}
+      - {x: 214.5, y: -53}
+      - {x: 205.5, y: 133}
+      - {x: 150.5, y: -53}
+      - {x: 146.5, y: 59}
+      - {x: 146.5, y: -30}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Shelf3_Over
+      rect:
+        serializedVersion: 2
+        x: 0.026733398
+        y: 409.0761
+        width: 43.897156
+        height: 54.897156
+      alignment: 9
+      pivot: {x: -28.56799, y: -11.187324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -898.0021, y: -590.6008}
+        - {x: -905.0021, y: -590.6008}
+        - {x: -905.0021, y: -555.6008}
+        - {x: -872.0021, y: -535.6008}
+        - {x: -861.0021, y: -535.6008}
+        - {x: -861.0021, y: -541.6008}
+        - {x: -894.0021, y: -588.6008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd1b7a2a880463b9b909d7a00a820b5
+      internalID: 21300146
+      vertices:
+      - {x: 425.94858, y: 133.44858}
+      - {x: 436.94858, y: 127.44858}
+      - {x: 436.94858, y: 133.44858}
+      - {x: 403.94858, y: 80.44858}
+      - {x: 399.94858, y: 78.44858}
+      - {x: 392.94858, y: 113.44858}
+      - {x: 392.94858, y: 78.44858}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^FoldingDoor_0003
+      rect:
+        serializedVersion: 2
+        x: 745.0761
+        y: 0.0362854
+        width: 110.84776
+        height: 433.8876
+      alignment: 9
+      pivot: {x: 1.117278, y: -0.13845192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -248.57611, y: -503.01636}
+        - {x: -249.57611, y: -500.01636}
+        - {x: -249.57611, y: -125.01636}
+        - {x: -232.57611, y: -104.01636}
+        - {x: -182.57611, y: -80.01636}
+        - {x: -160.57611, y: -69.01636}
+        - {x: -148.57611, y: -69.01636}
+        - {x: -146.57614, y: -70.01636}
+        - {x: -141.57611, y: -71.01636}
+        - {x: -138.57611, y: -74.01636}
+        - {x: -138.57611, y: -453.01636}
+        - {x: -148.57611, y: -466.01636}
+        - {x: -172.57614, y: -479.01636}
+        - {x: -198.57611, y: -491.01636}
+        - {x: -214.57611, y: -490.01636}
+        - {x: -222.57611, y: -503.01636}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddcfbe8abf74e0ca6b3bcb49a471365
+      internalID: 21300148
+      vertices:
+      - {x: -154.57611, y: 422.9438}
+      - {x: -151.57611, y: 40.9438}
+      - {x: -151.57611, y: 419.9438}
+      - {x: -159.57614, y: 423.9438}
+      - {x: -161.57611, y: 424.9438}
+      - {x: -161.57611, y: 27.943802}
+      - {x: -173.57611, y: 424.9438}
+      - {x: -185.57614, y: 14.943802}
+      - {x: -195.57611, y: 413.9438}
+      - {x: -211.57611, y: 2.9437866}
+      - {x: -227.57611, y: 3.9437866}
+      - {x: -235.57611, y: -9.056198}
+      - {x: -245.57611, y: 389.9438}
+      - {x: -261.5761, y: -9.056198}
+      - {x: -262.5761, y: 368.9438}
+      - {x: -262.5761, y: -6.056198}
+      indices: 0f0000000e0000000d0000000c0000000d0000000e0000000b0000000d0000000c000000080000000b0000000c0000000a0000000b00000008000000090000000a00000008000000070000000900000008000000060000000700000008000000050000000700000006000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bench_CupboardDoor_0001
+      rect:
+        serializedVersion: 2
+        x: 441.0761
+        y: 1334.0267
+        width: 57.84778
+        height: 178.9581
+      alignment: 9
+      pivot: {x: -7.50508, y: -1.1402308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -455.0761, y: -447.5326}
+        - {x: -502.0761, y: -405.5326}
+        - {x: -502.0761, y: -269.5326}
+        - {x: -500.0761, y: -268.5326}
+        - {x: -454.0761, y: -268.5326}
+        - {x: -444.0761, y: -304.5326}
+        - {x: -444.0761, y: -447.5326}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462c8428b02d4df9aaf874a0401456ce
+      internalID: 21300150
+      vertices:
+      - {x: 37.92389, y: 114.47905}
+      - {x: 47.92389, y: -64.52095}
+      - {x: 47.92389, y: 78.47905}
+      - {x: 36.92389, y: -64.52095}
+      - {x: -8.076111, y: 114.47905}
+      - {x: -10.076111, y: 113.47905}
+      - {x: -10.076111, y: -22.52095}
+      indices: 060000000500000003000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bench_CupboardDoor_0003
+      rect:
+        serializedVersion: 2
+        x: 716.02673
+        y: 1573.0762
+        width: 36.946472
+        height: 185.88763
+      alignment: 9
+      pivot: {x: -10.232466, y: -1.0229417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -460.52673, y: -444.09604}
+        - {x: -463.52673, y: -417.09604}
+        - {x: -463.52673, y: -301.09604}
+        - {x: -435.52673, y: -258.09604}
+        - {x: -426.52673, y: -258.09604}
+        - {x: -426.52673, y: -424.09604}
+        - {x: -442.52673, y: -444.09604}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd780385244beb80175ad936d165d9
+      internalID: 21300152
+      vertices:
+      - {x: -20.526764, y: 117.94382}
+      - {x: -11.526766, y: -48.056183}
+      - {x: -11.526766, y: 117.94382}
+      - {x: -27.526764, y: -68.05618}
+      - {x: -45.526764, y: -68.05618}
+      - {x: -48.526764, y: 74.94382}
+      - {x: -48.526764, y: -41.056183}
+      indices: 060000000500000004000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Hook
+      rect:
+        serializedVersion: 2
+        x: 23.026764
+        y: 594.02673
+        width: 24.946472
+        height: 32.897156
+      alignment: 9
+      pivot: {x: -11.947722, y: -25.414156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -416.52676, y: -685.5021}
+        - {x: -417.52676, y: -676.5021}
+        - {x: -417.52676, y: -661.5021}
+        - {x: -414.52676, y: -657.5021}
+        - {x: -406.52676, y: -657.5021}
+        - {x: -398.52676, y: -660.5021}
+        - {x: -392.52676, y: -674.5021}
+        - {x: -392.52676, y: -688.5021}
+        - {x: -398.52676, y: -690.5021}
+        - {x: -411.52676, y: -690.5021}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699073e0d33e468c80fe9c906e353264
+      internalID: -4949457661675304770
+      vertices:
+      - {x: -75.526764, y: 208.44858}
+      - {x: -69.526764, y: 180.44858}
+      - {x: -69.526764, y: 194.44858}
+      - {x: -75.526764, y: 178.44858}
+      - {x: -83.526764, y: 211.44858}
+      - {x: -88.526764, y: 178.44858}
+      - {x: -91.526764, y: 211.44858}
+      - {x: -93.52676, y: 183.44858}
+      - {x: -94.52677, y: 207.44858}
+      - {x: -94.52677, y: 192.44858}
+      indices: 090000000800000007000000060000000700000008000000050000000700000006000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bench_CupboardShelf
+      rect:
+        serializedVersion: 2
+        x: 435.0761
+        y: 1022.02673
+        width: 171.84778
+        height: 92.9465
+      alignment: 9
+      pivot: {x: -2.5612912, y: -3.6155586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -486.07605, y: -470.5268}
+        - {x: -562.07605, y: -429.5268}
+        - {x: -562.07605, y: -422.5268}
+        - {x: -559.07605, y: -417.5268}
+        - {x: -477.07605, y: -377.5268}
+        - {x: -470.07605, y: -377.5268}
+        - {x: -390.07605, y: -419.5268}
+        - {x: -390.07605, y: -427.5268}
+        - {x: -471.07605, y: -470.5268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fee6122a8c4517a0cd1318d2cf96a5
+      internalID: 21300156
+      vertices:
+      - {x: 141.92389, y: 51.47325}
+      - {x: 221.92389, y: 1.4732513}
+      - {x: 221.92389, y: 9.473251}
+      - {x: 140.92389, y: -41.52675}
+      - {x: 134.92389, y: 51.47325}
+      - {x: 125.92389, y: -41.52675}
+      - {x: 52.92389, y: 11.473251}
+      - {x: 49.92389, y: 6.4732513}
+      - {x: 49.92389, y: -0.52674866}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Cupboards_Left
+      rect:
+        serializedVersion: 2
+        x: 741.0762
+        y: 696.02673
+        width: 137.84778
+        height: 178.94653
+      alignment: 9
+      pivot: {x: -2.6707156, y: -4.2473774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -426.0761, y: -725.52673}
+        - {x: -509.0761, y: -682.52673}
+        - {x: -509.0761, y: -571.52673}
+        - {x: -459.0761, y: -546.52673}
+        - {x: -457.0761, y: -546.52673}
+        - {x: -372.0761, y: -588.52673}
+        - {x: -371.0761, y: -590.52673}
+        - {x: -371.0761, y: -700.52673}
+        - {x: -421.0761, y: -725.52673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed7c1c854fe481a828952ef8afd8337
+      internalID: 21300158
+      vertices:
+      - {x: 133.92389, y: 350.47327}
+      - {x: 134.92389, y: 238.47327}
+      - {x: 134.92389, y: 348.47327}
+      - {x: 84.92389, y: 213.47327}
+      - {x: 79.92389, y: 213.47327}
+      - {x: 48.92389, y: 392.47327}
+      - {x: 46.92389, y: 392.47327}
+      - {x: -3.0761108, y: 367.47327}
+      - {x: -3.0761108, y: 256.47327}
+      indices: 080000000700000004000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ClosetDrawer_Mask
+      rect:
+        serializedVersion: 2
+        x: 215.07611
+        y: 1337.0267
+        width: 140.84775
+        height: 116.94647
+      alignment: 9
+      pivot: {x: 2.0578802, y: -0.8042443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180.5761, y: -330.52676}
+        - {x: -181.57613, y: -326.52676}
+        - {x: -181.57613, y: -281.52676}
+        - {x: -107.576096, y: -244.52676}
+        - {x: -100.576096, y: -244.52676}
+        - {x: -40.576096, y: -276.52676}
+        - {x: -40.576096, y: -280.52676}
+        - {x: -110.576096, y: -361.52673}
+        - {x: -114.576096, y: -361.52673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13565a0e98fa4fb0b994f8c9406b805f
+      internalID: 21300160
+      vertices:
+      - {x: -249.57613, y: -33.526764}
+      - {x: -189.57613, y: -69.526764}
+      - {x: -189.57613, y: -65.526764}
+      - {x: -256.5761, y: -33.526764}
+      - {x: -259.5761, y: -150.52675}
+      - {x: -263.5761, y: -150.52675}
+      - {x: -329.5761, y: -119.526764}
+      - {x: -330.57617, y: -70.526764}
+      - {x: -330.57617, y: -115.526764}
+      indices: 080000000700000006000000030000000600000007000000050000000600000003000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow2
+      rect:
+        serializedVersion: 2
+        x: 460.00598
+        y: 1756.0762
+        width: 123.91791
+        height: 60.84778
+      alignment: 9
+      pivot: {x: -5.406902, y: -10.356208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -626.97095, y: -601.5761}
+        - {x: -652.97095, y: -582.5761}
+        - {x: -652.97095, y: -559.5761}
+        - {x: -628.97095, y: -540.5761}
+        - {x: -551.97095, y: -540.5761}
+        - {x: -531.97095, y: -544.5761}
+        - {x: -528.97095, y: -551.5761}
+        - {x: -528.97095, y: -578.5761}
+        - {x: -561.97095, y: -601.5761}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5666cdf73a0474c8e7211d3723f0eba
+      internalID: 21300162
+      vertices:
+      - {x: 261.95895, y: 146.42389}
+      - {x: 264.95895, y: 112.42389}
+      - {x: 264.95895, y: 139.42389}
+      - {x: 241.95895, y: 150.42389}
+      - {x: 231.95895, y: 89.42389}
+      - {x: 166.95895, y: 89.42389}
+      - {x: 164.95895, y: 150.42389}
+      - {x: 140.95895, y: 131.42389}
+      - {x: 140.95895, y: 108.42389}
+      indices: 080000000700000005000000060000000500000007000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: +ToiletRollHolder_Placed
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 450
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -7.5}
+        - {x: -8.5, y: 7.5}
+        - {x: 8.5, y: 7.5}
+        - {x: 8.5, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887cd612a015415ca647cdd6e5551195
+      internalID: 21300164
+      vertices:
+      - {x: 0.5, y: 19}
+      - {x: 17.5, y: 19}
+      - {x: 0.5, y: 4}
+      - {x: 17.5, y: 4}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^BathTap
+      rect:
+        serializedVersion: 2
+        x: 665.02673
+        y: 0.051330566
+        width: 49.946472
+        height: 47.921936
+      alignment: 9
+      pivot: {x: -0.6417576, y: -9.4758835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -285.02676, y: -504.06366}
+        - {x: -297.0268, y: -487.06366}
+        - {x: -297.0268, y: -465.06366}
+        - {x: -289.02676, y: -459.06366}
+        - {x: -262.02676, y: -459.06366}
+        - {x: -247.02676, y: -481.06366}
+        - {x: -247.02676, y: -507.06366}
+        - {x: -270.0268, y: -507.06366}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3393d7cdc7d4cf1a527dacd4e5b6896
+      internalID: 21300166
+      vertices:
+      - {x: -180.02676, y: 42.960968}
+      - {x: -165.02676, y: -5.039032}
+      - {x: -165.02676, y: 20.960968}
+      - {x: -188.02678, y: -5.039032}
+      - {x: -203.02676, y: -2.039032}
+      - {x: -207.02676, y: 42.960968}
+      - {x: -215.02678, y: 36.960968}
+      - {x: -215.02678, y: 14.960968}
+      indices: 070000000600000004000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Bench_CupboardDoor_0004
+      rect:
+        serializedVersion: 2
+        x: 323.0761
+        y: 1584.0762
+        width: 63.84778
+        height: 179.89716
+      alignment: 9
+      pivot: {x: -5.076954, y: -1.1348274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -446.0761, y: -447.1008}
+        - {x: -450.0761, y: -387.1008}
+        - {x: -450.0761, y: -314.1008}
+        - {x: -398.0761, y: -268.1008}
+        - {x: -386.0761, y: -268.1008}
+        - {x: -386.0761, y: -398.1008}
+        - {x: -404.0761, y: -448.1008}
+        - {x: -445.0761, y: -448.1008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa2dc6ea14145098138039851c2bcf0
+      internalID: 21300168
+      vertices:
+      - {x: -10.076111, y: 115.94858}
+      - {x: 1.9238873, y: -14.051422}
+      - {x: 1.9238873, y: 115.94858}
+      - {x: -16.07611, y: -64.05142}
+      - {x: -57.07611, y: -64.05142}
+      - {x: -58.07611, y: -63.051422}
+      - {x: -62.07611, y: 69.94858}
+      - {x: -62.07611, y: -3.051422}
+      indices: 070000000600000005000000000000000500000006000000040000000500000000000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow_Shadow5
+      rect:
+        serializedVersion: 2
+        x: 753.0762
+        y: 1744.061
+        width: 91.897156
+        height: 48.91223
+      alignment: 9
+      pivot: {x: -7.2271247, y: -13.0462675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -612.1008, y: -599.5782}
+        - {x: -634.1008, y: -582.5782}
+        - {x: -634.1008, y: -573.5782}
+        - {x: -595.1008, y: -550.5782}
+        - {x: -578.1008, y: -550.5782}
+        - {x: -544.1008, y: -564.5782}
+        - {x: -542.1008, y: -566.5782}
+        - {x: -542.1008, y: -595.5782}
+        - {x: -568.1008, y: -599.5782}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafe7ce255ce4c189a8066f725e15d0d
+      internalID: 21300170
+      vertices:
+      - {x: 211.94858, y: 122.456116}
+      - {x: 213.94858, y: 91.456116}
+      - {x: 213.94858, y: 120.456116}
+      - {x: 187.94858, y: 87.456116}
+      - {x: 177.94858, y: 136.45612}
+      - {x: 160.94858, y: 136.45612}
+      - {x: 143.94858, y: 87.456116}
+      - {x: 121.94858, y: 113.456116}
+      - {x: 121.94858, y: 104.456116}
+      indices: 080000000700000006000000050000000600000007000000030000000600000005000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ChairSeat
+      rect:
+        serializedVersion: 2
+        x: 419.02673
+        y: 1200.0267
+        width: 116.94647
+        height: 131.89713
+      alignment: 9
+      pivot: {x: -2.0868824, y: -1.2134725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -427.52676, y: -402.00208}
+        - {x: -436.52676, y: -393.00208}
+        - {x: -436.52676, y: -285.00208}
+        - {x: -389.52676, y: -270.00208}
+        - {x: -344.52676, y: -270.00208}
+        - {x: -320.52676, y: -288.00208}
+        - {x: -319.52676, y: -289.00208}
+        - {x: -319.52676, y: -402.00208}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc73baf79fd54b7095a648f2a1fbaa4b
+      internalID: 21300172
+      vertices:
+      - {x: 40.473236, y: 3.9485626}
+      - {x: 41.473236, y: -110.05144}
+      - {x: 41.473236, y: 2.9485626}
+      - {x: 16.473236, y: 21.948563}
+      - {x: -28.526764, y: 21.948563}
+      - {x: -66.526764, y: -110.05144}
+      - {x: -75.526764, y: 6.9485664}
+      - {x: -75.526764, y: -101.05144}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ClosetShelfTop
+      rect:
+        serializedVersion: 2
+        x: 810.0761
+        y: 869.02673
+        width: 187.84778
+        height: 130.94653
+      alignment: 9
+      pivot: {x: 1.6601089, y: -4.2158694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -192.07611, y: -597.52673}
+        - {x: -194.07611, y: -595.52673}
+        - {x: -194.07611, y: -529.52673}
+        - {x: -71.07611, y: -466.52673}
+        - {x: -66.07611, y: -466.52673}
+        - {x: -7.076111, y: -492.52673}
+        - {x: -6.076111, y: -497.52673}
+        - {x: -6.076111, y: -505.52673}
+        - {x: -189.07614, y: -597.52673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3673166ebd34cc2806d83a6aca654a2
+      internalID: 21300174
+      vertices:
+      - {x: -131.07611, y: 190.47327}
+      - {x: -130.07611, y: 177.47327}
+      - {x: -130.07611, y: 185.47327}
+      - {x: -190.07611, y: 216.47327}
+      - {x: -195.07611, y: 216.47327}
+      - {x: -313.07614, y: 85.47327}
+      - {x: -316.0761, y: 85.47327}
+      - {x: -318.0761, y: 153.47327}
+      - {x: -318.0761, y: 87.47327}
+      indices: 080000000700000006000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ToiletHandle_0002
+      rect:
+        serializedVersion: 2
+        x: 621.0598
+        y: 238.05133
+        width: 27.864136
+        height: 26.921906
+      alignment: 9
+      pivot: {x: -32.662758, y: -16.42167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -721.0516, y: -481.5636}
+        - {x: -725.0516, y: -473.5636}
+        - {x: -725.0516, y: -468.5636}
+        - {x: -721.0516, y: -463.5636}
+        - {x: -712.0516, y: -463.5636}
+        - {x: -707.0516, y: -465.5636}
+        - {x: -697.0516, y: -482.5636}
+        - {x: -697.0516, y: -488.5636}
+        - {x: -698.0516, y: -490.5636}
+        - {x: -704.0516, y: -490.5636}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0f9c9be79409f8d05441fe0da865b
+      internalID: 21300176
+      vertices:
+      - {x: 240.93207, y: -13.539049}
+      - {x: 239.93207, y: -21.539047}
+      - {x: 240.93207, y: -19.539047}
+      - {x: 233.93207, y: -21.539047}
+      - {x: 230.93207, y: 3.4609528}
+      - {x: 225.93205, y: 5.4609528}
+      - {x: 216.93207, y: 5.4609528}
+      - {x: 216.93207, y: -12.539047}
+      - {x: 212.93207, y: 0.46095276}
+      - {x: 212.93207, y: -4.5390472}
+      indices: 090000000800000007000000060000000700000008000000030000000700000006000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow_Shadow2
+      rect:
+        serializedVersion: 2
+        x: 590.0762
+        y: 1683.0762
+        width: 123.897156
+        height: 64.897156
+      alignment: 9
+      pivot: {x: -5.4250817, y: -9.309379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -599.1008, y: -590.6008}
+        - {x: -654.1008, y: -558.6008}
+        - {x: -654.1008, y: -549.6008}
+        - {x: -609.1008, y: -525.6008}
+        - {x: -602.1008, y: -525.6008}
+        - {x: -531.1008, y: -559.6008}
+        - {x: -530.1008, y: -561.6008}
+        - {x: -530.1008, y: -576.6008}
+        - {x: -564.1008, y: -590.6008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc26ee292b064c4f96ee3e4d57e5573c
+      internalID: 21300178
+      vertices:
+      - {x: 264.94858, y: 109.44858}
+      - {x: 265.94858, y: 92.44858}
+      - {x: 265.94858, y: 107.44858}
+      - {x: 231.94858, y: 78.44858}
+      - {x: 196.94858, y: 78.44858}
+      - {x: 193.94858, y: 143.44858}
+      - {x: 186.94858, y: 143.44858}
+      - {x: 141.94858, y: 119.44858}
+      - {x: 141.94858, y: 110.44858}
+      indices: 080000000700000004000000060000000400000007000000050000000400000006000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Clothesrack
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 1702.0132
+        width: 166.89713
+        height: 93.960144
+      alignment: 9
+      pivot: {x: 1.868503, y: -5.555826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -181.60078, y: -564.00635}
+        - {x: -183.60078, y: -564.00635}
+        - {x: -183.60078, y: -554.00635}
+        - {x: -76.600784, y: -470.00635}
+        - {x: -20.600784, y: -470.00635}
+        - {x: -16.600784, y: -475.00635}
+        - {x: -16.600784, y: -494.00635}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebf3640853a4b338da4ae727ed04326
+      internalID: 21300180
+      vertices:
+      - {x: -165.55144, y: 145.98007}
+      - {x: -161.55144, y: 121.98007}
+      - {x: -161.55144, y: 140.98007}
+      - {x: -221.55144, y: 145.98007}
+      - {x: -326.55145, y: 51.980072}
+      - {x: -328.55145, y: 61.980072}
+      - {x: -328.55145, y: 51.980072}
+      indices: 060000000500000004000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^FoldingDoor_0005
+      rect:
+        serializedVersion: 2
+        x: 168.07611
+        y: 1379.0267
+        width: 44.84778
+        height: 400.9219
+      alignment: 9
+      pivot: {x: -0.44934717, y: -0.32438618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -256.5761, y: -521.51447}
+        - {x: -288.5761, y: -521.51447}
+        - {x: -288.5761, y: -131.51447}
+        - {x: -268.5761, y: -120.51448}
+        - {x: -261.5761, y: -120.51448}
+        - {x: -250.57611, y: -122.514465}
+        - {x: -243.57611, y: -133.51447}
+        - {x: -243.57611, y: -518.51447}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228be38e760443998debf0d3f61fc706
+      internalID: 21300182
+      vertices:
+      - {x: -185.57611, y: 408.46094}
+      - {x: -178.57611, y: 12.460953}
+      - {x: -178.57611, y: 397.46094}
+      - {x: -191.57613, y: 9.460953}
+      - {x: -196.57611, y: 410.46094}
+      - {x: -203.57611, y: 410.46094}
+      - {x: -223.57611, y: 399.46094}
+      - {x: -223.57611, y: 9.460953}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DeskBack
+      rect:
+        serializedVersion: 2
+        x: 525.0761
+        y: 765.02673
+        width: 213.84776
+        height: 174.9465
+      alignment: 9
+      pivot: {x: 0.111517474, y: -1.6579555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -347.0761, y: -488.5268}
+        - {x: -351.0761, y: -487.5268}
+        - {x: -351.0761, y: -456.5268}
+        - {x: -227.07611, y: -317.5268}
+        - {x: -223.07611, y: -313.5268}
+        - {x: -219.07611, y: -313.5268}
+        - {x: -137.07613, y: -352.5268}
+        - {x: -137.07613, y: -480.5268}
+        - {x: -145.07611, y: -484.5268}
+        - {x: -307.0761, y: -488.5268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8953129bc81840afa0600400ef38a97e
+      internalID: 21300184
+      vertices:
+      - {x: 52.923878, y: 112.47325}
+      - {x: 44.92388, y: -19.526756}
+      - {x: 52.923878, y: -15.526749}
+      - {x: -29.076118, y: 151.47325}
+      - {x: -33.07612, y: 151.47325}
+      - {x: -37.07612, y: 147.47325}
+      - {x: -117.07612, y: -23.526749}
+      - {x: -157.07611, y: -23.526749}
+      - {x: -161.07611, y: 8.473251}
+      - {x: -161.07611, y: -22.526749}
+      indices: 090000000800000007000000050000000700000008000000060000000700000005000000010000000600000005000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Blind
+      rect:
+        serializedVersion: 2
+        x: 657.0762
+        y: 562.02673
+        width: 246.89716
+        height: 155.94653
+      alignment: 9
+      pivot: {x: -0.94027907, y: -6.412797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -488.6008, y: -834.02673}
+        - {x: -495.6008, y: -820.02673}
+        - {x: -495.6008, y: -791.02673}
+        - {x: -273.6008, y: -678.02673}
+        - {x: -261.6008, y: -678.02673}
+        - {x: -248.6008, y: -687.02673}
+        - {x: -248.6008, y: -819.02673}
+        - {x: -249.6008, y: -834.02673}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee156e2e74449bdbfc3a9e795019427
+      internalID: 21300186
+      vertices:
+      - {x: 230.44858, y: 468.97327}
+      - {x: 229.44858, y: 321.97327}
+      - {x: 230.44858, y: 336.97327}
+      - {x: 217.44858, y: 477.97327}
+      - {x: 205.44858, y: 477.97327}
+      - {x: -9.551422, y: 321.97327}
+      - {x: -16.551422, y: 364.97327}
+      - {x: -16.551422, y: 335.97327}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ToiletRollHolder
+      rect:
+        serializedVersion: 2
+        x: 31.07611
+        y: 0.026763916
+        width: 47.84778
+        height: 32.946503
+      alignment: 9
+      pivot: {x: -16.012283, y: -14.752811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -638.07605, y: -515.5268}
+        - {x: -663.07605, y: -504.5268}
+        - {x: -663.07605, y: -490.5268}
+        - {x: -645.07605, y: -482.5268}
+        - {x: -640.07605, y: -482.5268}
+        - {x: -615.07605, y: -496.5268}
+        - {x: -615.07605, y: -506.5268}
+        - {x: -633.07605, y: -515.5268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71117b56ceb54a8a8a3eccb924a7836e
+      internalID: 21300188
+      vertices:
+      - {x: 198.92389, y: 22.473251}
+      - {x: 180.92389, y: 3.4732513}
+      - {x: 198.92389, y: 12.473251}
+      - {x: 175.92389, y: 3.4732513}
+      - {x: 173.92389, y: 36.47325}
+      - {x: 168.92389, y: 36.47325}
+      - {x: 150.92389, y: 28.473251}
+      - {x: 150.92389, y: 14.473251}
+      indices: 070000000600000003000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow_Shadow4
+      rect:
+        serializedVersion: 2
+        x: 755.0762
+        y: 1566.0762
+        width: 94.897156
+        height: 49.897156
+      alignment: 9
+      pivot: {x: -7.019728, y: -12.749269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -614.6008, y: -599.1008}
+        - {x: -636.6008, y: -583.1008}
+        - {x: -636.6008, y: -571.1008}
+        - {x: -635.6008, y: -570.1008}
+        - {x: -589.6008, y: -549.1008}
+        - {x: -576.6008, y: -549.1008}
+        - {x: -541.6008, y: -570.1008}
+        - {x: -541.6008, y: -588.1008}
+        - {x: -566.6008, y: -599.1008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aba4c8026244df85a73d297a9accc9
+      internalID: 21300190
+      vertices:
+      - {x: 219.44858, y: 115.94858}
+      - {x: 194.44858, y: 86.94858}
+      - {x: 219.44858, y: 97.94858}
+      - {x: 184.44858, y: 136.94858}
+      - {x: 171.44858, y: 136.94858}
+      - {x: 146.44858, y: 86.94858}
+      - {x: 125.44858, y: 115.94858}
+      - {x: 124.44858, y: 114.94858}
+      - {x: 124.44858, y: 102.94858}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Tap
+      rect:
+        serializedVersion: 2
+        x: 339.0761
+        y: 1437
+        width: 31.847778
+        height: 35.973267
+      alignment: 9
+      pivot: {x: -20.225971, y: -18.013376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -585.0761, y: -597.98663}
+        - {x: -594.0761, y: -593.98663}
+        - {x: -594.0761, y: -566.98663}
+        - {x: -578.0761, y: -561.98663}
+        - {x: -564.0761, y: -561.98663}
+        - {x: -562.0761, y: -564.98663}
+        - {x: -562.0761, y: -589.98663}
+        - {x: -572.0761, y: -597.98663}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0053c2500440d2b8dabc25d5711590
+      internalID: 3707571600205952294
+      vertices:
+      - {x: 111.92389, y: 121.98663}
+      - {x: 113.92389, y: 93.98663}
+      - {x: 113.92389, y: 118.98663}
+      - {x: 103.92389, y: 85.98663}
+      - {x: 97.92389, y: 121.98663}
+      - {x: 90.92389, y: 85.98663}
+      - {x: 81.92389, y: 116.98663}
+      - {x: 81.92389, y: 89.98663}
+      indices: 070000000600000005000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^DoorLeft_0003
+      rect:
+        serializedVersion: 2
+        x: 807.0762
+        y: 1083.0267
+        width: 40.84778
+        height: 104.9465
+      alignment: 9
+      pivot: {x: -11.803634, y: -3.716689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -512.5761, y: -503.5268}
+        - {x: -517.5761, y: -490.5268}
+        - {x: -517.5761, y: -425.5268}
+        - {x: -495.5761, y: -398.5268}
+        - {x: -478.5761, y: -398.5268}
+        - {x: -476.5761, y: -402.5268}
+        - {x: -476.5761, y: -481.5268}
+        - {x: -496.5761, y: -503.5268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7418eae2f04ce6ab68240769c39a1c
+      internalID: 21300194
+      vertices:
+      - {x: 44.42389, y: 96.47325}
+      - {x: 46.42389, y: 13.473251}
+      - {x: 46.42389, y: 92.47325}
+      - {x: 27.42389, y: 96.47325}
+      - {x: 26.42389, y: -8.526749}
+      - {x: 10.423889, y: -8.526749}
+      - {x: 5.423888, y: 69.47325}
+      - {x: 5.423888, y: 4.4732513}
+      indices: 070000000600000005000000030000000500000006000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^Pillow4
+      rect:
+        serializedVersion: 2
+        x: 0.026733398
+        y: 1778.0762
+        width: 90.94653
+        height: 90.897156
+      alignment: 9
+      pivot: {x: -7.3235717, y: -7.1306105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -555.52673, y: -625.6008}
+        - {x: -634.52673, y: -625.6008}
+        - {x: -634.52673, y: -553.6008}
+        - {x: -632.52673, y: -546.6008}
+        - {x: -586.52673, y: -534.6008}
+        - {x: -565.52673, y: -534.6008}
+        - {x: -549.52673, y: -547.6008}
+        - {x: -543.52673, y: -568.6008}
+        - {x: -543.52673, y: -603.6008}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d62723f0034a9ebf919cf1acb6b0fa
+      internalID: 21300196
+      vertices:
+      - {x: 207.47327, y: 191.44858}
+      - {x: 213.47327, y: 135.44858}
+      - {x: 213.47327, y: 170.44858}
+      - {x: 201.47327, y: 113.44858}
+      - {x: 191.47327, y: 204.44858}
+      - {x: 170.47327, y: 204.44858}
+      - {x: 124.47327, y: 192.44858}
+      - {x: 122.47327, y: 185.44858}
+      - {x: 122.47327, y: 113.44858}
+      indices: 080000000700000003000000060000000300000007000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ^ClosetShelfBottom
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 334.02673
+        width: 187.84778
+        height: 130.94647
+      alignment: 9
+      pivot: {x: 1.6601089, y: -0.8251734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -192.07611, y: -375.5268}
+        - {x: -194.07611, y: -374.5268}
+        - {x: -194.07611, y: -307.5268}
+        - {x: -69.07611, y: -244.52678}
+        - {x: -62.07611, y: -244.52678}
+        - {x: -6.076111, y: -272.5268}
+        - {x: -6.076111, y: -281.5268}
+        - {x: -8.076111, y: -286.5268}
+        - {x: -187.07614, y: -375.5268}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d2b538f8545489348df69de59484e
+      internalID: 21300198
+      vertices:
+      - {x: -130.07611, y: -33.526764}
+      - {x: -132.07611, y: -47.526764}
+      - {x: -130.07611, y: -42.52677}
+      - {x: -186.07611, y: -5.526764}
+      - {x: -193.07611, y: -5.526764}
+      - {x: -311.07614, y: -136.52676}
+      - {x: -316.0761, y: -136.52676}
+      - {x: -318.0761, y: -68.526764}
+      - {x: -318.0761, y: -135.52676}
+      indices: 080000000700000006000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      +BedsideDrawerBack: 21300090
+      +BedsideDrawerFront: 21300048
+      +ClosetDrawerBack: 21300128
+      +ClosetDrawerFront: 21300108
+      +CutleryDivider: 21300056
+      +DrawerBack: 21300104
+      +DrawerFront: 21300086
+      +ToiletRollHolder_Hover: 21300034
+      +ToiletRollHolder_Placed: 21300164
+      ^BathTap: 21300166
+      ^Bath_Back: 21300060
+      ^BedFrontEnd: 21300114
+      ^BedsideDrawer_Mask: 21300030
+      ^BedsideTableBack: 21300050
+      ^BedsideTableFront: 21300080
+      ^BedsideTableTop: 21300130
+      ^Bench_CupboardAndBack: 21300124
+      ^Bench_CupboardDoor: 21300002
+      ^Bench_CupboardDoor_0001: 21300150
+      ^Bench_CupboardDoor_0002: 21300094
+      ^Bench_CupboardDoor_0003: 21300152
+      ^Bench_CupboardDoor_0004: 21300168
+      ^Bench_CupboardDoor_open: 21300072
+      ^Bench_CupboardShelf: 21300156
+      ^Bench_Top: 21300102
+      ^Blind: 21300186
+      ^BoxMask_2_Bathroom_Floor: 21300018
+      ^BoxMask_2_Kitchenette_Floor: 21300096
+      ^ChairBack: 21300014
+      ^ChairSeat: 21300172
+      ^ClosetDoorTrack: 21300098
+      ^ClosetDrawer_Mask: 21300160
+      ^ClosetFront: 21300032
+      ^ClosetShelfBottom: 21300198
+      ^ClosetShelfMiddle: 21300126
+      ^ClosetShelfTop: 21300174
+      ^ClosetTop: 21300042
+      ^Clothesrack: 21300180
+      ^Cupboards_Left: 21300158
+      ^Cupboards_LeftShelf: 21300122
+      ^Cupboards_Middle: 21300110
+      ^Cupboards_Right: 21300046
+      ^Cupboards_RightShelf: 21300026
+      ^DeskBack: 21300184
+      ^DeskFront: 21300052
+      ^DoorLeft: 21300132
+      ^DoorLeft_0001: 21300016
+      ^DoorLeft_0002: 21300012
+      ^DoorLeft_0003: 21300194
+      ^DoorLeft_Open: 21300022
+      ^DoorRight: 21300082
+      ^DoorRight_0001: 21300092
+      ^DoorRight_0002: 21300054
+      ^DoorRight_0003: 21300134
+      ^DoorRight_Open: 21300024
+      ^DoorStop: 21300112
+      ^DrawerHousingBack: 21300004
+      ^DrawerHousingFront: 21300028
+      ^Drawer_Mask: 21300074
+      ^FoldingDoor_0002: 21300058
+      ^FoldingDoor_0003: 21300148
+      ^FoldingDoor_0004: 21300100
+      ^FoldingDoor_0005: 21300182
+      ^FoldingDoor_Open: 21300036
+      ^Hook: 21300040
+      ^Microwave_Off_Flipped: 21300070
+      ^Pillow: 21300118
+      ^Pillow2: 21300162
+      ^Pillow3: 21300140
+      ^Pillow4: 21300196
+      ^Pillow5: 21300076
+      ^Pillow_Shadow: 21300078
+      ^Pillow_Shadow2: 21300178
+      ^Pillow_Shadow3: 21300020
+      ^Pillow_Shadow4: 21300190
+      ^Pillow_Shadow5: 21300170
+      ^Shelf1: 21300062
+      ^Shelf1_Over: 21300116
+      ^Shelf2: 21300006
+      ^Shelf2_Over: 21300000
+      ^Shelf3: 21300010
+      ^Shelf3_Over: 21300146
+      ^SinkBottom: 21300064
+      ^SinkTop: 21300044
+      ^SinkTop2: 21300138
+      ^SplashGuard: 21300066
+      ^Tap: 21300106
+      ^ToiletHandle: 21300068
+      ^ToiletHandle_0001: 21300120
+      ^ToiletHandle_0002: 21300176
+      ^ToiletRollHolder: 21300188
+      ^Toilet_0: 21300144
+      ^Toilet_1: 21300142
+      ^TowelRack: 21300038
+      ^TowelRack_TowelHover: 21300088
+      ^TowelRack_TowelPlaced: 21300084
+      ^View_Mask: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

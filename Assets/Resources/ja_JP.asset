@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: ja_JP
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: 日本語
+  - id: menu_resume
+    text: 再開
+  - id: menu_restart
+    text: リスタート
+  - id: menu_album
+    text: アルバム
+  - id: menu_settings
+    text: 設定
+  - id: menu_mainmenu
+    text: メインメニュー
+  - id: menu_play
+    text: プレイ
+  - id: menu_newgame
+    text: New Game
+  - id: menu_quit
+    text: 終了
+  - id: menu_back
+    text: 戻る
+  - id: menu_volume_music
+    text: BGM
+  - id: menu_volume_sfx
+    text: 効果音
+  - id: menu_volume_master
+    text: マスター音量
+  - id: menu_speakers
+    text: スピーカー
+  - id: menu_access_zonechange
+    text: 部屋切り替え
+  - id: menu_resolution
+    text: 解像度
+  - id: menu_fullscreen
+    text: 表示
+  - id: menu_apply
+    text: 適用
+  - id: menu_no
+    text: いいえ
+  - id: menu_yes
+    text: はい
+  - id: menu_startover
+    text: やり直す
+  - id: menu_toggle_fullscreen
+    text: 全画面
+  - id: menu_toggle_windowed
+    text: ウィンドウ
+  - id: menu_toggle_slide
+    text: スライド
+  - id: menu_toggle_fade
+    text: フェード
+  - id: menu_postfx
+    text: FXのポストプロセス
+  - id: menu_access_iconsize
+    text: アイコンサイズ
+  - id: menu_toggle_default
+    text: デフォルト
+  - id: menu_toggle_2x
+    text: 2x
+  - id: menu_toggle_3x
+    text: 3x
+  - id: menu_access_placementhints
+    text: 配置のヒント
+  - id: menu_access_invaliditemhighlight
+    text: 無効なアイテムを強調
+  - id: menu_access_allowitemsanywhere
+    text: アイテム全箇所配置可能
+  - id: menu_discard
+    text: 破棄
+  - id: menu_replace
+    text: 保存
+  - id: menu_cancel
+    text: 取消
+  - id: menu_album_select
+    text: アルバム選択
+  - id: menu_stickersheets
+    text: ステッカー
+  - id: menu_language
+    text: 言語
+  - id: menu_audio
+    text: オーディオ
+  - id: menu_video
+    text: 動画
+  - id: menu_controls
+    text: コントロール
+  - id: menu_accessibility
+    text: アクセシビリティ
+  - id: menu_clearall
+    text: 全データ消去
+  - id: menu_resetdefault
+    text: デフォルトに戻す
+  - id: menu_skip
+    text: スキップ
+  - id: menu_startover_prompt
+    text: やり直しますか？\n進行は失われます。
+  - id: menu_startover_prompt_ingame
+    text: ステージをやり直しますか？
+  - id: menu_unsavedchange_prompt_ingame
+    text: このステージはクリア済みです！\n変更をどうしますか？
+  - id: menu_photo_exit_prompt
+    text: フォトモードを終わりますか？
+  - id: menu_album_delete_prompt
+    text: アルバムを破棄しますか？\n（取り消し不可）
+  - id: menu_clearall_prompt
+    text: 全データが消去されます！\nかまいませんか？
+  - id: outro_title
+    text: 体験版をプレイしていただきありがとうございました！
+  - id: outro_upper_line
+    text: 2021年リリース予定の完成版をお楽しみに！
+  - id: outro_lower_line
+    text: 更新情報はウィッシュリストへの追加、\nTwitterフォロー、またはメーリングリスト登録から！
+  - id: sticker_Hearts
+    text: ラブ
+  - id: sticker_ThumbsUp
+    text: もちろんOK
+  - id: sticker_Exclaim
+    text: ワオ！
+  - id: sticker_Brain
+    text: パズルをクリア
+  - id: sticker_Music
+    text: 曲でもいかが
+  - id: sticker_Star
+    text: はじまり
+  - id: sticker_Dab
+    text: ポーズを決めろ
+  - id: sticker_Cookie
+    text: 食べすぎ注意
+  - id: sticker_Skeleton
+    text: 感電注意
+  - id: sticker_Graduation
+    text: お勉強
+  - id: sticker_Gaming
+    text: スイッチオン
+  - id: sticker_Fashion
+    text: 帽子装着
+  - id: sticker_Roleplaying
+    text: 旅の仲間
+  - id: sticker_Undies
+    text: ブリーフ
+  - id: sticker_Coffee
+    text: コーヒータイム
+  - id: sticker_Guitar
+    text: 超クール
+  - id: sticker_Dog
+    text: 子供時代の再発見
+  - id: sticker_ReturningHome
+    text: 家庭料理
+  - id: sticker_Lightbulb
+    text: 天才かも
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: 自立
+  - id: sticker_Plant
+    text: 園芸の才
+  - id: sticker_PlushToys
+    text: ファジーフレンズ
+  - id: sticker_Love
+    text: 愛
+  - id: sticker_Blocks
+    text: 積み木遊び
+  - id: sticker_Toilet
+    text: 全部流して
+  - id: sticker_House
+    text: わが家が一番
+  - id: album_cover
+    text: 本の持ち主
+  - id: album_childroom_year
+    text: 1997年
+  - id: album_childroom_date
+    text: 1997年5月
+  - id: album_studioapt_year
+    text: 2004年
+  - id: album_studioapt_date
+    text: 2004年1月
+  - id: album_sharehouse_year
+    text: 2007年
+  - id: album_sharehouse_date
+    text: 2007年3月
+  - id: album_boyfriendapt_year
+    text: 2010年
+  - id: album_boyfriendapt_date
+    text: 2010年9月
+  - id: album_parenthouse_year
+    text: 2012年
+  - id: album_parenthouse_date
+    text: 2012年6月
+  - id: album_soloapt_year
+    text: 2013年
+  - id: album_soloapt_date
+    text: 2013年1月
+  - id: album_partnerapt_year
+    text: 2015年
+  - id: album_partnerapt_date
+    text: 2015年11月
+  - id: album_house_year
+    text: 2018年
+  - id: album_house_date
+    text: 2018年7月
+  - id: album_childroom_bedroom
+    text: 夢に見た自分の部屋！
+  - id: album_childroom_darkstar
+    text: こんなものかな。外で遊ぼっと！
+  - id: album_studioapt_bedroom
+    text: 授業は月曜日から！私も大学生！
+  - id: album_studioapt_bathroom
+    text: 一人用バスルーム！やった！
+  - id: album_studioapt_kitchenette
+    text: 自炊しなきゃだめ？はあ。
+  - id: album_studioapt_darkstar
+    text: えーと、後で片付けようかな。
+  - id: album_sharehouse_livingroom
+    text: みんなで映画を見たいな！
+  - id: album_sharehouse_bathroom
+    text: 待って、バスルームって共用？
+  - id: album_sharehouse_bedroom
+    text: 今日はもうへとへと！寝るとしようかな。
+  - id: album_sharehouse_kitchen
+    text: 前のキッチンよりすっごく広い！
+  - id: album_sharehouse_diningroom
+    text: もっと夜更かししてゲームしちゃう！
+  - id: album_sharehouse_darkstar
+    text: 突然整頓上手になるなんて無理よね。
+  - id: album_boyfriendapt_livingroom
+    text: この人の家で暮らすんだ！
+  - id: album_boyfriendapt_kitchen
+    text: インスタントじゃないコーヒーだ。
+  - id: album_boyfriendapt_bathroom
+    text: シャワー中に景色が見える！
+  - id: album_boyfriendapt_bedroom
+    text: なんとか入れたわ！
+  - id: album_boyfriendapt_darkstar
+    text: 彼はまとまりのなさも好きだから平気！
+  - id: album_parenthouse_bedroom
+    text: 昔はもっと広く感じたわ。
+  - id: album_parenthouse_bathroom
+    text: 姉妹でバスルームを取り合ったわね。
+  - id: album_parenthouse_darkstar
+    text: 元に戻すのにずいぶんかかったわ。
+  - id: album_soloapt_livingroom
+    text: ソファの入手先は後で考えよう。
+  - id: album_soloapt_bathroom
+    text: やっとゆっくりお風呂にはいれる！
+  - id: album_soloapt_bedroom
+    text: クイーンサイズを独り占め！
+  - id: album_soloapt_office
+    text: ここで絵を描こう！
+  - id: album_soloapt_kitchen
+    text: 予算内で良い場所が見つかってよかった！
+  - id: album_soloapt_darkstar
+    text: 別に人を呼ぶための場所じゃないしね。
+  - id: album_partnerapt_livingroom
+    text: すごく居心地がよくなった！自分の家って感じ。
+  - id: album_partnerapt_bathroom
+    text: 引き出しもすぐに全部いっぱいだ！
+  - id: album_partnerapt_bedroom
+    text: タンスが広々して最高！
+  - id: album_partnerapt_office
+    text: 大変だったけどいい感じ！
+  - id: album_partnerapt_kitchen
+    text: キッチンに立つだけでわくわくしちゃう！
+  - id: album_partnerapt_darkstar
+    text: ジャングルへようこそ！
+  - id: album_house_foyer
+    text: 私たちの新しい家！
+  - id: album_house_bathroom
+    text: ファミリーサイズのバスルーム！
+  - id: album_house_nursery
+    text: 子供に会うのが本当に待ち遠しい！
+  - id: album_house_closet
+    text: 持ってる服を全部しまってもまだ入る！
+  - id: album_house_bedroom
+    text: この家の寝心地、すごく良さそう！
+  - id: album_house_office
+    text: 私の仕事場、絵描きの私の場所！
+  - id: album_house_toilet
+    text: おまけのトイレ！
+  - id: album_house_kitchen
+    text: マグネットを全部貼れる冷蔵庫は初めて！
+  - id: album_house_diningroom
+    text: もうディナパーティーのことを考えちゃってる！
+  - id: album_house_livingroom
+    text: 広いリビングに裏庭まで！これならペットも飼えちゃう！
+  - id: album_house_darkstar
+    text: こんなものかな、ちょっと寝よう！
+  - id: album_credits
+    text: この旅をともにしてくれてありがとう。
+  - id: album_credits_darkstar
+    text: 家には戻らない、中はぐちゃぐちゃだ。
+  - id: credits_developed
+    text: developed by
+  - id: credits_creative_director
+    text: Creative Director
+  - id: credits_technical_director
+    text: Technical Director
+  - id: credits_composer_sound_designer
+    text: Composer & Sound Designer
+  - id: credits_pixel_art
+    text: Pixel Art
+  - id: credits_foley_recording
+    text: Foley Recording
+  - id: credits_game_design
+    text: Game Design
+  - id: credits_narrative_assistance
+    text: Narrative Assistance
+  - id: credits_additional_coding
+    text: Additional Coding
+  - id: credits_hero_image_stickers
+    text: Hero Image and Stickers
+  - id: credits_title_screen_art
+    text: Title Screen Art
+  - id: credits_anim_previs
+    text: Animation Pre-vis
+  - id: credits_dev_business_support
+    text: Development & Business Support
+  - id: credits_legal
+    text: Legal Assistance
+  - id: credits_published_by
+    text: Presented By
+  - id: credits_special_thanks
+    text: Special Thanks
+  - id: credits_in_memory
+    text: In Memory of
+  - id: credits_supported_by
+    text: Proudly Supported By
+  - id: input_rebind
+    text: ボタンを押す
+  - id: inputaction_gameplay
+    text: ゲーム内
+  - id: inputaction_gameplay_liftandplace
+    text: 持ち上げる/置く
+  - id: inputaction_gameplay_turnandinteract
+    text: 回転/操作
+  - id: inputaction_gameplay_screenpan
+    text: 画面を水平移動
+  - id: inputaction_gameplay_photomode
+    text: フォトモードを開く
+  - id: inputaction_gameplay_floorplanmode
+    text: 見取り図を開く
+  - id: inputaction_gameplay_zoomin
+    text: ズームイン
+  - id: inputaction_gameplay_zoomout
+    text: ズームアウト
+  - id: inputaction_gameplay_changezoneleft
+    text: 左の部屋へ
+  - id: inputaction_gameplay_changezoneright
+    text: 右の部屋へ
+  - id: inputaction_photo
+    text: フォトモード
+  - id: inputaction_photo_capture
+    text: 写真を撮る
+  - id: inputaction_photo_hideui
+    text: UIを隠す
+  - id: inputaction_menu
+    text: メニュー
+  - id: inputaction_menu_accept
+    text: 承認
+  - id: inputaction_menu_back
+    text: 戻る
+  - id: inputaction_menu_nextpage
+    text: 次のページ
+  - id: inputaction_menu_prevpage
+    text: 前のページ
+  - id: menu_controls_rebind
+    text: 操作設定
+  - id: menu_controls_reversesticks
+    text: 操作スティック反転
+  - id: menu_controls_vibration
+    text: 振動
+  - id: menu_controls_cursorsensitivity
+    text: コントローラー\nカーソル感度
+  - id: menu_controls_changeinput
+    text: 入力を変更
+  - id: menu_saveerror_prompt
+    text: セーブデータを読み込めません。\nやり直しますか？
+  - id: menu_allowanywhere_prompt
+    text: ゲームのパズル要素が失われます。かまいませんか？
+  - id: menu_controls_cursor
+    text: カーソルを画面内に制限
+  - id: menu_audio_shuffle
+    text: 音楽をシャッフル再生
+  - id: menu_continue
+    text: OK
+  - id: menu_photo_exit_prompt_extra
+    text: （変更は失われます。）
+  - id: menu_save_image
+    text: 画像の保存先
+  - id: menu_save_gif
+    text: GIFの保存先
+  - id: menu_save_video
+    text: 動画の保存先
+  - id: album_clone
+    text: 新しいアルバムにコピー
+  - id: photo_save_computer
+    text: '画像の保存先:'
+  - id: photo_save_steam
+    text: Steamスクリーンショットに保存しました
+  - id: photo_save
+    text: 画像を保存しました！
+  - id: playback_header
+    text: クイック再生
+  - id: playback_speed
+    text: 速度
+  - id: playback_encoding
+    text: エンコード中…
+  - id: playback_gif_result
+    text: 'GIFの保存先:'
+  - id: playback_video_result
+    text: '動画の保存先:'
+  - id: unlock_header
+    text: 新しい機能がアンロック！
+  - id: unlock_shuffle
+    text: オーディオ設定から「音楽をシャッフル再生」を有効にすることで、ゲーム内のすべての音楽を聴くことができます！
+  - id: unlock_validation
+    text: ステージの荷ほどきが終わると、ステージ評価のオンとオフを切り替えて一時的にアイテムの強調表示とスターボタンを隠すことができます。
+  - id: credits_localization
+    text: Localization
+  - id: credits_website
+    text: Website Design
+  - id: credits_audio_director
+    text: Audio Director
+  - id: credits_music_sound_design
+    text: Music & Sound Design
+  - id: credits_foley_production
+    text: Foley Production
+  - id: credits_foley_additional
+    text: Additional Foley
+  - id: credits_community
+    text: Community Strategy
+  - id: credits_playtesters
+    text: Playtesters
+  - id: credits_guitars_additional
+    text: Additional Guitars
+  - id: credits_testing
+    text: Testing by
+  - id: credits_porting
+    text: Porting by
+  - id: lyrics_1_1
+    text: 引っ越しのトラックが止まる音
+  - id: lyrics_1_2
+    text: 家の扉をノックする音
+  - id: lyrics_1_3
+    text: 床に置かれたたくさんの箱
+  - id: lyrics_1_4
+    text: あなたの物がみんなある
+  - id: lyrics_2_1
+    text: あなたは箱を開ける
+  - id: lyrics_2_2
+    text: やることがたくさんあるの
+  - id: lyrics_2_3
+    text: 私は心の扉を開ける
+  - id: lyrics_2_4
+    text: これからここには2人が住むの
+  - id: lyrics_3_1
+    text: 見栄えのしない窓だって
+  - id: lyrics_3_2
+    text: 花と緑で輝くの
+  - id: lyrics_3_3
+    text: 冷え込んでくる午後だって
+  - id: lyrics_3_4
+    text: あなたの毛布で暖かい
+  - id: lyrics_4_1
+    text: 梱包材の山の中から
+  - id: lyrics_4_2
+    text: あなたの好きなマグカップ
+  - id: lyrics_4_3
+    text: 冷蔵庫には磁石を付けて
+  - id: lyrics_4_4
+    text: 2人にとってのわが家になるの
+  - id: lyrics_5_1
+    text: 2人の写真をあなたが飾る
+  - id: lyrics_5_2
+    text: 私の心に笑顔が灯る
+  - id: lyrics_6_1
+    text: テープを切るのは私のナイフ
+  - id: lyrics_6_2
+    text: あなたの暮らしを荷ほどきしよう
+  - id: lyrics_6_3
+    text: 2人で一緒に荷ほどきしよう
+  - id: lyrics_7_1
+    text: 2人の物が噛み合いだすの
+  - id: lyrics_7_2
+    text: 仲良く並んだ2人の人形
+  - id: lyrics_7_3
+    text: 大事な物は大事な場所に
+  - id: lyrics_7_4
+    text: 寝室の棚の一等地
+  - id: lyrics_7_5
+    text: 私の心に笑顔が灯る
+  - id: lyrics_8_1
+    text: テープを切るのは私のナイフ
+  - id: lyrics_8_2
+    text: あなたの暮らしを荷ほどきしよう
+  - id: lyrics_8_3
+    text: 2人で一緒に荷ほどきしよう
+  - id: input_rebind_cancel
+    text: （{0}か{1}を長押ししてキャンセル）
+  - id: input_rebind_cancel_gp_only
+    text: （{0}を長押ししてキャンセル）
+  - id: inputaction_gameplay_focus
+    text: アイテムをよく見る
+  - id: credits_font_clean
+    text: Chinese & Korean Font Clean-Up
+  - id: credits_grandmother
+    text: Ilana Sharon, beloved grandmother
+  - id: menu_switch_user
+    text: ユーザー切り替え
+  - id: menu_switch_profile
+    text: プロフィール切り替え
+  - id: menu_controls_swapsticks
+    text: L/Rスティックの入れ替え
+  - id: menu_controls_cursorsensitivity_alt
+    text: \nカーソル速度
+  - id: menu_credits
+    text: クレジット
+  - id: inputaction_gameplay_spmove_down
+    text: '   下'
+  - id: inputaction_gameplay_spmove_left
+    text: '   左'
+  - id: inputaction_gameplay_spmove_right
+    text: '   右'
+  - id: inputaction_gameplay_spmove_up
+    text: '   上'
+  - id: menu_controls_swapsticks_nx
+    text: L/Rスティックの入れ替え

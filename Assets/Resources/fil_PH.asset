@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: fil_PH
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: Filipino
+  - id: menu_resume
+    text: Magpatuloy
+  - id: menu_restart
+    text: I-restart
+  - id: menu_album
+    text: Album
+  - id: menu_settings
+    text: Settings
+  - id: menu_mainmenu
+    text: Main Menu
+  - id: menu_play
+    text: Maglaro
+  - id: menu_newgame
+    text: Bagong Laro
+  - id: menu_quit
+    text: Umalis
+  - id: menu_back
+    text: Bumalik
+  - id: menu_volume_music
+    text: Musika
+  - id: menu_volume_sfx
+    text: Sound FX
+  - id: menu_volume_master
+    text: Master Vol
+  - id: menu_speakers
+    text: Mga Speaker
+  - id: menu_access_zonechange
+    text: Magpalit ng Room
+  - id: menu_resolution
+    text: Resolution
+  - id: menu_fullscreen
+    text: Display Mode
+  - id: menu_apply
+    text: Ilapat
+  - id: menu_no
+    text: Hindi
+  - id: menu_yes
+    text: Oo
+  - id: menu_startover
+    text: Magsimula Ulit
+  - id: menu_toggle_fullscreen
+    text: Fullscreen
+  - id: menu_toggle_windowed
+    text: Windowed
+  - id: menu_toggle_slide
+    text: Slide
+  - id: menu_toggle_fade
+    text: Fade
+  - id: menu_postfx
+    text: Post FX
+  - id: menu_access_iconsize
+    text: Laki ng icon
+  - id: menu_toggle_default
+    text: Default
+  - id: menu_toggle_2x
+    text: 2x
+  - id: menu_toggle_3x
+    text: 3x
+  - id: menu_access_placementhints
+    text: Mga placement hint
+  - id: menu_access_invaliditemhighlight
+    text: Invalid na pag-highlight
+  - id: menu_access_allowitemsanywhere
+    text: I-allow ang items kahit saan
+  - id: menu_discard
+    text: I-discard
+  - id: menu_replace
+    text: Palitan
+  - id: menu_cancel
+    text: I-cancel
+  - id: menu_album_select
+    text: Pagpili ng Album
+  - id: menu_stickersheets
+    text: Mga Sticker
+  - id: menu_language
+    text: Wika
+  - id: menu_audio
+    text: Audio
+  - id: menu_video
+    text: Video
+  - id: menu_controls
+    text: Mga Kontrol
+  - id: menu_accessibility
+    text: Accessibility
+  - id: menu_clearall
+    text: Alisin ang data
+  - id: menu_resetdefault
+    text: I-reset sa default
+  - id: menu_skip
+    text: I-skip
+  - id: menu_startover_prompt
+    text: Magsimula sa umpisa?\nMawawala ang progress mo.
+  - id: menu_startover_prompt_ingame
+    text: Simulan sa umpisa ang stage?
+  - id: menu_unsavedchange_prompt_ingame
+    text: Tapos na ang stage na ito. Ano'ng gusto mong gawin sa mga binago mo?
+  - id: menu_photo_exit_prompt
+    text: Umalis sa Photo Mode?
+  - id: menu_album_delete_prompt
+    text: I-discard ang album?\nHindi ito maa-undo.
+  - id: menu_clearall_prompt
+    text: Made-delete nito ang LAHAT ng\nsave data! Sigurado na?
+  - id: outro_title
+    text: Salamat sa paglalaro ng aming demo!
+  - id: outro_upper_line
+    text: Marami pang maa-unpack sa buong laro.
+  - id: outro_lower_line
+    text: Available na ngayon!
+  - id: sticker_Hearts
+    text: Wala pang tatlo
+  - id: sticker_ThumbsUp
+    text: Heck yeah
+  - id: sticker_Exclaim
+    text: Wow!
+  - id: sticker_Brain
+    text: Mag-puzzle
+  - id: sticker_Music
+    text: Magpatugtog
+  - id: sticker_Star
+    text: Simula
+  - id: sticker_Dab
+    text: Mag-pose
+  - id: sticker_Cookie
+    text: Bawal na pagkain
+  - id: sticker_Skeleton
+    text: Electrical hazard
+  - id: sticker_Graduation
+    text: Mag-isip
+  - id: sticker_Gaming
+    text: Handa na
+  - id: sticker_Fashion
+    text: Naka-hat
+  - id: sticker_Roleplaying
+    text: Fellowship
+  - id: sticker_Undies
+    text: Mga brip
+  - id: sticker_Coffee
+    text: Gumawa ng kape
+  - id: sticker_Guitar
+    text: Sobrang astig
+  - id: sticker_Dog
+    text: Balik sa pagkabata
+  - id: sticker_ReturningHome
+    text: Lutong-bahay
+  - id: sticker_Lightbulb
+    text: Matalinong na-solve
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: Independence
+  - id: sticker_Plant
+    text: Green thumb
+  - id: sticker_PlushToys
+    text: Balbong pet
+  - id: sticker_Love
+    text: Pag-ibig
+  - id: sticker_Blocks
+    text: Baby builder
+  - id: sticker_Toilet
+    text: Ubusin lahat
+  - id: sticker_House
+    text: Walang katulad ang tahanan
+  - id: album_cover
+    text: Ang librong ito ay kay
+  - id: album_childroom_year
+    text: 1997
+  - id: album_childroom_date
+    text: Mayo 1997
+  - id: album_studioapt_year
+    text: 2004
+  - id: album_studioapt_date
+    text: Enero 2004
+  - id: album_sharehouse_year
+    text: 2007
+  - id: album_sharehouse_date
+    text: Marso 2007
+  - id: album_boyfriendapt_year
+    text: 2010
+  - id: album_boyfriendapt_date
+    text: Setyembre 2010
+  - id: album_parenthouse_year
+    text: 2012
+  - id: album_parenthouse_date
+    text: Hunyo 2012
+  - id: album_soloapt_year
+    text: 2013
+  - id: album_soloapt_date
+    text: Enero 2013
+  - id: album_partnerapt_year
+    text: 2015
+  - id: album_partnerapt_date
+    text: Nobyembre 2015
+  - id: album_house_year
+    text: 2018
+  - id: album_house_date
+    text: Hulyo 2018
+  - id: album_childroom_bedroom
+    text: May kwarto na 'ko!
+  - id: album_childroom_darkstar
+    text: Ayos na, oras nang maglibang!
+  - id: album_studioapt_bedroom
+    text: Klase na sa Lunes! Heto na 'ko, Uni!
+  - id: album_studioapt_bathroom
+    text: Pribadong banyo! Sakto!
+  - id: album_studioapt_kitchenette
+    text: Ako'ng magluluto para sarili ko? Naku.
+  - id: album_studioapt_darkstar
+    text: Eh, mag-aayos ako maya-maya.
+  - id: album_sharehouse_livingroom
+    text: Pelikula sa gabi, magiging masaya 'to!
+  - id: album_sharehouse_bathroom
+    text: Teka, iisa lang tayo ng banyo?
+  - id: album_sharehouse_bedroom
+    text: Nakakapagod ngayong araw! Matutulog na 'ko.
+  - id: album_sharehouse_kitchen
+    text: MAS malaki kaysa sa dati kong kusina!
+  - id: album_sharehouse_diningroom
+    text: Mas naging naaayon ang paglalaro sa gabi!
+  - id: album_sharehouse_darkstar
+    text: Kilala nila ako sa uni, alam nila ang aasahan.
+  - id: album_boyfriendapt_livingroom
+    text: Ang seryoso kong lumilipat dito!
+  - id: album_boyfriendapt_kitchen
+    text: May nakakaalam bang may hindi instant na kape?
+  - id: album_boyfriendapt_bathroom
+    text: Shower na may view!
+  - id: album_boyfriendapt_bedroom
+    text: Medyo nahirapan akong umayon dito!
+  - id: album_boyfriendapt_darkstar
+    text: Ayos lang, gusto niya ang pagiging spontaneous ko!
+  - id: album_parenthouse_bedroom
+    text: Dati, parang ang laki ng kwartong 'to.
+  - id: album_parenthouse_bathroom
+    text: Nag-aaway kami dati ng kapatid ko sa banyong 'to.
+  - id: album_parenthouse_darkstar
+    text: Matagal-tagal bago ko naibalik sa dati kung paano ko ito iniwan.
+  - id: album_soloapt_livingroom
+    text: Aalamin ko kung saan may couch.
+  - id: album_soloapt_bathroom
+    text: Na-miss kong maligo nang matagal!
+  - id: album_soloapt_bedroom
+    text: Queen sized bed na para sa'kin lang!
+  - id: album_soloapt_office
+    text: Gagawin ko 'tong para sa art!
+  - id: album_soloapt_kitchen
+    text: Ang sayang makahanap ng lugar na maganda at mura!
+  - id: album_soloapt_darkstar
+    text: Hindi ko naman planong gaanong maglibang.
+  - id: album_partnerapt_livingroom
+    text: Mas cozy na ngayon! Tahanan ang pakiramdam.
+  - id: album_partnerapt_bathroom
+    text: Puno agad ang lahat ng drawer!
+  - id: album_partnerapt_bedroom
+    text: Ang saya ko ngayon sa lalagyan ng damit!
+  - id: album_partnerapt_office
+    text: Ang hirap pero nagsisimula na akong may magawa!
+  - id: album_partnerapt_kitchen
+    text: Nasasabik akong makaranas ng bago sa pagluluto!
+  - id: album_partnerapt_darkstar
+    text: Welcome sa gubat!
+  - id: album_house_foyer
+    text: Bago nating bahay!
+  - id: album_house_bathroom
+    text: Family-sized na banyo!
+  - id: album_house_nursery
+    text: Sabik na sabik kaming makilala ka!
+  - id: album_house_closet
+    text: Saktong space para sa mga damit natin at iba pa!
+  - id: album_house_bedroom
+    text: Sabik akong unang beses na matulog sa bago nating bahay!
+  - id: album_house_office
+    text: Espasyo ko, ang propesyonal, para sa propesyon ko!
+  - id: album_house_toilet
+    text: Isa pang banyo!
+  - id: album_house_kitchen
+    text: May fridge na ring sapat para sa lahat ng magnet natin!
+  - id: album_house_diningroom
+    text: Nagpaplano na kami ng kainan!
+  - id: album_house_livingroom
+    text: Ang lawak at may bakuran! Pwede na tayong mag-alaga ng hayop!
+  - id: album_house_darkstar
+    text: Ayos na, oras nang umidlip!
+  - id: album_credits
+    text: Salamat at kasama kita sa paglalakbay na ito.
+  - id: album_credits_darkstar
+    text: Hindi ako papasok ng bahay, ang daming basura.
+  - id: credits_developed
+    text: dinevelop ni
+  - id: credits_creative_director
+    text: Creative Director
+  - id: credits_technical_director
+    text: Technical Director
+  - id: credits_composer_sound_designer
+    text: Composer at Sound Designer
+  - id: credits_pixel_art
+    text: Pixel Art
+  - id: credits_foley_recording
+    text: Foley Recording
+  - id: credits_game_design
+    text: Disenyo ng Laro
+  - id: credits_narrative_assistance
+    text: Tulong sa Kwento
+  - id: credits_additional_coding
+    text: Karagdagang Tulong
+  - id: credits_hero_image_stickers
+    text: Pangunahing Larawan at Mga Sticker
+  - id: credits_title_screen_art
+    text: Title Screen Art
+  - id: credits_anim_previs
+    text: Animation Pre-vis
+  - id: credits_dev_business_support
+    text: Suporta sa Development at Negosyo
+  - id: credits_legal
+    text: Legal na Tulong
+  - id: credits_published_by
+    text: Ipinepresenta Ng
+  - id: credits_special_thanks
+    text: Espesyal na Pasasalamat
+  - id: credits_in_memory
+    text: Sa Alaala Ni
+  - id: credits_supported_by
+    text: Ipinagmamalaking Suportado Ng
+  - id: input_rebind
+    text: Pindutin ang button
+  - id: inputaction_gameplay
+    text: In Game
+  - id: inputaction_gameplay_liftandplace
+    text: Iangat at Ilapag
+  - id: inputaction_gameplay_turnandinteract
+    text: Iikot at Mag-interact
+  - id: inputaction_gameplay_screenpan
+    text: I-pan ang Screen
+  - id: inputaction_gameplay_photomode
+    text: Buksan ang Photo Mode
+  - id: inputaction_gameplay_floorplanmode
+    text: Buksan ang Floorplan
+  - id: inputaction_gameplay_zoomin
+    text: I-zoom In
+  - id: inputaction_gameplay_zoomout
+    text: I-zoom Out
+  - id: inputaction_gameplay_changezoneleft
+    text: Kwarto sa Kaliwa
+  - id: inputaction_gameplay_changezoneright
+    text: Kwarto sa Kanan
+  - id: inputaction_photo
+    text: Photo Mode
+  - id: inputaction_photo_capture
+    text: Kunan ng Larawan
+  - id: inputaction_photo_hideui
+    text: Itago ang UI
+  - id: inputaction_menu
+    text: Mga Menu
+  - id: inputaction_menu_accept
+    text: Tanggapin
+  - id: inputaction_menu_back
+    text: Bumalik
+  - id: inputaction_menu_nextpage
+    text: Susunod na Page
+  - id: inputaction_menu_prevpage
+    text: Nakaraang Page
+  - id: menu_controls_rebind
+    text: I-rebind ang Mga Kontrol
+  - id: menu_controls_reversesticks
+    text: Pagbaliktarin ang mga control stick
+  - id: menu_controls_swapsticks
+    text: Pagpalitin ang Left / Right Stick
+  - id: menu_controls_vibration
+    text: Vibration
+  - id: menu_controls_cursorsensitivity
+    text: Sensitivity\nng controller cursor
+  - id: menu_controls_cursorsensitivity_alt
+    text: \nBilis ng Cursor
+  - id: menu_controls_changeinput
+    text: Baguhin ang input
+  - id: menu_saveerror_prompt
+    text: Hindi ma-load ang save data. \nMagsimula sa umpisa?
+  - id: menu_allowanywhere_prompt
+    text: Aalisin nito ang puzzle na elemento ng laro. Sigurado ka ba?
+  - id: menu_controls_cursor
+    text: Limitahan ang cursor
+  - id: menu_audio_shuffle
+    text: I-shuffle ang musika
+  - id: menu_continue
+    text: OK
+  - id: menu_photo_exit_prompt_extra
+    text: (Mawawala ang mga binago mo.)
+  - id: menu_save_image
+    text: Save location ng larawan
+  - id: menu_save_gif
+    text: Save location ng GIF
+  - id: menu_save_video
+    text: Save location ng video
+  - id: album_clone
+    text: kopya sa bagong album
+  - id: photo_save_computer
+    text: Na-save ang larawan sa
+  - id: photo_save_steam
+    text: Na-save ang larawan sa Mga Screenshot sa Steam
+  - id: photo_save
+    text: Na-save ang larawan!
+  - id: playback_header
+    text: Quick Playback
+  - id: playback_speed
+    text: Bilis
+  - id: playback_encoding
+    text: Ine-encode...
+  - id: playback_gif_result
+    text: 'Na-save ang GIF sa:'
+  - id: playback_video_result
+    text: 'Na-save ang video sa:'
+  - id: unlock_header
+    text: May mga feature na na-unlock!
+  - id: unlock_shuffle
+    text: Pwede ka na ngayong makinig sa mga track mula sa buong laro sa pamamagitan ng pag-enable sa "I-shuffle ang Musika" sa ilalim ng audio settings!
+  - id: unlock_validation
+    text: Kapag handa na ang stage, pwede mo nang i-on at i-off ang pagtatasa na pansamantalang itatago ang mga pag-highlight ng item at star button.
+  - id: credits_localization
+    text: Localization
+  - id: credits_website
+    text: Disenyo ng Website
+  - id: credits_audio_director
+    text: Audio Director
+  - id: credits_music_sound_design
+    text: Music at Sound Design
+  - id: credits_foley_production
+    text: Foley Production
+  - id: credits_foley_additional
+    text: Karagadagang Foley
+  - id: credits_community
+    text: Diskarte ng Komunidad
+  - id: credits_playtesters
+    text: Mga Playtester
+  - id: credits_guitars_additional
+    text: Mga Karagdagang Gitara
+  - id: credits_testing
+    text: Sinusubukan ni
+  - id: credits_porting
+    text: Pino-port ni
+  - id: lyrics_1_1
+    text: Huminto ang umaandar na trak
+  - id: lyrics_1_2
+    text: may kumatok sa pinto
+  - id: lyrics_1_3
+    text: Nandito na ang lahat ng gamit mo
+  - id: lyrics_1_4
+    text: sa mga kahon sa sahig
+  - id: lyrics_2_1
+    text: Nagbukas ka ng kahon
+  - id: lyrics_2_2
+    text: napakaraming gagawin
+  - id: lyrics_2_3
+    text: Binuksan ko ang puso ko
+  - id: lyrics_2_4
+    text: bahay na ito para sa dalawang tao
+  - id: lyrics_3_1
+    text: Pinasisigla ng halaman mo sa bahay
+  - id: lyrics_3_2
+    text: ang malungkot na windowsill
+  - id: lyrics_3_3
+    text: Hindi kami nilalamig dahil sa kumot mo
+  - id: lyrics_3_4
+    text: sa gabing maginaw
+  - id: lyrics_4_1
+    text: Kinuha namin ang paborito mong baso
+  - id: lyrics_4_2
+    text: sa packing foam
+  - id: lyrics_4_3
+    text: Ikinabit ang mga magnet sa fridge
+  - id: lyrics_4_4
+    text: at ginawang tahanan ang bahay na ito
+  - id: lyrics_5_1
+    text: Inilagay mo ang larawan natin sa shelf
+  - id: lyrics_5_2
+    text: Ngumiti akong mag-isa
+  - id: lyrics_6_1
+    text: Pinutol mo ang tape gamit ang stanley knife ko
+  - id: lyrics_6_2
+    text: at inunpack natin ang buhay mo
+  - id: lyrics_6_3
+    text: Inunpack natin ang buhay mo
+  - id: lyrics_7_1
+    text: Marahang-marahan, nagsasama-sama ang mga gamit natin
+  - id: lyrics_7_2
+    text: Katabi ng paborito mong stuffed toy ang akin
+  - id: lyrics_7_3
+    text: Nasa magandang pwesto ang mahahalagang gamit natin
+  - id: lyrics_7_4
+    text: sa shelf sa kwarto
+  - id: lyrics_7_5
+    text: Ngumiti akong mag-isa
+  - id: lyrics_8_1
+    text: Pinutol mo ang tape gamit ang stanley knife ko
+  - id: lyrics_8_2
+    text: at inunpack natin ang ating buhay
+  - id: lyrics_8_3
+    text: Inunpack natin ang ating buhay
+  - id: input_rebind_cancel
+    text: (Pindutin nang matagal ang {0} o {1} para i-cancel)
+  - id: input_rebind_cancel_gp_only
+    text: (Pindutin nang matagal ang {0} para i-cancel)
+  - id: inputaction_gameplay_focus
+    text: Item Focus
+  - id: credits_font_clean
+    text: Chinese at Korean Font Clean-Up
+  - id: credits_grandmother
+    text: Ilana Sharon, minamahal na lola
+  - id: menu_switch_user
+    text: Magpalit ng User
+  - id: menu_switch_profile
+    text: Magpalit ng Profile
+  - id: menu_credits
+    text: Credits
+  - id: inputaction_gameplay_spmove_down
+    text: '   Ibaba'
+  - id: inputaction_gameplay_spmove_left
+    text: '   Kaliwa'
+  - id: inputaction_gameplay_spmove_right
+    text: '   Kanan'
+  - id: inputaction_gameplay_spmove_up
+    text: '   Itaas'
+  - id: menu_controls_swapsticks_nx
+    text: Pagpalitin ang Left / Right Stick

@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: ru_RU
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: Русский
+  - id: menu_resume
+    text: Продолжить
+  - id: menu_restart
+    text: Перезапуск
+  - id: menu_album
+    text: Альбом
+  - id: menu_settings
+    text: Настройки
+  - id: menu_mainmenu
+    text: Главное меню
+  - id: menu_play
+    text: Играть
+  - id: menu_newgame
+    text: Новая игра
+  - id: menu_quit
+    text: Выход
+  - id: menu_back
+    text: Назад
+  - id: menu_volume_music
+    text: Музыка
+  - id: menu_volume_sfx
+    text: Звуки
+  - id: menu_volume_master
+    text: Общая громкость
+  - id: menu_speakers
+    text: Динамики
+  - id: menu_access_zonechange
+    text: Смена комнаты
+  - id: menu_resolution
+    text: Разрешение
+  - id: menu_fullscreen
+    text: Отображение
+  - id: menu_apply
+    text: Применить
+  - id: menu_no
+    text: Нет
+  - id: menu_yes
+    text: Да
+  - id: menu_startover
+    text: Начать сначала
+  - id: menu_toggle_fullscreen
+    text: На весь экран
+  - id: menu_toggle_windowed
+    text: В окне
+  - id: menu_toggle_slide
+    text: Сдвинуть
+  - id: menu_toggle_fade
+    text: Затенить
+  - id: menu_postfx
+    text: Постэффекты
+  - id: menu_access_iconsize
+    text: Размер значка
+  - id: menu_toggle_default
+    text: По умолчанию
+  - id: menu_toggle_2x
+    text: 2x
+  - id: menu_toggle_3x
+    text: 3x
+  - id: menu_access_placementhints
+    text: Советы по размещению
+  - id: menu_access_invaliditemhighlight
+    text: Выделение не того предмета
+  - id: menu_access_allowitemsanywhere
+    text: Размещать где угодно
+  - id: menu_discard
+    text: Выбросить
+  - id: menu_replace
+    text: Заменить
+  - id: menu_cancel
+    text: Отменить
+  - id: menu_album_select
+    text: Выбор альбома
+  - id: menu_stickersheets
+    text: Наклейки
+  - id: menu_language
+    text: Язык
+  - id: menu_audio
+    text: Аудио
+  - id: menu_video
+    text: Видео
+  - id: menu_controls
+    text: Управление
+  - id: menu_accessibility
+    text: Доступность
+  - id: menu_clearall
+    text: Удалить все данные
+  - id: menu_resetdefault
+    text: Настройки по умолчанию
+  - id: menu_skip
+    text: Пропустить
+  - id: menu_startover_prompt
+    text: Начать сначала?\nВесь прогресс будет потерян.
+  - id: menu_startover_prompt_ingame
+    text: Начать этап сначала?
+  - id: menu_unsavedchange_prompt_ingame
+    text: Этот этап уже пройден!\nКак поступить с вашими изменениями?
+  - id: menu_photo_exit_prompt
+    text: Выйти из фоторежима?
+  - id: menu_album_delete_prompt
+    text: Выбросить альбом?\nОтменить это действие нельзя.
+  - id: menu_clearall_prompt
+    text: Будут удалены ВСЕ\nсохранённые данные! Продолжить?
+  - id: outro_title
+    text: Спасибо, что играете в пробную версию!
+  - id: outro_upper_line
+    text: Ждите выхода полной версии игры в 2021 году :)
+  - id: outro_lower_line
+    text: Следите за обновлениями! Добавьте Unpacking в список желаемого,\nчитайте наш Twitter или подпишитесь на рассылку!
+  - id: sticker_Hearts
+    text: Меньше трёх
+  - id: sticker_ThumbsUp
+    text: Круто!
+  - id: sticker_Exclaim
+    text: Ух ты!
+  - id: sticker_Brain
+    text: Головоломка
+  - id: sticker_Music
+    text: Врубаем музычку
+  - id: sticker_Star
+    text: Начало
+  - id: sticker_Dab
+    text: Позирование
+  - id: sticker_Cookie
+    text: Вкусняшки
+  - id: sticker_Skeleton
+    text: Электроопасность
+  - id: sticker_Graduation
+    text: Пора поумнеть
+  - id: sticker_Gaming
+    text: Поиграем?
+  - id: sticker_Fashion
+    text: Головной убор
+  - id: sticker_Roleplaying
+    text: Дружба
+  - id: sticker_Undies
+    text: Бельё моё
+  - id: sticker_Coffee
+    text: Кофемания
+  - id: sticker_Guitar
+    text: Слишком круто
+  - id: sticker_Dog
+    text: Назад в детство
+  - id: sticker_ReturningHome
+    text: Домашняя кухня
+  - id: sticker_Lightbulb
+    text: Блестящее решение
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: Независимость
+  - id: sticker_Plant
+    text: Любовь к зелени
+  - id: sticker_PlushToys
+    text: Пушистые друзья
+  - id: sticker_Love
+    text: Любовь
+  - id: sticker_Blocks
+    text: Кубики
+  - id: sticker_Toilet
+    text: Смыть их всех
+  - id: sticker_House
+    text: Дом, мой милый дом
+  - id: album_cover
+    text: Чья это книга
+  - id: album_childroom_year
+    text: 1997
+  - id: album_childroom_date
+    text: Май 1997
+  - id: album_studioapt_year
+    text: 2004
+  - id: album_studioapt_date
+    text: Январь 2004
+  - id: album_sharehouse_year
+    text: 2007
+  - id: album_sharehouse_date
+    text: Март 2007
+  - id: album_boyfriendapt_year
+    text: 2010
+  - id: album_boyfriendapt_date
+    text: Сентябрь 2010
+  - id: album_parenthouse_year
+    text: 2012
+  - id: album_parenthouse_date
+    text: Июнь 2012
+  - id: album_soloapt_year
+    text: 2013
+  - id: album_soloapt_date
+    text: Январь 2013
+  - id: album_partnerapt_year
+    text: 2015
+  - id: album_partnerapt_date
+    text: Ноябрь 2015
+  - id: album_house_year
+    text: 2018
+  - id: album_house_date
+    text: Июль 2018
+  - id: album_childroom_bedroom
+    text: Наконец-то! У меня своя комната!
+  - id: album_childroom_darkstar
+    text: По-моему, хорошо, а теперь пора играть!
+  - id: album_studioapt_bedroom
+    text: Занятия начнутся в понедельник! Универ, жди меня!
+  - id: album_studioapt_bathroom
+    text: Своя ванная! Круто!
+  - id: album_studioapt_kitchenette
+    text: Мне что, придётся готовить? Ох...
+  - id: album_studioapt_darkstar
+    text: Ох, ладно, позже приберусь.
+  - id: album_sharehouse_livingroom
+    text: Как здорово будет смотреть кино по вечерам!
+  - id: album_sharehouse_bathroom
+    text: Стоп, у нас что, одна ванная на всех?
+  - id: album_sharehouse_bedroom
+    text: Ну и денёк! Сил больше нет, пора ложиться!
+  - id: album_sharehouse_kitchen
+    text: ГОРАЗДО больше, чем прошлая кухня!
+  - id: album_sharehouse_diningroom
+    text: Играть здесь будет гораздо удобнее!
+  - id: album_sharehouse_darkstar
+    text: Мы знакомы с универа, так что понятно, чего от меня ждать.
+  - id: album_boyfriendapt_livingroom
+    text: Переезд к нему — это так по-взрослому!
+  - id: album_boyfriendapt_kitchen
+    text: Кофе бывает не только растворимым... кто бы мог подумать.
+  - id: album_boyfriendapt_bathroom
+    text: Ух ты, душ с видом!
+  - id: album_boyfriendapt_bedroom
+    text: Еле-еле всё поместилось!
+  - id: album_boyfriendapt_darkstar
+    text: Хорошо, что он любит мою спонтанность!
+  - id: album_parenthouse_bedroom
+    text: А раньше эта комната казалась больше.
+  - id: album_parenthouse_bathroom
+    text: Мы с сестрой почти дрались за эту ванную.
+  - id: album_parenthouse_darkstar
+    text: Не сразу, но удалось вернуть всё, как было.
+  - id: album_soloapt_livingroom
+    text: Потом подумаю, где взять диван.
+  - id: album_soloapt_bathroom
+    text: Как мне не хватало долгих ванн!
+  - id: album_soloapt_bedroom
+    text: Полуторная кровать — только для меня! Шикарно!
+  - id: album_soloapt_office
+    text: Здесь будет моё креативное пространство!
+  - id: album_soloapt_kitchen
+    text: Хорошо, что нашлось относительно недорогое место!
+  - id: album_soloapt_darkstar
+    text: Ну и ладно, развлечения ведь не главное в жизни.
+  - id: album_partnerapt_livingroom
+    text: Теперь тут гораздо уютнее! По-настоящему, как дома.
+  - id: album_partnerapt_bathroom
+    text: Как быстро все ящики заполнились!
+  - id: album_partnerapt_bedroom
+    text: Какое же это счастье, иметь столько места для своего гардероба!
+  - id: album_partnerapt_office
+    text: Было, конечно, непросто, но теперь это уже на что-то похоже!
+  - id: album_partnerapt_kitchen
+    text: Жду новых кулинарных приключений!
+  - id: album_partnerapt_darkstar
+    text: Добро пожаловать в джунгли!
+  - id: album_house_foyer
+    text: Наш новый дом!
+  - id: album_house_bathroom
+    text: А вот и семейная ванная!
+  - id: album_house_nursery
+    text: Мы так ждали тебя!
+  - id: album_house_closet
+    text: Здесь хватит места для всей нашей одежды и не только!
+  - id: album_house_bedroom
+    text: Вот и первая ночь в нашем новом доме!
+  - id: album_house_office
+    text: Профессиональное место для настоящего профессионала!
+  - id: album_house_toilet
+    text: Бонусный туалет!
+  - id: album_house_kitchen
+    text: Наконец-то на холодильник поместятся все наши магниты!
+  - id: album_house_diningroom
+    text: Мы уже планируем ужин с гостями!
+  - id: album_house_livingroom
+    text: Куча места и свой двор! Теперь можно и питомца завести!
+  - id: album_house_darkstar
+    text: По-моему, отлично! А теперь пора вздремнуть.
+  - id: album_credits
+    text: Спасибо, что были рядом со мной в этом путешествии.
+  - id: album_credits_darkstar
+    text: Внутрь я не пойду, там страшный бардак.
+  - id: credits_developed
+    text: разработка
+  - id: credits_creative_director
+    text: Художественный руководитель
+  - id: credits_technical_director
+    text: Технический руководитель
+  - id: credits_composer_sound_designer
+    text: Композитор и дизайнер звука
+  - id: credits_pixel_art
+    text: Пиксельная рисовка
+  - id: credits_foley_recording
+    text: Звуковые эффекты
+  - id: credits_game_design
+    text: Игровой дизайн
+  - id: credits_narrative_assistance
+    text: Сюжет
+  - id: credits_additional_coding
+    text: Дополнительное программирование
+  - id: credits_hero_image_stickers
+    text: Изображение героя и наклейки
+  - id: credits_title_screen_art
+    text: Оформление заставки
+  - id: credits_anim_previs
+    text: Предварительная визуализация анимации
+  - id: credits_dev_business_support
+    text: Поддержка и развитие бизнеса
+  - id: credits_legal
+    text: Юридическая помощь
+  - id: credits_published_by
+    text: Игра представлена
+  - id: credits_special_thanks
+    text: Особая благодарность
+  - id: credits_in_memory
+    text: Памяти
+  - id: credits_supported_by
+    text: Поддержку с гордостью оказывает
+  - id: input_rebind
+    text: Нажать кнопку
+  - id: inputaction_gameplay
+    text: В игре
+  - id: inputaction_gameplay_liftandplace
+    text: Поднять и разместить
+  - id: inputaction_gameplay_turnandinteract
+    text: Повернуть и использовать
+  - id: inputaction_gameplay_screenpan
+    text: Панель экрана
+  - id: inputaction_gameplay_photomode
+    text: Открыть фоторежим
+  - id: inputaction_gameplay_floorplanmode
+    text: Открыть план этажа
+  - id: inputaction_gameplay_zoomin
+    text: Увеличить
+  - id: inputaction_gameplay_zoomout
+    text: Уменьшить
+  - id: inputaction_gameplay_changezoneleft
+    text: Левая комната
+  - id: inputaction_gameplay_changezoneright
+    text: Правая комната
+  - id: inputaction_photo
+    text: Фоторежим
+  - id: inputaction_photo_capture
+    text: Сделать фото
+  - id: inputaction_photo_hideui
+    text: Скрыть UI
+  - id: inputaction_menu
+    text: Меню
+  - id: inputaction_menu_accept
+    text: Принять
+  - id: inputaction_menu_back
+    text: Назад
+  - id: inputaction_menu_nextpage
+    text: Следующая страница
+  - id: inputaction_menu_prevpage
+    text: Предыдущая страница
+  - id: menu_controls_rebind
+    text: Замена управления
+  - id: menu_controls_reversesticks
+    text: Обратить джойстики
+  - id: menu_controls_vibration
+    text: Вибрация
+  - id: menu_controls_cursorsensitivity
+    text: Чувствительность\nкурсора контроллера
+  - id: menu_controls_changeinput
+    text: Изменить ввод
+  - id: menu_saveerror_prompt
+    text: Сохраненные данные нельзя загрузить.\nНачать сначала?
+  - id: menu_allowanywhere_prompt
+    text: Головоломки будут изъяты из игры. Продолжить?
+  - id: menu_controls_cursor
+    text: Ограничить курсор
+  - id: menu_audio_shuffle
+    text: Перемешать музыку
+  - id: menu_continue
+    text: ОК
+  - id: menu_photo_exit_prompt_extra
+    text: (Изменения будут потеряны.)
+  - id: menu_save_image
+    text: Место сохранения изображения
+  - id: menu_save_gif
+    text: Место сохранения GIF
+  - id: menu_save_video
+    text: Место сохранения видео
+  - id: album_clone
+    text: копировать в новый альбом
+  - id: photo_save_computer
+    text: Изображение сохранено в
+  - id: photo_save_steam
+    text: Изображение сохранено в скриншоты Steam
+  - id: photo_save
+    text: Изображение сохранено!
+  - id: playback_header
+    text: Быстрое воспроизведение
+  - id: playback_speed
+    text: Скорость
+  - id: playback_encoding
+    text: Кодировка...
+  - id: playback_gif_result
+    text: 'Файл GIF сохранен в:'
+  - id: playback_video_result
+    text: 'Видео сохранено в:'
+  - id: unlock_header
+    text: Добавлены функции!
+  - id: unlock_shuffle
+    text: Теперь можно постоянно слушать музыку во время игры! Для этого надо нажать «Перемешать музыку» под настройками аудио.
+  - id: unlock_validation
+    text: Когда этап открывается, можно включать или выключать предварительную оценку, временно выключая выделение предметов и кнопку начала.
+  - id: credits_localization
+    text: Локализация
+  - id: credits_website
+    text: Дизайн сайта
+  - id: credits_audio_director
+    text: Звукорежиссер
+  - id: credits_music_sound_design
+    text: Музыка и дизайн звука
+  - id: credits_foley_production
+    text: Создание зв. эффектов
+  - id: credits_foley_additional
+    text: Дополнительные зв. эффекты
+  - id: credits_community
+    text: Управление сообществами
+  - id: credits_playtesters
+    text: Тестировщики
+  - id: credits_guitars_additional
+    text: Дополнительные гитары
+  - id: credits_testing
+    text: Тестирование
+  - id: credits_porting
+    text: Портирование
+  - id: lyrics_1_1
+    text: К дому подползает грузовичок
+  - id: lyrics_1_2
+    text: и в дверь стучат
+  - id: lyrics_1_3
+    text: Вскоре все твои вещи
+  - id: lyrics_1_4
+    text: громоздятся в коробках на полу
+  - id: lyrics_2_1
+    text: Ты открываешь первую коробку
+  - id: lyrics_2_2
+    text: сегодня столько надо сделать
+  - id: lyrics_2_3
+    text: Я открываю свое сердце —
+  - id: lyrics_2_4
+    text: и теперь нас здесь будет двое.
+  - id: lyrics_3_1
+    text: Твой цветок оживляет
+  - id: lyrics_3_2
+    text: пустой подоконник
+  - id: lyrics_3_3
+    text: Под твоим одеялом
+  - id: lyrics_3_4
+    text: мы греемся по вечерам
+  - id: lyrics_4_1
+    text: Мы вынимаем твою любимую чашку
+  - id: lyrics_4_2
+    text: и разворачиваем ее
+  - id: lyrics_4_3
+    text: Лепим магниты на холодильник —
+  - id: lyrics_4_4
+    text: и вот теперь мы дома.
+  - id: lyrics_5_1
+    text: Ты ставишь наше фото на полку
+  - id: lyrics_5_2
+    text: И я улыбаюсь своим мыслям
+  - id: lyrics_6_1
+    text: Ты проводишь по скотчу моим ножом
+  - id: lyrics_6_2
+    text: и мы распаковываем свою жизнь
+  - id: lyrics_6_3
+    text: Мы раскладываем свою жизнь
+  - id: lyrics_7_1
+    text: Потихоньку все вещи занимают свои места
+  - id: lyrics_7_2
+    text: Твоя игрушка рядом с моей
+  - id: lyrics_7_3
+    text: Любимые вещи в самом лучшем месте
+  - id: lyrics_7_4
+    text: на полочке в спальне
+  - id: lyrics_7_5
+    text: И я улыбаюсь своим мыслям
+  - id: lyrics_8_1
+    text: Ты проводишь по скотчу моим ножом
+  - id: lyrics_8_2
+    text: и мы распаковываем свою жизнь
+  - id: lyrics_8_3
+    text: Мы раскладываем свою жизнь
+  - id: input_rebind_cancel
+    text: (Для отмены удерживать {0} или {1})
+  - id: input_rebind_cancel_gp_only
+    text: (Для отмены удерживать {0})
+  - id: inputaction_gameplay_focus
+    text: Рассмотреть предмет
+  - id: credits_font_clean
+    text: Доработка китайских и корейских шрифтов
+  - id: credits_grandmother
+    text: Илана Шэрон, любимая бабушка
+  - id: menu_switch_user
+    text: Сменить пользователя
+  - id: menu_switch_profile
+    text: Сменить профиль
+  - id: menu_controls_swapsticks
+    text: Сменить левый и правый мини-джойстик
+  - id: menu_controls_cursorsensitivity_alt
+    text: \nСкорость курсора
+  - id: menu_credits
+    text: Авторы игры
+  - id: inputaction_gameplay_spmove_down
+    text: '   Вниз'
+  - id: inputaction_gameplay_spmove_left
+    text: '   Влево'
+  - id: inputaction_gameplay_spmove_right
+    text: '   Вправо'
+  - id: inputaction_gameplay_spmove_up
+    text: '   Вверх'
+  - id: menu_controls_swapsticks_nx
+    text: Сменить левый и правый мини-джойстик

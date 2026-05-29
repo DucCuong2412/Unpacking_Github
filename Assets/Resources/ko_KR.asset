@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af4e7dfe17c70c9465d7ad4eb8f7fac0, type: 3}
+  m_Name: ko_KR
+  m_EditorClassIdentifier:
+  stringList:
+  - id: language
+    text: 한국어
+  - id: menu_resume
+    text: 재개하기
+  - id: menu_restart
+    text: 재시작하기
+  - id: menu_album
+    text: 앨범
+  - id: menu_settings
+    text: 설정
+  - id: menu_mainmenu
+    text: 주 메뉴
+  - id: menu_play
+    text: 플레이하기
+  - id: menu_newgame
+    text: 새로운 게임
+  - id: menu_quit
+    text: 그만두기
+  - id: menu_back
+    text: 뒤로 가기
+  - id: menu_volume_music
+    text: 음악
+  - id: menu_volume_sfx
+    text: 사운드 이펙트
+  - id: menu_volume_master
+    text: 마스터 볼륨
+  - id: menu_speakers
+    text: 스피커
+  - id: menu_access_zonechange
+    text: 다른 방으로 가기
+  - id: menu_resolution
+    text: 해상도
+  - id: menu_fullscreen
+    text: 디스플레이 모드
+  - id: menu_apply
+    text: 적용하기
+  - id: menu_no
+    text: 아니요
+  - id: menu_yes
+    text: 네
+  - id: menu_startover
+    text: 처음부터 다시 시작
+  - id: menu_toggle_fullscreen
+    text: 전체 화면 보기
+  - id: menu_toggle_windowed
+    text: 전체 화면 끄기
+  - id: menu_toggle_slide
+    text: 슬라이드
+  - id: menu_toggle_fade
+    text: 사라짐
+  - id: menu_postfx
+    text: 후가공 이펙트
+  - id: menu_access_iconsize
+    text: 아이콘 크기
+  - id: menu_toggle_default
+    text: 기본값
+  - id: menu_toggle_2x
+    text: 2배
+  - id: menu_toggle_3x
+    text: 3배
+  - id: menu_access_placementhints
+    text: 배치 힌트
+  - id: menu_access_invaliditemhighlight
+    text: 잘못 놓인 물건 표시
+  - id: menu_access_allowitemsanywhere
+    text: 물건들 아무 데나 놓기
+  - id: menu_discard
+    text: 버리기
+  - id: menu_replace
+    text: 교체하기
+  - id: menu_cancel
+    text: 취소하기
+  - id: menu_album_select
+    text: 앨범 선택
+  - id: menu_stickersheets
+    text: 스티커
+  - id: menu_language
+    text: 언어
+  - id: menu_audio
+    text: 오디오
+  - id: menu_video
+    text: 비디오
+  - id: menu_controls
+    text: 컨트롤
+  - id: menu_accessibility
+    text: 접근성
+  - id: menu_clearall
+    text: 모든 데이터 삭제하기
+  - id: menu_resetdefault
+    text: 기본값으로 초기화하기
+  - id: menu_skip
+    text: 건너뛰기
+  - id: menu_startover_prompt
+    text: 다시 시작하시겠어요?\n지금까지 진행된 사항을 잃게 됩니다.
+  - id: menu_startover_prompt_ingame
+    text: 단계를 다시 시작하시겠어요?
+  - id: menu_unsavedchange_prompt_ingame
+    text: 이 단계는 이미 완료되었습니다!\n변경된 사항을 저장하시겠어요?
+  - id: menu_photo_exit_prompt
+    text: 사진 모드에서 나갈까요?
+  - id: menu_album_delete_prompt
+    text: 이 앨범을 버릴까요?\n이 작업은 되돌릴 수 없습니다.
+  - id: menu_clearall_prompt
+    text: 모든 데이터가 삭제됩니다!\n계속하시겠어요?
+  - id: outro_title
+    text: 데모 버전을 플레이해 주셔서 감사합니다!
+  - id: outro_upper_line
+    text: 2021년에 나올 정식 버전을 기대해 주세요 :)
+  - id: outro_lower_line
+    text: Unpacking을 찜하고\nTwitter 계정을 팔로우하거나 메일링리스트에 등록해 업데이트를 받아보세요!
+  - id: sticker_Hearts
+    text: 하트 뿅
+  - id: sticker_ThumbsUp
+    text: 엄지 척
+  - id: sticker_Exclaim
+    text: 와우!
+  - id: sticker_Brain
+    text: 퍼즐 풀기
+  - id: sticker_Music
+    text: 음악 틀기
+  - id: sticker_Star
+    text: 새로운 시작
+  - id: sticker_Dab
+    text: 댄스 포즈
+  - id: sticker_Cookie
+    text: 가끔 먹는 음식
+  - id: sticker_Skeleton
+    text: 감전 위험
+  - id: sticker_Graduation
+    text: 공부하기
+  - id: sticker_Gaming
+    text: 게임 시작
+  - id: sticker_Fashion
+    text: 모자 씌우기
+  - id: sticker_Roleplaying
+    text: 롤플레잉
+  - id: sticker_Undies
+    text: 속옷 정리
+  - id: sticker_Coffee
+    text: 커피 끓이기
+  - id: sticker_Guitar
+    text: 너무 멋진
+  - id: sticker_Dog
+    text: 어린 시절의\n재발견
+  - id: sticker_ReturningHome
+    text: 집에서 요리하기
+  - id: sticker_Lightbulb
+    text: 아하!
+  - id: sticker_Microwave
+    text: 12:00
+  - id: sticker_Independence
+    text: 독립
+  - id: sticker_Plant
+    text: 식물 사랑
+  - id: sticker_PlushToys
+    text: 동물 인형 친구들
+  - id: sticker_Love
+    text: 사랑
+  - id: sticker_Blocks
+    text: 블록 쌓기
+  - id: sticker_Toilet
+    text: 모든 변기의 물\n내리기
+  - id: sticker_House
+    text: 집이 최고야
+  - id: album_cover
+    text: 이 앨범의 주인
+  - id: album_childroom_year
+    text: 1997년
+  - id: album_childroom_date
+    text: 1997년 5월
+  - id: album_studioapt_year
+    text: 2004년
+  - id: album_studioapt_date
+    text: 2004년 1월
+  - id: album_sharehouse_year
+    text: 2007년
+  - id: album_sharehouse_date
+    text: 2007년 3월
+  - id: album_boyfriendapt_year
+    text: 2010년
+  - id: album_boyfriendapt_date
+    text: 2010년 9월
+  - id: album_parenthouse_year
+    text: 2012년
+  - id: album_parenthouse_date
+    text: 2012년 6월
+  - id: album_soloapt_year
+    text: 2013년
+  - id: album_soloapt_date
+    text: 2013년 1월
+  - id: album_partnerapt_year
+    text: 2015년
+  - id: album_partnerapt_date
+    text: 2015년 11월
+  - id: album_house_year
+    text: 2018년
+  - id: album_house_date
+    text: 2018년 7월
+  - id: album_childroom_bedroom
+    text: 드디어 내 방이 생겼다!
+  - id: album_childroom_darkstar
+    text: 내가 보기엔 괜찮은데. 나가서 놀아야지!
+  - id: album_studioapt_bedroom
+    text: 월요일에 수업 시작! 대학 생활아, 내가 간다!
+  - id: album_studioapt_bathroom
+    text: 개인 욕실! 야호!
+  - id: album_studioapt_kitchenette
+    text: 내가 직접 요리해야 한다고? 아이참.
+  - id: album_studioapt_darkstar
+    text: 어, 청소는 조금 이따가 해야지.
+  - id: album_sharehouse_livingroom
+    text: 다 같이 영화 보기 좋겠어!
+  - id: album_sharehouse_bathroom
+    text: 가만, 욕실 하나를 다 같이 쓴다고?
+  - id: album_sharehouse_bedroom
+    text: 오늘은 중요한 날이었어! 이제 자야지.
+  - id: album_sharehouse_kitchen
+    text: 예전 주방보다 훨씬 크네!
+  - id: album_sharehouse_diningroom
+    text: 더욱 편리하게 게임을 즐길 수 있게 됐다!
+  - id: album_sharehouse_darkstar
+    text: 대학교 때부터 알고 지낸 애들이니까 나랑 사는 게 어떨지 예상은 했겠지.
+  - id: album_boyfriendapt_livingroom
+    text: 그의 집으로 이사 가다니 우리 관계가 한층 진지해진 것 같아!
+  - id: album_boyfriendapt_kitchen
+    text: 인스턴트 커피를 안 마시네?
+  - id: album_boyfriendapt_bathroom
+    text: 샤워하며 감상하는 경치!
+  - id: album_boyfriendapt_bedroom
+    text: 좀 좁네!
+  - id: album_boyfriendapt_darkstar
+    text: 괜찮아, 그는 나의 이런 즉흥적인 면을 좋아해!
+  - id: album_parenthouse_bedroom
+    text: 예전에는 이 방이 꽤 크다고 생각했는데.
+  - id: album_parenthouse_bathroom
+    text: 이 욕실을 두고 언니와 싸우곤 했지.
+  - id: album_parenthouse_darkstar
+    text: 예전 모습대로 원상 복구하는 데 시간이 좀 걸렸다.
+  - id: album_soloapt_livingroom
+    text: 소파를 어디에서 구하면 좋을지는 나중에 알아봐야지.
+  - id: album_soloapt_bathroom
+    text: 느긋한 욕조 목욕이 그리웠어!
+  - id: album_soloapt_bedroom
+    text: 퀸 사이드 침대를 나 혼자!
+  - id: album_soloapt_office
+    text: 이 공간을 나의 예술 공간으로!
+  - id: album_soloapt_kitchen
+    text: 이렇게 좋은 곳을 내 예산으로 구하다니!
+  - id: album_soloapt_darkstar
+    text: 손님을 초대할 계획은 어차피 없었으니까, 뭐.
+  - id: album_partnerapt_livingroom
+    text: 훨씬 아늑해! 이제 진짜 집 같아.
+  - id: album_partnerapt_bathroom
+    text: 모든 서랍들이 순식간에 꽉 찼다!
+  - id: album_partnerapt_bedroom
+    text: 옷장에 공간이 넉넉해서 다행이야!
+  - id: album_partnerapt_office
+    text: 힘들었지만 그래도 점점 그럴듯해지고 있어!
+  - id: album_partnerapt_kitchen
+    text: 맛있는 요리의 모험을 위하여!
+  - id: album_partnerapt_darkstar
+    text: 웰컴 투 더 정글!
+  - id: album_house_foyer
+    text: 새집!
+  - id: album_house_bathroom
+    text: 온 가족이 쓸 수 있는 대형 욕실!
+  - id: album_house_nursery
+    text: 아가야, 곧 만나자!
+  - id: album_house_closet
+    text: 모든 옷가지를 넣고도 남을 충분한 공간이 있어!
+  - id: album_house_bedroom
+    text: 새집에서 처음으로 잠들 순간이 기다려진다!
+  - id: album_house_office
+    text: 프로페셔널을 위한 프로페셔널한 공간!
+  - id: album_house_toilet
+    text: 보너스 변기!
+  - id: album_house_kitchen
+    text: 마침내, 모든 자석을 붙일 만큼 큰 냉장고가 생겼다!
+  - id: album_house_diningroom
+    text: 우린 벌써부터 저녁 파티를 열 계획을 세우고 있다!
+  - id: album_house_livingroom
+    text: 넓은 공간과 뒤뜰! 이제 반려동물도 기를 수 있어!
+  - id: album_house_darkstar
+    text: 괜찮은데. 낮잠 자야지!
+  - id: album_credits
+    text: 저와 함께 이 여정을 함께 해 주셔서 고맙습니다.
+  - id: album_credits_darkstar
+    text: 집으로 돌아가지 않을 거예요. 엉망이라서요.
+  - id: credits_developed
+    text: 개발자
+  - id: credits_creative_director
+    text: 크리에이티브 디렉터
+  - id: credits_technical_director
+    text: 테크니컬 디렉터
+  - id: credits_composer_sound_designer
+    text: 작곡가 & 사운드 디자이너
+  - id: credits_pixel_art
+    text: 픽셀 아트
+  - id: credits_foley_recording
+    text: 효과음 녹음
+  - id: credits_game_design
+    text: 게임 디자인
+  - id: credits_narrative_assistance
+    text: 내러티브 도움
+  - id: credits_additional_coding
+    text: 추가 코딩
+  - id: credits_hero_image_stickers
+    text: 키 아트와 스티커
+  - id: credits_title_screen_art
+    text: 타이틀 화면 아트
+  - id: credits_anim_previs
+    text: 애니메이션 사전 시각화
+  - id: credits_dev_business_support
+    text: 개발 및 사업 지원
+  - id: credits_legal
+    text: 법률 지원
+  - id: credits_published_by
+    text: 제공
+  - id: credits_special_thanks
+    text: 감사의 인사
+  - id: credits_in_memory
+    text: 추모
+  - id: credits_supported_by
+    text: 지원
+  - id: input_rebind
+    text: 버튼 누르기
+  - id: inputaction_gameplay
+    text: 인게임
+  - id: inputaction_gameplay_liftandplace
+    text: 들어서 배치
+  - id: inputaction_gameplay_turnandinteract
+    text: 돌아서 소통
+  - id: inputaction_gameplay_screenpan
+    text: 화면 좌우 회전
+  - id: inputaction_gameplay_photomode
+    text: 사진 모드 열기
+  - id: inputaction_gameplay_floorplanmode
+    text: 평면도 열기
+  - id: inputaction_gameplay_zoomin
+    text: 확대
+  - id: inputaction_gameplay_zoomout
+    text: 축소
+  - id: inputaction_gameplay_changezoneleft
+    text: 왼쪽 방
+  - id: inputaction_gameplay_changezoneright
+    text: 오른쪽 방
+  - id: inputaction_photo
+    text: 사진 모드
+  - id: inputaction_photo_capture
+    text: 사진 찍기
+  - id: inputaction_photo_hideui
+    text: 사용자 인터페이스 감추기
+  - id: inputaction_menu
+    text: 메뉴
+  - id: inputaction_menu_accept
+    text: 수락
+  - id: inputaction_menu_back
+    text: 뒤로
+  - id: inputaction_menu_nextpage
+    text: 다음 페이지
+  - id: inputaction_menu_prevpage
+    text: 이전 페이지
+  - id: menu_controls_rebind
+    text: 컨트롤 재설정
+  - id: menu_controls_reversesticks
+    text: 컨트롤 스틱 반전
+  - id: menu_controls_vibration
+    text: 진동
+  - id: menu_controls_cursorsensitivity
+    text: 컨트롤러 커서\n민감도
+  - id: menu_controls_changeinput
+    text: 입력 교체
+  - id: menu_saveerror_prompt
+    text: 저장된 데이터를 로딩할 수 없습니다. \n다시 시작할까요?
+  - id: menu_allowanywhere_prompt
+    text: 이 작업은 게임의 퍼즐 원소를 제거할 것입니다. 계속할까요?
+  - id: menu_controls_cursor
+    text: 커서 락
+  - id: menu_audio_shuffle
+    text: 음악 셔플
+  - id: menu_continue
+    text: 확인
+  - id: menu_photo_exit_prompt_extra
+    text: (변경 사항을 잃게 됩니다.)
+  - id: menu_save_image
+    text: 이미지 저장 위치
+  - id: menu_save_gif
+    text: GIF 저장 위치
+  - id: menu_save_video
+    text: 동영상 저장 위치
+  - id: album_clone
+    text: 새 앨범에 복사
+  - id: photo_save_computer
+    text: '다음에 이미지 저장 완료:'
+  - id: photo_save_steam
+    text: Steam 스크린샷에 이미지 저장 완료
+  - id: photo_save
+    text: 이미지 저장 완료!
+  - id: playback_header
+    text: 신속 재생
+  - id: playback_speed
+    text: 속도
+  - id: playback_encoding
+    text: 인코딩 중...
+  - id: playback_gif_result
+    text: '다음에 GIF 저장 완료:'
+  - id: playback_video_result
+    text: '다음에 동영상 저장 완료:'
+  - id: unlock_header
+    text: 기능 잠금 해제됨!
+  - id: unlock_shuffle
+    text: 이제 오디오 세팅에서 "음악 셔플"을 활성화해 전체 게임의 트랙을 들을 수 있습니다!
+  - id: unlock_validation
+    text: 한 단계가 풀어지면, 평가를 끄거나 켜기로 토글하여 잠시 아이템 하이라이트와 스타 버튼을 숨길 수 있습니다.
+  - id: credits_localization
+    text: 로컬라이제이션
+  - id: credits_website
+    text: 웹사이트 디자인
+  - id: credits_audio_director
+    text: 오디오 디렉터
+  - id: credits_music_sound_design
+    text: 음악 & 사운드 디자인
+  - id: credits_foley_production
+    text: 효과음 프로덕션
+  - id: credits_foley_additional
+    text: 추가 효과음
+  - id: credits_community
+    text: 커뮤니티 전략
+  - id: credits_playtesters
+    text: 플레이테스터
+  - id: credits_guitars_additional
+    text: 추가 기타
+  - id: credits_testing
+    text: '테스트:'
+  - id: credits_porting
+    text: '컴퓨터 이식:'
+  - id: lyrics_1_1
+    text: 이사 트럭이 멈춥니다
+  - id: lyrics_1_2
+    text: 문에 노크 소리가 들립니다
+  - id: lyrics_1_3
+    text: 이제 당신의 모든 짐이 왔고
+  - id: lyrics_1_4
+    text: 마루 위 상자 안에 들어 있습니다
+  - id: lyrics_2_1
+    text: 한 상자를 엽니다
+  - id: lyrics_2_2
+    text: 할 것이 너무나 많습니다
+  - id: lyrics_2_3
+    text: 나는 마음을 엽니다
+  - id: lyrics_2_4
+    text: 이제 이곳이 우리 둘의 보금자리입니다
+  - id: lyrics_3_1
+    text: 당신의 화초가
+  - id: lyrics_3_2
+    text: 음울한 창틀을 밝혀줍니다
+  - id: lyrics_3_3
+    text: 쌀쌀한 저녁에
+  - id: lyrics_3_4
+    text: 당신의 담요가 우리를 따뜻하게 해줍니다
+  - id: lyrics_4_1
+    text: 당신이 가장 좋아하는 머그컵을
+  - id: lyrics_4_2
+    text: 포장재에서 꺼냅니다
+  - id: lyrics_4_3
+    text: 냉장고에 자석을 붙이고
+  - id: lyrics_4_4
+    text: 우리는 이 집을 우리 집으로 꾸밉니다
+  - id: lyrics_5_1
+    text: 당신이 선반에 사진을 놓습니다
+  - id: lyrics_5_2
+    text: 나는 혼자 미소 짓습니다
+  - id: lyrics_6_1
+    text: 내 스탠리 나이프로 당신이 테이프를 자르고
+  - id: lyrics_6_2
+    text: 우리는 당신의 삶을 풉니다
+  - id: lyrics_6_3
+    text: 우리는 당신의 삶을 풉니다
+  - id: lyrics_7_1
+    text: 천천히, 천천히, 우리의 물건들이 합쳐집니다
+  - id: lyrics_7_2
+    text: 당신이 가장 좋아하는 인형이 바로 내 것 옆에 있습니다
+  - id: lyrics_7_3
+    text: 우리의 소중한 물건들이 적당한 위치인
+  - id: lyrics_7_4
+    text: 침실 선반에 놓입니다
+  - id: lyrics_7_5
+    text: 나는 혼자 미소 짓습니다
+  - id: lyrics_8_1
+    text: 내 스탠리 나이프로 당신이 테이프를 자르고
+  - id: lyrics_8_2
+    text: 우리는 서로의 인생을 풉니다
+  - id: lyrics_8_3
+    text: 우리는 우리의 삶을 풉니다
+  - id: input_rebind_cancel
+    text: ({0} 또는 {1}(을)를 눌러 취소)
+  - id: input_rebind_cancel_gp_only
+    text: ({0}(을)를 눌러 취소)
+  - id: inputaction_gameplay_focus
+    text: 아이템 집중
+  - id: credits_font_clean
+    text: 한국어 및 중국어 폰트 정리
+  - id: credits_grandmother
+    text: 일라나 샤론, 사랑하는 할머니
+  - id: menu_switch_user
+    text: 사용자 변경
+  - id: menu_switch_profile
+    text: 프로필 변경
+  - id: menu_controls_swapsticks
+    text: 왼쪽/오른쪽 스틱 교체
+  - id: menu_controls_cursorsensitivity_alt
+    text: \n커서 속도
+  - id: menu_credits
+    text: 크레딧
+  - id: inputaction_gameplay_spmove_down
+    text: '   아래'
+  - id: inputaction_gameplay_spmove_left
+    text: '   왼쪽'
+  - id: inputaction_gameplay_spmove_right
+    text: '   오른쪽'
+  - id: inputaction_gameplay_spmove_up
+    text: '   위'
+  - id: menu_controls_swapsticks_nx
+    text: 왼쪽/오른쪽 스틱 교체

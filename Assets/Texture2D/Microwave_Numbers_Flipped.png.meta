@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: cd32c326e17a94742b0568479d499ae8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Microwave_Numbers_Flipped_0
+  - first:
+      213: 21300002
+    second: Microwave_Numbers_Flipped_1
+  - first:
+      213: 21300004
+    second: Microwave_Numbers_Flipped_2
+  - first:
+      213: 21300006
+    second: Microwave_Numbers_Flipped_3
+  - first:
+      213: 21300008
+    second: Microwave_Numbers_Flipped_4
+  - first:
+      213: 21300010
+    second: Microwave_Numbers_Flipped_5
+  - first:
+      213: 21300012
+    second: Microwave_Numbers_Flipped_6
+  - first:
+      213: 21300014
+    second: Microwave_Numbers_Flipped_7
+  - first:
+      213: 21300016
+    second: Microwave_Numbers_Flipped_8
+  - first:
+      213: 21300018
+    second: Microwave_Numbers_Flipped_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa17b1367b2429db9651f71324c627f
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc91e0fd23804fd5ad0a172efef2ccb0
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce263850ab74bd48fddcd1d9cd2093c
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2947458b91074f2b98e1a976e56e8228
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e06a8ce3a649139df08ccbe7d7a368
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456b1c727bf45fc8a55200d351c9806
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4fe574b7c247ce9766bc29dd9675be
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d440b61bf3540f2b90a5d2587615b92
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25e7581622b476d9d70345454a2c28c
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microwave_Numbers_Flipped_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -2.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 1.5, y: 2.5}
+        - {x: 1.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aa8f76239b4436ade04aa406b0cac4
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 5}
+      - {x: 3, y: 5}
+      - {x: 0, y: 0}
+      - {x: 3, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Microwave_Numbers_Flipped_0: 21300000
+      Microwave_Numbers_Flipped_1: 21300002
+      Microwave_Numbers_Flipped_2: 21300004
+      Microwave_Numbers_Flipped_3: 21300006
+      Microwave_Numbers_Flipped_4: 21300008
+      Microwave_Numbers_Flipped_5: 21300010
+      Microwave_Numbers_Flipped_6: 21300012
+      Microwave_Numbers_Flipped_7: 21300014
+      Microwave_Numbers_Flipped_8: 21300016
+      Microwave_Numbers_Flipped_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
